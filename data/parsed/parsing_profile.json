@@ -1,0 +1,58 @@
+[
+  {
+    "source": "football_data",
+    "file_name": "football_data_parsed_2023_2024.csv",
+    "row_count": 380,
+    "column_count": 7,
+    "columns": [
+      "source_match_id",
+      "season_id",
+      "source_home_team",
+      "source_away_team",
+      "home_goals",
+      "away_goals",
+      "match_date"
+    ],
+    "unique_players": 0,
+    "unique_clubs": 20
+  },
+  {
+    "source": "football_data",
+    "file_name": "football_data_parsed_2324.csv",
+    "row_count": 380,
+    "column_count": 7,
+    "columns": [
+      "source_match_id",
+      "season_id",
+      "source_home_team",
+      "source_away_team",
+      "home_goals",
+      "away_goals",
+      "match_date"
+    ],
+    "unique_players": 0,
+    "unique_clubs": 20
+  },
+  {
+    "source": "fpl",
+    "file_name": "fpl_parsed_2023_2024.csv",
+    "row_count": 667,
+    "column_count": 12,
+    "columns": [
+      "source_player_id",
+      "source_player_name",
+      "source_club_id",
+      "source_club_name",
+      "season_id",
+      "goals_scored",
+      "assists",
+      "minutes",
+      "expected_goals",
+      "expected_assists",
+      "bps",
+      "now_cost"
+    ],
+    "unique_players": 667,
+    "unique_clubs": 20
+  }
+]

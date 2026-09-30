@@ -1,0 +1,20 @@
+2026-09-30 13:27:53,357 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/2324/E0.csv
+2026-09-30 13:27:55,434 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2324.csv
+2026-09-30 13:27:58,435 [INFO] Understat - Fetching: https://understat.com/league/EPL/2023
+2026-09-30 13:27:59,440 [INFO] Understat - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\understat\understat_epl_2023.html
+2026-09-30 13:28:04,441 [INFO] FBref - Fetching: https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats
+2026-09-30 13:28:04,562 [ERROR] FBref - Access Denied (403) for https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats. Anti-bot system detected. Respecting restriction.
+2026-09-30 13:28:09,564 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2023
+2026-09-30 13:28:11,827 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2023.html
+2026-09-30 13:33:49,601 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/2324/E0.csv
+2026-09-30 13:33:51,246 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2023_2024.csv
+2026-09-30 13:33:54,247 [INFO] Understat - Fetching: https://understat.com/league/EPL/2023
+2026-09-30 13:33:55,753 [INFO] Understat - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\understat\understat_epl_2023_2024.html
+2026-09-30 13:34:00,754 [INFO] FBref - Fetching: https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats
+2026-09-30 13:34:00,848 [ERROR] FBref - Access Denied (403) for https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats. Anti-bot system detected. Respecting restriction.
+2026-09-30 13:34:05,849 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2023
+2026-09-30 13:34:08,752 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2023_2024.html
+2026-09-30 13:34:09,753 [INFO] FPL API - Fetching: https://fantasy.premierleague.com/api/bootstrap-static/
+2026-09-30 13:34:10,075 [INFO] FPL API - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\fpl\fpl_bootstrap_2023_2024.json
+2026-09-30 13:34:15,077 [INFO] Capology - Fetching: https://www.capology.com/uk/premier-league/salaries/2023-2024/
+2026-09-30 13:34:15,675 [ERROR] Capology - Access Denied (403) for https://www.capology.com/uk/premier-league/salaries/2023-2024/. Anti-bot system detected. Respecting restriction.

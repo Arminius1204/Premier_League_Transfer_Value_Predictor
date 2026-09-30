@@ -1,0 +1,381 @@
+source_match_id,season_id,source_home_team,source_away_team,home_goals,away_goals,match_date
+2324_0,2324,Burnley,Man City,0,3,11/08/2023
+2324_1,2324,Arsenal,Nott'm Forest,2,1,12/08/2023
+2324_2,2324,Bournemouth,West Ham,1,1,12/08/2023
+2324_3,2324,Brighton,Luton,4,1,12/08/2023
+2324_4,2324,Everton,Fulham,0,1,12/08/2023
+2324_5,2324,Sheffield United,Crystal Palace,0,1,12/08/2023
+2324_6,2324,Newcastle,Aston Villa,5,1,12/08/2023
+2324_7,2324,Brentford,Tottenham,2,2,13/08/2023
+2324_8,2324,Chelsea,Liverpool,1,1,13/08/2023
+2324_9,2324,Man United,Wolves,1,0,14/08/2023
+2324_10,2324,Nott'm Forest,Sheffield United,2,1,18/08/2023
+2324_11,2324,Fulham,Brentford,0,3,19/08/2023
+2324_12,2324,Liverpool,Bournemouth,3,1,19/08/2023
+2324_13,2324,Wolves,Brighton,1,4,19/08/2023
+2324_14,2324,Tottenham,Man United,2,0,19/08/2023
+2324_15,2324,Man City,Newcastle,1,0,19/08/2023
+2324_16,2324,Aston Villa,Everton,4,0,20/08/2023
+2324_17,2324,West Ham,Chelsea,3,1,20/08/2023
+2324_18,2324,Crystal Palace,Arsenal,0,1,21/08/2023
+2324_19,2324,Chelsea,Luton,3,0,25/08/2023
+2324_20,2324,Bournemouth,Tottenham,0,2,26/08/2023
+2324_21,2324,Arsenal,Fulham,2,2,26/08/2023
+2324_22,2324,Brentford,Crystal Palace,1,1,26/08/2023
+2324_23,2324,Everton,Wolves,0,1,26/08/2023
+2324_24,2324,Man United,Nott'm Forest,3,2,26/08/2023
+2324_25,2324,Brighton,West Ham,1,3,26/08/2023
+2324_26,2324,Burnley,Aston Villa,1,3,27/08/2023
+2324_27,2324,Sheffield United,Man City,1,2,27/08/2023
+2324_28,2324,Newcastle,Liverpool,1,2,27/08/2023
+2324_29,2324,Luton,West Ham,1,2,01/09/2023
+2324_30,2324,Sheffield United,Everton,2,2,02/09/2023
+2324_31,2324,Brentford,Bournemouth,2,2,02/09/2023
+2324_32,2324,Burnley,Tottenham,2,5,02/09/2023
+2324_33,2324,Chelsea,Nott'm Forest,0,1,02/09/2023
+2324_34,2324,Man City,Fulham,5,1,02/09/2023
+2324_35,2324,Brighton,Newcastle,3,1,02/09/2023
+2324_36,2324,Crystal Palace,Wolves,3,2,03/09/2023
+2324_37,2324,Liverpool,Aston Villa,3,0,03/09/2023
+2324_38,2324,Arsenal,Man United,3,1,03/09/2023
+2324_39,2324,Wolves,Liverpool,1,3,16/09/2023
+2324_40,2324,Aston Villa,Crystal Palace,3,1,16/09/2023
+2324_41,2324,Fulham,Luton,1,0,16/09/2023
+2324_42,2324,Man United,Brighton,1,3,16/09/2023
+2324_43,2324,Tottenham,Sheffield United,2,1,16/09/2023
+2324_44,2324,West Ham,Man City,1,3,16/09/2023
+2324_45,2324,Newcastle,Brentford,1,0,16/09/2023
+2324_46,2324,Bournemouth,Chelsea,0,0,17/09/2023
+2324_47,2324,Everton,Arsenal,0,1,17/09/2023
+2324_48,2324,Nott'm Forest,Burnley,1,1,18/09/2023
+2324_49,2324,Crystal Palace,Fulham,0,0,23/09/2023
+2324_50,2324,Luton,Wolves,1,1,23/09/2023
+2324_51,2324,Man City,Nott'm Forest,2,0,23/09/2023
+2324_52,2324,Brentford,Everton,1,3,23/09/2023
+2324_53,2324,Burnley,Man United,0,1,23/09/2023
+2324_54,2324,Arsenal,Tottenham,2,2,24/09/2023
+2324_55,2324,Brighton,Bournemouth,3,1,24/09/2023
+2324_56,2324,Chelsea,Aston Villa,0,1,24/09/2023
+2324_57,2324,Liverpool,West Ham,3,1,24/09/2023
+2324_58,2324,Sheffield United,Newcastle,0,8,24/09/2023
+2324_59,2324,Aston Villa,Brighton,6,1,30/09/2023
+2324_60,2324,Bournemouth,Arsenal,0,4,30/09/2023
+2324_61,2324,Everton,Luton,1,2,30/09/2023
+2324_62,2324,Man United,Crystal Palace,0,1,30/09/2023
+2324_63,2324,Newcastle,Burnley,2,0,30/09/2023
+2324_64,2324,West Ham,Sheffield United,2,0,30/09/2023
+2324_65,2324,Wolves,Man City,2,1,30/09/2023
+2324_66,2324,Tottenham,Liverpool,2,1,30/09/2023
+2324_67,2324,Nott'm Forest,Brentford,1,1,01/10/2023
+2324_68,2324,Fulham,Chelsea,0,2,02/10/2023
+2324_69,2324,Luton,Burnley,1,2,03/10/2023
+2324_70,2324,Luton,Tottenham,0,1,07/10/2023
+2324_71,2324,Burnley,Chelsea,1,4,07/10/2023
+2324_72,2324,Everton,Bournemouth,3,0,07/10/2023
+2324_73,2324,Fulham,Sheffield United,3,1,07/10/2023
+2324_74,2324,Man United,Brentford,2,1,07/10/2023
+2324_75,2324,Crystal Palace,Nott'm Forest,0,0,07/10/2023
+2324_76,2324,Brighton,Liverpool,2,2,08/10/2023
+2324_77,2324,West Ham,Newcastle,2,2,08/10/2023
+2324_78,2324,Wolves,Aston Villa,1,1,08/10/2023
+2324_79,2324,Arsenal,Man City,1,0,08/10/2023
+2324_80,2324,Liverpool,Everton,2,0,21/10/2023
+2324_81,2324,Bournemouth,Wolves,1,2,21/10/2023
+2324_82,2324,Brentford,Burnley,3,0,21/10/2023
+2324_83,2324,Man City,Brighton,2,1,21/10/2023
+2324_84,2324,Newcastle,Crystal Palace,4,0,21/10/2023
+2324_85,2324,Nott'm Forest,Luton,2,2,21/10/2023
+2324_86,2324,Chelsea,Arsenal,2,2,21/10/2023
+2324_87,2324,Sheffield United,Man United,1,2,21/10/2023
+2324_88,2324,Aston Villa,West Ham,4,1,22/10/2023
+2324_89,2324,Tottenham,Fulham,2,0,23/10/2023
+2324_90,2324,Crystal Palace,Tottenham,1,2,27/10/2023
+2324_91,2324,Chelsea,Brentford,0,2,28/10/2023
+2324_92,2324,Arsenal,Sheffield United,5,0,28/10/2023
+2324_93,2324,Bournemouth,Burnley,2,1,28/10/2023
+2324_94,2324,Wolves,Newcastle,2,2,28/10/2023
+2324_95,2324,West Ham,Everton,0,1,29/10/2023
+2324_96,2324,Aston Villa,Luton,3,1,29/10/2023
+2324_97,2324,Brighton,Fulham,1,1,29/10/2023
+2324_98,2324,Liverpool,Nott'm Forest,3,0,29/10/2023
+2324_99,2324,Man United,Man City,0,3,29/10/2023
+2324_100,2324,Fulham,Man United,0,1,04/11/2023
+2324_101,2324,Brentford,West Ham,3,2,04/11/2023
+2324_102,2324,Burnley,Crystal Palace,0,2,04/11/2023
+2324_103,2324,Everton,Brighton,1,1,04/11/2023
+2324_104,2324,Man City,Bournemouth,6,1,04/11/2023
+2324_105,2324,Sheffield United,Wolves,2,1,04/11/2023
+2324_106,2324,Newcastle,Arsenal,1,0,04/11/2023
+2324_107,2324,Nott'm Forest,Aston Villa,2,0,05/11/2023
+2324_108,2324,Luton,Liverpool,1,1,05/11/2023
+2324_109,2324,Tottenham,Chelsea,1,4,06/11/2023
+2324_110,2324,Wolves,Tottenham,2,1,11/11/2023
+2324_111,2324,Arsenal,Burnley,3,1,11/11/2023
+2324_112,2324,Crystal Palace,Everton,2,3,11/11/2023
+2324_113,2324,Man United,Luton,1,0,11/11/2023
+2324_114,2324,Bournemouth,Newcastle,2,0,11/11/2023
+2324_115,2324,Aston Villa,Fulham,3,1,12/11/2023
+2324_116,2324,Brighton,Sheffield United,1,1,12/11/2023
+2324_117,2324,Liverpool,Brentford,3,0,12/11/2023
+2324_118,2324,West Ham,Nott'm Forest,3,2,12/11/2023
+2324_119,2324,Chelsea,Man City,4,4,12/11/2023
+2324_120,2324,Man City,Liverpool,1,1,25/11/2023
+2324_121,2324,Burnley,West Ham,1,2,25/11/2023
+2324_122,2324,Luton,Crystal Palace,2,1,25/11/2023
+2324_123,2324,Newcastle,Chelsea,4,1,25/11/2023
+2324_124,2324,Nott'm Forest,Brighton,2,3,25/11/2023
+2324_125,2324,Sheffield United,Bournemouth,1,3,25/11/2023
+2324_126,2324,Brentford,Arsenal,0,1,25/11/2023
+2324_127,2324,Tottenham,Aston Villa,1,2,26/11/2023
+2324_128,2324,Everton,Man United,0,3,26/11/2023
+2324_129,2324,Fulham,Wolves,3,2,27/11/2023
+2324_130,2324,Arsenal,Wolves,2,1,02/12/2023
+2324_131,2324,Brentford,Luton,3,1,02/12/2023
+2324_132,2324,Burnley,Sheffield United,5,0,02/12/2023
+2324_133,2324,Nott'm Forest,Everton,0,1,02/12/2023
+2324_134,2324,Newcastle,Man United,1,0,02/12/2023
+2324_135,2324,Bournemouth,Aston Villa,2,2,03/12/2023
+2324_136,2324,Chelsea,Brighton,3,2,03/12/2023
+2324_137,2324,Liverpool,Fulham,4,3,03/12/2023
+2324_138,2324,West Ham,Crystal Palace,1,1,03/12/2023
+2324_139,2324,Man City,Tottenham,3,3,03/12/2023
+2324_140,2324,Wolves,Burnley,1,0,05/12/2023
+2324_141,2324,Luton,Arsenal,3,4,05/12/2023
+2324_142,2324,Brighton,Brentford,2,1,06/12/2023
+2324_143,2324,Crystal Palace,Bournemouth,0,2,06/12/2023
+2324_144,2324,Fulham,Nott'm Forest,5,0,06/12/2023
+2324_145,2324,Sheffield United,Liverpool,0,2,06/12/2023
+2324_146,2324,Aston Villa,Man City,1,0,06/12/2023
+2324_147,2324,Man United,Chelsea,2,1,06/12/2023
+2324_148,2324,Everton,Newcastle,3,0,07/12/2023
+2324_149,2324,Tottenham,West Ham,1,2,07/12/2023
+2324_150,2324,Crystal Palace,Liverpool,1,2,09/12/2023
+2324_151,2324,Brighton,Burnley,1,1,09/12/2023
+2324_152,2324,Man United,Bournemouth,0,3,09/12/2023
+2324_153,2324,Sheffield United,Brentford,1,0,09/12/2023
+2324_154,2324,Wolves,Nott'm Forest,1,1,09/12/2023
+2324_155,2324,Aston Villa,Arsenal,1,0,09/12/2023
+2324_156,2324,Everton,Chelsea,2,0,10/12/2023
+2324_157,2324,Fulham,West Ham,5,0,10/12/2023
+2324_158,2324,Luton,Man City,1,2,10/12/2023
+2324_159,2324,Tottenham,Newcastle,4,1,10/12/2023
+2324_160,2324,Nott'm Forest,Tottenham,0,2,15/12/2023
+2324_161,2324,Chelsea,Sheffield United,2,0,16/12/2023
+2324_162,2324,Man City,Crystal Palace,2,2,16/12/2023
+2324_163,2324,Newcastle,Fulham,3,0,16/12/2023
+2324_164,2324,Burnley,Everton,0,2,16/12/2023
+2324_165,2324,Arsenal,Brighton,2,0,17/12/2023
+2324_166,2324,Brentford,Aston Villa,1,2,17/12/2023
+2324_167,2324,West Ham,Wolves,3,0,17/12/2023
+2324_168,2324,Liverpool,Man United,0,0,17/12/2023
+2324_169,2324,Crystal Palace,Brighton,1,1,21/12/2023
+2324_170,2324,Aston Villa,Sheffield United,1,1,22/12/2023
+2324_171,2324,West Ham,Man United,2,0,23/12/2023
+2324_172,2324,Fulham,Burnley,0,2,23/12/2023
+2324_173,2324,Luton,Newcastle,1,0,23/12/2023
+2324_174,2324,Nott'm Forest,Bournemouth,2,3,23/12/2023
+2324_175,2324,Tottenham,Everton,2,1,23/12/2023
+2324_176,2324,Liverpool,Arsenal,1,1,23/12/2023
+2324_177,2324,Wolves,Chelsea,2,1,24/12/2023
+2324_178,2324,Newcastle,Nott'm Forest,1,3,26/12/2023
+2324_179,2324,Bournemouth,Fulham,3,0,26/12/2023
+2324_180,2324,Sheffield United,Luton,2,3,26/12/2023
+2324_181,2324,Burnley,Liverpool,0,2,26/12/2023
+2324_182,2324,Man United,Aston Villa,3,2,26/12/2023
+2324_183,2324,Brentford,Wolves,1,4,27/12/2023
+2324_184,2324,Chelsea,Crystal Palace,2,1,27/12/2023
+2324_185,2324,Everton,Man City,1,3,27/12/2023
+2324_186,2324,Brighton,Tottenham,4,2,28/12/2023
+2324_187,2324,Arsenal,West Ham,0,2,28/12/2023
+2324_188,2324,Luton,Chelsea,2,3,30/12/2023
+2324_189,2324,Aston Villa,Burnley,3,2,30/12/2023
+2324_190,2324,Crystal Palace,Brentford,3,1,30/12/2023
+2324_191,2324,Man City,Sheffield United,2,0,30/12/2023
+2324_192,2324,Wolves,Everton,3,0,30/12/2023
+2324_193,2324,Nott'm Forest,Man United,2,1,30/12/2023
+2324_194,2324,Fulham,Arsenal,2,1,31/12/2023
+2324_195,2324,Tottenham,Bournemouth,3,1,31/12/2023
+2324_196,2324,Liverpool,Newcastle,4,2,01/01/2024
+2324_197,2324,West Ham,Brighton,0,0,02/01/2024
+2324_198,2324,Burnley,Luton,1,1,12/01/2024
+2324_199,2324,Chelsea,Fulham,1,0,13/01/2024
+2324_200,2324,Newcastle,Man City,2,3,13/01/2024
+2324_201,2324,Everton,Aston Villa,0,0,14/01/2024
+2324_202,2324,Man United,Tottenham,2,2,14/01/2024
+2324_203,2324,Arsenal,Crystal Palace,5,0,20/01/2024
+2324_204,2324,Brentford,Nott'm Forest,3,2,20/01/2024
+2324_205,2324,Sheffield United,West Ham,2,2,21/01/2024
+2324_206,2324,Bournemouth,Liverpool,0,4,21/01/2024
+2324_207,2324,Brighton,Wolves,0,0,22/01/2024
+2324_208,2324,Nott'm Forest,Arsenal,1,2,30/01/2024
+2324_209,2324,Fulham,Everton,0,0,30/01/2024
+2324_210,2324,Luton,Brighton,4,0,30/01/2024
+2324_211,2324,Crystal Palace,Sheffield United,3,2,30/01/2024
+2324_212,2324,Aston Villa,Newcastle,1,3,30/01/2024
+2324_213,2324,Man City,Burnley,3,1,31/01/2024
+2324_214,2324,Tottenham,Brentford,3,2,31/01/2024
+2324_215,2324,Liverpool,Chelsea,4,1,31/01/2024
+2324_216,2324,West Ham,Bournemouth,1,1,01/02/2024
+2324_217,2324,Wolves,Man United,3,4,01/02/2024
+2324_218,2324,Everton,Tottenham,2,2,03/02/2024
+2324_219,2324,Brighton,Crystal Palace,4,1,03/02/2024
+2324_220,2324,Burnley,Fulham,2,2,03/02/2024
+2324_221,2324,Newcastle,Luton,4,4,03/02/2024
+2324_222,2324,Sheffield United,Aston Villa,0,5,03/02/2024
+2324_223,2324,Bournemouth,Nott'm Forest,1,1,04/02/2024
+2324_224,2324,Chelsea,Wolves,2,4,04/02/2024
+2324_225,2324,Man United,West Ham,3,0,04/02/2024
+2324_226,2324,Arsenal,Liverpool,3,1,04/02/2024
+2324_227,2324,Brentford,Man City,1,3,05/02/2024
+2324_228,2324,Man City,Everton,2,0,10/02/2024
+2324_229,2324,Fulham,Bournemouth,3,1,10/02/2024
+2324_230,2324,Liverpool,Burnley,3,1,10/02/2024
+2324_231,2324,Luton,Sheffield United,1,3,10/02/2024
+2324_232,2324,Tottenham,Brighton,2,1,10/02/2024
+2324_233,2324,Wolves,Brentford,0,2,10/02/2024
+2324_234,2324,Nott'm Forest,Newcastle,2,3,10/02/2024
+2324_235,2324,West Ham,Arsenal,0,6,11/02/2024
+2324_236,2324,Aston Villa,Man United,1,2,11/02/2024
+2324_237,2324,Crystal Palace,Chelsea,1,3,12/02/2024
+2324_238,2324,Brentford,Liverpool,1,4,17/02/2024
+2324_239,2324,Burnley,Arsenal,0,5,17/02/2024
+2324_240,2324,Fulham,Aston Villa,1,2,17/02/2024
+2324_241,2324,Newcastle,Bournemouth,2,2,17/02/2024
+2324_242,2324,Nott'm Forest,West Ham,2,0,17/02/2024
+2324_243,2324,Tottenham,Wolves,1,2,17/02/2024
+2324_244,2324,Man City,Chelsea,1,1,17/02/2024
+2324_245,2324,Sheffield United,Brighton,0,5,18/02/2024
+2324_246,2324,Luton,Man United,1,2,18/02/2024
+2324_247,2324,Everton,Crystal Palace,1,1,19/02/2024
+2324_248,2324,Man City,Brentford,1,0,20/02/2024
+2324_249,2324,Liverpool,Luton,4,1,21/02/2024
+2324_250,2324,Aston Villa,Nott'm Forest,4,2,24/02/2024
+2324_251,2324,Brighton,Everton,1,1,24/02/2024
+2324_252,2324,Crystal Palace,Burnley,3,0,24/02/2024
+2324_253,2324,Man United,Fulham,1,2,24/02/2024
+2324_254,2324,Bournemouth,Man City,0,1,24/02/2024
+2324_255,2324,Arsenal,Newcastle,4,1,24/02/2024
+2324_256,2324,Wolves,Sheffield United,1,0,25/02/2024
+2324_257,2324,West Ham,Brentford,4,2,26/02/2024
+2324_258,2324,Brentford,Chelsea,2,2,02/03/2024
+2324_259,2324,Everton,West Ham,1,3,02/03/2024
+2324_260,2324,Fulham,Brighton,3,0,02/03/2024
+2324_261,2324,Newcastle,Wolves,3,0,02/03/2024
+2324_262,2324,Nott'm Forest,Liverpool,0,1,02/03/2024
+2324_263,2324,Tottenham,Crystal Palace,3,1,02/03/2024
+2324_264,2324,Luton,Aston Villa,2,3,02/03/2024
+2324_265,2324,Burnley,Bournemouth,0,2,03/03/2024
+2324_266,2324,Man City,Man United,3,1,03/03/2024
+2324_267,2324,Sheffield United,Arsenal,0,6,04/03/2024
+2324_268,2324,Man United,Everton,2,0,09/03/2024
+2324_269,2324,Bournemouth,Sheffield United,2,2,09/03/2024
+2324_270,2324,Crystal Palace,Luton,1,1,09/03/2024
+2324_271,2324,Wolves,Fulham,2,1,09/03/2024
+2324_272,2324,Arsenal,Brentford,2,1,09/03/2024
+2324_273,2324,Aston Villa,Tottenham,0,4,10/03/2024
+2324_274,2324,Brighton,Nott'm Forest,1,0,10/03/2024
+2324_275,2324,West Ham,Burnley,2,2,10/03/2024
+2324_276,2324,Liverpool,Man City,1,1,10/03/2024
+2324_277,2324,Chelsea,Newcastle,3,2,11/03/2024
+2324_278,2324,Bournemouth,Luton,4,3,13/03/2024
+2324_279,2324,Burnley,Brentford,2,1,16/03/2024
+2324_280,2324,Luton,Nott'm Forest,1,1,16/03/2024
+2324_281,2324,Fulham,Tottenham,3,0,16/03/2024
+2324_282,2324,West Ham,Aston Villa,1,1,17/03/2024
+2324_283,2324,Newcastle,West Ham,4,3,30/03/2024
+2324_284,2324,Bournemouth,Everton,2,1,30/03/2024
+2324_285,2324,Chelsea,Burnley,2,2,30/03/2024
+2324_286,2324,Nott'm Forest,Crystal Palace,1,1,30/03/2024
+2324_287,2324,Sheffield United,Fulham,3,3,30/03/2024
+2324_288,2324,Tottenham,Luton,2,1,30/03/2024
+2324_289,2324,Aston Villa,Wolves,2,0,30/03/2024
+2324_290,2324,Brentford,Man United,1,1,30/03/2024
+2324_291,2324,Liverpool,Brighton,2,1,31/03/2024
+2324_292,2324,Man City,Arsenal,0,0,31/03/2024
+2324_293,2324,Newcastle,Everton,1,1,02/04/2024
+2324_294,2324,Nott'm Forest,Fulham,3,1,02/04/2024
+2324_295,2324,Bournemouth,Crystal Palace,1,0,02/04/2024
+2324_296,2324,Burnley,Wolves,1,1,02/04/2024
+2324_297,2324,West Ham,Tottenham,1,1,02/04/2024
+2324_298,2324,Arsenal,Luton,2,0,03/04/2024
+2324_299,2324,Brentford,Brighton,0,0,03/04/2024
+2324_300,2324,Man City,Aston Villa,4,1,03/04/2024
+2324_301,2324,Liverpool,Sheffield United,3,1,04/04/2024
+2324_302,2324,Chelsea,Man United,4,3,04/04/2024
+2324_303,2324,Crystal Palace,Man City,2,4,06/04/2024
+2324_304,2324,Aston Villa,Brentford,3,3,06/04/2024
+2324_305,2324,Everton,Burnley,1,0,06/04/2024
+2324_306,2324,Fulham,Newcastle,0,1,06/04/2024
+2324_307,2324,Luton,Bournemouth,2,1,06/04/2024
+2324_308,2324,Wolves,West Ham,1,2,06/04/2024
+2324_309,2324,Brighton,Arsenal,0,3,06/04/2024
+2324_310,2324,Man United,Liverpool,2,2,07/04/2024
+2324_311,2324,Sheffield United,Chelsea,2,2,07/04/2024
+2324_312,2324,Tottenham,Nott'm Forest,3,1,07/04/2024
+2324_313,2324,Newcastle,Tottenham,4,0,13/04/2024
+2324_314,2324,Brentford,Sheffield United,2,0,13/04/2024
+2324_315,2324,Burnley,Brighton,1,1,13/04/2024
+2324_316,2324,Man City,Luton,5,1,13/04/2024
+2324_317,2324,Nott'm Forest,Wolves,2,2,13/04/2024
+2324_318,2324,Bournemouth,Man United,2,2,13/04/2024
+2324_319,2324,Liverpool,Crystal Palace,0,1,14/04/2024
+2324_320,2324,West Ham,Fulham,0,2,14/04/2024
+2324_321,2324,Arsenal,Aston Villa,0,2,14/04/2024
+2324_322,2324,Chelsea,Everton,6,0,15/04/2024
+2324_323,2324,Luton,Brentford,1,5,20/04/2024
+2324_324,2324,Sheffield United,Burnley,1,4,20/04/2024
+2324_325,2324,Wolves,Arsenal,0,2,20/04/2024
+2324_326,2324,Everton,Nott'm Forest,2,0,21/04/2024
+2324_327,2324,Aston Villa,Bournemouth,3,1,21/04/2024
+2324_328,2324,Crystal Palace,West Ham,5,2,21/04/2024
+2324_329,2324,Fulham,Liverpool,1,3,21/04/2024
+2324_330,2324,Arsenal,Chelsea,5,0,23/04/2024
+2324_331,2324,Wolves,Bournemouth,0,1,24/04/2024
+2324_332,2324,Crystal Palace,Newcastle,2,0,24/04/2024
+2324_333,2324,Everton,Liverpool,2,0,24/04/2024
+2324_334,2324,Man United,Sheffield United,4,2,24/04/2024
+2324_335,2324,Brighton,Man City,0,4,25/04/2024
+2324_336,2324,West Ham,Liverpool,2,2,27/04/2024
+2324_337,2324,Fulham,Crystal Palace,1,1,27/04/2024
+2324_338,2324,Man United,Burnley,1,1,27/04/2024
+2324_339,2324,Newcastle,Sheffield United,5,1,27/04/2024
+2324_340,2324,Wolves,Luton,2,1,27/04/2024
+2324_341,2324,Everton,Brentford,1,0,27/04/2024
+2324_342,2324,Aston Villa,Chelsea,2,2,27/04/2024
+2324_343,2324,Bournemouth,Brighton,3,0,28/04/2024
+2324_344,2324,Tottenham,Arsenal,2,3,28/04/2024
+2324_345,2324,Nott'm Forest,Man City,0,2,28/04/2024
+2324_346,2324,Chelsea,Tottenham,2,0,02/05/2024
+2324_347,2324,Luton,Everton,1,1,03/05/2024
+2324_348,2324,Arsenal,Bournemouth,3,0,04/05/2024
+2324_349,2324,Brentford,Fulham,0,0,04/05/2024
+2324_350,2324,Burnley,Newcastle,1,4,04/05/2024
+2324_351,2324,Sheffield United,Nott'm Forest,1,3,04/05/2024
+2324_352,2324,Man City,Wolves,5,1,04/05/2024
+2324_353,2324,Brighton,Aston Villa,1,0,05/05/2024
+2324_354,2324,Chelsea,West Ham,5,0,05/05/2024
+2324_355,2324,Liverpool,Tottenham,4,2,05/05/2024
+2324_356,2324,Crystal Palace,Man United,4,0,06/05/2024
+2324_357,2324,Fulham,Man City,0,4,11/05/2024
+2324_358,2324,Bournemouth,Brentford,1,2,11/05/2024
+2324_359,2324,Everton,Sheffield United,1,0,11/05/2024
+2324_360,2324,Newcastle,Brighton,1,1,11/05/2024
+2324_361,2324,Tottenham,Burnley,2,1,11/05/2024
+2324_362,2324,West Ham,Luton,3,1,11/05/2024
+2324_363,2324,Wolves,Crystal Palace,1,3,11/05/2024
+2324_364,2324,Nott'm Forest,Chelsea,2,3,11/05/2024
+2324_365,2324,Man United,Arsenal,0,1,12/05/2024
+2324_366,2324,Aston Villa,Liverpool,3,3,13/05/2024
+2324_367,2324,Tottenham,Man City,0,2,14/05/2024
+2324_368,2324,Brighton,Chelsea,1,2,15/05/2024
+2324_369,2324,Man United,Newcastle,3,2,15/05/2024
+2324_370,2324,Arsenal,Everton,2,1,19/05/2024
+2324_371,2324,Brentford,Newcastle,2,4,19/05/2024
+2324_372,2324,Brighton,Man United,0,2,19/05/2024
+2324_373,2324,Burnley,Nott'm Forest,1,2,19/05/2024
+2324_374,2324,Chelsea,Bournemouth,2,1,19/05/2024
+2324_375,2324,Crystal Palace,Aston Villa,5,0,19/05/2024
+2324_376,2324,Liverpool,Wolves,2,0,19/05/2024
+2324_377,2324,Luton,Fulham,2,4,19/05/2024
+2324_378,2324,Man City,West Ham,3,1,19/05/2024
+2324_379,2324,Sheffield United,Tottenham,0,3,19/05/2024

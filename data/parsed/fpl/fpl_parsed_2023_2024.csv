@@ -1,0 +1,668 @@
+source_player_id,source_player_name,source_club_id,source_club_name,season_id,goals_scored,assists,minutes,expected_goals,expected_assists,bps,now_cost
+1,David Raya Martín,1,Arsenal,2023_2024,0,0,450,0.00,0.01,104,61
+2,Kepa Arrizabalaga Revuelta,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,49
+3,Illan Meslier,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,49
+4,Gabriel dos Santos Magalhães,1,Arsenal,2023_2024,0,0,450,0.51,0.20,90,80
+5,Jurriën Timber,1,Arsenal,2023_2024,0,0,104,0.00,0.03,-3,65
+6,William Saliba,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,59
+7,Myles Lewis-Skelly,1,Arsenal,2023_2024,0,0,271,0.16,0.23,37,54
+8,Riccardo Calafiori,1,Arsenal,2023_2024,0,2,416,0.67,0.62,76,58
+9,Piero Hincapié,1,Arsenal,2023_2024,0,0,32,0.00,0.00,6,52
+10,Benjamin White,1,Arsenal,2023_2024,0,1,315,0.18,0.29,78,55
+11,Cristhian Mosquera,1,Arsenal,2023_2024,0,0,168,0.00,0.01,52,53
+12,Bukayo Saka,1,Arsenal,2023_2024,3,0,416,3.22,0.98,137,95
+13,Declan Rice,1,Arsenal,2023_2024,0,2,411,0.12,0.69,91,74
+14,Eberechi Eze,1,Arsenal,2023_2024,0,0,85,0.04,0.09,18,62
+15,Martin Ødegaard,1,Arsenal,2023_2024,2,0,377,1.08,1.32,137,68
+16,Noni Madueke,1,Arsenal,2023_2024,0,0,23,0.00,0.05,11,62
+17,Mikel Merino Zazón,1,Arsenal,2023_2024,0,0,81,0.14,0.15,19,58
+18,Gabriel Martinelli Silva,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,63
+19,Martín Zubimendi Ibáñez,1,Arsenal,2023_2024,0,0,89,0.21,0.04,16,53
+20,Max Dowman,1,Arsenal,2023_2024,0,0,9,0.00,0.08,4,53
+22,Ethan Nwaneri,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,54
+23,Fábio Ferreira Vieira,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,55
+24,Reiss Nelson,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,55
+25,Viktor Gyökeres,1,Arsenal,2023_2024,0,0,29,0.00,0.23,7,71
+26,Kai Havertz,1,Arsenal,2023_2024,2,0,437,1.67,0.37,82,76
+27,Gabriel Fernando de Jesus,1,Arsenal,2023_2024,0,0,0,0.00,0.00,0,59
+31,Ezri Konsa Ngoyo,1,Arsenal,2023_2024,0,0,281,0.23,0.02,36,46
+452,Bruno Guimarães Rodriguez Moura,1,Arsenal,2023_2024,1,0,123,0.09,0.16,45,67
+557,Christos Tzolis,1,Arsenal,2023_2024,0,2,362,0.19,0.55,81,63
+29,Marco Bizot,2,Aston Villa,2023_2024,0,0,90,0.00,0.00,1,45
+30,Lucas Digne,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,45
+32,Matty Cash,2,Aston Villa,2023_2024,0,0,296,0.15,0.04,16,44
+33,Tyrone Mings,2,Aston Villa,2023_2024,0,0,261,0.20,0.02,43,45
+34,Pau Torres,2,Aston Villa,2023_2024,0,0,187,0.00,0.01,-4,44
+35,Lamare Bogarde,2,Aston Villa,2023_2024,0,0,16,0.00,0.00,3,49
+36,Ian Maatsen,2,Aston Villa,2023_2024,0,0,335,0.28,0.45,22,44
+37,Victor Lindelöf,2,Aston Villa,2023_2024,0,0,450,0.44,0.17,28,45
+38,Andrés García,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,40
+39,Kosta Nedeljkovic,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,40
+41,Emiliano Buendía Stati,2,Aston Villa,2023_2024,1,0,401,0.92,0.24,73,59
+44,Leon Bailey,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,54
+45,John McGinn,2,Aston Villa,2023_2024,0,2,434,0.77,0.24,65,54
+46,Ross Barkley,2,Aston Villa,2023_2024,0,0,308,0.38,0.14,66,50
+47,Boubacar Kamara,2,Aston Villa,2023_2024,0,1,443,0.12,0.16,85,50
+48,Amadou Onana,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,49
+49,Samuel Iling-Junior,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,50
+50,Bradley Burrowes,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,45
+51,George Hemmings,2,Aston Villa,2023_2024,0,0,297,0.07,0.16,34,45
+52,Alysson Edward Franco da Rocha dos Santos,2,Aston Villa,2023_2024,1,0,87,0.06,0.00,34,50
+53,Johan Manzambi,2,Aston Villa,2023_2024,1,1,98,0.44,0.24,48,59
+54,Joao Gomes,2,Aston Villa,2023_2024,0,0,129,0.00,0.03,11,55
+55,Ollie Watkins,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,78
+56,Tammy Abraham,2,Aston Villa,2023_2024,0,0,71,0.00,0.00,13,55
+160,Alejandro Garnacho Ferreyra,2,Aston Villa,2023_2024,0,0,31,0.00,0.00,9,58
+166,Nicolas Jackson,2,Aston Villa,2023_2024,1,0,286,0.68,0.60,52,65
+582,Brian Madjo,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,54
+596,Matteo Ruggeri,2,Aston Villa,2023_2024,0,0,113,0.03,0.02,17,45
+597,Zion Suzuki,2,Aston Villa,2023_2024,0,0,360,0.00,0.01,80,50
+606,Triston Rowe,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,40
+607,Luka Lynch,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,45
+611,Aaron Wan-Bissaka,2,Aston Villa,2023_2024,0,0,152,0.00,0.07,24,45
+618,Leon Goretzka,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,59
+630,Taylor Harwood-Bellis,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,45
+631,Ibrahim Mbaye,2,Aston Villa,2023_2024,0,0,33,0.02,0.13,8,60
+667,James Wright,2,Aston Villa,2023_2024,0,0,0,0.00,0.00,0,40
+57,Đorđe Petrović,3,Bournemouth,2023_2024,0,0,450,0.00,0.00,45,45
+58,Fraser Forster,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,40
+59,Will Dennis,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,40
+60,James Hill,3,Bournemouth,2023_2024,0,0,450,0.00,0.79,43,55
+61,Adrien Truffert,3,Bournemouth,2023_2024,0,0,450,0.11,0.29,53,54
+62,Bafodé Diakité,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,49
+63,Veljko Milosavljevic,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,49
+64,Adam Smith,3,Bournemouth,2023_2024,0,0,434,0.01,0.09,14,45
+65,Julián Araujo Zúñiga,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,44
+66,Julio Soler Barreto,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,40
+67,Rayan Vitor Simplício Rocha,3,Bournemouth,2023_2024,0,0,434,0.87,0.43,45,63
+68,Marcus Tavernier,3,Bournemouth,2023_2024,3,0,424,1.70,0.92,153,61
+69,Alex Scott,3,Bournemouth,2023_2024,1,2,446,0.64,0.42,129,61
+70,Justin Kluivert,3,Bournemouth,2023_2024,1,0,294,0.99,0.08,64,60
+71,Lewis Cook,3,Bournemouth,2023_2024,0,0,180,0.00,0.01,25,50
+72,Ben Gannon-Doak,3,Bournemouth,2023_2024,0,0,12,0.12,0.05,15,49
+73,Tyler Adams,3,Bournemouth,2023_2024,0,0,279,0.03,0.07,52,50
+74,David Brooks,3,Bournemouth,2023_2024,0,0,45,0.00,0.07,8,50
+75,Ryan Christie,3,Bournemouth,2023_2024,0,0,102,0.50,0.13,15,50
+76,Alex Tóth,3,Bournemouth,2023_2024,0,0,17,0.00,0.00,8,49
+77,Amine Adli,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,49
+78,Junior Kroupi,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,74
+79,Francisco Evanilson de Lima Barbosa,3,Bournemouth,2023_2024,0,3,424,0.87,0.52,66,60
+80,Enes Ünal,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,55
+81,Álvaro Rodríguez,3,Bournemouth,2023_2024,0,0,10,0.00,0.00,7,60
+566,António João Pereira de Albuquerque Tavares da Silva,3,Bournemouth,2023_2024,0,0,450,0.85,0.29,30,50
+573,Juanlu Sánchez,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,44
+608,Daniel Jebbison,3,Bournemouth,2023_2024,0,0,31,0.10,0.00,13,50
+615,Michele Di Gregorio,3,Bournemouth,2023_2024,0,0,0,0.00,0.00,0,45
+82,Caoimhín Kelleher,4,Brentford,2023_2024,0,0,450,0.00,0.01,97,50
+83,Hákon Rafn Valdimarsson,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,45
+84,Nathan Collins,4,Brentford,2023_2024,0,0,196,0.51,0.05,39,54
+85,Sepp van den Berg,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,49
+86,Keane Lewis-Potter,4,Brentford,2023_2024,1,1,406,1.21,0.79,85,55
+87,Kristoffer Ajer,4,Brentford,2023_2024,0,0,450,0.13,0.08,73,45
+88,Michael Kayode,4,Brentford,2023_2024,1,0,294,0.55,0.43,72,46
+89,Rico Henry,4,Brentford,2023_2024,0,0,2,0.00,0.00,3,44
+90,Aaron Hickey,4,Brentford,2023_2024,0,0,152,0.03,0.06,17,45
+92,Kim Ji-soo,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,44
+93,Jannik Schuster,4,Brentford,2023_2024,0,1,253,0.10,0.54,59,45
+94,Kevin Schade,4,Brentford,2023_2024,3,2,447,1.52,0.32,138,62
+95,Dango Ouattara,4,Brentford,2023_2024,0,0,179,0.09,0.39,34,63
+96,Mikkel Damsgaard,4,Brentford,2023_2024,0,1,283,0.17,0.73,74,54
+97,Mathias Jensen,4,Brentford,2023_2024,0,1,66,0.08,0.34,22,54
+98,Vitaly Janelt,4,Brentford,2023_2024,2,0,450,0.53,0.44,109,50
+99,Antoni Milambo,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,50
+100,Fábio Freitas Gouveia Carvalho,4,Brentford,2023_2024,1,0,3,0.43,0.00,23,50
+102,Yehor Yarmoliuk,4,Brentford,2023_2024,0,1,216,0.10,0.30,50,48
+103,Josh Dasilva,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,49
+105,Jaidon Anthony,4,Brentford,2023_2024,1,0,267,1.15,0.54,59,59
+106,Igor Thiago Nascimento Rodrigues,4,Brentford,2023_2024,1,0,442,3.13,0.16,37,78
+107,Kaye Furo,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,45
+108,Callum Wilson,4,Brentford,2023_2024,0,0,13,0.07,0.04,9,54
+565,Mamadou Sangaré,4,Brentford,2023_2024,0,2,321,0.41,0.65,76,56
+620,El Hadji Malick Diouf,4,Brentford,2023_2024,0,0,39,0.00,0.01,7,45
+657,Gustavo Nunes Fernandes Gomes,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,45
+660,Benjamin Fredrick,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,40
+661,Ellery Balcombe,4,Brentford,2023_2024,0,0,0,0.00,0.00,0,40
+109,Bart Verbruggen,5,Brighton,2023_2024,0,0,450,0.00,0.20,107,45
+111,Jason Steele,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,40
+113,Ferdi Kadıoğlu,5,Brighton,2023_2024,0,0,332,0.12,0.13,46,44
+114,Olivier Boscagli,5,Brighton,2023_2024,0,0,437,0.07,0.53,93,45
+115,Maxim De Cuyper,5,Brighton,2023_2024,1,3,423,1.55,0.67,132,50
+116,Lewis Dunk,5,Brighton,2023_2024,1,0,360,0.03,0.09,79,45
+117,Diego Coppola,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,45
+118,Igor Julio dos Santos de Paulo,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,45
+119,João Pedro Loureiro da Costa,5,Brighton,2023_2024,0,0,68,0.12,0.30,18,45
+120,Michael Svoboda,5,Brighton,2023_2024,0,0,4,0.00,0.00,5,50
+121,Mitoma Kaoru,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,59
+122,Yankuba Minteh,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,58
+123,Jack Hinshelwood,5,Brighton,2023_2024,2,0,63,1.41,0.02,54,59
+124,Pascal Groß,5,Brighton,2023_2024,3,4,450,1.77,0.86,166,58
+125,Georginio Rutter,5,Brighton,2023_2024,0,1,104,0.17,0.45,24,53
+126,Matt O'Riley,5,Brighton,2023_2024,0,0,10,0.28,0.01,6,54
+127,Diego Gómez Amarilla,5,Brighton,2023_2024,0,3,433,0.79,0.78,80,50
+128,Facundo Buonanotte,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,50
+129,Yasin Ayari,5,Brighton,2023_2024,1,0,333,0.70,0.18,71,54
+130,Mats Wieffer,5,Brighton,2023_2024,0,0,156,0.12,0.13,38,49
+132,Harry Howell,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,45
+133,Tom Watson,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,50
+134,Nehemiah Oriola,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,45
+135,Zadok Yohanna,5,Brighton,2023_2024,0,0,12,0.00,0.03,3,48
+137,Stefanos Tzimas,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,54
+138,Charalampos Kostoulas,5,Brighton,2023_2024,2,3,353,1.35,0.06,105,56
+139,Evan Ferguson,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,50
+328,Pascal Struijk,5,Brighton,2023_2024,0,0,98,0.16,0.01,31,49
+504,Luka Vušković,5,Brighton,2023_2024,1,0,437,0.46,0.07,98,50
+594,Promise David,5,Brighton,2023_2024,0,0,23,0.42,0.00,-4,59
+600,Ibrahim Osman,5,Brighton,2023_2024,0,0,40,0.05,0.07,15,50
+605,Malick Yalcouyé,5,Brighton,2023_2024,2,0,236,1.46,0.45,96,45
+614,Jaouen Hadjam,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,45
+624,Amario Cozier-Duberry,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,50
+639,José María Andrés Baixauli,5,Brighton,2023_2024,1,1,109,0.52,0.12,37,55
+652,Femi Azeez,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,55
+658,Younes Ibrahim,5,Brighton,2023_2024,0,0,0,0.00,0.00,0,45
+28,Emiliano Martínez Romero,6,Chelsea,2023_2024,0,0,360,0.00,0.01,61,50
+40,Morgan Rogers,6,Chelsea,2023_2024,3,1,437,1.72,1.23,135,77
+101,Jordan Henderson,6,Chelsea,2023_2024,0,0,90,0.00,0.08,16,49
+136,Danny Welbeck,6,Chelsea,2023_2024,0,0,85,0.00,0.14,15,59
+140,Robert Lynch Sánchez,6,Chelsea,2023_2024,0,0,90,0.00,0.01,6,49
+141,Filip Jörgensen,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,50
+142,Reece James,6,Chelsea,2023_2024,0,0,292,0.33,0.26,24,54
+143,Trevoh Chalobah,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,55
+144,Malo Gusto,6,Chelsea,2023_2024,0,0,272,0.08,0.12,12,49
+145,Wesley Fofana,6,Chelsea,2023_2024,0,0,312,0.00,0.08,35,50
+146,Benoît Badiashile Mukinayi,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,45
+148,Jorrel Hato,6,Chelsea,2023_2024,0,2,258,0.01,0.21,14,45
+149,Levi Samuels Colwill,6,Chelsea,2023_2024,0,0,341,0.01,0.05,17,48
+150,Mamadou Sarr,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,45
+151,Josh Acheampong,6,Chelsea,2023_2024,0,0,221,0.00,0.03,5,45
+152,Marco Palestra,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,53
+154,Cole Palmer,6,Chelsea,2023_2024,2,2,442,1.31,0.79,148,97
+156,Pedro Lomba Neto,6,Chelsea,2023_2024,1,0,332,0.68,0.58,81,65
+157,Estêvão Almeida de Oliveira Gonçalves,6,Chelsea,2023_2024,0,0,23,0.07,0.07,17,63
+158,Jamie Bynoe-Gittens,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,58
+159,Moisés Caicedo Corozo,6,Chelsea,2023_2024,0,0,13,0.00,0.00,3,53
+161,Roméo Lavia,6,Chelsea,2023_2024,1,0,258,0.75,0.11,61,50
+163,Dário Luís Essugo,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,45
+164,Geovany Quenda,6,Chelsea,2023_2024,0,0,27,0.03,0.01,5,53
+165,João Pedro Junqueira de Jesus,6,Chelsea,2023_2024,3,3,360,2.17,0.19,141,77
+168,Marc Guiu Paz,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,50
+169,Shumaira Mheuka,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,45
+170,Emmanuel Emegha,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,49
+200,Maxence Lacroix,6,Chelsea,2023_2024,0,1,364,0.15,0.22,28,59
+560,Mike Penders,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,44
+561,Aaron Anselmino,6,Chelsea,2023_2024,0,0,0,0.00,0.00,0,45
+568,Valentín Barco,6,Chelsea,2023_2024,0,0,115,0.07,0.11,29,54
+583,Pep Chavarría,6,Chelsea,2023_2024,0,0,208,0.04,0.07,17,49
+662,Mahdi Nicoll-Jazuli,6,Chelsea,2023_2024,0,0,3,0.00,0.00,5,45
+91,Ethan Pinnock,7,Coventry City,2023_2024,0,0,282,0.12,0.00,15,45
+104,Frank Onyeka,7,Coventry City,2023_2024,0,0,314,0.03,0.02,34,49
+110,Carl Rushworth,7,Coventry City,2023_2024,0,1,450,0.00,0.02,56,45
+171,Oliver Dovin,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,40
+172,Ben Wilson,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,44
+173,Bobby Thomas,7,Coventry City,2023_2024,0,0,437,0.49,0.30,78,40
+174,Liam Kitching,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,40
+175,Milan van Ewijk,7,Coventry City,2023_2024,0,0,360,0.00,0.30,7,40
+176,Jay Dasilva,7,Coventry City,2023_2024,1,0,444,0.50,0.52,54,40
+177,Kaine Kesler-Hayden,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,39
+178,Jake Bidwell,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,40
+179,Joel Latibeaudiere,7,Coventry City,2023_2024,0,0,1,0.00,0.00,3,40
+180,Luke Woolfenden,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,40
+181,Miguel Brau,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,40
+182,Aurèle Amenda,7,Coventry City,2023_2024,0,0,360,0.02,0.39,-3,40
+183,Jack Rudoni,7,Coventry City,2023_2024,0,0,297,0.92,1.11,51,49
+184,Matt Grimes,7,Coventry City,2023_2024,0,0,443,0.12,0.13,62,49
+185,Tatsuhiro Sakamoto,7,Coventry City,2023_2024,0,0,31,0.02,0.02,8,48
+186,Ephron Mason-Clark,7,Coventry City,2023_2024,0,0,231,0.51,0.12,19,53
+187,Josh Eccles,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,48
+188,Victor Torp,7,Coventry City,2023_2024,0,0,53,0.00,0.12,13,53
+189,George Shepherd,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,44
+190,Loum Tchaouna,7,Coventry City,2023_2024,0,0,211,0.23,0.18,32,54
+191,Raphael Borges Rodrigues,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,45
+192,Kai Andrews,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,45
+193,Haji Wright,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,53
+194,Brandon Thomas-Asante,7,Coventry City,2023_2024,0,0,227,0.34,0.06,43,50
+195,Ellis Simms,7,Coventry City,2023_2024,0,0,104,0.30,0.01,13,49
+196,Jahnoah Markelo,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,50
+197,Norman Bassette,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,45
+492,Taiwo Awoniyi,7,Coventry City,2023_2024,0,0,232,1.30,0.04,11,54
+575,Caleb Yirenkyi,7,Coventry City,2023_2024,0,0,265,0.03,0.15,36,48
+584,Gustavo Hamer,7,Coventry City,2023_2024,0,0,32,0.00,0.02,6,54
+599,Sidiki Cherif,7,Coventry City,2023_2024,0,0,30,0.00,0.00,3,50
+623,Dan Bentley,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,40
+655,Yann Gboho,7,Coventry City,2023_2024,0,0,0,0.00,0.00,0,55
+656,Stephen Mfuni,7,Coventry City,2023_2024,0,0,90,0.00,0.01,27,40
+42,Evann Guessand,8,Crystal Palace,2023_2024,0,0,54,0.03,0.03,6,54
+153,Axel Disasi,8,Crystal Palace,2023_2024,0,0,139,0.00,0.04,-6,45
+198,Dean Henderson,8,Crystal Palace,2023_2024,0,0,270,0.00,0.00,37,50
+199,Walter Benítez,8,Crystal Palace,2023_2024,0,0,180,0.00,0.00,29,45
+202,Chris Richards,8,Crystal Palace,2023_2024,0,0,450,0.08,0.07,48,50
+203,Jaydee Canvot,8,Crystal Palace,2023_2024,0,0,360,0.05,0.13,38,48
+204,Tyrick Mitchell,8,Crystal Palace,2023_2024,2,0,419,0.77,0.26,68,45
+205,Borna Sosa,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,45
+206,Chadi Riad Dnanou,8,Crystal Palace,2023_2024,0,0,72,0.00,0.01,7,43
+207,Oscar Mingueza,8,Crystal Palace,2023_2024,0,0,16,0.00,0.00,5,44
+208,Ismaïla Sarr,8,Crystal Palace,2023_2024,0,0,8,0.00,0.01,3,62
+210,Adam Wharton,8,Crystal Palace,2023_2024,0,0,436,0.15,0.58,77,54
+211,Yéremy Pino Santos,8,Crystal Palace,2023_2024,0,2,307,0.52,0.55,70,55
+212,Will Hughes,8,Crystal Palace,2023_2024,0,0,29,0.00,0.04,9,44
+213,Jefferson Lerma Solís,8,Crystal Palace,2023_2024,0,0,51,0.26,0.00,6,48
+214,Daichi Kamada,8,Crystal Palace,2023_2024,0,3,441,0.47,0.38,109,50
+215,Justin Devenny,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,50
+216,Romain Esse,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,50
+217,Matheus França de Oliveira,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,49
+218,Cheick Doucouré,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,48
+219,Jesurun Rak-Sakyi,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,49
+220,Rio Cardines,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,45
+221,Joél Drakes-Thomas,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,45
+222,Jørgen Strand Larsen,8,Crystal Palace,2023_2024,1,0,298,0.43,0.20,69,60
+223,Jean-Philippe Mateta,8,Crystal Palace,2023_2024,0,0,62,0.70,0.02,-3,63
+224,Eddie Nketiah,8,Crystal Palace,2023_2024,0,1,175,1.10,0.60,38,55
+225,Christantus Uche,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,50
+241,Dwight McNeil,8,Crystal Palace,2023_2024,0,0,84,0.05,0.02,13,54
+555,Remi Matthews,8,Crystal Palace,2023_2024,0,0,0,0.00,0.00,0,40
+577,Takehiro Tomiyasu,8,Crystal Palace,2023_2024,0,0,189,0.00,0.03,10,44
+588,Anan Khalaili,8,Crystal Palace,2023_2024,1,0,379,0.96,0.33,54,50
+595,Zavier Gozo,8,Crystal Palace,2023_2024,0,0,28,0.00,0.00,6,49
+633,Honest Ahanor,8,Crystal Palace,2023_2024,0,0,90,0.00,0.01,10,45
+643,Ben Chilwell,8,Crystal Palace,2023_2024,1,0,29,0.27,0.01,21,45
+644,Quinten Timber,8,Crystal Palace,2023_2024,0,0,253,0.24,0.06,45,50
+647,Darío Osorio,8,Crystal Palace,2023_2024,0,0,1,0.00,0.00,2,55
+21,Christian Nørgaard,9,Everton,2023_2024,0,0,0,0.00,0.00,0,48
+209,Brennan Johnson,9,Everton,2023_2024,0,0,238,1.03,0.22,26,59
+226,Jordan Pickford,9,Everton,2023_2024,0,0,450,0.00,0.02,121,55
+227,Mark Travers,9,Everton,2023_2024,0,0,0,0.00,0.00,0,50
+228,Tom King,9,Everton,2023_2024,0,0,0,0.00,0.00,0,45
+229,James Tarkowski,9,Everton,2023_2024,1,1,450,0.18,0.04,138,61
+230,Jarrad Branthwaite,9,Everton,2023_2024,0,0,450,0.17,0.02,97,55
+231,Michael Keane,9,Everton,2023_2024,0,0,0,0.00,0.00,0,48
+232,Jake O'Brien,9,Everton,2023_2024,0,0,16,0.00,0.00,5,48
+233,Vitalii Mykolenko,9,Everton,2023_2024,0,0,450,0.04,0.16,109,46
+234,Nathan Patterson,9,Everton,2023_2024,0,0,0,0.00,0.00,0,45
+235,Adam Aznou,9,Everton,2023_2024,0,0,0,0.00,0.00,0,40
+236,Kiernan Dewsbury-Hall,9,Everton,2023_2024,1,0,450,0.99,0.83,110,66
+238,Jack Grealish,9,Everton,2023_2024,0,0,135,0.02,0.44,36,65
+239,James Garner,9,Everton,2023_2024,0,0,328,0.20,0.17,71,60
+242,Tyrique George,9,Everton,2023_2024,1,0,309,0.35,0.32,77,55
+243,Carlos Alcaraz Durán,9,Everton,2023_2024,0,0,5,0.05,0.02,5,49
+244,Harrison Armstrong,9,Everton,2023_2024,0,1,446,0.21,0.49,61,50
+245,Tyler Dibling,9,Everton,2023_2024,0,0,24,0.17,0.16,10,54
+246,Merlin Röhl,9,Everton,2023_2024,0,0,249,0.00,0.20,35,49
+247,Hayden Hackney,9,Everton,2023_2024,0,1,137,0.05,0.13,39,54
+248,Norberto Bercique Gomes Betuncal,9,Everton,2023_2024,0,0,31,0.09,0.00,5,54
+249,Thierno Barry,9,Everton,2023_2024,2,0,417,3.50,0.15,83,57
+649,Ainsley Maitland-Niles,9,Everton,2023_2024,1,0,177,0.06,0.25,75,45
+654,Braiden Graham,9,Everton,2023_2024,0,0,0,0.00,0.00,0,45
+250,Bernd Leno,10,Fulham,2023_2024,0,0,450,0.00,0.00,77,45
+251,Benjamin Lecomte,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,40
+252,Alfie McNally,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,40
+253,Joachim Andersen,10,Fulham,2023_2024,0,0,190,0.00,0.10,12,50
+254,Antonee Robinson,10,Fulham,2023_2024,0,0,429,0.26,0.30,65,45
+255,Jorge Cuenca Barreno,10,Fulham,2023_2024,0,0,90,0.00,0.03,7,45
+256,Kenny Tete,10,Fulham,2023_2024,0,0,27,0.00,0.00,-1,44
+257,Calvin Bassey,10,Fulham,2023_2024,0,1,450,0.13,0.08,69,45
+258,Timothy Castagne,10,Fulham,2023_2024,0,2,408,0.67,0.39,64,45
+261,Alex Iwobi,10,Fulham,2023_2024,0,0,408,0.39,1.22,94,54
+262,Emile Smith Rowe,10,Fulham,2023_2024,0,0,38,0.06,0.02,11,53
+263,Kevin Santos Lopes de Macedo,10,Fulham,2023_2024,0,0,61,0.07,0.12,14,53
+264,Oscar Bobb,10,Fulham,2023_2024,0,0,343,0.54,1.14,53,55
+265,Sander Berge,10,Fulham,2023_2024,0,0,349,0.08,0.36,67,49
+266,Tom Cairney,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,49
+268,Josh King,10,Fulham,2023_2024,2,0,425,1.54,0.46,109,55
+269,Ryan Sessegnon,10,Fulham,2023_2024,0,0,50,0.13,0.44,13,43
+270,Harrison Reed,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,44
+271,Rodrigo Muniz Carvalho,10,Fulham,2023_2024,0,0,38,0.40,0.00,14,54
+272,Jonah Kusi-Asare,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,45
+569,Gonzalo García,10,Fulham,2023_2024,1,0,425,2.33,0.58,53,60
+570,César Palacios,10,Fulham,2023_2024,1,0,226,0.98,0.03,48,54
+580,Shea Charles,10,Fulham,2023_2024,0,0,303,0.09,0.16,60,50
+610,Luc De Fougerolles,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,40
+626,Macaulay Zepa,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,44
+635,Hugo Larsson,10,Fulham,2023_2024,0,0,37,0.13,0.23,9,50
+636,Manuel Ángel Morán Ibáñez,10,Fulham,2023_2024,0,0,0,0.00,0.00,0,50
+650,David Affengruber,10,Fulham,2023_2024,0,0,180,0.00,0.02,40,45
+240,Tim Iroegbunam,11,Hull City,2023_2024,0,0,70,0.12,0.01,10,50
+273,Dillon Phillips,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,40
+274,Jack Butland,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,44
+275,Harvey Cartwright,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,40
+276,Thimothée Lo-Tutala,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,40
+277,John Egan,11,Hull City,2023_2024,0,0,437,0.05,0.00,71,41
+278,Charlie Hughes,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,39
+279,Semi Ajayi,11,Hull City,2023_2024,1,0,423,0.66,0.01,79,42
+280,Lewie Coyle,11,Hull City,2023_2024,0,0,348,0.13,0.07,49,40
+281,Cody Drameh,11,Hull City,2023_2024,0,0,65,0.05,0.00,8,40
+282,Ryan Giles,11,Hull City,2023_2024,0,1,444,0.02,0.43,94,40
+283,Matty Jacob,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,40
+284,Cathal McCarthy,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,40
+285,Paddy McNair,11,Hull City,2023_2024,0,0,26,0.00,0.00,3,40
+286,Mohamed Belloumi,11,Hull City,2023_2024,2,2,394,0.72,0.43,111,51
+287,Liam Millar,11,Hull City,2023_2024,1,0,50,0.58,0.00,26,50
+288,Kieran Dowell,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,45
+289,Matt Crooks,11,Hull City,2023_2024,0,0,203,0.00,0.12,17,44
+290,Regan Slater,11,Hull City,2023_2024,0,1,437,0.21,0.59,67,45
+291,Eliot Matazo,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,45
+292,Abdülkadir Ömür,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,49
+293,Abu Kamara,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,50
+294,Óscar Zambrano,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,45
+295,Oli McBurnie,11,Hull City,2023_2024,0,2,441,1.23,0.13,52,55
+296,David Akintola,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,50
+297,Darko Gyabi,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,44
+298,Enis Destan,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,45
+299,Mason Burstow,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,45
+340,Joe Gelhardt,11,Hull City,2023_2024,0,0,7,0.10,0.02,5,50
+556,Matt Targett,11,Hull City,2023_2024,0,0,5,0.00,0.00,3,40
+563,Hidemasa Morita,11,Hull City,2023_2024,0,0,45,0.00,0.00,6,49
+572,Konstantinos Tzolakis,11,Hull City,2023_2024,0,0,450,0.00,0.00,129,47
+574,Jens Hjertø-Dahl,11,Hull City,2023_2024,0,0,8,0.00,0.00,4,49
+576,Elliot Stroud,11,Hull City,2023_2024,0,0,249,0.06,0.05,17,50
+585,Lucas Herrington,11,Hull City,2023_2024,0,0,197,0.02,0.04,19,40
+586,Nobel Mendy,11,Hull City,2023_2024,1,0,249,0.32,0.00,69,41
+589,Lucas Gourna-Douath,11,Hull City,2023_2024,0,0,138,0.03,0.03,18,50
+617,Mohamed-Ali Cho,11,Hull City,2023_2024,1,0,72,0.79,0.36,36,50
+632,Ilyas Ansah,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,50
+637,Robinio Vaz,11,Hull City,2023_2024,0,0,20,0.00,0.01,8,50
+638,Brooke Norton-Cuffy,11,Hull City,2023_2024,0,0,34,0.05,0.00,3,40
+642,Sorba Thomas,11,Hull City,2023_2024,0,0,119,0.21,0.11,13,55
+645,Christos Mouzakitis,11,Hull City,2023_2024,0,0,0,0.00,0.00,0,50
+259,Issa Diop,12,Ipswich Town,2023_2024,0,0,450,0.06,0.16,45,40
+267,Saša Lukić,12,Ipswich Town,2023_2024,0,1,400,0.02,0.41,68,49
+300,Christian Walton,12,Ipswich Town,2023_2024,0,0,90,0.00,0.01,10,44
+301,Alex Palmer,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,40
+302,David Button,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,40
+303,Cédric Kipré,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,39
+304,Dara O'Shea,12,Ipswich Town,2023_2024,0,0,450,0.07,0.26,24,40
+305,Leif Davis,12,Ipswich Town,2023_2024,2,2,450,1.59,0.46,52,40
+306,Jacob Greaves,12,Ipswich Town,2023_2024,0,0,357,0.00,0.06,12,40
+307,Ben Johnson,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,40
+308,Darnell Furlong,12,Ipswich Town,2023_2024,0,0,17,0.00,0.00,-1,39
+309,Marcelino Núñez,12,Ipswich Town,2023_2024,0,0,140,0.03,0.05,32,49
+310,Azor Matusiwa,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,49
+311,Wes Burns,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,50
+312,Jack Taylor,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,44
+313,Jack Clarke,12,Ipswich Town,2023_2024,1,0,170,0.30,0.37,48,54
+314,Chiedozie Ogbene,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,49
+315,Abdul Fatawu,12,Ipswich Town,2023_2024,0,1,352,0.17,1.11,71,54
+316,Emersonn Correia da Silva,12,Ipswich Town,2023_2024,2,1,317,1.61,0.12,110,55
+317,George Hirst,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,50
+318,Jaden Philogene,12,Ipswich Town,2023_2024,0,0,52,0.08,0.01,11,54
+319,Sam Szmodics,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,50
+320,Chuba Akpom,12,Ipswich Town,2023_2024,1,0,78,1.14,0.00,36,50
+321,Sindre Walle Egeli,12,Ipswich Town,2023_2024,0,0,10,0.00,0.00,3,45
+322,Ali Al-Hamadi,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,50
+323,Kasey McAteer,12,Ipswich Town,2023_2024,0,0,42,0.05,0.00,12,44
+324,Anis Mehmeti,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,48
+554,Kayne van Oevelen,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,45
+562,Daizen Maeda,12,Ipswich Town,2023_2024,0,0,259,0.71,0.02,32,53
+564,Kjell Scherpen,12,Ipswich Town,2023_2024,0,0,360,0.00,0.01,40,45
+571,Florentino Ibrain Morris Luís,12,Ipswich Town,2023_2024,0,0,30,0.00,0.01,9,48
+591,Julio Enciso,12,Ipswich Town,2023_2024,0,2,413,1.26,0.89,83,55
+592,Abdoul Ouattara,12,Ipswich Town,2023_2024,0,0,131,0.02,0.03,29,40
+602,Cameron Humphreys,12,Ipswich Town,2023_2024,0,0,0,0.00,0.00,0,45
+619,Exequiel Palacios,12,Ipswich Town,2023_2024,0,0,275,0.00,0.09,64,50
+640,Zian Flemming,12,Ipswich Town,2023_2024,1,0,60,0.64,0.01,34,55
+260,Harry Wilson,13,Leeds,2023_2024,0,0,145,0.01,0.09,19,62
+326,Lucas Estella Perri,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,45
+327,Jaka Bijol,13,Leeds,2023_2024,0,0,164,0.11,0.00,29,50
+329,Joe Rodon,13,Leeds,2023_2024,0,0,123,0.03,0.06,25,43
+330,Jayden Bogle,13,Leeds,2023_2024,2,0,365,1.38,0.08,122,46
+331,Gabriel Gudmundsson,13,Leeds,2023_2024,0,0,252,0.00,0.21,62,45
+332,James Justin,13,Leeds,2023_2024,0,0,450,0.22,0.42,91,45
+333,Sebastiaan Bornauw,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,45
+334,Tarik Muharemović,13,Leeds,2023_2024,0,1,450,0.49,0.05,101,50
+335,Anton Stach,13,Leeds,2023_2024,1,0,447,0.97,0.31,86,60
+336,Noah Okafor,13,Leeds,2023_2024,1,0,299,0.17,0.27,82,58
+337,Brenden Aaronson,13,Leeds,2023_2024,0,0,194,0.01,0.02,36,53
+338,Ethan Ampadu,13,Leeds,2023_2024,0,1,450,0.08,0.26,87,54
+339,Sean Longstaff,13,Leeds,2023_2024,0,0,10,0.00,0.00,7,49
+341,Wilfried Gnonto,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,50
+342,Jack Harrison,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,50
+343,Daniel James,13,Leeds,2023_2024,0,0,52,0.35,0.01,9,49
+344,Ilia Gruev,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,50
+345,Tanaka Ao,13,Leeds,2023_2024,0,2,255,0.73,0.05,48,49
+346,Dominic Calvert-Lewin,13,Leeds,2023_2024,2,1,419,3.00,0.08,73,60
+347,Lukas Nmecha,13,Leeds,2023_2024,0,1,64,0.27,0.15,28,54
+348,Joël Piroe,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,50
+349,Mateo Joseph Fernández-Regatillo,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,45
+385,James Trafford,13,Leeds,2023_2024,0,0,450,0.00,0.00,117,50
+598,Nico Elvedi,13,Leeds,2023_2024,0,0,326,0.12,0.58,56,45
+603,Jayden Lienou,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,40
+604,Alfie Cresswell,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,45
+625,Alex Cairns,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,40
+629,Michael Zetterer,13,Leeds,2023_2024,0,0,0,0.00,0.00,0,40
+641,Melvin Bard,13,Leeds,2023_2024,0,0,18,0.00,0.00,1,45
+648,Jean-Mattéo Bahoya,13,Leeds,2023_2024,0,0,1,0.00,0.00,5,50
+350,Alisson Becker,14,Liverpool,2023_2024,0,0,450,0.00,0.00,96,55
+351,Giorgi Mamardashvili,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,49
+352,Freddie Woodman,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,40
+353,Armin Pecsi,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,40
+354,Vitezslav Jaros,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,40
+355,Harvey Davies,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,40
+356,Virgil van Dijk,14,Liverpool,2023_2024,0,0,450,0.25,0.08,96,65
+357,Jeremie Frimpong,14,Liverpool,2023_2024,0,0,178,0.01,0.23,24,53
+358,Milos Kerkez,14,Liverpool,2023_2024,0,0,385,0.07,0.08,63,53
+359,Joe Gomez,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,49
+360,Conor Bradley,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,50
+361,Wellity Lucky,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,40
+362,Jeremy Jacquet,14,Liverpool,2023_2024,0,0,415,0.00,0.14,112,50
+363,Giovanni Leoni,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,40
+364,Kostas Tsimikas,14,Liverpool,2023_2024,0,0,64,0.04,0.02,6,49
+365,Calvin Ramsay,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,40
+366,Florian Wirtz,14,Liverpool,2023_2024,0,2,402,1.00,0.40,92,73
+367,Cody Gakpo,14,Liverpool,2023_2024,1,3,370,0.64,1.71,113,72
+368,Dominik Szoboszlai,14,Liverpool,2023_2024,1,0,440,1.42,0.82,103,70
+369,Rio Ngumoha,14,Liverpool,2023_2024,0,0,99,0.15,0.05,13,57
+370,Federico Chiesa,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,53
+371,Ryan Gravenberch,14,Liverpool,2023_2024,0,1,190,0.10,0.08,51,58
+372,Alexis Mac Allister,14,Liverpool,2023_2024,0,0,306,0.10,0.49,59,54
+373,Curtis Jones,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,55
+374,Endo Wataru,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,49
+375,Trey Nyoni,14,Liverpool,2023_2024,0,0,38,0.00,0.00,9,49
+376,Stefan Bajčetić Maquieira,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,50
+377,Victor Munoz,14,Liverpool,2023_2024,1,1,257,0.52,0.31,60,65
+378,James McConnell,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,44
+379,Alexander Isak,14,Liverpool,2023_2024,4,0,413,3.54,0.08,133,91
+380,Hugo Ekitiké,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,74
+381,Lewis Koumas,14,Liverpool,2023_2024,0,0,22,0.28,0.00,14,50
+382,Jayden Danns,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,45
+383,Harvey Elliott,14,Liverpool,2023_2024,0,0,0,0.00,0.00,0,54
+579,Ronald Araujo,14,Liverpool,2023_2024,0,0,284,0.00,0.06,81,54
+627,Bradley Barcola,14,Liverpool,2023_2024,0,0,168,0.26,0.13,22,80
+155,Enzo Fernández,15,Man City,2023_2024,1,0,271,0.35,0.53,73,69
+237,Iliman Ndiaye,15,Man City,2023_2024,0,2,385,0.38,0.58,110,58
+384,Gianluigi Donnarumma,15,Man City,2023_2024,0,0,450,0.00,0.00,84,55
+386,Marcus Bettinelli,15,Man City,2023_2024,0,0,0,0.00,0.00,0,45
+387,Nico O'Reilly,15,Man City,2023_2024,0,0,163,0.87,0.43,22,63
+388,Marc Guéhi,15,Man City,2023_2024,1,1,450,0.95,0.39,114,60
+389,Matheus Nunes,15,Man City,2023_2024,0,0,213,0.00,0.06,38,59
+390,Rúben dos Santos Gato Alves Dias,15,Man City,2023_2024,0,0,450,0.29,0.74,72,55
+391,Joško Gvardiol,15,Man City,2023_2024,1,3,434,0.22,0.74,135,57
+392,Rayan Aït-Nouri,15,Man City,2023_2024,0,0,0,0.00,0.00,0,53
+393,Abdukodir Khusanov,15,Man City,2023_2024,0,0,268,0.00,0.06,53,54
+394,Max Alleyne,15,Man City,2023_2024,0,0,0,0.00,0.00,0,50
+395,Rico Lewis,15,Man City,2023_2024,0,0,56,0.17,0.02,-1,44
+396,Vitor de Oliveira Nunes dos Reis,15,Man City,2023_2024,0,0,1,0.00,0.00,3,45
+397,Antoine Semenyo,15,Man City,2023_2024,2,3,450,0.33,1.16,147,84
+398,Phil Foden,15,Man City,2023_2024,0,2,217,1.61,0.88,52,69
+399,Rayan Cherki,15,Man City,2023_2024,3,2,302,0.72,1.54,150,78
+400,Jérémy Doku,15,Man City,2023_2024,0,0,15,0.23,0.32,7,74
+402,Rodrigo 'Rodri' Hernandez Cascante,15,Man City,2023_2024,0,0,0,0.00,0.00,0,65
+404,Tijjani Reijnders,15,Man City,2023_2024,0,0,0,0.00,0.00,0,60
+406,Mateo Kovačić,15,Man City,2023_2024,0,0,42,0.00,0.02,12,54
+407,Claudio Echeverri,15,Man City,2023_2024,0,0,0,0.00,0.00,0,49
+408,Kalvin Phillips,15,Man City,2023_2024,0,0,0,0.00,0.00,0,50
+409,Divine Mukasa,15,Man City,2023_2024,0,0,0,0.00,0.00,0,45
+410,Jeremy Monga,15,Man City,2023_2024,0,0,0,0.00,0.00,0,49
+411,Erling Haaland,15,Man City,2023_2024,5,0,450,4.42,0.53,167,156
+481,Elliot Anderson,15,Man City,2023_2024,0,0,413,0.11,0.67,95,63
+587,Gerónimo Rulli,15,Man City,2023_2024,0,0,0,0.00,0.00,0,50
+616,Ayyoub Bouaddi,15,Man City,2023_2024,0,0,22,0.00,0.12,8,55
+621,Ryan McAidoo,15,Man City,2023_2024,0,0,11,0.10,0.00,8,45
+622,Kaden Braithwaite,15,Man City,2023_2024,0,0,1,0.00,0.00,3,40
+628,Allan Andrade Elias,15,Man City,2023_2024,0,0,0,0.00,0.00,0,60
+653,Floyd Samba,15,Man City,2023_2024,0,0,0,0.00,0.00,0,45
+43,Youri Tielemans,16,Man Utd,2023_2024,0,0,402,0.65,0.52,93,58
+131,Carlos Baleba,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,49
+162,Andrey Nascimento dos Santos,16,Man Utd,2023_2024,0,0,82,0.00,0.24,23,48
+325,Karl Darlow,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,45
+412,Senne Lammens,16,Man Utd,2023_2024,0,0,450,0.00,0.00,58,49
+413,Altay Bayındır,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,45
+414,Tom Heaton,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,40
+415,Patrick Dorgu,16,Man Utd,2023_2024,0,1,171,0.78,0.09,27,58
+416,Matthijs de Ligt,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,50
+417,Diogo Dalot Teixeira,16,Man Utd,2023_2024,0,0,346,0.24,0.23,46,49
+418,Harry Maguire,16,Man Utd,2023_2024,0,1,450,0.20,0.46,50,48
+419,Lisandro Martínez,16,Man Utd,2023_2024,0,0,360,0.21,0.16,29,50
+420,Leny Yoro,16,Man Utd,2023_2024,0,0,22,0.00,0.02,-1,48
+421,Ayden Heaven,16,Man Utd,2023_2024,0,0,90,0.12,0.04,5,44
+422,Noussair Mazraoui,16,Man Utd,2023_2024,0,0,97,0.22,0.06,6,44
+423,Luke Shaw,16,Man Utd,2023_2024,0,1,335,0.03,0.58,54,43
+424,Harry Amass,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,40
+425,Tyler Fredricson,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,40
+426,Bruno Borges Fernandes,16,Man Utd,2023_2024,3,1,450,2.56,1.32,148,119
+427,Bryan Mbeumo,16,Man Utd,2023_2024,2,1,450,3.07,0.80,110,79
+428,Matheus Santos Carneiro da Cunha,16,Man Utd,2023_2024,1,2,407,0.63,0.83,95,79
+429,Marcus Rashford,16,Man Utd,2023_2024,0,0,351,0.78,0.43,58,70
+430,Mason Mount,16,Man Utd,2023_2024,0,0,10,0.09,0.01,3,54
+431,Amad Diallo,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,57
+432,Kobbie Mainoo,16,Man Utd,2023_2024,0,1,354,0.30,0.52,102,55
+433,Manuel Ugarte Ribeiro,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,50
+434,Jack Fletcher,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,49
+435,Shea Lacey,16,Man Utd,2023_2024,0,0,10,0.00,0.00,3,49
+436,Toby Collyer,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,50
+437,Bendito Mantato,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,44
+438,Tyler Fletcher,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,44
+439,Benjamin Sesko,16,Man Utd,2023_2024,1,0,76,0.39,0.01,39,70
+440,Joshua Zirkzee,16,Man Utd,2023_2024,0,0,20,0.00,0.01,8,53
+441,Chido Obi,16,Man Utd,2023_2024,0,0,0,0.00,0.00,0,45
+405,Nico González Iglesias,17,Newcastle,2023_2024,0,0,164,0.00,0.21,23,55
+442,Nick Pope,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,49
+443,Mark Gillespie,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,45
+444,Ewen Jaouen,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,44
+445,Malick Thiaw,17,Newcastle,2023_2024,0,0,450,0.00,0.08,32,50
+446,Fabian Schär,17,Newcastle,2023_2024,0,0,25,0.00,0.01,0,49
+447,Sven Botman,17,Newcastle,2023_2024,0,0,450,0.06,0.17,43,50
+448,Dan Burn,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,48
+449,Lewis Hall,17,Newcastle,2023_2024,1,1,449,0.25,0.79,127,53
+450,Tino Livramento,17,Newcastle,2023_2024,0,1,33,0.00,0.01,12,49
+451,Alex Murphy,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,40
+453,Harvey Barnes,17,Newcastle,2023_2024,1,3,450,0.62,0.48,105,61
+454,Anthony Elanga,17,Newcastle,2023_2024,2,0,232,0.42,0.34,71,61
+456,Jacob Ramsey,17,Newcastle,2023_2024,1,0,69,0.17,0.16,26,49
+457,Jacob Murphy,17,Newcastle,2023_2024,0,0,181,0.03,0.41,21,59
+458,Joelinton Cássio Apolinário de Lira,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,54
+459,Lewis Miley,17,Newcastle,2023_2024,0,0,396,0.05,0.14,68,55
+460,Joe Willock,17,Newcastle,2023_2024,2,0,284,0.81,0.30,80,50
+461,Bazoumana Touré,17,Newcastle,2023_2024,1,0,50,0.28,0.01,29,58
+462,Sean Steur,17,Newcastle,2023_2024,0,0,223,0.00,0.06,42,49
+463,Nick Woltemade,17,Newcastle,2023_2024,0,1,19,0.02,0.01,18,59
+464,Yoane Wissa,17,Newcastle,2023_2024,1,1,441,2.35,0.06,54,62
+465,William Osula,17,Newcastle,2023_2024,0,1,55,0.06,0.14,18,58
+466,Sean Neave,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,45
+559,Aladji Bamba,17,Newcastle,2023_2024,0,0,27,0.00,0.00,12,49
+567,Lukás Hornícek,17,Newcastle,2023_2024,0,0,450,0.00,0.00,72,50
+593,Amar Dedic,17,Newcastle,2023_2024,0,1,327,0.14,0.08,36,45
+609,Leo Shahar,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,40
+634,Matias Fernandez-Pardo,17,Newcastle,2023_2024,0,0,157,0.05,0.01,16,60
+659,Mason Miley,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,45
+663,Miodrag Pivas,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,40
+664,Vakhtang Salia,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,45
+665,Michael Mills,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,45
+666,Kyran Thompson,17,Newcastle,2023_2024,0,0,0,0.00,0.00,0,45
+167,Liam Delap,18,Nott'm Forest,2023_2024,1,0,277,0.89,0.35,49,56
+201,Daniel Muñoz Mejía,18,Nott'm Forest,2023_2024,0,0,257,0.60,0.21,29,54
+467,Matz Sels,18,Nott'm Forest,2023_2024,0,0,450,0.00,0.01,67,50
+468,John Victor Maciel Furtado,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,45
+469,Neco Williams,18,Nott'm Forest,2023_2024,0,1,450,0.41,0.61,85,50
+470,Felipe Rodrigues da Silva,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,50
+471,Nikola Milenković,18,Nott'm Forest,2023_2024,0,0,270,0.11,0.03,34,54
+472,Murillo Costa dos Santos,18,Nott'm Forest,2023_2024,0,1,449,0.42,0.37,76,55
+473,Ola Aina,18,Nott'm Forest,2023_2024,0,0,306,0.04,0.53,45,44
+474,Jair Paula da Cunha Filho,18,Nott'm Forest,2023_2024,0,0,360,0.05,0.02,40,45
+475,Nicolò Savona,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,45
+476,Omar Richards,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,40
+477,Zach Abbott,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,40
+478,Luca Netz,18,Nott'm Forest,2023_2024,0,0,27,0.00,0.02,8,44
+479,Tyler Bindon,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,40
+480,Morgan Gibbs-White,18,Nott'm Forest,2023_2024,1,2,450,1.56,1.42,116,80
+482,Callum Hudson-Odoi,18,Nott'm Forest,2023_2024,0,0,1,0.00,0.00,2,58
+483,Dan Ndoye,18,Nott'm Forest,2023_2024,1,0,316,1.25,0.93,44,55
+484,Omari Hutchinson,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,54
+485,Dilane Bakwa,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,55
+486,James McAtee,18,Nott'm Forest,2023_2024,0,0,416,0.37,0.96,91,55
+487,Nicolás Domínguez,18,Nott'm Forest,2023_2024,0,0,1,0.00,0.00,3,49
+488,Ibrahim Sangaré,18,Nott'm Forest,2023_2024,0,0,105,0.09,0.02,15,49
+489,Ryan Yates,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,45
+490,Chris Wood,18,Nott'm Forest,2023_2024,0,0,62,0.12,0.01,13,58
+491,Igor Jesus Maciel da Cruz,18,Nott'm Forest,2023_2024,1,0,257,1.25,0.08,53,58
+493,Arnaud Kalimuendo,18,Nott'm Forest,2023_2024,0,0,1,0.00,0.00,3,54
+558,Xaver Schlager,18,Nott'm Forest,2023_2024,0,0,376,0.19,0.18,70,50
+581,Ousmane Diomande,18,Nott'm Forest,2023_2024,0,0,163,0.16,0.01,17,54
+590,Steven Benda,18,Nott'm Forest,2023_2024,0,0,0,0.00,0.00,0,45
+112,Jan Paul van Hecke,19,Spurs,2023_2024,1,0,450,0.69,0.42,85,49
+147,Tosin Adarabioyo,19,Spurs,2023_2024,0,0,5,0.00,0.00,5,44
+401,Omar Marmoush,19,Spurs,2023_2024,0,0,339,0.38,0.15,37,70
+403,Sávio Moreira de Oliveira,19,Spurs,2023_2024,0,0,240,0.41,0.70,66,65
+455,Sandro Tonali,19,Spurs,2023_2024,0,0,427,0.24,0.61,86,53
+494,Guglielmo Vicario,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,45
+495,Brandon Austin,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,40
+496,Antonín Kinský,19,Spurs,2023_2024,0,0,450,0.00,0.00,77,45
+497,Martin Dubravka,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,40
+498,Marcos Senesi Barón,19,Spurs,2023_2024,0,0,90,0.00,0.02,10,58
+499,Pedro Porro Sauceda,19,Spurs,2023_2024,0,0,198,0.37,0.16,33,54
+500,Cristian Romero,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,50
+502,Andrew Robertson,19,Spurs,2023_2024,0,1,366,0.13,0.43,68,44
+503,Micky van de Ven,19,Spurs,2023_2024,0,0,360,0.59,0.05,69,50
+505,Djed Spence,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,45
+506,Destiny Udogie,19,Spurs,2023_2024,0,0,86,0.00,0.23,21,44
+507,Ashley Phillips,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,45
+508,Ben Davies,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,39
+509,Jun'ai Byfield,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,40
+510,James Rowswell,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,40
+511,João Victor de Souza Menezes,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,40
+512,Mohammed Kudus,19,Spurs,2023_2024,0,1,123,0.11,0.42,49,65
+513,Xavi Simons,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,59
+514,Mathys Tel,19,Spurs,2023_2024,0,0,257,0.21,0.23,41,57
+515,James Maddison,19,Spurs,2023_2024,0,0,59,0.06,0.04,18,63
+516,Rodrigo Bentancur,19,Spurs,2023_2024,0,0,370,0.02,0.12,69,55
+517,Wilson Odobert,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,55
+518,Pape Matar Sarr,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,49
+519,Conor Gallagher,19,Spurs,2023_2024,1,0,134,0.37,0.12,48,53
+520,Lucas Bergvall,19,Spurs,2023_2024,0,0,78,0.06,0.27,13,53
+521,Dejan Kulusevski,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,65
+522,Archie Gray,19,Spurs,2023_2024,0,0,307,0.23,0.05,51,49
+523,Mikey Moore,19,Spurs,2023_2024,0,0,89,0.40,0.02,11,50
+524,Callum Olusesi,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,44
+525,Mateus Fernandes,19,Spurs,2023_2024,0,0,249,0.19,0.28,50,57
+526,Dominic Solanke-Mitchell,19,Spurs,2023_2024,0,0,170,0.56,0.01,21,58
+527,Richarlison de Andrade,19,Spurs,2023_2024,0,0,67,0.00,0.00,6,59
+528,Dane Scarlett,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,45
+578,Mykhailo Mudryk,19,Spurs,2023_2024,0,0,16,0.00,0.00,3,53
+601,Luca Williams-Barnett,19,Spurs,2023_2024,0,0,0,0.00,0.00,0,45
+501,Kevin Danso,20,Sunderland,2023_2024,0,0,270,0.07,0.17,7,50
+529,Robin Roefs,20,Sunderland,2023_2024,0,0,450,0.00,0.01,41,49
+530,Anthony Patterson,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,40
+531,Melker Ellborg,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,44
+532,Daniel Ballard,20,Sunderland,2023_2024,0,0,450,0.31,0.16,31,49
+533,Nordi Mukiele,20,Sunderland,2023_2024,0,0,360,0.75,0.28,44,54
+534,Trai Hume,20,Sunderland,2023_2024,0,0,206,0.14,0.29,44,43
+535,Omar Alderete,20,Sunderland,2023_2024,0,0,23,0.00,0.01,2,48
+536,Reinildo Mandava,20,Sunderland,2023_2024,0,0,360,0.00,0.32,37,44
+537,Jenson Seelt,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,45
+538,Leo Fuhr Hjelde,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,40
+539,Luke O'Nien,20,Sunderland,2023_2024,0,0,66,0.01,0.01,1,39
+540,Arthur Masuaku,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,40
+541,Thomas Meunier,20,Sunderland,2023_2024,0,1,396,0.34,0.58,42,45
+542,Enzo Le Fée,20,Sunderland,2023_2024,1,1,438,2.06,1.34,90,57
+543,Habib Diarra,20,Sunderland,2023_2024,0,1,28,0.03,0.16,18,53
+544,Granit Xhaka,20,Sunderland,2023_2024,0,1,450,0.06,1.32,116,55
+545,Noah Sadiki,20,Sunderland,2023_2024,0,0,410,0.44,0.24,75,49
+546,Simon Adingra,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,49
+547,Romaine Mundle,20,Sunderland,2023_2024,0,0,1,0.17,0.00,2,49
+548,Chris Rigg,20,Sunderland,2023_2024,0,0,17,0.00,0.00,6,49
+549,Chemsdine Talbi,20,Sunderland,2023_2024,0,0,31,0.00,0.00,1,53
+550,Djiamgone Jocelin Ta Bi,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,50
+551,Nilson Angulo,20,Sunderland,2023_2024,1,1,313,0.60,0.13,67,50
+552,Brian Brobbey,20,Sunderland,2023_2024,3,0,399,2.94,0.11,113,57
+553,Wilson Isidor,20,Sunderland,2023_2024,1,1,117,1.49,0.01,51,55
+612,Dayann Méthalie,20,Sunderland,2023_2024,0,0,90,0.03,0.01,-8,45
+613,Jules Ahoka,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,45
+646,Malick Fofana,20,Sunderland,2023_2024,0,0,60,0.39,0.01,11,55
+651,Juan Angulo,20,Sunderland,2023_2024,0,0,0,0.00,0.00,0,45

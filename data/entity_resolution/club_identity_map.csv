@@ -1,0 +1,41 @@
+master_club_id,source,source_club_id,source_club_name
+club_b70f675b,fpl,1,Arsenal
+club_898aa437,fpl,2,Aston Villa
+club_a08f1467,fpl,3,Bournemouth
+club_1e9d3712,fpl,4,Brentford
+club_86cc3bbf,fpl,5,Brighton
+club_1a5d8c77,fpl,6,Chelsea
+club_68009b93,fpl,7,Coventry City
+club_b64977e2,fpl,8,Crystal Palace
+club_22c6bafe,fpl,9,Everton
+club_8e8a0eba,fpl,10,Fulham
+club_22cb282f,fpl,11,Hull City
+club_b8d417d9,fpl,12,Ipswich Town
+club_29953b9a,fpl,13,Leeds
+club_99d441bd,fpl,14,Liverpool
+club_dcaf52a6,fpl,15,Man City
+club_b9a1015f,fpl,16,Man Utd
+club_af52f2ce,fpl,17,Newcastle
+club_8ed600ff,fpl,18,Nott'm Forest
+club_4341ec00,fpl,19,Spurs
+club_8a64e9d7,fpl,20,Sunderland
+club_db38f5d0,football_data,Burnley,Burnley
+club_dcaf52a6,football_data,Man City,Man City
+club_b70f675b,football_data,Arsenal,Arsenal
+club_8ed600ff,football_data,Nott'm Forest,Nott'm Forest
+club_a08f1467,football_data,Bournemouth,Bournemouth
+club_7da3e2f2,football_data,West Ham,West Ham
+club_86cc3bbf,football_data,Brighton,Brighton
+club_81d2a1df,football_data,Luton,Luton
+club_22c6bafe,football_data,Everton,Everton
+club_8e8a0eba,football_data,Fulham,Fulham
+club_6bdd1242,football_data,Sheffield United,Sheffield United
+club_b64977e2,football_data,Crystal Palace,Crystal Palace
+club_af52f2ce,football_data,Newcastle,Newcastle
+club_898aa437,football_data,Aston Villa,Aston Villa
+club_1e9d3712,football_data,Brentford,Brentford
+club_4341ec00,football_data,Tottenham,Tottenham
+club_1a5d8c77,football_data,Chelsea,Chelsea
+club_99d441bd,football_data,Liverpool,Liverpool
+club_b9a1015f,football_data,Man United,Man United
+club_a47fd926,football_data,Wolves,Wolves
