@@ -1,0 +1,6 @@
+feature,2021_2022,2022_2023,2023_2024,overall_coverage,source,temporal_validity,status
+age_at_transfer,26/26,43/43,302/302,371/371,Transfermarkt,VALID,CORE
+position,26/26,43/43,302/302,371/371,Transfermarkt,VALID,CORE
+nationality,26/26,43/43,302/302,371/371,Transfermarkt,VALID,CORE
+prev_season_points,0/26,8/43,27/302,35/371,football-data,VALID,ENRICHED
+prev_season_goals_per90,0/26,0/43,0/302,0/371,FPL,VALID,ENRICHED

@@ -1,0 +1,4 @@
+feature_name,source,observation_period,temporal_status,leakage_risk,notes
+previous_season_goals,FPL/Understat,T-1 Season,VALID,LOW,Safe for summer transfers
+current_season_goals,FPL,T Season,INVALID,HIGH,Cannot use end of season stats to predict transfer at start of season
+market_value,Transfermarkt,Unknown/Retroactive,INVALID,HIGH,Requires strict timestamp alignment to be safe

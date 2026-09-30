@@ -17,45 +17,53 @@ class UnderstatParser(BaseParser):
             with open(file, 'r', encoding='utf-8') as f:
                 html = f.read()
                 
-            # Regex to find the JSON payload for playersData
-            match = re.search(r"var playersData\s*=\s*JSON\.parse\('(.*?)'\);", html)
+            # Regex to find the JSON payload for teamsData
+            match = re.search(r"var teamsData\s*=\s*JSON\.parse\('(.*?)'\);", html)
             if not match:
-                self.logger.error(f"Could not find playersData in {file.name}")
+                self.logger.error(f"Could not find teamsData in {file.name}")
                 continue
                 
             raw_data = match.group(1)
-            # Understat escapes hex codes, e.g., \x22 for "
             decoded_data = raw_data.encode('utf-8').decode('unicode_escape')
             
             try:
-                players = json.loads(decoded_data)
+                teams = json.loads(decoded_data)
             except json.JSONDecodeError as e:
                 self.logger.error(f"Failed to parse JSON in {file.name}: {e}")
                 continue
                 
             parsed_rows = []
-            headers = ["source_player_id", "source_player_name", "source_club_name", "season_id", 
-                       "games", "time", "goals", "xG", "assists", "xA", "shots", "key_passes"]
+            headers = ["source_club_id", "source_club_name", "season_id", 
+                       "matches", "goals", "xG", "missed", "xGA", "pts", "xpts"]
                        
-            for p in players:
+            for team_id, t_data in teams.items():
+                hist = t_data.get("history", [])
+                
+                # Aggregate season totals
+                matches = len(hist)
+                goals = sum(h.get("scored", 0) for h in hist)
+                xG = sum(h.get("xG", 0.0) for h in hist)
+                missed = sum(h.get("missed", 0) for h in hist)
+                xGA = sum(h.get("xGA", 0.0) for h in hist)
+                pts = sum(h.get("pts", 0) for h in hist)
+                xpts = sum(h.get("xpts", 0.0) for h in hist)
+                
                 row = {
-                    "source_player_id": p.get("id"),
-                    "source_player_name": p.get("player_name"),
-                    "source_club_name": p.get("team_title"),
+                    "source_club_id": t_data.get("id", team_id),
+                    "source_club_name": t_data.get("title"),
                     "season_id": season_id,
-                    "games": p.get("games"),
-                    "time": p.get("time"),
-                    "goals": p.get("goals"),
-                    "xG": p.get("xG"),
-                    "assists": p.get("assists"),
-                    "xA": p.get("xA"),
-                    "shots": p.get("shots"),
-                    "key_passes": p.get("key_passes")
+                    "matches": matches,
+                    "goals": goals,
+                    "xG": round(xG, 2),
+                    "missed": missed,
+                    "xGA": round(xGA, 2),
+                    "pts": pts,
+                    "xpts": round(xpts, 2)
                 }
                 parsed_rows.append(row)
                 
             if parsed_rows:
-                out_name = f"understat_parsed_{season_id}.csv"
+                out_name = f"understat_teams_parsed_{season_id}.csv"
                 self.write_csv(out_name, headers, parsed_rows)
                 parsed_files += 1
                 parsed_records += len(parsed_rows)

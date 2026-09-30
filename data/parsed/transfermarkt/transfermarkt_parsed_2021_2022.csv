@@ -1,0 +1,444 @@
+transfer_id,source_transfer_id,source_player_id,source_player_name,season_id,fee_status,raw_fee_string,raw_row_text
+9a29c0d4-041,3469581,335721,Ben White,2021_2022,DISCLOSED,€58.50m,Ben White | Ben White | 23 | Right-Back | RB | €28.00m | Brighton | €58.50m
+f01f1a7b-e67,3509558,316264,Martin Ødegaard,2021_2022,DISCLOSED,€35.00m,Martin Ødegaard | M. Ødegaard | 22 | Attacking Midfield | AM | €40.00m | Real Madrid | €35.00m
+336c77d0-1a7,3510351,427568,Aaron Ramsdale,2021_2022,DISCLOSED,€28.00m,Aaron Ramsdale | A. Ramsdale | 23 | Goalkeeper | GK | €12.00m | Sheff Utd | €28.00m
+4eac2e01-6d8,3531271,331560,Takehiro Tomiyasu,2021_2022,DISCLOSED,€18.60m,Takehiro Tomiyasu | T. Tomiyasu | 22 | Centre-Back | CB | €20.00m | Bologna | €18.60m
+82119055-511,3449578,381967,Albert Sambi Lokonga,2021_2022,DISCLOSED,€17.50m,Albert Sambi Lokonga | A. Sambi Lokonga | 21 | Central Midfield | CM | €12.00m | Anderlecht | €17.50m
+2b6e6fad-762,3431985,535955,Nuno Tavares,2021_2022,DISCLOSED,€8.00m,Nuno Tavares | N. Tavares | 21 | Left-Back | LB | €7.00m | Benfica | €8.00m
+97977a37-fdf,3723036,389253,Auston Trusty,2021_2022,DISCLOSED,€1.80m,Auston Trusty | A. Trusty | 23 | Centre-Back | CB | €2.00m | Colorado | €1.80m
+059f3530-4b4,4553678,503769,Arthur Okonkwo,2021_2022,DISCLOSED,-,Arthur Okonkwo | A. Okonkwo | 19 | Goalkeeper | GK | - | Arsenal U23 | -
+15d44250-590,3462052,205757,Dejan Iliev,2021_2022,DISCLOSED,End of loan31/12/2021,Dejan Iliev | D. Iliev | 26 | Goalkeeper | GK | €350k | SKF Sered | End of loan | 31/12/2021
+210bcdd7-d7e,3190561,495666,William Saliba,2021_2022,DISCLOSED,End of loan30/06/2021,William Saliba | W. Saliba | 20 | Centre-Back | CB | €18.00m | Nice | End of loan | 30/06/2021
+e8aec2ba-7ce,3186489,94005,Sead Kolasinac,2021_2022,DISCLOSED,End of loan30/06/2021,Sead Kolasinac | S. Kolasinac | 28 | Centre-Back | CB | €6.50m | FC Schalke 04 | End of loan | 30/06/2021
+432e47a1-62e,3089803,318077,Lucas Torreira,2021_2022,DISCLOSED,End of loan30/06/2021,Lucas Torreira | L. Torreira | 25 | Defensive Midfield | DM | €20.00m | Atlético | End of loan | 30/06/2021
+7ea16009-fa4,3088760,465830,Mattéo Guendouzi,2021_2022,DISCLOSED,End of loan30/06/2021,Mattéo Guendouzi | M. Guendouzi | 22 | Central Midfield | CM | €20.00m | Hertha BSC | End of loan | 30/06/2021
+e0db3a83-53a,3496771,340329,Joe Willock,2021_2022,DISCLOSED,€29.40m,Joe Willock | J. Willock | 21 | Central Midfield | CM | €16.00m | Newcastle | €29.40m
+2e85218c-fc5,3518804,318077,Lucas Torreira,2021_2022,LOAN,0,Lucas Torreira | L. Torreira | 25 | Defensive Midfield | DM | €20.00m | Fiorentina | Loan fee: | €1.50m
+9f1cd40e-2bb,3684505,285845,Ainsley Maitland-Niles,2021_2022,LOAN,0,Ainsley Maitland-Niles | A. Maitland-Niles | 24 | Right-Back | RB | €12.00m | Roma | Loan fee: | €500k
+ae3f1b25-4a2,3548928,46741,David Luiz,2021_2022,DISCLOSED,free transfer,David Luiz | David Luiz | 34 | Centre-Back | CB | €4.00m | Flamengo | free transfer
+b10aaff0-c70,3527206,52769,Willian,2021_2022,DISCLOSED,free transfer,Willian | Willian | 33 | Left Winger | LW | €9.00m | Corinthians | free transfer
+63fc30b0-84c,3716041,215118,Calum Chambers,2021_2022,DISCLOSED,free transfer,Calum Chambers | C. Chambers | 27 | Centre-Back | CB | €12.00m | Aston Villa | free transfer
+ae2ed43a-5c6,3725131,58864,Pierre-Emerick Aubameyang,2021_2022,DISCLOSED,free transfer,Pierre-Emerick Aubameyang | P. Aubameyang | 32 | Centre-Forward | CF | €15.00m | Barcelona | free transfer
+fd423622-72a,3704055,210178,Pablo Marí,2021_2022,DISCLOSED,loan transfer,Pablo Marí | P. Marí | 28 | Centre-Back | CB | €5.00m | Udinese | loan transfer
+600b4759-1c9,3529443,340325,Reiss Nelson,2021_2022,DISCLOSED,loan transfer,Reiss Nelson | R. Nelson | 21 | Left Winger | LW | €9.00m | Feyenoord | loan transfer
+80b6b0c5-bc0,3530677,205657,Rúnar Alex Rúnarsson,2021_2022,DISCLOSED,loan transfer,Rúnar Alex Rúnarsson | R. Rúnarsson | 26 | Goalkeeper | GK | €1.50m | OH Leuven | loan transfer
+a63fadbd-134,3531000,191217,Héctor Bellerín,2021_2022,DISCLOSED,loan transfer,Héctor Bellerín | H. Bellerín | 26 | Right-Back | RB | €25.00m | Real Betis | loan transfer
+a08b1ea7-c88,3215857,128969,Mathew Ryan,2021_2022,DISCLOSED,End of loan30/06/2021,Mathew Ryan | M. Ryan | 29 | Goalkeeper | GK | €6.00m | Brighton | End of loan | 30/06/2021
+c58e4d23-831,3045563,319745,Dani Ceballos,2021_2022,DISCLOSED,End of loan30/06/2021,Dani Ceballos | D. Ceballos | 24 | Central Midfield | CM | €27.00m | Real Madrid | End of loan | 30/06/2021
+852bd55a-e02,3392957,321247,Emiliano Buendía,2021_2022,DISCLOSED,€38.40m,Emiliano Buendía | E. Buendía | 24 | Attacking Midfield | AM | €35.00m | Norwich | €38.40m
+638c8a09-baf,3477204,387626,Leon Bailey,2021_2022,DISCLOSED,€32.00m,Leon Bailey | L. Bailey | 23 | Right Winger | RW | €35.00m | Leverkusen | €32.00m
+4e355b60-e8e,3693135,126664,Lucas Digne,2021_2022,DISCLOSED,€30.00m,Lucas Digne | L. Digne | 28 | Left-Back | LB | €30.00m | Everton | €30.00m
+c21873a3-1fe,3478204,134294,Danny Ings,2021_2022,DISCLOSED,€29.40m,Danny Ings | D. Ings | 29 | Centre-Forward | CF | €22.00m | Southampton | €29.40m
+b3b969a8-edf,3400846,14086,Ashley Young,2021_2022,DISCLOSED,free transfer,Ashley Young | A. Young | 35 | Right-Back | RB | €1.00m | Inter | free transfer
+ceb1754e-bd4,3684497,80444,Philippe Coutinho,2021_2022,DISCLOSED,loan transfer,Philippe Coutinho | P. Coutinho | 29 | Attacking Midfield | AM | €18.00m | Barcelona | loan transfer
+d5869673-486,3701613,75458,Robin Olsen,2021_2022,DISCLOSED,loan transfer,Robin Olsen | R. Olsen | 32 | Goalkeeper | GK | €2.00m | Roma | loan transfer
+55c92bc2-ac0,3484535,342046,Axel Tuanzebe,2021_2022,DISCLOSED,loan transfer,Axel Tuanzebe | A. Tuanzebe | 23 | Centre-Back | CB | €8.00m | Man Utd | loan transfer
+249446fd-fed,4051641,696589,Tim Iroegbunam,2021_2022,DISCLOSED,-,Tim Iroegbunam | T. Iroegbunam | 18 | Central Midfield | CM | - | Aston Villa U23 | -
+32f8f26e-4e0,3710299,533662,Cameron Archer,2021_2022,DISCLOSED,-,Cameron Archer | C. Archer | 19 | Centre-Forward | CF | - | Aston Villa U23 | -
+1a77a0d9-a55,2703450,665390,Jaden Philogene,2021_2022,DISCLOSED,-,Jaden Philogene | J. Philogene | 19 | Left Winger | LW | €500k | Aston Villa U23 | -
+0def45d4-9a1,3541329,659459,Carney Chukwuemeka,2021_2022,DISCLOSED,-,Carney Chukwuemeka | C. Chukwuemeka | 17 | Central Midfield | CM | €1.00m | Aston Villa U23 | -
+34e6d3c6-ec2,3675570,412660,Keinan Davis,2021_2022,DISCLOSED,End of loan31/05/2022,Keinan Davis | K. Davis | 24 | Centre-Forward | CF | €2.50m | Nott'm Forest | End of loan | 31/05/2022
+79997381-178,3526644,61653,Conor Hourihane,2021_2022,DISCLOSED,End of loan31/05/2022,Conor Hourihane | C. Hourihane | 31 | Central Midfield | CM | €1.80m | Sheff Utd | End of loan | 31/05/2022
+eec3b432-cbe,3522799,381362,Wesley Moraes,2021_2022,DISCLOSED,End of loan31/12/2021,Wesley Moraes | Wesley Moraes | 25 | Centre-Forward | CF | €10.00m | Club Brugge | End of loan | 31/12/2021
+cacb46e4-142,3722704,250478,Matt Targett,2021_2022,DISCLOSED,End of loan31/05/2022,Matt Targett | M. Targett | 26 | Left-Back | LB | €17.00m | Newcastle | End of loan | 31/05/2022
+5e6ccb91-eac,3722778,110867,Jed Steer,2021_2022,DISCLOSED,End of loan31/05/2022,Jed Steer | Jed Steer | 29 | Goalkeeper | GK | €600k | Luton | End of loan | 31/05/2022
+bc8800c8-154,3230137,354352,Frédéric Guilbert,2021_2022,DISCLOSED,End of loan30/06/2021,Frédéric Guilbert | F. Guilbert | 26 | Right-Back | RB | €6.00m | R. Strasbourg | End of loan | 30/06/2021
+b2a3facd-2b9,3075930,182201,Mbwana Samatta,2021_2022,DISCLOSED,End of loan30/06/2021,Mbwana Samatta | M. Samatta | 28 | Centre-Forward | CF | €4.20m | Fenerbahçe | End of loan | 30/06/2021
+a935ca9a-14f,3479948,203460,Jack Grealish,2021_2022,DISCLOSED,€117.50m,Jack Grealish | J. Grealish | 25 | Left Winger | LW | €65.00m | Man City | €117.50m
+f3402300-b15,3401837,193469,Björn Engels,2021_2022,DISCLOSED,€3.50m,Björn Engels | B. Engels | 26 | Centre-Back | CB | €3.00m | Royal Antwerp | €3.50m
+07711618-aa1,3380344,34130,Tom Heaton,2021_2022,DISCLOSED,free transfer,Tom Heaton | T. Heaton | 35 | Goalkeeper | GK | €1.00m | Man Utd | free transfer
+4172904a-a71,3694028,183720,Anwar El Ghazi,2021_2022,DISCLOSED,loan transfer,Anwar El Ghazi | A. El Ghazi | 26 | Right Winger | RW | €10.00m | Everton | loan transfer
+76b4371a-1f6,3735109,234189,Trezeguet,2021_2022,DISCLOSED,loan transfer,Trezeguet | Trezeguet | 27 | Left Winger | LW | €10.00m | Basaksehir | loan transfer
+57ad06ef-f67,3380343,67416,Neil Taylor,2021_2022,DISCLOSED,-,Neil Taylor | N. Taylor | 32 | Left-Back | LB | €1.50m | Without Club | -
+b4e28af8-ca1,3380337,66333,Ahmed El Mohamady,2021_2022,DISCLOSED,-,Ahmed El Mohamady | A. El Mohamady | 33 | Right-Back | RB | €1.50m | Retired | -
+3f2ca39d-be5,3453536,328658,Kristoffer Ajer,2021_2022,DISCLOSED,€15.70m,Kristoffer Ajer | K. Ajer | 23 | Centre-Back | CB | €7.00m | Celtic | €15.70m
+884237c2-b04,3491136,388165,Yoane Wissa,2021_2022,DISCLOSED,€10.00m,Yoane Wissa | Y. Wissa | 24 | Centre-Forward | CF | €10.00m | FC Lorient | €10.00m
+b5005efd-f07,3450870,421637,Frank Onyeka,2021_2022,DISCLOSED,€10.00m,Frank Onyeka | F. Onyeka | 23 | Central Midfield | CM | €6.00m | Midtjylland | €10.00m
+ffa1a7c8-db4,3456545,587002,Myles Peart-Harris,2021_2022,DISCLOSED,€1.50m,Myles Peart-Harris | M. Peart-Harris | 18 | Attacking Midfield | AM | - | Chelsea U23 | €1.50m
+08ba0d62-e37,3504449,453704,Álvaro Ferllo,2021_2022,LOAN,0,Álvaro Ferllo | Á. Ferllo | 23 | Goalkeeper | GK | €4.00m | SD Huesca | Loan fee: | €1.00m
+9e5fab29-f57,3531167,52059,Zanka,2021_2022,DISCLOSED,free transfer,Zanka | Zanka | 31 | Centre-Back | CB | €1.50m | Fenerbahçe | free transfer
+d35aae4c-c9d,3674200,48870,Jonas Lössl,2021_2022,DISCLOSED,loan transfer,Jonas Lössl | J. Lössl | 32 | Goalkeeper | GK | €1.00m | Midtjylland | loan transfer
+508d7209-763,3389681,462832,Mads Bidstrup,2021_2022,DISCLOSED,-,Mads Bidstrup | M. Bidstrup | 20 | Central Midfield | CM | €900k | Brentford B | -
+cb3eda34-b4f,3721143,69633,Christian Eriksen,2021_2022,DISCLOSED,-,Christian Eriksen | C. Eriksen | 29 | Attacking Midfield | AM | €15.00m | Without Club | -
+07488345-411,3723746,404584,Marcus Forss,2021_2022,DISCLOSED,End of loan31/05/2022,Marcus Forss | M. Forss | 22 | Centre-Forward | CF | €4.00m | Hull City | End of loan | 31/05/2022
+b14d285b-702,3722358,376856,Charlie Goode,2021_2022,DISCLOSED,End of loan31/05/2022,Charlie Goode | C. Goode | 26 | Centre-Back | CB | €900k | Sheff Utd | End of loan | 31/05/2022
+8c5e0866-250,3057559,134277,Julian Jeanvier,2021_2022,DISCLOSED,End of loan30/06/2021,Julian Jeanvier | J. Jeanvier | 29 | Centre-Back | CB | €1.00m | Kasimpasa | End of loan | 30/06/2021
+8a47d203-cba,3735080,456292,Ellery Balcombe,2021_2022,DISCLOSED,End of loan31/05/2022,Ellery Balcombe | E. Balcombe | 22 | Goalkeeper | GK | €300k | Bromley | End of loan | 31/05/2022
+de43485f-310,3716324,503688,Dominic Thompson,2021_2022,DISCLOSED,End of loan31/05/2022,Dominic Thompson | D. Thompson | 21 | Left-Back | LB | €800k | Ipswich | End of loan | 31/05/2022
+f6d22633-b10,3530790,429563,Patrik Gunnarsson,2021_2022,DISCLOSED,End of loan31/12/2021,Patrik Gunnarsson | P. Gunnarsson | 21 | Goalkeeper | GK | €400k | Viking FK | End of loan | 31/12/2021
+d93a65d6-8f4,3219982,465606,Halil Dervişoğlu,2021_2022,DISCLOSED,End of loan30/06/2021,Halil Dervişoğlu | H. Dervişoğlu | 21 | Centre-Forward | CF | €2.90m | Galatasaray | End of loan | 30/06/2021
+70b4c702-0df,3063120,175451,Joel Valencia,2021_2022,DISCLOSED,End of loan30/06/2021,Joel Valencia | J. Valencia | 26 | Attacking Midfield | AM | €400k | Legia Warszawa | End of loan | 30/06/2021
+1242f338-9bf,3532610,465606,Halil Dervişoğlu,2021_2022,LOAN,0,Halil Dervişoğlu | H. Dervişoğlu | 21 | Centre-Forward | CF | €2.90m | Galatasaray | Loan fee: | €1.00m
+e9504e7a-203,3421088,232964,Emiliano Marcondes,2021_2022,DISCLOSED,free transfer,Emiliano Marcondes | E. Marcondes | 26 | Attacking Midfield | AM | €2.80m | Bournemouth | free transfer
+20cca0cc-93d,3392813,45921,Luke Daniels,2021_2022,DISCLOSED,free transfer,Luke Daniels | L. Daniels | 33 | Goalkeeper | GK | €400k | Middlesbrough | free transfer
+a6f736b5-289,3389483,93315,Henrik Dalsgaard,2021_2022,DISCLOSED,free transfer,Henrik Dalsgaard | H. Dalsgaard | 31 | Right-Back | RB | €2.00m | Midtjylland | free transfer
+3dc86e93-be1,3723211,345587,Luka Racic,2021_2022,DISCLOSED,loan transfer,Luka Racic | L. Racic | 22 | Centre-Back | CB | €250k | HB Köge | loan transfer
+d9b5112b-2d7,3699913,429563,Patrik Gunnarsson,2021_2022,UNDISCLOSED,UNDISCLOSED,Patrik Gunnarsson | P. Gunnarsson | 21 | Goalkeeper | GK | €500k | Viking FK | ?
+54dfacba-5a4,3692474,487924,Jan Zamburek,2021_2022,UNDISCLOSED,UNDISCLOSED,Jan Zamburek | J. Zamburek | 20 | Central Midfield | CM | €800k | Viborg FF | ?
+2b3e9530-7a7,3425241,490307,Enock Mwepu,2021_2022,DISCLOSED,€23.00m,Enock Mwepu | E. Mwepu | 23 | Central Midfield | CM | €13.00m | Salzburg | €23.00m
+2ffb0b59-f30,3528176,284857,Marc Cucurella,2021_2022,DISCLOSED,€18.00m,Marc Cucurella | M. Cucurella | 23 | Left-Back | LB | €20.00m | Getafe | €18.00m
+14f2ea55-766,3681509,554284,Kacper Kozłowski,2021_2022,DISCLOSED,€11.00m,Kacper Kozłowski | K. Kozłowski | 18 | Attacking Midfield | AM | €10.00m | Pogon Szczecin | €11.00m
+3588c97f-31d,3529692,776798,Abdallah Sima,2021_2022,DISCLOSED,€8.00m,Abdallah Sima | A. Sima | 20 | Left Winger | LW | €11.00m | Slavia Prague | €8.00m
+bf93788f-294,3722842,339314,Deniz Undav,2021_2022,DISCLOSED,€7.00m,Deniz Undav | D. Undav | 25 | Centre-Forward | CF | €5.00m | Union SG | €7.00m
+321a29bc-6b1,3445200,463527,Kjell Scherpen,2021_2022,DISCLOSED,€5.00m,Kjell Scherpen | K. Scherpen | 21 | Goalkeeper | GK | €2.80m | Ajax | €5.00m
+e1ef2643-c4f,3488169,504849,Kaoru Mitoma,2021_2022,DISCLOSED,€3.00m,Kaoru Mitoma | K. Mitoma | 24 | Left Winger | LW | €1.80m | Kawasaki Front. | €3.00m
+19747108-0d9,3420387,568005,Jeremy Sarmiento,2021_2022,DISCLOSED,€580k,Jeremy Sarmiento | J. Sarmiento | 19 | Left Winger | LW | - | Benfica U19 | €580k
+328f449a-998,3525976,533523,Haydon Roberts,2021_2022,DISCLOSED,-,Haydon Roberts | H. Roberts | 19 | Left-Back | LB | €500k | Brighton U23 | -
+5ddcd8df-06d,3525987,484551,Taylor Richards,2021_2022,DISCLOSED,-,Taylor Richards | T. Richards | 20 | Central Midfield | CM | - | Brighton U23 | -
+484cb3d4-687,3676250,434207,Aaron Connolly,2021_2022,DISCLOSED,End of loan31/05/2022,Aaron Connolly | A. Connolly | 22 | Centre-Forward | CF | €6.00m | Middlesbrough | End of loan | 31/05/2022
+03b29a98-a6c,3524162,576314,Jan Paul van Hecke,2021_2022,DISCLOSED,End of loan31/05/2022,Jan Paul van Hecke | J. van Hecke | 21 | Centre-Back | CB | €5.00m | Blackburn | End of loan | 31/05/2022
+c92c0c53-6a0,3531335,687626,Moisés Caicedo,2021_2022,DISCLOSED,End of loan12/01/2022,Moisés Caicedo | M. Caicedo | 20 | Defensive Midfield | DM | €4.50m | Beerschot VA | End of loan | 12/01/2022
+df48ba61-86f,3525818,208379,Christian Walton,2021_2022,DISCLOSED,End of loan18/01/2022,Christian Walton | C. Walton | 26 | Goalkeeper | GK | €800k | Ipswich | End of loan | 18/01/2022
+ccd8f0ae-c79,2772155,450237,Billy Arce,2021_2022,DISCLOSED,End of loan31/12/2021,Billy Arce | B. Arce | 23 | Left Winger | LW | €600k | LDU Quito | End of loan | 31/12/2021
+4d13ce27-c1e,3488812,367284,Leo Østigård,2021_2022,DISCLOSED,End of loan04/01/2022,Leo Østigård | L. Østigård | 22 | Centre-Back | CB | €3.00m | Stoke City | End of loan | 04/01/2022
+a63050dc-294,3438184,307497,Matt Clarke,2021_2022,DISCLOSED,End of loan31/05/2022,Matt Clarke | M. Clarke | 25 | Centre-Back | CB | €3.00m | West Brom | End of loan | 31/05/2022
+39f73cc5-06f,3211228,364258,Bernardo,2021_2022,DISCLOSED,End of loan30/06/2021,Bernardo | Bernardo | 26 | Left-Back | LB | €4.00m | Salzburg | End of loan | 30/06/2021
+917658d2-504,3091232,433976,Tudor Băluță,2021_2022,DISCLOSED,End of loan30/06/2021,Tudor Băluță | T. Băluță | 22 | Defensive Midfield | DM | €2.00m | Dynamo Kyiv | End of loan | 30/06/2021
+e7f0d728-07f,3015363,309180,Jan Mlakar,2021_2022,DISCLOSED,End of loan30/06/2021,Jan Mlakar | J. Mlakar | 22 | Centre-Forward | CF | €2.00m | NK Maribor | End of loan | 30/06/2021
+550d3e64-387,2786157,166240,Jürgen Locadia,2021_2022,DISCLOSED,End of loan30/06/2021,Jürgen Locadia | J. Locadia | 27 | Centre-Forward | CF | €5.00m | Cincinnati | End of loan | 30/06/2021
+b7e8ebd8-18e,3723701,134270,Dan Burn,2021_2022,DISCLOSED,€15.00m,Dan Burn | Dan Burn | 29 | Centre-Back | CB | €3.50m | Newcastle | €15.00m
+ead7f0cd-04d,3520251,312239,Percy Tau,2021_2022,DISCLOSED,€1.80m,Percy Tau | Percy Tau | 27 | Right Winger | RW | €3.00m | Al Ahly | €1.80m
+19e98905-77d,3431150,325443,Viktor Gyökeres,2021_2022,DISCLOSED,€1.20m,Viktor Gyökeres | V. Gyökeres | 23 | Centre-Forward | CF | €1.00m | Coventry | €1.20m
+ba2bbd80-ae5,3446408,213268,Alireza Jahanbakhsh,2021_2022,DISCLOSED,€1.00m,Alireza Jahanbakhsh | A. Jahanbakhsh | 27 | Right Winger | RW | €5.00m | Feyenoord | €1.00m
+5a08c00b-59f,3522449,401604,Michal Karbownik,2021_2022,LOAN,0,Michal Karbownik | M. Karbownik | 20 | Left-Back | LB | €5.00m | Olympiacos | Loan fee: | €1.00m
+9c9c218b-ffc,3530188,147094,José Izquierdo,2021_2022,DISCLOSED,free transfer,José Izquierdo | J. Izquierdo | 29 | Left Winger | LW | €4.00m | Club Brugge | free transfer
+23cf326f-1c5,3407388,79027,Davy Pröpper,2021_2022,DISCLOSED,free transfer,Davy Pröpper | D. Pröpper | 29 | Central Midfield | CM | €8.00m | PSV | free transfer
+6b819dc2-ede,3419719,364258,Bernardo,2021_2022,UNDISCLOSED,UNDISCLOSED,Bernardo | Bernardo | 26 | Left-Back | LB | €4.00m | Salzburg | ?
+371399e0-a62,3703422,208379,Christian Walton,2021_2022,UNDISCLOSED,UNDISCLOSED,Christian Walton | C. Walton | 26 | Goalkeeper | GK | €800k | Ipswich | ?
+e67b3de2-4c9,3525746,345468,Andi Zeqiri,2021_2022,DISCLOSED,loan transfer,Andi Zeqiri | A. Zeqiri | 22 | Centre-Forward | CF | €2.50m | Augsburg | loan transfer
+7058b23a-3d5,3514792,177065,Florin Andone,2021_2022,DISCLOSED,loan transfer,Florin Andone | F. Andone | 28 | Centre-Forward | CF | €2.00m | Cádiz CF | loan transfer
+04eba971-cbb,3721460,228645,Wout Weghorst,2021_2022,DISCLOSED,€17.50m,Wout Weghorst | W. Weghorst | 29 | Centre-Forward | CF | €20.00m | Wolfsburg | €17.50m
+b2b32f3e-ded,3523828,234781,Maxwel Cornet,2021_2022,DISCLOSED,€15.00m,Maxwel Cornet | M. Cornet | 24 | Left Winger | LW | €12.00m | Lyon | €15.00m
+ac46a59f-63c,3408420,469050,Nathan Collins,2021_2022,DISCLOSED,€14.00m,Nathan Collins | N. Collins | 20 | Centre-Back | CB | €8.00m | Stoke City | €14.00m
+13e60a1d-d09,3528678,214666,Connor Roberts,2021_2022,DISCLOSED,€2.90m,Connor Roberts | C. Roberts | 25 | Right-Back | RB | €4.50m | Swansea | €2.90m
+43c74c87-5d5,3446975,14221,Aaron Lennon,2021_2022,DISCLOSED,free transfer,Aaron Lennon | A. Lennon | 34 | Right Winger | RW | €1.10m | Kayserispor | free transfer
+87529d99-fd2,3450884,45494,Wayne Hennessey,2021_2022,DISCLOSED,free transfer,Wayne Hennessey | W. Hennessey | 34 | Goalkeeper | GK | €1.00m | Crystal Palace | free transfer
+77c1f670-eea,3976292,788283,Bobby Thomas,2021_2022,DISCLOSED,-,Bobby Thomas | B. Thomas | 20 | Centre-Back | CB | €200k | FC Burnley U23 | -
+8276af52-fd3,3464181,410436,Bailey Peacock-Farrell,2021_2022,DISCLOSED,End of loan31/05/2022,Bailey Peacock-Farrell | B. Peacock-Farrell | 25 | Goalkeeper | GK | €1.00m | Sheff Wed | End of loan | 31/05/2022
+ec4674ed-96d,3693123,108725,Chris Wood,2021_2022,DISCLOSED,€30.00m,Chris Wood | C. Wood | 30 | Centre-Forward | CF | €6.00m | Newcastle | €30.00m
+138b7d6d-ce9,3366764,128904,Ben Gibson,2021_2022,DISCLOSED,€9.30m,Ben Gibson | B. Gibson | 28 | Centre-Back | CB | €7.00m | Norwich | €9.30m
+a93c5075-b9d,3468500,397102,Josh Benson,2021_2022,DISCLOSED,€1.20m,Josh Benson | J. Benson | 21 | Central Midfield | CM | €400k | Barnsley | €1.20m
+30cfd528-484,3437404,396174,Jimmy Dunne,2021_2022,DISCLOSED,free transfer,Jimmy Dunne | J. Dunne | 23 | Centre-Back | CB | €600k | QPR | free transfer
+400af60c-9cd,3379410,128229,Robbie Brady,2021_2022,DISCLOSED,-,Robbie Brady | R. Brady | 29 | Left Midfield | LM | €3.00m | Without Club | -
+0915fc1e-0b6,3494597,96341,Romelu Lukaku,2021_2022,DISCLOSED,€113.00m,Romelu Lukaku | R. Lukaku | 28 | Centre-Forward | CF | €100.00m | Inter | €113.00m
+f8a38855-9f4,3531460,148928,Saúl Ñíguez,2021_2022,LOAN,0,Saúl Ñíguez | S. Ñíguez | 26 | Central Midfield | CM | €40.00m | Atlético | Loan fee: | €5.00m
+ebce8109-647,3466155,116648,Marcus Bettinelli,2021_2022,DISCLOSED,free transfer,Marcus Bettinelli | M. Bettinelli | 29 | Goalkeeper | GK | €2.50m | Fulham | free transfer
+9f3f53a4-2a5,3498551,346314,Trevoh Chalobah,2021_2022,DISCLOSED,-,Trevoh Chalobah | T. Chalobah | 21 | Centre-Back | CB | €3.50m | Chelsea U23 | -
+d086efcf-96d,3066648,198589,Lewis Baker,2021_2022,DISCLOSED,End of loan30/06/2021,Lewis Baker | L. Baker | 26 | Central Midfield | CM | €3.50m | Trabzonspor | End of loan | 30/06/2021
+4446c541-334,3050979,281404,Kenedy,2021_2022,DISCLOSED,End of loan30/06/2021,Kenedy | Kenedy | 25 | Left Winger | LW | €10.00m | Granada CF | End of loan | 30/06/2021
+24b43b92-388,3527025,73491,Danny Drinkwater,2021_2022,DISCLOSED,End of loan31/05/2022,Danny Drinkwater | D. Drinkwater | 32 | Central Midfield | CM | €1.20m | Reading | End of loan | 31/05/2022
+63d8fe89-98c,3067818,173859,Davide Zappacosta,2021_2022,DISCLOSED,End of loan30/06/2021,Davide Zappacosta | D. Zappacosta | 29 | Right-Back | RB | €8.00m | Genoa | End of loan | 30/06/2021
+5d63d5b2-e65,3085603,245893,Matt Miazga,2021_2022,DISCLOSED,End of loan30/06/2021,Matt Miazga | M. Miazga | 25 | Centre-Back | CB | €3.00m | Anderlecht | End of loan | 30/06/2021
+a53f0c21-889,3521659,224884,Abdul Rahman Baba,2021_2022,DISCLOSED,End of loan31/05/2022,Abdul Rahman Baba | A. Baba | 27 | Left-Back | LB | €2.20m | Reading | End of loan | 31/05/2022
+84f3c844-0c0,3088751,182618,Tiemoué Bakayoko,2021_2022,DISCLOSED,End of loan30/06/2021,Tiemoué Bakayoko | T. Bakayoko | 26 | Defensive Midfield | DM | €20.00m | Napoli | End of loan | 30/06/2021
+a694dfee-65e,3090833,344596,Malang Sarr,2021_2022,DISCLOSED,End of loan30/06/2021,Malang Sarr | M. Sarr | 22 | Centre-Back | CB | €10.00m | Porto | End of loan | 30/06/2021
+9fb1206c-8a2,3091020,147034,Marco van Ginkel,2021_2022,DISCLOSED,End of loan30/06/2021,Marco van Ginkel | M. van Ginkel | 28 | Central Midfield | CM | €1.75m | PSV | End of loan | 30/06/2021
+6dd6c3c8-09f,3102744,59866,Victor Moses,2021_2022,DISCLOSED,End of loan30/06/2021,Victor Moses | V. Moses | 30 | Right Winger | RW | €6.50m | Spartak Moscow | End of loan | 30/06/2021
+68668317-284,3496786,316551,Jake Clarke-Salter,2021_2022,DISCLOSED,End of loan31/05/2022,Jake Clarke-Salter | J. Clarke-Salter | 24 | Centre-Back | CB | €2.00m | Coventry | End of loan | 31/05/2022
+db67bc0c-9a6,3215674,303254,Fikayo Tomori,2021_2022,DISCLOSED,End of loan30/06/2021,Fikayo Tomori | F. Tomori | 23 | Centre-Back | CB | €28.00m | AC Milan | End of loan | 30/06/2021
+79501742-9ad,3011558,222830,Danilo Pantic,2021_2022,DISCLOSED,End of loan30/06/2021,Danilo Pantic | D. Pantic | 24 | Attacking Midfield | AM | €800k | Cukaricki | End of loan | 30/06/2021
+0c25fb8a-877,3419576,423744,Billy Gilmour,2021_2022,DISCLOSED,End of loan31/05/2022,Billy Gilmour | B. Gilmour | 20 | Defensive Midfield | DM | €12.00m | Norwich | End of loan | 31/05/2022
+1c855f98-9e5,3503145,331726,Tammy Abraham,2021_2022,DISCLOSED,€41.00m,Tammy Abraham | T. Abraham | 23 | Centre-Forward | CF | €38.00m | Roma | €41.00m
+0e4342a3-690,3523391,157509,Kurt Zouma,2021_2022,DISCLOSED,€35.00m,Kurt Zouma | K. Zouma | 26 | Centre-Back | CB | €32.00m | West Ham | €35.00m
+ba4c4684-a03,3448129,392757,Marc Guéhi,2021_2022,DISCLOSED,€23.34m,Marc Guéhi | M. Guéhi | 21 | Centre-Back | CB | €10.00m | Crystal Palace | €23.34m
+6bef1d5f-1d4,3446086,82442,Olivier Giroud,2021_2022,DISCLOSED,€4.80m,Olivier Giroud | O. Giroud | 34 | Centre-Forward | CF | €4.00m | AC Milan | €4.80m
+2ee2f856-23f,3526323,182618,Tiemoué Bakayoko,2021_2022,LOAN,0,Tiemoué Bakayoko | T. Bakayoko | 27 | Defensive Midfield | DM | €20.00m | AC Milan | Loan fee: | €3.00m
+78bddd86-6ee,3508944,181778,Emerson,2021_2022,LOAN,0,Emerson | Emerson | 27 | Left-Back | LB | €14.00m | Lyon | Loan fee: | €500k
+7ca64af9-4e5,3506867,281404,Kenedy,2021_2022,LOAN,0,Kenedy | Kenedy | 25 | Left Winger | LW | €10.00m | Flamengo | Loan fee: | €500k
+7808ef1b-126,3505866,179184,Michy Batshuayi,2021_2022,LOAN,0,Michy Batshuayi | M. Batshuayi | 27 | Centre-Forward | CF | €10.00m | Beşiktaş | Loan fee: | €150k
+43f8ffa7-5d5,3388208,245805,Izzy Brown,2021_2022,DISCLOSED,free transfer,Izzy Brown | I. Brown | 24 | Left Winger | LW | €1.60m | Preston | free transfer
+7cb49b82-f53,3529999,392771,Ethan Ampadu,2021_2022,DISCLOSED,loan transfer,Ethan Ampadu | E. Ampadu | 20 | Defensive Midfield | DM | €15.00m | Venezia | loan transfer
+1996454a-15b,3551719,128898,Jamal Blackman,2021_2022,DISCLOSED,-,Jamal Blackman | J. Blackman | 27 | Goalkeeper | GK | €600k | Without Club | -
+9e4a3f31-5b3,3367928,19948,Willy Caballero,2021_2022,DISCLOSED,-,Willy Caballero | W. Caballero | 39 | Goalkeeper | GK | €250k | Without Club | -
+93d38cdc-7c5,3466223,260827,Joachim Andersen,2021_2022,DISCLOSED,€17.50m,Joachim Andersen | J. Andersen | 25 | Centre-Back | CB | €22.00m | Lyon | €17.50m
+b01a7411-236,3530987,344152,Odsonne Édouard,2021_2022,DISCLOSED,€16.30m,Odsonne Édouard | O. Édouard | 23 | Centre-Forward | CF | €17.00m | Celtic | €16.30m
+e872016d-8d7,3723590,420002,Jean-Philippe Mateta,2021_2022,DISCLOSED,€11.00m,Jean-Philippe Mateta | J. Mateta | 24 | Centre-Forward | CF | €5.00m | Mainz | €11.00m
+6f99f84b-344,3429015,566723,Michael Olise,2021_2022,DISCLOSED,€9.30m,Michael Olise | M. Olise | 19 | Right Winger | RW | €15.00m | Reading | €9.30m
+b5c18795-278,3522797,207014,Will Hughes,2021_2022,DISCLOSED,€7.00m,Will Hughes | W. Hughes | 26 | Central Midfield | CM | €7.00m | Watford | €7.00m
+53dfff7d-35d,3723862,586986,Luke Plange,2021_2022,DISCLOSED,€1.18m,Luke Plange | L. Plange | 19 | Centre-Forward | CF | - | Derby | €1.18m
+ce601a25-14f,3376499,497494,Jacob Montes,2021_2022,DISCLOSED,free transfer,Jacob Montes | J. Montes | 22 | Attacking Midfield | AM | €75k | Georgetown | free transfer
+b6f22eb7-7df,3376828,196722,Remi Matthews,2021_2022,DISCLOSED,free transfer,Remi Matthews | R. Matthews | 27 | Goalkeeper | GK | €300k | Sunderland | free transfer
+02660006-c94,3469972,488362,Conor Gallagher,2021_2022,DISCLOSED,loan transfer,Conor Gallagher | C. Gallagher | 21 | Central Midfield | CM | €15.00m | Chelsea U23 | loan transfer
+f0ef3526-b3b,3198174,327755,Jarosław Jach,2021_2022,DISCLOSED,End of loan30/06/2021,Jarosław Jach | J. Jach | 27 | Centre-Back | CB | €650k | Raków | End of loan | 30/06/2021
+1f1c7865-ab9,3389045,62688,Scott Dann,2021_2022,DISCLOSED,free transfer,Scott Dann | S. Dann | 34 | Centre-Back | CB | €1.50m | Reading | free transfer
+5455d91d-e64,3476207,45333,James McCarthy,2021_2022,DISCLOSED,free transfer,James McCarthy | J. McCarthy | 30 | Central Midfield | CM | €3.00m | Celtic | free transfer
+da49e440-7df,3389554,47713,Mamadou Sakho,2021_2022,DISCLOSED,free transfer,Mamadou Sakho | M. Sakho | 31 | Centre-Back | CB | €6.00m | Montpellier | free transfer
+5f23cd5e-a61,3389050,52119,Patrick van Aanholt,2021_2022,DISCLOSED,free transfer,Patrick van Aanholt | P. van Aanholt | 30 | Left-Back | LB | €7.00m | Galatasaray | free transfer
+e590cc34-45f,3389048,61842,Andros Townsend,2021_2022,DISCLOSED,free transfer,Andros Townsend | A. Townsend | 30 | Right Winger | RW | €7.00m | Everton | free transfer
+dcb835ce-1ad,3389044,27511,Gary Cahill,2021_2022,DISCLOSED,free transfer,Gary Cahill | G. Cahill | 35 | Centre-Back | CB | €1.50m | Bournemouth | free transfer
+d41f4fde-723,3389556,611650,Sam Woods,2021_2022,DISCLOSED,-,Sam Woods | Sam Woods | 22 | Centre-Back | CB | €200k | Without Club | -
+a413b074-79a,3389555,95435,Connor Wickham,2021_2022,DISCLOSED,-,Connor Wickham | C. Wickham | 28 | Centre-Forward | CF | €1.00m | Without Club | -
+aeb191c6-eec,3547891,52191,Stephen Henderson,2021_2022,DISCLOSED,-,Stephen Henderson | S. Henderson | 33 | Goalkeeper | GK | €300k | Without Club | -
+4a90c09a-869,3674899,404842,Vitaliy Mykolenko,2021_2022,DISCLOSED,€23.50m,Vitaliy Mykolenko | V. Mykolenko | 22 | Left-Back | LB | €17.00m | Dynamo Kyiv | €23.50m
+45373d24-7ee,3680676,424015,Nathan Patterson,2021_2022,DISCLOSED,€14.00m,Nathan Patterson | N. Patterson | 20 | Right-Back | RB | €3.00m | Rangers | €14.00m
+cac8916e-3b3,3454427,292417,Demarai Gray,2021_2022,DISCLOSED,€2.00m,Demarai Gray | D. Gray | 25 | Left Winger | LW | €8.00m | Leverkusen | €2.00m
+242c81eb-feb,3531326,80197,Salomón Rondón,2021_2022,DISCLOSED,free transfer,Salomón Rondón | S. Rondón | 31 | Centre-Forward | CF | €5.00m | DL Pro | free transfer
+b06b225f-335,3451833,33873,Asmir Begovic,2021_2022,DISCLOSED,free transfer,Asmir Begovic | A. Begovic | 34 | Goalkeeper | GK | €1.20m | Bournemouth | free transfer
+70a35b4a-c76,3379424,14044,Andy Lonergan,2021_2022,DISCLOSED,free transfer,Andy Lonergan | A. Lonergan | 37 | Goalkeeper | GK | €250k | West Brom | free transfer
+de87823c-e48,3723879,207929,Dele Alli,2021_2022,DISCLOSED,free transfer,Dele Alli | Dele Alli | 25 | Attacking Midfield | AM | €25.00m | Tottenham | free transfer
+a782865e-19b,3722882,288255,Donny van de Beek,2021_2022,DISCLOSED,loan transfer,Donny van de Beek | D. van de Beek | 24 | Central Midfield | CM | €25.00m | Man Utd | loan transfer
+e8c5c3da-c28,3233634,258883,Jonjoe Kenny,2021_2022,DISCLOSED,End of loan30/06/2021,Jonjoe Kenny | J. Kenny | 24 | Right-Back | RB | €5.80m | Celtic | End of loan | 30/06/2021
+568493f7-a83,3230728,45671,Cenk Tosun,2021_2022,DISCLOSED,End of loan30/06/2021,Cenk Tosun | C. Tosun | 30 | Centre-Forward | CF | €5.00m | Beşiktaş | End of loan | 30/06/2021
+7679ce50-afc,3087290,364135,Moise Kean,2021_2022,DISCLOSED,End of loan30/06/2021,Moise Kean | M. Kean | 21 | Centre-Forward | CF | €35.00m | PSG | End of loan | 30/06/2021
+26d7ae14-513,3564184,88103,James Rodríguez,2021_2022,DISCLOSED,€8.00m,James Rodríguez | J. Rodríguez | 30 | Attacking Midfield | AM | €28.00m | Al-Rayyan | €8.00m
+c4317d94-b2c,3527726,364135,Moise Kean,2021_2022,LOAN,0,Moise Kean | M. Kean | 21 | Centre-Forward | CF | €35.00m | Juventus | Loan fee: | €7.00m
+9b1df184-ea4,3455392,175169,Bernard,2021_2022,DISCLOSED,€1.00m,Bernard | Bernard | 28 | Left Winger | LW | €12.00m | Sharjah FC | €1.00m
+3cf76d83-048,3449416,91059,Joshua King,2021_2022,DISCLOSED,free transfer,Joshua King | J. King | 29 | Centre-Forward | CF | €8.00m | Watford | free transfer
+491c7ef0-87a,3384449,75471,Yannick Bolasie,2021_2022,DISCLOSED,free transfer,Yannick Bolasie | Y. Bolasie | 32 | Centre-Forward | CF | €1.50m | C. Rizespor | free transfer
+d8e9a06f-349,3378920,220755,Matthew Pennington,2021_2022,DISCLOSED,free transfer,Matthew Pennington | M. Pennington | 26 | Centre-Back | CB | €600k | Shrewsbury | free transfer
+19bfc2e2-06f,3369277,33713,Theo Walcott,2021_2022,DISCLOSED,free transfer,Theo Walcott | T. Walcott | 32 | Right Winger | RW | €5.00m | Southampton | free transfer
+738088e8-c0b,3468642,399369,Beni Baningime,2021_2022,UNDISCLOSED,UNDISCLOSED,Beni Baningime | B. Baningime | 22 | Defensive Midfield | DM | €1.00m | Heart of Midl. | ?
+63e2d68c-263,3756208,182894,Jean-Philippe Gbamin,2021_2022,DISCLOSED,loan transfer,Jean-Philippe Gbamin | J. Gbamin | 26 | Centre-Back | CB | €10.00m | CSKA Moscow | loan transfer
+3b21f501-a7a,3529799,591193,Niels Nkounkou,2021_2022,DISCLOSED,loan transfer,Niels Nkounkou | N. Nkounkou | 20 | Left-Back | LB | €3.00m | Standard Liège | loan transfer
+83d22af8-46d,3516998,329813,João Virgínia,2021_2022,DISCLOSED,loan transfer,João Virgínia | J. Virgínia | 21 | Goalkeeper | GK | €1.00m | Sporting | loan transfer
+40cb08c1-21f,3339299,93905,Muhamed Besic,2021_2022,DISCLOSED,-,Muhamed Besic | M. Besic | 28 | Centre-Back | CB | €1.50m | Without Club | -
+587a2ede-a9f,3529288,319301,Daniel James,2021_2022,DISCLOSED,€29.10m,Daniel James | D. James | 23 | Right Winger | RW | €18.00m | Man Utd | €29.10m
+597c420a-7f4,3425252,374139,Junior Firpo,2021_2022,DISCLOSED,€15.00m,Junior Firpo | J. Firpo | 24 | Left-Back | LB | €8.00m | Barcelona | €15.00m
+e363caf1-8db,3420704,417346,Jack Harrison,2021_2022,DISCLOSED,€12.80m,Jack Harrison | J. Harrison | 24 | Left Winger | LW | €15.00m | Man City | €12.80m
+015649cf-a99,3470637,418561,Kristoffer Klaesson,2021_2022,DISCLOSED,€2.40m,Kristoffer Klaesson | K. Klaesson | 20 | Goalkeeper | GK | €2.00m | Vålerenga | €2.40m
+a0aa3c01-dbf,3522006,661208,Leo Hjelde,2021_2022,UNDISCLOSED,UNDISCLOSED,Leo Hjelde | L. Hjelde | 18 | Centre-Back | CB | €300k | Celtic B | ?
+ad978e76-3b5,3693154,531957,Cody Drameh,2021_2022,DISCLOSED,-,Cody Drameh | C. Drameh | 19 | Right-Back | RB | - | Leeds United U23 | -
+bdb9c3dc-b2f,3864522,597659,Charlie Cresswell,2021_2022,DISCLOSED,-,Charlie Cresswell | C. Cresswell | 18 | Centre-Back | CB | €200k | Leeds United U23 | -
+5c961df7-602,3864523,532178,Sam Greenwood,2021_2022,DISCLOSED,-,Sam Greenwood | S. Greenwood | 19 | Attacking Midfield | AM | €500k | Leeds United U23 | -
+3dab6971-780,3597227,474701,Crysencio Summerville,2021_2022,DISCLOSED,-,Crysencio Summerville | C. Summerville | 19 | Left Winger | LW | €1.50m | Leeds United U23 | -
+81ac5269-f33,3515237,392763,Ian Poveda,2021_2022,DISCLOSED,End of loan31/05/2022,Ian Poveda | I. Poveda | 22 | Right Winger | RW | €2.00m | Blackburn | End of loan | 31/05/2022
+d69d3463-3f5,3463775,596446,Leif Davis,2021_2022,DISCLOSED,End of loan31/05/2022,Leif Davis | L. Davis | 22 | Left-Back | LB | €800k | Bournemouth | End of loan | 31/05/2022
+249ba051-d24,3090156,431475,Mateusz Bogusz,2021_2022,DISCLOSED,End of loan30/06/2021,Mateusz Bogusz | M. Bogusz | 19 | Attacking Midfield | AM | €1.00m | UD Logroñés | End of loan | 30/06/2021
+7d50e523-072,3530906,534698,Robbie Gotts,2021_2022,DISCLOSED,free transfer,Robbie Gotts | R. Gotts | 21 | Central Midfield | CM | €250k | Barrow | free transfer
+bd9b5002-e30,3530209,533913,Jordan Stevens,2021_2022,DISCLOSED,free transfer,Jordan Stevens | J. Stevens | 21 | Centre-Forward | CF | €200k | Barrow | free transfer
+93be10b7-53d,3379432,91854,Barry Douglas,2021_2022,DISCLOSED,free transfer,Barry Douglas | B. Douglas | 31 | Left-Back | LB | €1.50m | Lech Poznań | free transfer
+6d4b7b21-d93,3424649,129604,Ezgjan Alioski,2021_2022,DISCLOSED,free transfer,Ezgjan Alioski | E. Alioski | 29 | Left-Back | LB | €5.00m | Al-Ahli | free transfer
+e60482a8-32e,3445721,126412,Ouasim Bouy,2021_2022,DISCLOSED,free transfer,Ouasim Bouy | O. Bouy | 28 | Defensive Midfield | DM | €250k | Al-Kharaitiyat | free transfer
+6adc35b3-861,3451686,46220,Pablo Hernández,2021_2022,DISCLOSED,free transfer,Pablo Hernández | P. Hernández | 36 | Right Winger | RW | €800k | Castellón | free transfer
+1daed667-7ad,3531488,173900,Hélder Costa,2021_2022,DISCLOSED,loan transfer,Hélder Costa | H. Costa | 27 | Right Winger | RW | €10.00m | Valencia | loan transfer
+a6198a85-2e6,3436395,27486,Kiko Casilla,2021_2022,DISCLOSED,loan transfer,Kiko Casilla | K. Casilla | 34 | Goalkeeper | GK | €800k | Elche CF | loan transfer
+5ee2a252-081,3907868,61583,Eunan O'Kane,2021_2022,DISCLOSED,-,Eunan O'Kane | E. O'Kane | 30 | Central Midfield | CM | €200k | Retired | -
+73a0390d-631,3372798,43084,Gaetano Berardi,2021_2022,DISCLOSED,-,Gaetano Berardi | G. Berardi | 32 | Right-Back | RB | €300k | Without Club | -
+4c3544dc-795,3415690,365172,Patson Daka,2021_2022,DISCLOSED,€30.00m,Patson Daka | P. Daka | 22 | Centre-Forward | CF | €22.00m | Salzburg | €30.00m
+73373a91-a76,3420110,344605,Boubakary Soumaré,2021_2022,DISCLOSED,€20.00m,Boubakary Soumaré | B. Soumaré | 22 | Defensive Midfield | DM | €28.00m | Lille | €20.00m
+7b566267-c8c,3496858,99331,Jannik Vestergaard,2021_2022,DISCLOSED,€17.60m,Jannik Vestergaard | J. Vestergaard | 29 | Centre-Back | CB | €18.00m | Southampton | €17.60m
+e1b5c49e-98d,3362507,40611,Ryan Bertrand,2021_2022,DISCLOSED,free transfer,Ryan Bertrand | R. Bertrand | 31 | Left-Back | LB | €8.00m | Southampton | free transfer
+e89f3e89-f82,3529812,406040,Ademola Lookman,2021_2022,DISCLOSED,loan transfer,Ademola Lookman | A. Lookman | 23 | Left Winger | LW | €11.00m | Leipzig | loan transfer
+c69bf9ea-d53,3515238,475188,Kiernan Dewsbury-Hall,2021_2022,DISCLOSED,-,Kiernan Dewsbury-Hall | K. Dewsbury-Hall | 22 | Attacking Midfield | AM | €2.00m | Leicester U23 | -
+958dd9b1-a6d,3476194,420808,George Hirst,2021_2022,DISCLOSED,End of loan31/05/2022,George Hirst | G. Hirst | 23 | Centre-Forward | CF | €800k | Portsmouth | End of loan | 31/05/2022
+1b831852-cf5,3477895,260841,Daniel Iversen,2021_2022,DISCLOSED,End of loan31/05/2022,Daniel Iversen | D. Iversen | 24 | Goalkeeper | GK | €2.00m | Preston | End of loan | 31/05/2022
+850a649a-c7d,3201832,293168,Filip Benkovic,2021_2022,DISCLOSED,End of loan30/06/2021,Filip Benkovic | F. Benkovic | 23 | Centre-Back | CB | €2.80m | OH Leuven | End of loan | 30/06/2021
+ca44516d-e57,3530801,395797,Sam Hughes,2021_2022,DISCLOSED,End of loan24/11/2021,Sam Hughes | S. Hughes | 24 | Centre-Back | CB | - | Burton Albion | End of loan | 24/11/2021
+07fa3eab-9ee,3089068,118287,Rachid Ghezzal,2021_2022,DISCLOSED,End of loan30/06/2021,Rachid Ghezzal | R. Ghezzal | 29 | Right Winger | RW | €12.00m | Beşiktaş | End of loan | 30/06/2021
+488ba31e-078,3529545,129588,Dennis Praet,2021_2022,LOAN,0,Dennis Praet | D. Praet | 27 | Central Midfield | CM | €18.00m | Torino | Loan fee: | €1.00m
+60e2b8d9-8e3,3372991,6636,Christian Fuchs,2021_2022,DISCLOSED,free transfer,Christian Fuchs | C. Fuchs | 35 | Left-Back | LB | €800k | Charlotte Ind. | free transfer
+0a6cad90-f9f,3373082,73522,Matty James,2021_2022,DISCLOSED,free transfer,Matty James | M. James | 29 | Central Midfield | CM | €1.00m | Bristol City | free transfer
+6278416f-65c,3915768,395797,Sam Hughes,2021_2022,UNDISCLOSED,UNDISCLOSED,Sam Hughes | S. Hughes | 24 | Centre-Back | CB | - | Burton Albion | ?
+e9ac49fd-961,3373073,10003,Wes Morgan,2021_2022,DISCLOSED,-,Wes Morgan | W. Morgan | 37 | Centre-Back | CB | - | Retired | -
+4dbaf99c-c8c,3068898,341647,Cengiz Ünder,2021_2022,DISCLOSED,End of loan30/06/2021,Cengiz Ünder | C. Ünder | 23 | Right Winger | RW | €18.00m | Roma | End of loan | 30/06/2021
+64b39d99-7bd,3720042,480692,Luis Díaz,2021_2022,DISCLOSED,€49.00m,Luis Díaz | Luis Díaz | 25 | Left Winger | LW | €40.00m | Porto | €49.00m
+929cbec7-04c,3380058,357119,Ibrahima Konaté,2021_2022,DISCLOSED,€40.00m,Ibrahima Konaté | I. Konaté | 22 | Centre-Back | CB | €35.00m | Leipzig | €40.00m
+cd4bd869-129,3430552,565822,Harvey Elliott,2021_2022,DISCLOSED,-,Harvey Elliott | H. Elliott | 18 | Attacking Midfield | AM | €15.00m | Liverpool U23 | -
+8eaf7ca2-539,3722274,371814,Nat Phillips,2021_2022,DISCLOSED,End of loan31/05/2022,Nat Phillips | N. Phillips | 25 | Centre-Back | CB | €8.00m | Bournemouth | End of loan | 31/05/2022
+d0564f66-828,3531349,236510,Sheyi Ojo,2021_2022,DISCLOSED,End of loan31/05/2022,Sheyi Ojo | Sheyi Ojo | 24 | Right Winger | RW | €2.00m | Millwall | End of loan | 31/05/2022
+1aec5524-765,3723881,503680,Neco Williams,2021_2022,DISCLOSED,End of loan31/05/2022,Neco Williams | N. Williams | 21 | Left-Back | LB | €8.00m | Fulham | End of loan | 31/05/2022
+029c2fa3-68a,3502310,257097,Ben Davies,2021_2022,DISCLOSED,End of loan31/05/2022,Ben Davies | B. Davies | 26 | Centre-Back | CB | €2.50m | Sheff Utd | End of loan | 31/05/2022
+a0b08362-054,3529821,503679,Rhys Williams,2021_2022,DISCLOSED,End of loan20/01/2022,Rhys Williams | R. Williams | 20 | Centre-Back | CB | €4.00m | Swansea | End of loan | 20/01/2022
+e798e0e8-4f9,3514883,344015,Ben Woodburn,2021_2022,DISCLOSED,End of loan31/05/2022,Ben Woodburn | B. Woodburn | 22 | Attacking Midfield | AM | €1.50m | Heart of Midl. | End of loan | 31/05/2022
+ae7d0f7a-9e0,3068412,295313,Taiwo Awoniyi,2021_2022,DISCLOSED,End of loan30/06/2021,Taiwo Awoniyi | T. Awoniyi | 23 | Centre-Forward | CF | €5.00m | Union Berlin | End of loan | 30/06/2021
+e28f8bd9-9e3,3234060,165793,Takumi Minamino,2021_2022,DISCLOSED,End of loan30/06/2021,Takumi Minamino | T. Minamino | 26 | Left Winger | LW | €12.00m | Southampton | End of loan | 30/06/2021
+5d49238c-82f,3233967,541231,Sepp van den Berg,2021_2022,DISCLOSED,End of loan31/05/2022,Sepp van den Berg | S. van den Berg | 20 | Centre-Back | CB | €5.00m | Preston | End of loan | 31/05/2022
+3f488e2d-230,3091277,222813,Marko Grujić,2021_2022,DISCLOSED,End of loan30/06/2021,Marko Grujić | M. Grujić | 25 | Defensive Midfield | DM | €15.00m | Porto | End of loan | 30/06/2021
+7b5955c0-1e8,3079982,85864,Loris Karius,2021_2022,DISCLOSED,End of loan30/06/2021,Loris Karius | L. Karius | 28 | Goalkeeper | GK | €2.00m | Union Berlin | End of loan | 30/06/2021
+bf46351a-f8a,3459110,279455,Harry Wilson,2021_2022,DISCLOSED,€14.00m,Harry Wilson | H. Wilson | 24 | Right Winger | RW | €17.00m | Fulham | €14.00m
+6eef9a38-6d2,3514779,86792,Xherdan Shaqiri,2021_2022,DISCLOSED,€6.00m,Xherdan Shaqiri | X. Shaqiri | 29 | Attacking Midfield | AM | €12.00m | Lyon | €6.00m
+c8b486a5-939,3722273,371814,Nat Phillips,2021_2022,LOAN,0,Nat Phillips | N. Phillips | 24 | Centre-Back | CB | €8.00m | Bournemouth | Loan fee: | €2.10m
+aa2e7d0f-60a,3450999,222813,Marko Grujić,2021_2022,LOAN,0,Marko Grujić | M. Grujić | 25 | Defensive Midfield | DM | €15.00m | Porto | Loan fee: | €1.00m
+28340444-8f8,3374687,49499,Georginio Wijnaldum,2021_2022,DISCLOSED,free transfer,Georginio Wijnaldum | G. Wijnaldum | 30 | Central Midfield | CM | €30.00m | PSG | free transfer
+fca7f4e7-24a,3233711,361260,Ozan Kabak,2021_2022,DISCLOSED,End of loan30/06/2021,Ozan Kabak | O. Kabak | 21 | Centre-Back | CB | €25.00m | FC Schalke 04 | End of loan | 30/06/2021
+e8fced74-744,3721822,576024,Julián Alvarez,2021_2022,DISCLOSED,€21.40m,Julián Alvarez | J. Alvarez | 22 | Centre-Forward | CF | €20.00m | River Plate | €21.40m
+f6b42330-f15,3396385,14555,Scott Carson,2021_2022,DISCLOSED,free transfer,Scott Carson | S. Carson | 35 | Goalkeeper | GK | €300k | Derby | free transfer
+24f94b23-2b8,3618086,568177,Cole Palmer,2021_2022,DISCLOSED,-,Cole Palmer | C. Palmer | 19 | Attacking Midfield | AM | €500k | Man City U23 | -
+f7cefe03-295,2988111,355816,Ko Itakura,2021_2022,DISCLOSED,End of loan30/06/2021,Ko Itakura | K. Itakura | 24 | Centre-Back | CB | €3.50m | FC Groningen | End of loan | 30/06/2021
+e74f3d9b-d87,2589953,282199,Erik Palmer-Brown,2021_2022,DISCLOSED,End of loan30/06/2021,Erik Palmer-Brown | E. Palmer-Brown | 24 | Centre-Back | CB | €1.50m | Austria Vienna | End of loan | 30/06/2021
+62e57016-710,2991904,649452,Issa Kaboré,2021_2022,DISCLOSED,End of loan30/06/2021,Issa Kaboré | I. Kaboré | 20 | Right-Back | RB | €3.00m | KV Mechelen | End of loan | 30/06/2021
+09ffef40-049,3022145,314288,Lukas Nmecha,2021_2022,DISCLOSED,End of loan30/06/2021,Lukas Nmecha | L. Nmecha | 22 | Centre-Forward | CF | €12.00m | Anderlecht | End of loan | 30/06/2021
+82b34493-681,3036943,378293,Yangel Herrera,2021_2022,DISCLOSED,End of loan30/06/2021,Yangel Herrera | Y. Herrera | 23 | Central Midfield | CM | €18.00m | Granada CF | End of loan | 30/06/2021
+009da47e-92b,3039904,426666,Ryotaro Meshino,2021_2022,DISCLOSED,End of loan30/06/2021,Ryotaro Meshino | R. Meshino | 23 | Left Winger | LW | €450k | Rio Ave | End of loan | 30/06/2021
+2123ed1b-d86,3690960,503977,Taylor Harwood-Bellis,2021_2022,DISCLOSED,End of loan31/05/2022,Taylor Harwood-Bellis | T. Harwood-Bellis | 20 | Centre-Back | CB | €7.00m | Stoke City | End of loan | 31/05/2022
+b0a6cc91-ba3,3051828,277179,Angeliño,2021_2022,DISCLOSED,End of loan30/06/2021,Angeliño | Angeliño | 24 | Left-Back | LB | €35.00m | Leipzig | End of loan | 30/06/2021
+8167d076-b54,3076942,627228,Yan Couto,2021_2022,DISCLOSED,End of loan30/06/2021,Yan Couto | Yan Couto | 19 | Right-Back | RB | €4.00m | Girona | End of loan | 30/06/2021
+ae9c184e-829,3531315,340460,Philippe Sandler,2021_2022,DISCLOSED,End of loan25/01/2022,Philippe Sandler | P. Sandler | 24 | Centre-Back | CB | €2.00m | Troyes | End of loan | 25/01/2022
+f9bf54c5-d17,3078654,345654,Marlos Moreno,2021_2022,DISCLOSED,End of loan30/06/2021,Marlos Moreno | M. Moreno | 24 | Left Winger | LW | €1.00m | Lommel SK | End of loan | 30/06/2021
+57d7335b-ed1,3531157,225452,Patrick Roberts,2021_2022,DISCLOSED,End of loan20/01/2022,Patrick Roberts | P. Roberts | 24 | Right Winger | RW | €1.50m | Troyes | End of loan | 20/01/2022
+080bcb04-c50,3088449,429790,Luka Ilic,2021_2022,DISCLOSED,End of loan01/01/2022,Luka Ilic | Luka Ilic | 22 | Attacking Midfield | AM | €950k | FC Twente | End of loan | 01/01/2022
+a6586f28-88d,3221029,399997,Daniel Arzani,2021_2022,DISCLOSED,End of loan30/06/2021,Daniel Arzani | D. Arzani | 22 | Left Winger | LW | €600k | Aarhus GF | End of loan | 30/06/2021
+d2c72fc3-64e,3233063,371021,Arijanet Murić,2021_2022,DISCLOSED,End of loan30/06/2021,Arijanet Murić | A. Murić | 22 | Goalkeeper | GK | €1.30m | Willem II | End of loan | 30/06/2021
+5ad3139c-7ad,3669718,398184,Ferran Torres,2021_2022,DISCLOSED,€55.00m,Ferran Torres | F. Torres | 21 | Centre-Forward | CF | €45.00m | Barcelona | €55.00m
+3a3419f9-6a6,3383737,466794,Eric García,2021_2022,DISCLOSED,free transfer,Eric García | E. García | 20 | Centre-Back | CB | €20.00m | Barcelona | free transfer
+4330455f-f8e,3374156,26399,Sergio Agüero,2021_2022,DISCLOSED,free transfer,Sergio Agüero | S. Agüero | 33 | Centre-Forward | CF | €18.00m | Barcelona | free transfer
+6c93de5c-40c,3720717,429790,Luka Ilic,2021_2022,UNDISCLOSED,UNDISCLOSED,Luka Ilic | Luka Ilic | 22 | Attacking Midfield | AM | €800k | Troyes | ?
+0a26fc5a-159,3456520,401173,Jadon Sancho,2021_2022,DISCLOSED,€85.00m,Jadon Sancho | J. Sancho | 21 | Left Winger | LW | €100.00m | Dortmund | €85.00m
+8362cc28-dc6,3498143,164770,Raphaël Varane,2021_2022,DISCLOSED,€40.00m,Raphaël Varane | R. Varane | 28 | Centre-Back | CB | €70.00m | Real Madrid | €40.00m
+2eb9a265-b55,3527714,8198,Cristiano Ronaldo,2021_2022,DISCLOSED,€17.00m,Cristiano Ronaldo | Cristiano Ronaldo | 36 | Centre-Forward | CF | €45.00m | Juventus | €17.00m
+c7bc3be1-02b,3713888,583189,Anthony Elanga,2021_2022,DISCLOSED,-,Anthony Elanga | A. Elanga | 19 | Right Winger | RW | €4.00m | Man Utd U23 | -
+de392e97-638,3715752,536835,Amad Diallo,2021_2022,DISCLOSED,End of loan31/05/2022,Amad Diallo | A. Diallo | 19 | Right Winger | RW | €18.00m | Rangers | End of loan | 31/05/2022
+7b4edd72-c48,3085280,203394,Andreas Pereira,2021_2022,DISCLOSED,End of loan30/06/2021,Andreas Pereira | A. Pereira | 25 | Central Midfield | CM | €8.00m | Lazio | End of loan | 30/06/2021
+98379dc2-11a,3680282,548470,Teden Mengi,2021_2022,DISCLOSED,End of loan31/05/2022,Teden Mengi | T. Mengi | 20 | Centre-Back | CB | €2.00m | Birmingham | End of loan | 31/05/2022
+cdac5d9d-d5f,3514460,507700,Brandon Williams,2021_2022,DISCLOSED,End of loan31/05/2022,Brandon Williams | B. Williams | 21 | Left-Back | LB | €10.00m | Norwich | End of loan | 31/05/2022
+c126c712-90d,3512485,505219,James Garner,2021_2022,DISCLOSED,End of loan31/05/2022,James Garner | J. Garner | 21 | Defensive Midfield | DM | €7.00m | Nott'm Forest | End of loan | 31/05/2022
+49c057c1-aeb,3430894,344830,Tahith Chong,2021_2022,DISCLOSED,End of loan31/05/2022,Tahith Chong | T. Chong | 22 | Attacking Midfield | AM | €3.50m | Birmingham | End of loan | 31/05/2022
+c73a1845-f45,3229704,676318,Facundo Pellistri,2021_2022,DISCLOSED,End of loan30/06/2021,Facundo Pellistri | F. Pellistri | 19 | Right Winger | RW | €6.00m | Alavés | End of loan | 30/06/2021
+0c759d17-cab,3086929,357147,Diogo Dalot,2021_2022,DISCLOSED,End of loan30/06/2021,Diogo Dalot | D. Dalot | 22 | Right-Back | RB | €10.00m | AC Milan | End of loan | 30/06/2021
+172f522d-174,3684697,342046,Axel Tuanzebe,2021_2022,LOAN,0,Axel Tuanzebe | A. Tuanzebe | 24 | Centre-Back | CB | €8.00m | Napoli | Loan fee: | €1.00m
+d4928f2c-84a,3510523,203394,Andreas Pereira,2021_2022,LOAN,0,Andreas Pereira | A. Pereira | 25 | Central Midfield | CM | €8.00m | Flamengo | Loan fee: | €1.00m
+091d2bd7-792,3339463,192611,Joel Pereira,2021_2022,DISCLOSED,free transfer,Joel Pereira | J. Pereira | 25 | Goalkeeper | GK | €300k | RKC Waalwijk | free transfer
+ea51ee3d-bd1,3712704,182877,Anthony Martial,2021_2022,DISCLOSED,loan transfer,Anthony Martial | A. Martial | 26 | Centre-Forward | CF | €32.00m | Sevilla FC | loan transfer
+cebea973-5eb,3337089,30690,Sergio Romero,2021_2022,DISCLOSED,-,Sergio Romero | S. Romero | 34 | Goalkeeper | GK | €1.00m | Without Club | -
+e115da25-b9e,3720274,520624,Bruno Guimarães,2021_2022,DISCLOSED,€50.10m,Bruno Guimarães | B. Guimarães | 24 | Central Midfield | CM | €30.00m | Lyon | €50.10m
+ad1ab8fb-b65,3684426,95810,Kieran Trippier,2021_2022,DISCLOSED,€14.00m,Kieran Trippier | K. Trippier | 31 | Right-Back | RB | €18.00m | Atlético | €14.00m
+7f86d993-040,3723887,148262,Jeff Hendrick,2021_2022,DISCLOSED,End of loan31/05/2022,Jeff Hendrick | J. Hendrick | 30 | Central Midfield | CM | €5.00m | QPR | End of loan | 31/05/2022
+48306571-25c,3723829,484387,Matty Longstaff,2021_2022,DISCLOSED,End of loan31/05/2022,Matty Longstaff | M. Longstaff | 22 | Central Midfield | CM | €2.50m | Mansfield Town | End of loan | 31/05/2022
+2f4d1e79-fa2,3056304,127108,Florian Lejeune,2021_2022,DISCLOSED,End of loan30/06/2021,Florian Lejeune | F. Lejeune | 30 | Centre-Back | CB | €4.50m | Alavés | End of loan | 30/06/2021
+f75b756a-ebb,3721837,226049,Freddie Woodman,2021_2022,DISCLOSED,End of loan31/05/2022,Freddie Woodman | F. Woodman | 25 | Goalkeeper | GK | €9.00m | Bournemouth | End of loan | 31/05/2022
+dbf48ab7-d62,3062955,230541,Yoshinori Muto,2021_2022,DISCLOSED,End of loan30/06/2021,Yoshinori Muto | Y. Muto | 28 | Centre-Forward | CF | €2.50m | SD Eibar | End of loan | 30/06/2021
+c4164934-e6b,3449054,186997,Christian Atsu,2021_2022,DISCLOSED,free transfer,Christian Atsu | C. Atsu | 29 | Left Winger | LW | €1.50m | Al-Raed | free transfer
+fddf9db3-6f4,3454939,127108,Florian Lejeune,2021_2022,UNDISCLOSED,UNDISCLOSED,Florian Lejeune | F. Lejeune | 30 | Centre-Back | CB | €4.50m | Alavés | ?
+fd9adaf1-81b,3361382,51540,Henri Saivet,2021_2022,DISCLOSED,-,Henri Saivet | H. Saivet | 30 | Central Midfield | CM | €800k | Without Club | -
+8c89045b-3f9,3358210,48066,Andy Carroll,2021_2022,DISCLOSED,-,Andy Carroll | A. Carroll | 32 | Centre-Forward | CF | €1.50m | Without Club | -
+3fac19dc-04e,3405614,291739,Milot Rashica,2021_2022,DISCLOSED,€11.00m,Milot Rashica | M. Rashica | 25 | Right Winger | RW | €9.00m | Werder Bremen | €11.00m
+e980d10b-9dc,3493391,451677,Christos Tzolis,2021_2022,DISCLOSED,€11.00m,Christos Tzolis | C. Tzolis | 19 | Left Winger | LW | €12.00m | PAOK | €11.00m
+3e5c488d-93c,3487593,393325,Josh Sargent,2021_2022,DISCLOSED,€9.50m,Josh Sargent | J. Sargent | 21 | Centre-Forward | CF | €8.00m | Werder Bremen | €9.50m
+8ad128b3-ec2,3335202,295630,Dimitrios Giannoulis,2021_2022,DISCLOSED,€7.50m,Dimitrios Giannoulis | D. Giannoulis | 25 | Left-Back | LB | €7.00m | PAOK | €7.50m
+b435302f-c14,3406521,201574,Angus Gunn,2021_2022,DISCLOSED,€5.85m,Angus Gunn | A. Gunn | 25 | Goalkeeper | GK | €3.00m | Southampton | €5.85m
+bbb3e868-fbd,3436907,377393,Pierre Lees-Melou,2021_2022,DISCLOSED,€3.90m,Pierre Lees-Melou | P. Lees-Melou | 28 | Defensive Midfield | DM | €7.00m | Nice | €3.90m
+f0a3c6c6-ffc,3526822,361260,Ozan Kabak,2021_2022,LOAN,0,Ozan Kabak | O. Kabak | 21 | Centre-Back | CB | €25.00m | FC Schalke 04 | Loan fee: | €3.50m
+8cf45c41-109,3524883,257805,Mathias Normann,2021_2022,LOAN,0,Mathias Normann | M. Normann | 25 | Defensive Midfield | DM | €13.00m | Rostov | Loan fee: | €2.00m
+fb827f76-13c,3771462,672381,Jonathan Rowe,2021_2022,DISCLOSED,-,Jonathan Rowe | J. Rowe | 18 | Left Winger | LW | - | Norwich City U23 | -
+7292af80-d00,3222033,511802,Rocky Bushiri,2021_2022,DISCLOSED,End of loan30/06/2021,Rocky Bushiri | R. Bushiri | 21 | Centre-Back | CB | €600k | KAS Eupen | End of loan | 30/06/2021
+b3a281ee-5b0,3018655,112617,Philip Heise,2021_2022,DISCLOSED,End of loan30/06/2021,Philip Heise | P. Heise | 30 | Left-Back | LB | €600k | Karlsruher SC | End of loan | 30/06/2021
+86c9c0b7-761,3723712,332341,Todd Cantwell,2021_2022,DISCLOSED,End of loan31/05/2022,Todd Cantwell | T. Cantwell | 24 | Attacking Midfield | AM | €18.00m | Bournemouth | End of loan | 31/05/2022
+74f96f5e-928,3720464,291544,Jordan Hugill,2021_2022,DISCLOSED,End of loan31/05/2022,Jordan Hugill | J. Hugill | 29 | Centre-Forward | CF | €1.80m | Cardiff | End of loan | 31/05/2022
+799e5c99-5e4,3031480,532464,Daniel Adshead,2021_2022,DISCLOSED,End of loan30/06/2021,Daniel Adshead | D. Adshead | 19 | Central Midfield | CM | €200k | Telstar | End of loan | 30/06/2021
+fecf1f7f-150,3072210,346499,Danel Sinani,2021_2022,DISCLOSED,End of loan30/06/2021,Danel Sinani | D. Sinani | 24 | Attacking Midfield | AM | €550k | Waasland-Beveren | End of loan | 30/06/2021
+d40e214f-5c8,3700652,547534,Josh Martin,2021_2022,DISCLOSED,End of loan31/05/2022,Josh Martin | J. Martin | 20 | Left Winger | LW | €1.00m | Doncaster | End of loan | 31/05/2022
+9a43b966-9c2,3091578,65255,Timm Klose,2021_2022,DISCLOSED,End of loan30/06/2021,Timm Klose | T. Klose | 33 | Centre-Back | CB | €300k | Basel | End of loan | 30/06/2021
+46bf75a6-9bd,3696254,109751,Onel Hernández,2021_2022,DISCLOSED,End of loan13/01/2022,Onel Hernández | O. Hernández | 28 | Left Winger | LW | €1.50m | Middlesbrough | End of loan | 13/01/2022
+fb056d7c-ad2,3683641,433186,Bali Mumba,2021_2022,DISCLOSED,End of loan31/05/2022,Bali Mumba | B. Mumba | 20 | Left-Back | LB | €400k | Peterborough | End of loan | 31/05/2022
+0b58d8da-9a6,3530294,288948,Aston Oxborough,2021_2022,DISCLOSED,End of loan31/05/2022,Aston Oxborough | A. Oxborough | 24 | Goalkeeper | GK | €100k | Barnet | End of loan | 31/05/2022
+27724bec-74a,3420376,504042,Daniel Barden,2021_2022,DISCLOSED,End of loan31/05/2022,Daniel Barden | D. Barden | 21 | Goalkeeper | GK | €250k | Livingston FC | End of loan | 31/05/2022
+1470eaf4-92e,3421324,605498,Sebastian Soto,2021_2022,DISCLOSED,End of loan25/01/2022,Sebastian Soto | S. Soto | 21 | Centre-Forward | CF | €500k | FC Porto B | End of loan | 25/01/2022
+d6d59668-d8c,3429365,425713,Akin Famewo,2021_2022,DISCLOSED,End of loan31/05/2022,Akin Famewo | A. Famewo | 23 | Centre-Back | CB | €100k | Charlton | End of loan | 31/05/2022
+0b49dd83-257,3436128,618901,Sam McCallum,2021_2022,DISCLOSED,End of loan31/05/2022,Sam McCallum | S. McCallum | 21 | Left-Back | LB | €3.00m | QPR | End of loan | 31/05/2022
+9ed3ab04-9b0,3366454,39372,Mario Vrancic,2021_2022,DISCLOSED,free transfer,Mario Vrancic | M. Vrancic | 32 | Central Midfield | CM | €1.50m | Stoke City | free transfer
+9adb1f5d-09f,3503441,45760,Marco Stiepermann,2021_2022,DISCLOSED,free transfer,Marco Stiepermann | M. Stiepermann | 30 | Attacking Midfield | AM | €1.50m | SC Paderborn | free transfer
+ed2b62b4-e77,3503584,73517,Ørjan Nyland,2021_2022,DISCLOSED,free transfer,Ørjan Nyland | Ø. Nyland | 30 | Goalkeeper | GK | €1.00m | Bournemouth | free transfer
+907fbf30-8f1,3414354,82243,Moritz Leitner,2021_2022,DISCLOSED,free transfer,Moritz Leitner | M. Leitner | 28 | Central Midfield | CM | €800k | FC Zürich | free transfer
+dc5c3514-1bf,3471282,207771,Louis Thompson,2021_2022,DISCLOSED,free transfer,Louis Thompson | L. Thompson | 26 | Central Midfield | CM | €250k | Portsmouth | free transfer
+a6bba7d5-cb8,3520997,93831,Tom Trybull,2021_2022,DISCLOSED,free transfer,Tom Trybull | T. Trybull | 28 | Defensive Midfield | DM | €1.80m | Hannover 96 | free transfer
+e9a4e727-eb3,3018925,204102,Xavi Quintillà,2021_2022,DISCLOSED,End of loan30/06/2021,Xavi Quintillà | X. Quintillà | 24 | Left-Back | LB | €2.80m | Villarreal | End of loan | 30/06/2021
+224aea44-148,3474358,503981,Tino Livramento,2021_2022,DISCLOSED,€26.20m,Tino Livramento | T. Livramento | 18 | Right-Back | RB | - | Chelsea U23 | €26.20m
+8ac075e6-ed1,3489414,250426,Adam Armstrong,2021_2022,DISCLOSED,€17.70m,Adam Armstrong | A. Armstrong | 24 | Centre-Forward | CF | €18.00m | Blackburn | €17.70m
+65247855-3a4,3420763,318523,Romain Perraud,2021_2022,DISCLOSED,€12.00m,Romain Perraud | R. Perraud | 23 | Left-Back | LB | €8.00m | Stade Brestois | €12.00m
+0869bcf9-9f2,3518419,379807,Lyanco,2021_2022,DISCLOSED,€7.50m,Lyanco | Lyanco | 24 | Centre-Back | CB | €5.00m | Torino | €7.50m
+417cedcd-ea0,3488195,571743,Armando Broja,2021_2022,DISCLOSED,loan transfer,Armando Broja | A. Broja | 19 | Centre-Forward | CF | €3.00m | Chelsea U23 | loan transfer
+b264a39c-5fa,3440711,346482,Dan Nlundulu,2021_2022,DISCLOSED,End of loan05/01/2022,Dan Nlundulu | D. Nlundulu | 22 | Centre-Forward | CF | €1.50m | Lincoln City | End of loan | 05/01/2022
+efb2afe9-b06,3088556,253765,Wesley Hoedt,2021_2022,DISCLOSED,End of loan30/06/2021,Wesley Hoedt | W. Hoedt | 27 | Centre-Back | CB | €4.00m | Lazio | End of loan | 30/06/2021
+7ed46bad-bdf,3458703,170934,Mario Lemina,2021_2022,DISCLOSED,€5.50m,Mario Lemina | M. Lemina | 27 | Defensive Midfield | DM | €10.00m | Nice | €5.50m
+fb78fcbb-ba0,3531396,444208,Michael Obafemi,2021_2022,DISCLOSED,€2.00m,Michael Obafemi | M. Obafemi | 21 | Centre-Forward | CF | €3.00m | Swansea | €2.00m
+a6a34330-efc,3387595,315185,Jake Hesketh,2021_2022,DISCLOSED,free transfer,Jake Hesketh | J. Hesketh | 25 | Attacking Midfield | AM | €200k | Eastleigh | free transfer
+da78e368-a3e,3387596,286919,Josh Sims,2021_2022,DISCLOSED,-,Josh Sims | Josh Sims | 24 | Right Winger | RW | €1.20m | Without Club | -
+d67dcc0a-776,3675486,226968,Sam McQueen,2021_2022,DISCLOSED,-,Sam McQueen | S. McQueen | 26 | Left-Back | LB | €800k | Retired | -
+48dc135e-599,3529941,476344,Emerson Royal,2021_2022,DISCLOSED,€25.00m,Emerson Royal | E. Royal | 22 | Right-Back | RB | €25.00m | Barcelona | €25.00m
+97cbce62-ad5,3461083,537382,Bryan Gil,2021_2022,DISCLOSED,€25.00m,Bryan Gil | Bryan Gil | 20 | Left Winger | LW | €30.00m | Sevilla FC | €25.00m
+e98bd4f5-6a5,3722343,354362,Rodrigo Bentancur,2021_2022,DISCLOSED,€19.00m,Rodrigo Bentancur | R. Bentancur | 24 | Defensive Midfield | DM | €25.00m | Juventus | €19.00m
+481c343f-92f,3521651,568693,Pape Matar Sarr,2021_2022,DISCLOSED,€16.90m,Pape Matar Sarr | P. Sarr | 18 | Central Midfield | CM | €10.00m | FC Metz | €16.90m
+ab6c61b9-7e1,3722330,431755,Dejan Kulusevski,2021_2022,LOAN,0,Dejan Kulusevski | D. Kulusevski | 21 | Attacking Midfield | AM | €30.00m | Juventus | Loan fee: | €10.00m
+4aeb1fc6-13b,3481975,355915,Cristian Romero,2021_2022,DISCLOSED,loan transfer,Cristian Romero | C. Romero | 23 | Centre-Back | CB | €35.00m | Atalanta | loan transfer
+4ad228f3-8ba,3458259,244192,Pierluigi Gollini,2021_2022,DISCLOSED,loan transfer,Pierluigi Gollini | P. Gollini | 26 | Goalkeeper | GK | €17.00m | Atalanta | loan transfer
+b1e19356-ba5,3531497,341049,Cameron Carter-Vickers,2021_2022,DISCLOSED,End of loan31/05/2022,Cameron Carter-Vickers | C. Carter-Vickers | 24 | Centre-Back | CB | €3.00m | Celtic | End of loan | 31/05/2022
+d8b46562-4da,3643996,428016,Brandon Austin,2021_2022,DISCLOSED,-,Brandon Austin | B. Austin | 22 | Goalkeeper | GK | €250k | Tottenham U23 | -
+e74a0da1-a6c,3713948,559794,Jack Clarke,2021_2022,DISCLOSED,End of loan31/05/2022,Jack Clarke | J. Clarke | 21 | Left Winger | LW | €5.00m | Sunderland | End of loan | 31/05/2022
+346a78a9-4cc,3493671,282823,Alfie Whiteman,2021_2022,DISCLOSED,End of loan31/12/2021,Alfie Whiteman | A. Whiteman | 23 | Goalkeeper | GK | €800k | Degerfors | End of loan | 31/12/2021
+bc926fa7-0e4,3233696,195488,Paulo Gazzaniga,2021_2022,DISCLOSED,End of loan30/06/2021,Paulo Gazzaniga | P. Gazzaniga | 29 | Goalkeeper | GK | €3.00m | Elche CF | End of loan | 30/06/2021
+0026965c-735,3087686,392775,Ryan Sessegnon,2021_2022,DISCLOSED,End of loan30/06/2021,Ryan Sessegnon | R. Sessegnon | 21 | Left-Back | LB | €18.00m | Hoffenheim | End of loan | 30/06/2021
+384a074f-a4c,3086509,480763,Juan Foyth,2021_2022,DISCLOSED,End of loan30/06/2021,Juan Foyth | J. Foyth | 23 | Centre-Back | CB | €12.00m | Villarreal | End of loan | 30/06/2021
+675ae9a5-ff3,3463426,42710,Toby Alderweireld,2021_2022,DISCLOSED,€13.00m,Toby Alderweireld | T. Alderweireld | 32 | Centre-Back | CB | €11.00m | Al-Duhail SC | €13.00m
+1e6e1c3d-ca7,3521685,46001,Moussa Sissoko,2021_2022,DISCLOSED,€3.50m,Moussa Sissoko | M. Sissoko | 32 | Central Midfield | CM | €10.00m | Watford | €3.50m
+bfe1ac25-ea9,3722167,450936,Tanguy Ndombélé,2021_2022,LOAN,0,Tanguy Ndombélé | T. Ndombélé | 25 | Central Midfield | CM | €38.00m | Lyon | Loan fee: | €1.42m
+17960053-eaa,3476205,40204,Joe Hart,2021_2022,DISCLOSED,€1.20m,Joe Hart | Joe Hart | 34 | Goalkeeper | GK | €2.00m | Celtic | €1.20m
+8bcb2c6f-cd8,3722595,537382,Bryan Gil,2021_2022,LOAN,0,Bryan Gil | Bryan Gil | 20 | Left Winger | LW | €28.00m | Valencia | Loan fee: | €500k
+fcad3c39-763,3461082,111630,Erik Lamela,2021_2022,DISCLOSED,free transfer,Erik Lamela | E. Lamela | 29 | Right Winger | RW | €16.00m | Sevilla FC | free transfer
+8e378772-548,3378723,50174,Danny Rose,2021_2022,DISCLOSED,free transfer,Danny Rose | D. Rose | 30 | Left-Back | LB | €3.00m | Watford | free transfer
+424466d5-5d7,3722804,348795,Giovani Lo Celso,2021_2022,DISCLOSED,loan transfer,Giovani Lo Celso | G. Lo Celso | 25 | Attacking Midfield | AM | €22.00m | Villarreal | loan transfer
+5210349c-bc3,3577625,127032,Serge Aurier,2021_2022,DISCLOSED,-,Serge Aurier | S. Aurier | 28 | Right-Back | RB | €20.00m | Without Club | -
+66ec11ff-9b3,3085255,525287,Carlos Vinícius,2021_2022,DISCLOSED,End of loan30/06/2021,Carlos Vinícius | Carlos Vinícius | 26 | Centre-Forward | CF | €18.00m | Benfica | End of loan | 30/06/2021
+b8d56a92-108,3068406,39381,Gareth Bale,2021_2022,DISCLOSED,End of loan30/06/2021,Gareth Bale | G. Bale | 31 | Right Winger | RW | €18.00m | Real Madrid | End of loan | 30/06/2021
+2f030c0e-8a2,3384486,635336,Imrân Louza,2021_2022,DISCLOSED,€10.00m,Imrân Louza | I. Louza | 22 | Central Midfield | CM | €12.00m | FC Nantes | €10.00m
+76331c24-fd1,3619916,340353,Maduka Okoye,2021_2022,DISCLOSED,€5.00m,Maduka Okoye | M. Okoye | 22 | Goalkeeper | GK | €1.00m | Sparta R. | €5.00m
+cbbbbb10-d00,3683864,255744,Samir Caetano,2021_2022,DISCLOSED,€5.00m,Samir Caetano | Samir Caetano | 27 | Centre-Back | CB | €5.00m | Udinese | €5.00m
+67138426-a3a,3685341,486477,Edo Kayembe,2021_2022,DISCLOSED,€4.70m,Edo Kayembe | E. Kayembe | 23 | Central Midfield | CM | €1.30m | KAS Eupen | €4.70m
+f71fd281-26f,3404806,448854,Emmanuel Dennis,2021_2022,DISCLOSED,€4.00m,Emmanuel Dennis | E. Dennis | 23 | Centre-Forward | CF | €5.00m | Club Brugge | €4.00m
+431c4607-b3b,3680875,290017,Hassane Kamara,2021_2022,DISCLOSED,€4.00m,Hassane Kamara | H. Kamara | 27 | Left-Back | LB | €6.00m | Nice | €4.00m
+476c0016-afc,3659320,857818,Yáser Asprilla,2021_2022,DISCLOSED,€3.00m,Yáser Asprilla | Y. Asprilla | 18 | Right Winger | RW | €500k | Envigado | €3.00m
+be2ecd21-b2c,3714334,424051,Samuel Kalu,2021_2022,DISCLOSED,€3.00m,Samuel Kalu | S. Kalu | 24 | Right Winger | RW | €5.50m | G. Bordeaux | €3.00m
+11e8684b-246,3507286,236471,Ozan Tufan,2021_2022,LOAN,0,Ozan Tufan | O. Tufan | 26 | Central Midfield | CM | €11.00m | Fenerbahçe | Loan fee: | €1.00m
+6b738422-14c,3378364,624948,Mattie Pollock,2021_2022,DISCLOSED,€300k,Mattie Pollock | M. Pollock | 19 | Centre-Back | CB | - | Grimsby Town | €300k
+04521eb9-fef,3368580,711247,Kwadwo Baah,2021_2022,DISCLOSED,free transfer,Kwadwo Baah | K. Baah | 18 | Right Winger | RW | - | Rochdale | free transfer
+76ee4473-376,3380106,289846,Ashley Fletcher,2021_2022,DISCLOSED,free transfer,Ashley Fletcher | A. Fletcher | 25 | Centre-Forward | CF | €3.00m | Middlesbrough | free transfer
+0ac7e47f-33b,3430815,409106,Peter Etebo,2021_2022,DISCLOSED,loan transfer,Peter Etebo | P. Etebo | 25 | Defensive Midfield | DM | €3.20m | Stoke City | loan transfer
+846f34b7-83f,3482070,74943,Juraj Kucka,2021_2022,DISCLOSED,loan transfer,Juraj Kucka | J. Kucka | 34 | Central Midfield | CM | €3.00m | Parma | loan transfer
+61f3f2ec-0a1,3581278,60577,Nicolas N'Koulou,2021_2022,DISCLOSED,-,Nicolas N'Koulou | N. N'Koulou | 31 | Centre-Back | CB | €5.00m | Without Club | -
+2ccab05f-e1b,3011504,538006,Kwasi Sibo,2021_2022,DISCLOSED,End of loan30/06/2021,Kwasi Sibo | K. Sibo | 23 | Central Midfield | CM | €200k | UD Ibiza | End of loan | 30/06/2021
+48931a09-545,3231020,391719,Domingos Quina,2021_2022,DISCLOSED,End of loan30/06/2021,Domingos Quina | D. Quina | 21 | Central Midfield | CM | €3.00m | Granada CF | End of loan | 30/06/2021
+982f0744-53f,3090162,236513,Jerome Sinclair,2021_2022,DISCLOSED,End of loan30/06/2021,Jerome Sinclair | J. Sinclair | 24 | Centre-Forward | CF | €400k | CSKA-Sofia | End of loan | 30/06/2021
+3debbc14-f17,3695699,365544,Pontus Dahlberg,2021_2022,DISCLOSED,End of loan31/05/2022,Pontus Dahlberg | P. Dahlberg | 23 | Goalkeeper | GK | €1.20m | Gillingham | End of loan | 31/05/2022
+99ead2c3-f4c,3086200,453575,Jorge Segura,2021_2022,DISCLOSED,End of loan30/06/2021,Jorge Segura | J. Segura | 24 | Centre-Back | CB | €650k | Atl. Nacional | End of loan | 30/06/2021
+8b60afac-90c,3014606,459463,Cucho Hernández,2021_2022,DISCLOSED,End of loan30/06/2021,Cucho Hernández | C. Hernández | 22 | Centre-Forward | CF | €9.00m | Getafe | End of loan | 30/06/2021
+c71987a4-6ba,3530350,120565,Andre Gray,2021_2022,DISCLOSED,End of loan31/05/2022,Andre Gray | A. Gray | 30 | Centre-Forward | CF | €2.00m | QPR | End of loan | 31/05/2022
+21cb57eb-9b5,3483362,271098,Philip Zinckernagel,2021_2022,DISCLOSED,End of loan31/05/2022,Philip Zinckernagel | P. Zinckernagel | 27 | Right Winger | RW | €3.00m | Nott'm Forest | End of loan | 31/05/2022
+2499f493-bb3,3494671,346472,Tom Dele-Bashiru,2021_2022,DISCLOSED,End of loan31/05/2022,Tom Dele-Bashiru | T. Dele-Bashiru | 22 | Defensive Midfield | DM | €2.50m | Reading | End of loan | 31/05/2022
+7241de3d-32b,3320820,121477,Craig Dawson,2021_2022,DISCLOSED,€2.30m,Craig Dawson | C. Dawson | 31 | Centre-Back | CB | €3.00m | West Ham | €2.30m
+7e5eea10-669,3520095,295331,Isaac Success,2021_2022,DISCLOSED,€1.80m,Isaac Success | I. Success | 25 | Centre-Forward | CF | €1.80m | Udinese | €1.80m
+e79f0a8f-094,3408563,467599,Ben Wilmot,2021_2022,DISCLOSED,€1.75m,Ben Wilmot | B. Wilmot | 21 | Centre-Back | CB | €2.50m | Stoke City | €1.75m
+cd0fcb2c-431,3590723,461756,Henry Ochieng,2021_2022,DISCLOSED,free transfer,Henry Ochieng | H. Ochieng | 22 | Central Midfield | CM | - | Hemel | free transfer
+be2f3a64-1c0,3527209,65477,Troy Deeney,2021_2022,DISCLOSED,free transfer,Troy Deeney | T. Deeney | 33 | Centre-Forward | CF | €2.50m | Birmingham | free transfer
+ac54386d-6fc,3485076,442337,Filip Stuparevic,2021_2022,DISCLOSED,free transfer,Filip Stuparevic | F. Stuparevic | 20 | Centre-Forward | CF | €600k | Metalac | free transfer
+5c102066-686,3531590,128900,Nathaniel Chalobah,2021_2022,DISCLOSED,free transfer,Nathaniel Chalobah | N. Chalobah | 26 | Defensive Midfield | DM | €5.00m | Fulham | free transfer
+54aff88d-4bc,3370159,139173,Achraf Lazaar,2021_2022,DISCLOSED,free transfer,Achraf Lazaar | A. Lazaar | 29 | Left Midfield | LM | €300k | Portimonense | free transfer
+a286cf51-d88,3505406,245072,Stipe Perica,2021_2022,UNDISCLOSED,UNDISCLOSED,Stipe Perica | S. Perica | 26 | Centre-Forward | CF | €1.50m | M. Tel Aviv | ?
+ca84a107-1de,3435921,308801,Adalberto Peñaranda,2021_2022,DISCLOSED,loan transfer,Adalberto Peñaranda | A. Peñaranda | 24 | Left Winger | LW | €400k | UD Las Palmas | loan transfer
+d45fd681-881,3533053,335245,Marc Navarro,2021_2022,DISCLOSED,-,Marc Navarro | M. Navarro | 26 | Right-Back | RB | €800k | Without Club | -
+10dc5474-7fe,3370162,51226,Carlos Sánchez,2021_2022,DISCLOSED,-,Carlos Sánchez | C. Sánchez | 35 | Defensive Midfield | DM | €300k | Without Club | -
+bc133c86-b1f,3507287,236471,Ozan Tufan,2021_2022,DISCLOSED,End of loan02/02/2022,Ozan Tufan | O. Tufan | 26 | Central Midfield | CM | €10.00m | Fenerbahçe | End of loan | 02/02/2022
+1c4c9add-10a,3527846,293200,Nikola Vlašić,2021_2022,DISCLOSED,€30.00m,Nikola Vlašić | N. Vlašić | 23 | Attacking Midfield | AM | €30.00m | CSKA Moscow | €30.00m
+0dfe6982-7ef,3529540,337333,Alex Král,2021_2022,LOAN,0,Alex Král | Alex Král | 23 | Central Midfield | CM | €10.00m | Spartak Moscow | Loan fee: | €5.20m
+86e1f344-c71,3468031,120629,Alphonse Areola,2021_2022,LOAN,0,Alphonse Areola | A. Areola | 28 | Goalkeeper | GK | €17.00m | PSG | Loan fee: | €2.00m
+9b1b1598-5a1,3497265,542690,Frederik Alves,2021_2022,DISCLOSED,End of loan13/01/2022,Frederik Alves | F. Alves | 22 | Centre-Back | CB | €1.00m | Sunderland | End of loan | 13/01/2022
+89192cd2-524,3091237,159372,Felipe Anderson,2021_2022,DISCLOSED,End of loan30/06/2021,Felipe Anderson | Felipe Anderson | 28 | Left Winger | LW | €10.00m | Porto | End of loan | 30/06/2021
+350a68f7-0e5,3529727,419025,Conor Coventry,2021_2022,DISCLOSED,End of loan05/01/2022,Conor Coventry | C. Coventry | 21 | Defensive Midfield | DM | €300k | Peterborough | End of loan | 05/01/2022
+58a55492-08b,3089247,258011,Xande Silva,2021_2022,DISCLOSED,End of loan30/06/2021,Xande Silva | X. Silva | 24 | Left Winger | LW | €800k | Aris Saloniki | End of loan | 30/06/2021
+92bc690a-035,3387842,285548,Fabián Balbuena,2021_2022,DISCLOSED,free transfer,Fabián Balbuena | F. Balbuena | 29 | Centre-Back | CB | €5.00m | Dynamo Moscow | free transfer
+a79997b6-ade,3563016,37526,Winston Reid,2021_2022,DISCLOSED,-,Winston Reid | W. Reid | 33 | Centre-Back | CB | €1.50m | Without Club | -
+66508513-f4d,3430966,578391,Rayan Aït-Nouri,2021_2022,DISCLOSED,€11.10m,Rayan Aït-Nouri | R. Aït-Nouri | 20 | Left-Back | LB | €18.00m | Angers SCO | €11.10m
+194132c4-ad8,3442794,249994,José Sá,2021_2022,DISCLOSED,€8.00m,José Sá | José Sá | 28 | Goalkeeper | GK | €7.50m | Olympiacos | €8.00m
+664e4f15-7ff,3421954,412669,Francisco Trincão,2021_2022,LOAN,0,Francisco Trincão | F. Trincão | 21 | Right Winger | RW | €22.00m | Barcelona | Loan fee: | €6.00m
+e1f682d5-32b,3400371,716276,Yerson Mosquera,2021_2022,DISCLOSED,€5.20m,Yerson Mosquera | Y. Mosquera | 20 | Centre-Back | CB | €1.70m | Atl. Nacional | €5.20m
+878f4f22-c0a,3700193,695454,Chiquinho,2021_2022,DISCLOSED,€3.50m,Chiquinho | Chiquinho | 21 | Left Winger | LW | €1.00m | Estoril | €3.50m
+3cba578e-9cc,3446236,439351,Bendegúz Bolla,2021_2022,DISCLOSED,€2.00m,Bendegúz Bolla | B. Bolla | 21 | Right-Back | RB | €600k | Fehérvár | €2.00m
+4ae1921b-384,3717663,638571,Sang-bin Jeong,2021_2022,DISCLOSED,€1.20m,Sang-bin Jeong | S. Jeong | 19 | Centre-Forward | CF | €850k | Suwon Bluewings | €1.20m
+4c96bda1-ef0,3681690,262489,Hayao Kawabe,2021_2022,DISCLOSED,€600k,Hayao Kawabe | H. Kawabe | 26 | Central Midfield | CM | €1.30m | Grasshoppers | €600k
+e839892d-d91,3524441,292246,Hee-chan Hwang,2021_2022,DISCLOSED,loan transfer,Hee-chan Hwang | H. Hwang | 25 | Centre-Forward | CF | €11.00m | Leipzig | loan transfer
+876c6fc6-eda,4044632,532541,Luke Cundle,2021_2022,DISCLOSED,-,Luke Cundle | L. Cundle | 19 | Central Midfield | CM | - | Wolves U23 | -
+2485f32d-b10,3716933,293257,Matija Sarkic,2021_2022,DISCLOSED,End of loan06/01/2022,Matija Sarkic | M. Sarkic | 24 | Goalkeeper | GK | €1.80m | Birmingham | End of loan | 06/01/2022
+ace69879-671,2758414,361254,Rafa Mir,2021_2022,DISCLOSED,End of loan30/06/2021,Rafa Mir | Rafa Mir | 24 | Centre-Forward | CF | €12.00m | SD Huesca | End of loan | 30/06/2021
+b1eeee4c-4f8,3723883,504581,Ryan Giles,2021_2022,DISCLOSED,End of loan31/05/2022,Ryan Giles | R. Giles | 22 | Left-Back | LB | €3.00m | Blackburn | End of loan | 31/05/2022
+9deeb04f-0c0,3026380,337787,Connor Ronan,2021_2022,DISCLOSED,End of loan30/06/2021,Connor Ronan | C. Ronan | 23 | Central Midfield | CM | €450k | Grasshoppers | End of loan | 30/06/2021
+c0ecb9ea-2ca,3046521,606718,Toti,2021_2022,DISCLOSED,End of loan04/01/2022,Toti | Toti | 22 | Centre-Back | CB | €1.00m | Grasshoppers | End of loan | 04/01/2022
+08a1dfb2-9ba,3051887,415646,Bruno Jordão,2021_2022,DISCLOSED,End of loan30/06/2021,Bruno Jordão | B. Jordão | 22 | Defensive Midfield | DM | €2.50m | Famalicão | End of loan | 30/06/2021
+3b03465b-699,3068234,606872,Leonardo Campana,2021_2022,DISCLOSED,End of loan30/06/2021,Leonardo Campana | L. Campana | 20 | Centre-Forward | CF | €1.20m | Famalicão | End of loan | 30/06/2021
+c38c2896-c1a,3193056,357158,Rúben Vinagre,2021_2022,DISCLOSED,End of loan30/06/2021,Rúben Vinagre | R. Vinagre | 22 | Left Midfield | LM | €5.00m | Famalicão | End of loan | 30/06/2021
+6509b0ff-105,3200424,293283,Oskar Buur,2021_2022,DISCLOSED,End of loan30/06/2021,Oskar Buur | O. Buur | 23 | Right-Back | RB | €300k | Grasshoppers | End of loan | 30/06/2021
+4821ce62-b92,3230128,265078,Patrick Cutrone,2021_2022,DISCLOSED,End of loan30/06/2021,Patrick Cutrone | P. Cutrone | 23 | Centre-Forward | CF | €9.00m | Valencia | End of loan | 30/06/2021
+b6a4145e-d76,3530503,429014,Morgan Gibbs-White,2021_2022,DISCLOSED,End of loan31/05/2022,Morgan Gibbs-White | M. Gibbs-White | 22 | Attacking Midfield | AM | €11.00m | Sheff Utd | End of loan | 31/05/2022
+1faacbf1-6a2,3438381,45026,Rui Patrício,2021_2022,DISCLOSED,€11.80m,Rui Patrício | R. Patrício | 33 | Goalkeeper | GK | €10.00m | Roma | €11.80m
+1af7baf4-077,3509743,511815,Owen Otasowie,2021_2022,DISCLOSED,€4.00m,Owen Otasowie | O. Otasowie | 20 | Defensive Midfield | DM | €1.50m | Club Brugge | €4.00m
+721a93d2-2a7,3468633,335461,Renat Dadashov,2021_2022,DISCLOSED,loan transfer,Renat Dadashov | R. Dadashov | 22 | Centre-Forward | CF | €300k | Tondela | loan transfer
+2d64ec55-1d9,3719230,204103,Adama Traoré,2021_2022,DISCLOSED,loan transfer,Adama Traoré | A. Traoré | 26 | Right Winger | RW | €28.00m | Barcelona | loan transfer
+b129f9f9-34d,3054287,487469,Vitinha,2021_2022,DISCLOSED,End of loan30/06/2021,Vitinha | Vitinha | 21 | Defensive Midfield | DM | €7.00m | Porto | End of loan | 30/06/2021
+59ffd15a-683,3217074,122155,Willian José,2021_2022,DISCLOSED,End of loan30/06/2021,Willian José | Willian José | 29 | Centre-Forward | CF | €18.00m | Real Sociedad | End of loan | 30/06/2021

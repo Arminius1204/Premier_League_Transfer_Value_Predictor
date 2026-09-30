@@ -16,7 +16,8 @@ def run():
     
     parsed_sources = [
         ("fpl", data_dir / "fpl" / "fpl_parsed_2023_2024.csv"),
-        ("football_data", data_dir / "football_data" / "football_data_parsed_2023_2024.csv")
+        ("football_data", data_dir / "football_data" / "football_data_parsed_2023_2024.csv"),
+        ("transfermarkt", data_dir / "transfermarkt" / "transfermarkt_parsed_2023_2024.csv")
     ]
     
     # 1. Season Resolution

@@ -8,6 +8,7 @@ from pathlib import Path
 from ml.data_parsing.fpl_parser import FPLParser
 from ml.data_parsing.football_data_parser import FootballDataParser
 from ml.data_parsing.understat_parser import UnderstatParser
+from ml.data_parsing.transfermarkt_parser import TransfermarktParser
 
 def profile_parsed_files():
     parsed_dir = Path(__file__).resolve().parent.parent.parent / "data" / "parsed"
@@ -30,7 +31,6 @@ def profile_parsed_files():
                     total_records += row_count
                     columns = list(reader[0].keys())
                     
-                    # Compute unique players and clubs if available
                     unique_players = set()
                     unique_clubs = set()
                     
@@ -59,7 +59,6 @@ def profile_parsed_files():
                     }
                     profile_data.append(profile)
                     
-    # Save profile to file
     with open(parsed_dir / "parsing_profile.json", 'w', encoding='utf-8') as f:
         json.dump(profile_data, f, indent=2)
         
@@ -72,6 +71,8 @@ if __name__ == "__main__":
     fd = FootballDataParser().parse()
     print("Running Understat Parser...")
     us = UnderstatParser().parse()
+    print("Running Transfermarkt Parser...")
+    tm = TransfermarktParser().parse()
     
     profiles, total_files, total_records = profile_parsed_files()
     

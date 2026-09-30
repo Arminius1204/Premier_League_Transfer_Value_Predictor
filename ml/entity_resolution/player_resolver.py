@@ -81,11 +81,84 @@ class PlayerResolver:
             if not Path(filepath).exists() or source_name == "fpl":
                 continue
                 
-            # If we had Understat or Transfermarkt parsed, the logic would go here:
-            # 1. Exact string match on normalized name
-            # 2. Fuzzy match + Club match
-            # 3. Add to review queue if uncertain
-            pass
+            if source_name == "transfermarkt":
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        src_id = row.get("source_player_id")
+                        src_name = row.get("source_player_name")
+                        norm_name = self._normalize(src_name)
+                        
+                        best_match = None
+                        best_score = 0
+                        
+                        # Compare against master players
+                        for master_id, master_data in self.master_players.items():
+                            master_name = master_data["canonical_name"]
+                            
+                            if norm_name == master_name:
+                                best_score = 100.0
+                                best_match = master_id
+                                break
+                            
+                            score = self._fuzzy_score(norm_name, master_name)
+                            if score > best_score:
+                                best_score = score
+                                best_match = master_id
+                                
+                        if best_score == 100.0:
+                            match_method = "EXACT_NAME"
+                            status = "APPROVED"
+                        elif best_score > 90.0:
+                            match_method = "FUZZY_HIGH"
+                            status = "APPROVED"
+                        elif best_score > 80.0:
+                            match_method = "FUZZY_MEDIUM"
+                            status = "REVIEW_REQUIRED"
+                        else:
+                            # Create new master player if not found
+                            best_match = f"plr_{str(uuid.uuid4())[:8]}"
+                            self.master_players[best_match] = {
+                                "master_player_id": best_match,
+                                "canonical_name": norm_name,
+                                "date_of_birth": "", 
+                                "canonical_position": "", 
+                                "nationality": "",
+                                "height": "",
+                                "preferred_foot": "",
+                                "created_at": datetime.utcnow().isoformat() + "Z"
+                            }
+                            match_method = "NO_MATCH_CREATED_NEW"
+                            status = "APPROVED"
+                            best_score = 100.0
+                            
+                        # Add Identity Map
+                        mapping = {
+                            "master_player_id": best_match,
+                            "source": source_name,
+                            "source_player_id": src_id,
+                            "source_player_name": src_name,
+                            "source_club_id": "",
+                            "source_club_name": "",
+                            "season_id": row.get("season_id"),
+                            "match_confidence": round(best_score, 2),
+                            "match_method": match_method,
+                            "review_status": status
+                        }
+                        if mapping not in self.player_identity_map:
+                            self.player_identity_map.append(mapping)
+                            
+                        if status == "REVIEW_REQUIRED":
+                            self.review_queue.append({
+                                "source_player_name": src_name,
+                                "candidate_master_player": best_match,
+                                "name_score": round(best_score, 2),
+                                "club": "",
+                                "position": "",
+                                "season": row.get("season_id"),
+                                "confidence": "MEDIUM",
+                                "reason": "Fuzzy score between 80 and 90"
+                            })
 
     def save(self, output_dir):
         out_dir = Path(output_dir)

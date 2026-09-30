@@ -13,9 +13,9 @@ LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
 # Standardized Seasons
 SEASONS = [
+    {"season_id": "2021_2022", "season_label": "2021/22", "start_year": 2021, "end_year": 2022},
+    {"season_id": "2022_2023", "season_label": "2022/23", "start_year": 2022, "end_year": 2023},
     {"season_id": "2023_2024", "season_label": "2023/24", "start_year": 2023, "end_year": 2024}
-    # For full runs, add historical seasons here:
-    # {"season_id": "2022_2023", "season_label": "2022/23", "start_year": 2022, "end_year": 2023}
 ]
 
 # Central Configuration

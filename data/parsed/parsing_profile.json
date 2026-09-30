@@ -1,6 +1,40 @@
 [
   {
     "source": "football_data",
+    "file_name": "football_data_parsed_2021_2022.csv",
+    "row_count": 380,
+    "column_count": 7,
+    "columns": [
+      "source_match_id",
+      "season_id",
+      "source_home_team",
+      "source_away_team",
+      "home_goals",
+      "away_goals",
+      "match_date"
+    ],
+    "unique_players": 0,
+    "unique_clubs": 20
+  },
+  {
+    "source": "football_data",
+    "file_name": "football_data_parsed_2022_2023.csv",
+    "row_count": 380,
+    "column_count": 7,
+    "columns": [
+      "source_match_id",
+      "season_id",
+      "source_home_team",
+      "source_away_team",
+      "home_goals",
+      "away_goals",
+      "match_date"
+    ],
+    "unique_players": 0,
+    "unique_clubs": 20
+  },
+  {
+    "source": "football_data",
     "file_name": "football_data_parsed_2023_2024.csv",
     "row_count": 380,
     "column_count": 7,
@@ -54,5 +88,77 @@
     ],
     "unique_players": 667,
     "unique_clubs": 20
+  },
+  {
+    "source": "transfermarkt",
+    "file_name": "transfermarkt_parsed_2021_2022.csv",
+    "row_count": 443,
+    "column_count": 8,
+    "columns": [
+      "transfer_id",
+      "source_transfer_id",
+      "source_player_id",
+      "source_player_name",
+      "season_id",
+      "fee_status",
+      "raw_fee_string",
+      "raw_row_text"
+    ],
+    "unique_players": 425,
+    "unique_clubs": 0
+  },
+  {
+    "source": "transfermarkt",
+    "file_name": "transfermarkt_parsed_2022_2023.csv",
+    "row_count": 502,
+    "column_count": 8,
+    "columns": [
+      "transfer_id",
+      "source_transfer_id",
+      "source_player_id",
+      "source_player_name",
+      "season_id",
+      "fee_status",
+      "raw_fee_string",
+      "raw_row_text"
+    ],
+    "unique_players": 489,
+    "unique_clubs": 0
+  },
+  {
+    "source": "transfermarkt",
+    "file_name": "transfermarkt_parsed_2023.csv",
+    "row_count": 499,
+    "column_count": 8,
+    "columns": [
+      "transfer_id",
+      "source_transfer_id",
+      "source_player_id",
+      "source_player_name",
+      "season_id",
+      "fee_status",
+      "raw_fee_string",
+      "raw_row_text"
+    ],
+    "unique_players": 488,
+    "unique_clubs": 0
+  },
+  {
+    "source": "transfermarkt",
+    "file_name": "transfermarkt_parsed_2023_2024.csv",
+    "row_count": 499,
+    "column_count": 8,
+    "columns": [
+      "transfer_id",
+      "source_transfer_id",
+      "source_player_id",
+      "source_player_name",
+      "season_id",
+      "fee_status",
+      "raw_fee_string",
+      "raw_row_text"
+    ],
+    "unique_players": 488,
+    "unique_clubs": 0
   }
 ]
