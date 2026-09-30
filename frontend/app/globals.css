@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-emerald-500: #10b981;
+  --color-zinc-950: #09090b;
+}
+
+body {
+  background-color: var(--color-zinc-950);
+  color: white;
+}

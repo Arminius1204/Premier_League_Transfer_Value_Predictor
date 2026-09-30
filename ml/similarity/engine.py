@@ -82,6 +82,7 @@ class PlayerSimilarityEngine:
                 "Queried Player": query_row["canonical_name"],
                 "Queried Season": query_row["season_id"],
                 "Comparable Player": row["canonical_name"],
+                "Comparable Player ID": row["master_player_id"],
                 "Comparable Season": row["season_id"],
                 "Similarity Score": round(row["similarity_score"], 4),
                 "Position Compatibility": f"{query_row['position']} <-> {row['position']}",
