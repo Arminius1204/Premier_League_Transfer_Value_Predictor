@@ -15,11 +15,11 @@ def run_all():
     
     collectors = [
         ("Match Data (football-data)", MatchDataCollector()),
-        ("Advanced Stats (Understat)", AdvancedStatsCollector()),
-        ("PL Stats (FBref)", PremierLeagueStatsCollector()),
+        # ("Advanced Stats (Understat)", AdvancedStatsCollector()),
+        # ("PL Stats (FBref)", PremierLeagueStatsCollector()),
         ("Transfers (Transfermarkt)", TransferDataCollector()),
-        ("FPL API", FPLDataCollector()),
-        ("Salaries (Capology)", CapologyDataCollector())
+        # ("FPL API", FPLDataCollector()),
+        # ("Salaries (Capology)", CapologyDataCollector())
     ]
     
     report = []

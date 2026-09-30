@@ -147,6 +147,9 @@ def build_transfers():
                 # FX Logic
                 # Using known July 1st mid-market rates for the respective years.
                 fx_rates = {
+                    "2018": 0.89,
+                    "2019": 0.90,
+                    "2020": 0.90,
                     "2021": 0.858,
                     "2022": 0.859,
                     "2023": 0.859
@@ -285,21 +288,30 @@ def build_player_seasons():
             if row["source"] == "fpl": club_map[row["source_club_id"]] = row["master_club_id"]
 
     seasons = []
-    with open(PARSED_DIR / "fpl" / "fpl_parsed_2023_2024.csv", 'r', encoding='utf-8') as f:
-        for row in csv.DictReader(f):
-            master_pid = player_map.get(row["source_player_id"])
-            master_cid = club_map.get(row["source_club_id"])
-            if master_pid:
-                seasons.append({
-                    "master_player_id": master_pid,
-                    "season_id": row["season_id"],
-                    "master_club_id": master_cid if master_cid else "UNKNOWN",
-                    "minutes": row["minutes"],
-                    "goals": row["goals_scored"],
-                    "assists": row["assists"],
-                    "xG": row["expected_goals"],
-                    "xA": row["expected_assists"]
-                })
+    
+    for season in ["2018_2019", "2019_2020", "2020_2021", "2021_2022", "2022_2023", "2023_2024"]:
+        fpl_file = PARSED_DIR / "fpl_historical" / f"fpl_historical_parsed_{season}.csv"
+        if not fpl_file.exists(): continue
+        
+        with open(fpl_file, 'r', encoding='utf-8') as f:
+            for row in csv.DictReader(f):
+                master_pid = player_map.get(row["source_player_id"])
+                
+                # We don't have source_club_id directly in historical vaastav players output without mapping,
+                # but we will just pass UNKNOWN and allow club context to handle it, 
+                # or if there's a club id we can map it. For now, player_seasons cares about stats.
+                master_cid = "UNKNOWN" 
+                
+                if master_pid:
+                    seasons.append({
+                        "master_player_id": master_pid,
+                        "season_id": row["season_id"],
+                        "master_club_id": master_cid,
+                        "minutes": row.get("minutes", 0),
+                        "goals": row.get("goals_scored", 0),
+                        "assists": row.get("assists", 0),
+                        "bps": row.get("bps", 0)
+                    })
                 
     if seasons:
         with open(PROC_DIR / "player_seasons.csv", 'w', newline='', encoding='utf-8') as f:
@@ -313,7 +325,7 @@ def build_player_seasons():
             for s in seasons:
                 writer.writerow({"master_player_id": s["master_player_id"], "season_id": s["season_id"], "master_club_id": s["master_club_id"]})
                 
-    print("Generated player_seasons.csv and player_season_clubs.csv")
+    print(f"Generated player_seasons.csv ({len(seasons)} records)")
 
 def build_transfer_links():
     links = []
@@ -322,7 +334,10 @@ def build_transfer_links():
     season_shift = {
         "2023_2024": "2022_2023",
         "2022_2023": "2021_2022",
-        "2021_2022": "2020_2021"
+        "2021_2022": "2020_2021",
+        "2020_2021": "2019_2020",
+        "2019_2020": "2018_2019",
+        "2018_2019": "2017_2018"
     }
     
     with open(PROC_DIR / "transfers_normalized.csv", 'r', encoding='utf-8') as f:

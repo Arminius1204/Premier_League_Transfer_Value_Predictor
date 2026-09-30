@@ -14,11 +14,19 @@ def run():
     data_dir = project_root / "data" / "parsed"
     out_dir = project_root / "data" / "entity_resolution"
     
-    parsed_sources = [
-        ("fpl", data_dir / "fpl" / "fpl_parsed_2023_2024.csv"),
-        ("football_data", data_dir / "football_data" / "football_data_parsed_2023_2024.csv"),
-        ("transfermarkt", data_dir / "transfermarkt" / "transfermarkt_parsed_2023_2024.csv")
-    ]
+    parsed_sources = []
+    
+    # Dynamically find all parsed files
+    for f in (data_dir / "fpl_historical").rglob("*.csv"):
+        parsed_sources.append(("fpl", f))
+        
+    for f in (data_dir / "football_data").rglob("*.csv"):
+        parsed_sources.append(("football_data", f))
+        
+    for f in (data_dir / "transfermarkt").rglob("*.csv"):
+        parsed_sources.append(("transfermarkt", f))
+        
+    print(f"Discovered {len(parsed_sources)} parsed dataset files for resolution.")
     
     # 1. Season Resolution
     season_res = SeasonResolver()

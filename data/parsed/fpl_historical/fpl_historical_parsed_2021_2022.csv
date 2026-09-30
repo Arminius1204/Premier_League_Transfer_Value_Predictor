@@ -1,0 +1,738 @@
+source_player_id,season_id,source_player_name,minutes,goals_scored,assists,bps,influence,creativity,threat
+Bernd_Leno,2021_2022,Bernd Leno,360,0,0,69,85.0,0.0,0.0
+Rúnar Alex_Rúnarsson,2021_2022,Rúnar Alex Rúnarsson,0,0,0,0,0.0,0.0,0.0
+Willian_Borges Da Silva,2021_2022,Willian Borges Da Silva,0,0,0,0,0.0,0.0,0.0
+Pierre-Emerick_Aubameyang,2021_2022,Pierre-Emerick Aubameyang,1036,4,1,131,217.6,132.4,582.0
+Cédric_Soares,2021_2022,Cédric Soares,1481,1,1,292,246.0,306.5,76.0
+Alexandre_Lacazette,2021_2022,Alexandre Lacazette,1773,4,8,295,376.6,385.7,724.0
+Granit_Xhaka,2021_2022,Granit Xhaka,2327,1,2,334,382.2,489.6,253.0
+Pablo_Marí,2021_2022,Pablo Marí,180,0,0,35,55.4,12.3,11.0
+Héctor_Bellerín,2021_2022,Héctor Bellerín,0,0,0,0,0.0,0.0,0.0
+Sead_Kolasinac,2021_2022,Sead Kolasinac,91,0,0,6,4.2,0.2,0.0
+Mohamed Naser_El Sayed Elneny,2021_2022,Mohamed Naser El Sayed Elneny,801,0,2,156,147.8,124.5,40.0
+Ainsley_Maitland-Niles,2021_2022,Ainsley Maitland-Niles,263,0,0,44,42.6,41.3,9.0
+Rob_Holding,2021_2022,Rob Holding,840,1,0,152,242.4,6.9,49.0
+Thomas_Partey,2021_2022,Thomas Partey,2027,2,2,345,359.6,275.5,394.0
+Kieran_Tierney,2021_2022,Kieran Tierney,1916,1,3,454,365.2,335.9,198.0
+Nicolas_Pépé,2021_2022,Nicolas Pépé,681,1,4,127,127.4,204.8,391.0
+Lucas_Torreira,2021_2022,Lucas Torreira,0,0,0,0,0.0,0.0,0.0
+Edward_Nketiah,2021_2022,Edward Nketiah,823,5,1,194,216.0,138.8,339.0
+Emile_Smith Rowe,2021_2022,Emile Smith Rowe,1909,10,2,435,555.8,453.3,576.0
+Bukayo_Saka,2021_2022,Bukayo Saka,2978,11,9,566,774.2,942.5,1404.0
+Gabriel_Magalhães,2021_2022,Gabriel Magalhães,3063,5,0,682,703.0,129.3,453.0
+Konstantinos_Mavropanos,2021_2022,Konstantinos Mavropanos,0,0,0,0,0.0,0.0,0.0
+Mattéo_Guendouzi,2021_2022,Mattéo Guendouzi,0,0,0,0,0.0,0.0,0.0
+Gabriel Teodoro_Martinelli Silva,2021_2022,Gabriel Teodoro Martinelli Silva,1855,6,7,345,407.8,445.8,692.0
+William_Saliba,2021_2022,William Saliba,0,0,0,0,0.0,0.0,0.0
+Ben_White,2021_2022,Ben White,2880,0,0,557,592.8,182.3,150.0
+Nuno_Varela Tavares,2021_2022,Nuno Varela Tavares,1169,1,1,199,194.6,168.4,203.0
+Albert_Sambi Lokonga,2021_2022,Albert Sambi Lokonga,1129,0,0,173,181.8,250.7,87.0
+Folarin_Balogun,2021_2022,Folarin Balogun,69,0,0,2,4.2,3.7,17.0
+Reiss_Nelson,2021_2022,Reiss Nelson,19,0,0,4,4.0,11.6,20.0
+Karl_Hein,2021_2022,Karl Hein,0,0,0,0,0.0,0.0,0.0
+Martin_Ødegaard,2021_2022,Martin Ødegaard,2782,7,4,541,625.6,1012.4,572.0
+Aaron_Ramsdale,2021_2022,Aaron Ramsdale,3060,0,0,641,680.0,1.0,0.0
+Arthur_Okonkwo,2021_2022,Arthur Okonkwo,0,0,0,0,0.0,0.0,0.0
+Takehiro_Tomiyasu,2021_2022,Takehiro Tomiyasu,1680,0,1,344,312.4,240.9,110.0
+Charlie_Patino,2021_2022,Charlie Patino,0,0,0,0,0.0,0.0,0.0
+Omari_Hutchinson,2021_2022,Omari Hutchinson,0,0,0,0,0.0,0.0,0.0
+Salah-Eddine_Oulad M'hand,2021_2022,Salah-Eddine Oulad M'hand,0,0,0,0,0.0,0.0,0.0
+Mika_Biereth,2021_2022,Mika Biereth,0,0,0,0,0.0,0.0,0.0
+Ryan_Alebiosu,2021_2022,Ryan Alebiosu,0,0,0,0,0.0,0.0,0.0
+Zach_Awe,2021_2022,Zach Awe,0,0,0,0,0.0,0.0,0.0
+Zak_Swanson,2021_2022,Zak Swanson,0,0,0,0,0.0,0.0,0.0
+Mazeed_Ogungbo,2021_2022,Mazeed Ogungbo,0,0,0,0,0.0,0.0,0.0
+Marcelo_Flores,2021_2022,Marcelo Flores,0,0,0,0,0.0,0.0,0.0
+Miguel_Azeez,2021_2022,Miguel Azeez,0,0,0,0,0.0,0.0,0.0
+Alex_Kirk,2021_2022,Alex Kirk,0,0,0,0,0.0,0.0,0.0
+Calum_Chambers,2021_2022,Calum Chambers,999,1,0,198,211.0,52.8,61.0
+Jed_Steer,2021_2022,Jed Steer,90,0,0,13,8.2,0.0,0.0
+Conor_Hourihane,2021_2022,Conor Hourihane,0,0,0,0,0.0,0.0,0.0
+Emiliano_Martínez,2021_2022,Emiliano Martínez,3240,0,0,651,755.8,0.0,0.0
+Björn_Engels,2021_2022,Björn Engels,0,0,0,0,0.0,0.0,0.0
+Bertrand_Traoré,2021_2022,Bertrand Traoré,212,0,1,41,21.0,10.6,90.0
+Morgan_Sanson,2021_2022,Morgan Sanson,349,0,0,61,52.8,36.6,3.0
+John_McGinn,2021_2022,John McGinn,3090,3,4,495,692.8,777.4,307.0
+Kortney_Hause,2021_2022,Kortney Hause,397,1,0,89,102.8,5.9,64.0
+Mahmoud Ahmed_Ibrahim Hassan,2021_2022,Mahmoud Ahmed Ibrahim Hassan,10,0,0,4,1.8,2.0,10.0
+Tyrone_Mings,2021_2022,Tyrone Mings,3188,1,4,596,649.2,130.9,309.0
+Ollie_Watkins,2021_2022,Ollie Watkins,2950,11,3,441,598.4,459.1,1319.0
+Marvelous_Nakamba,2021_2022,Marvelous Nakamba,899,0,0,124,134.0,42.1,0.0
+Emiliano_Buendía Stati,2021_2022,Emiliano Buendía Stati,1887,4,6,378,479.4,659.3,531.0
+Matthew_Cash,2021_2022,Matthew Cash,3377,4,3,623,709.0,432.1,517.0
+Ezri_Konsa Ngoyo,2021_2022,Ezri Konsa Ngoyo,2477,2,0,388,428.2,56.5,251.0
+Frédéric_Guilbert,2021_2022,Frédéric Guilbert,0,0,0,0,0.0,0.0,0.0
+Wesley_Moraes,2021_2022,Wesley Moraes,1,0,0,2,0.0,0.5,0.0
+Mbwana Ally_Samatta,2021_2022,Mbwana Ally Samatta,0,0,0,0,0.0,0.0,0.0
+Keinan_Davis,2021_2022,Keinan Davis,11,0,0,2,0.4,1.0,0.0
+Douglas Luiz_Soares de Paulo,2021_2022,Douglas Luiz Soares de Paulo,2715,2,3,468,495.2,547.5,199.0
+Jacob_Ramsey,2021_2022,Jacob Ramsey,2465,6,1,402,533.8,333.1,432.0
+Ashley_Young,2021_2022,Ashley Young,1234,0,2,224,187.4,201.9,113.0
+Lucas_Digne,2021_2022,Lucas Digne,2440,0,4,459,489.8,753.1,200.0
+Danny_Ings,2021_2022,Danny Ings,1891,7,6,344,448.6,210.9,749.0
+Leon_Bailey,2021_2022,Leon Bailey,750,1,3,98,143.2,118.5,271.0
+Aaron_Ramsey,2021_2022,Aaron Ramsey,0,0,0,0,0.0,0.0,0.0
+Jaden_Philogene-Bidace,2021_2022,Jaden Philogene-Bidace,4,0,0,0,0.0,0.0,0.0
+Carney_Chukwuemeka,2021_2022,Carney Chukwuemeka,291,0,1,43,44.0,34.6,69.0
+Cameron_Archer,2021_2022,Cameron Archer,24,0,0,3,0.0,0.8,18.0
+Viljami_Sinisalo,2021_2022,Viljami Sinisalo,0,0,0,0,0.0,0.0,0.0
+Lamare_Bogarde,2021_2022,Lamare Bogarde,0,0,0,0,0.0,0.0,0.0
+Tim_Iroegbunam,2021_2022,Tim Iroegbunam,90,0,0,17,10.6,2.0,4.0
+Filip_Marschall,2021_2022,Filip Marschall,0,0,0,0,0.0,0.0,0.0
+Josh_Feeney,2021_2022,Josh Feeney,0,0,0,0,0.0,0.0,0.0
+Philippe_Coutinho Correia,2021_2022,Philippe Coutinho Correia,1327,5,3,283,324.2,338.3,419.0
+Kaine_Hayden,2021_2022,Kaine Hayden,0,0,0,0,0.0,0.0,0.0
+Robin_Olsen,2021_2022,Robin Olsen,90,0,0,14,0.0,0.0,0.0
+Benjamin_Chrisene,2021_2022,Benjamin Chrisene,0,0,0,0,0.0,0.0,0.0
+Tommi_O'Reilly,2021_2022,Tommi O'Reilly,0,0,0,0,0.0,0.0,0.0
+Pontus_Jansson,2021_2022,Pontus Jansson,3321,3,4,616,766.4,67.1,476.0
+Christian_Nørgaard,2021_2022,Christian Nørgaard,3054,3,4,502,694.8,409.8,434.0
+Ivan_Toney,2021_2022,Ivan Toney,2908,12,5,502,717.8,572.0,1284.0
+Tariqe_Fosu-Henry,2021_2022,Tariqe Fosu-Henry,16,0,0,4,5.2,4.8,21.0
+David_Raya Martin,2021_2022,David Raya Martin,2160,0,0,496,575.6,10.0,0.0
+Sergi_Canós,2021_2022,Sergi Canós,2077,3,3,268,359.2,282.9,422.0
+Pelenda Joshua_Dasilva,2021_2022,Pelenda Joshua Dasilva,250,0,0,27,28.6,40.9,30.0
+Rico_Henry,2021_2022,Rico Henry,2775,3,0,453,444.8,324.4,233.0
+Vitaly_Janelt,2021_2022,Vitaly Janelt,2295,4,0,343,440.2,330.0,399.0
+Saman_Ghoddos,2021_2022,Saman Ghoddos,524,1,2,115,128.4,96.3,133.0
+Mathias_Jensen,2021_2022,Mathias Jensen,1590,0,1,246,242.8,508.0,181.0
+Charlie_Goode,2021_2022,Charlie Goode,448,0,0,64,54.8,82.7,24.0
+Marcus_Forss,2021_2022,Marcus Forss,203,0,1,35,20.8,12.5,55.0
+Mads_Roerslev Rasmussen,2021_2022,Mads Roerslev Rasmussen,1232,1,1,170,200.2,125.8,81.0
+Mads_Bech Sørensen,2021_2022,Mads Bech Sørensen,833,0,0,139,112.8,69.4,44.0
+Ethan_Pinnock,2021_2022,Ethan Pinnock,2694,1,1,517,648.8,151.7,335.0
+Ellery_Balcombe,2021_2022,Ellery Balcombe,0,0,0,0,0.0,0.0,0.0
+Jan_Zamburek,2021_2022,Jan Zamburek,0,0,0,0,0.0,0.0,0.0
+Patrik_Gunnarsson,2021_2022,Patrik Gunnarsson,0,0,0,0,0.0,0.0,0.0
+Halil_Dervişoğlu,2021_2022,Halil Dervişoğlu,0,0,0,0,0.0,0.0,0.0
+Bryan_Mbeumo,2021_2022,Bryan Mbeumo,2905,4,7,310,441.2,508.9,927.0
+Mads_Bidstrup,2021_2022,Mads Bidstrup,36,0,0,11,6.6,0.7,0.0
+Frank_Onyeka,2021_2022,Frank Onyeka,1040,0,2,117,93.0,73.5,174.0
+Kristoffer_Ajer,2021_2022,Kristoffer Ajer,1995,1,3,384,381.2,123.5,184.0
+Dominic_Thompson,2021_2022,Dominic Thompson,146,0,0,12,15.8,1.2,6.0
+Shandon_Baptiste,2021_2022,Shandon Baptiste,898,1,0,120,132.8,120.2,145.0
+Yoane_Wissa,2021_2022,Yoane Wissa,1268,7,2,277,318.8,105.6,379.0
+Álvaro_Fernández,2021_2022,Álvaro Fernández,1080,0,0,218,353.2,0.0,0.0
+Finley_Stevens,2021_2022,Finley Stevens,14,0,0,4,8.6,10.3,2.0
+Mathias_Jorgensen,2021_2022,Mathias Jorgensen,516,1,0,84,108.6,44.9,57.0
+Paris_Maghoma,2021_2022,Paris Maghoma,0,0,0,0,0.0,0.0,0.0
+Matthew_Cox,2021_2022,Matthew Cox,0,0,0,0,0.0,0.0,0.0
+Maxwell_Haygarth,2021_2022,Maxwell Haygarth,0,0,0,0,0.0,0.0,0.0
+Nathan_Young-Coombes,2021_2022,Nathan Young-Coombes,3,0,0,2,0.0,0.0,0.0
+Myles_Peart-Harris,2021_2022,Myles Peart-Harris,0,0,0,0,0.0,0.0,0.0
+Jonas_Lössl,2021_2022,Jonas Lössl,180,0,0,21,15.4,0.0,0.0
+Christian_Eriksen,2021_2022,Christian Eriksen,938,1,4,221,269.4,428.6,172.0
+Julian_Jeanvier,2021_2022,Julian Jeanvier,0,0,0,0,0.0,0.0,0.0
+Adam_Lallana,2021_2022,Adam Lallana,1559,0,1,240,209.4,162.9,173.0
+Jason_Steele,2021_2022,Jason Steele,90,0,0,17,28.8,0.0,0.0
+Pascal_Groß,2021_2022,Pascal Groß,2033,2,5,405,412.6,902.5,345.0
+Shane_Duffy,2021_2022,Shane Duffy,1434,1,1,288,380.6,58.2,282.0
+Davy_Pröpper,2021_2022,Davy Pröpper,0,0,0,0,0.0,0.0,0.0
+Lewis_Dunk,2021_2022,Lewis Dunk,2573,1,0,537,551.8,63.0,327.0
+Solomon_March,2021_2022,Solomon March,1733,0,2,216,259.6,512.0,285.0
+Adam_Webster,2021_2022,Adam Webster,1429,2,0,266,387.8,50.1,112.0
+Joël_Veltman,2021_2022,Joël Veltman,2874,1,1,545,532.8,274.6,148.0
+Neal_Maupay,2021_2022,Neal Maupay,2269,8,3,295,367.4,357.3,672.0
+Leandro_Trossard,2021_2022,Leandro Trossard,2803,8,4,465,627.6,708.3,1020.0
+Mathew_Ryan,2021_2022,Mathew Ryan,0,0,0,0,0.0,0.0,0.0
+Alireza_Jahanbakhsh,2021_2022,Alireza Jahanbakhsh,0,0,0,0,0.0,0.0,0.0
+Bernardo_Fernandes Da Silva Junior,2021_2022,Bernardo Fernandes Da Silva Junior,0,0,0,0,0.0,0.0,0.0
+Robert_Sánchez,2021_2022,Robert Sánchez,3330,0,0,679,804.6,30.0,0.0
+Yves_Bissouma,2021_2022,Yves Bissouma,2110,1,2,351,425.6,167.1,126.0
+Tariq_Lamptey,2021_2022,Tariq Lamptey,1547,0,2,308,246.0,353.4,172.0
+Aaron_Connolly,2021_2022,Aaron Connolly,154,0,0,12,2.4,13.1,18.0
+Steven_Alzate,2021_2022,Steven Alzate,401,0,0,77,70.2,40.8,21.0
+Alexis_Mac Allister,2021_2022,Alexis Mac Allister,2112,5,2,398,494.0,455.6,540.0
+Jakub_Moder,2021_2022,Jakub Moder,1694,0,3,227,239.6,286.0,372.0
+Danny_Welbeck,2021_2022,Danny Welbeck,1469,6,4,247,302.4,195.1,528.0
+Enock_Mwepu,2021_2022,Enock Mwepu,990,2,5,200,241.8,142.9,199.0
+Kjell_Scherpen,2021_2022,Kjell Scherpen,0,0,0,0,0.0,0.0,0.0
+Florin_Andone,2021_2022,Florin Andone,0,0,0,0,0.0,0.0,0.0
+Andi_Zeqiri,2021_2022,Andi Zeqiri,0,0,0,0,0.0,0.0,0.0
+Michal_Karbownik,2021_2022,Michal Karbownik,0,0,0,0,0.0,0.0,0.0
+Taylor_Richards,2021_2022,Taylor Richards,23,0,0,5,4.6,12.8,8.0
+Moisés_Caicedo,2021_2022,Moisés Caicedo,660,1,1,124,136.8,49.9,92.0
+Haydon_Roberts,2021_2022,Haydon Roberts,0,0,0,0,0.0,0.0,0.0
+Marc_Cucurella,2021_2022,Marc Cucurella,3089,1,1,673,659.6,671.9,181.0
+Jürgen_Locadia,2021_2022,Jürgen Locadia,22,0,0,0,0.0,1.1,3.0
+Jeremy_Sarmiento,2021_2022,Jeremy Sarmiento,44,0,0,15,2.8,2.4,2.0
+Ed_Turns,2021_2022,Ed Turns,0,0,0,0,0.0,0.0,0.0
+Marc_Leonard,2021_2022,Marc Leonard,0,0,0,0,0.0,0.0,0.0
+Evan_Ferguson,2021_2022,Evan Ferguson,22,0,0,4,2.0,4.8,2.0
+Thomas_McGill,2021_2022,Thomas McGill,0,0,0,0,0.0,0.0,0.0
+Odeluga_Offiah,2021_2022,Odeluga Offiah,0,0,0,0,0.0,0.0,0.0
+James_Tarkowski,2021_2022,James Tarkowski,3106,1,2,486,881.4,106.8,307.0
+Phil_Bardsley,2021_2022,Phil Bardsley,0,0,0,0,0.0,0.0,0.0
+Erik_Pieters,2021_2022,Erik Pieters,726,0,1,157,179.0,43.4,48.0
+Jack_Cork,2021_2022,Jack Cork,1670,1,0,143,168.0,103.9,72.0
+Dale_Stephens,2021_2022,Dale Stephens,123,0,0,11,12.8,12.4,1.0
+Kevin_Long,2021_2022,Kevin Long,408,0,0,31,28.4,0.2,20.0
+Jay_Rodriguez,2021_2022,Jay Rodriguez,1365,2,3,159,176.4,166.0,455.0
+Ashley_Barnes,2021_2022,Ashley Barnes,793,1,0,60,77.0,90.7,192.0
+Ben_Mee,2021_2022,Ben Mee,1839,3,0,325,463.8,63.4,238.0
+Ashley_Westwood,2021_2022,Ashley Westwood,2286,0,4,303,298.2,517.1,153.0
+Johann Berg_Gudmundsson,2021_2022,Johann Berg Gudmundsson,1097,0,1,100,134.0,137.5,193.0
+Matthew_Lowton,2021_2022,Matthew Lowton,1771,1,3,337,404.2,264.9,95.0
+Matej_Vydra,2021_2022,Matej Vydra,665,2,3,138,172.4,77.5,239.0
+Nick_Pope,2021_2022,Nick Pope,3240,0,0,683,875.6,20.0,0.0
+Charlie_Taylor,2021_2022,Charlie Taylor,2730,0,3,454,552.8,310.5,50.0
+Will_Norris,2021_2022,Will Norris,0,0,0,0,0.0,0.0,0.0
+Josh_Brownhill,2021_2022,Josh Brownhill,2952,2,3,428,565.8,560.8,277.0
+Josh_Benson,2021_2022,Josh Benson,0,0,0,0,0.0,0.0,0.0
+Bailey_Peacock-Farrell,2021_2022,Bailey Peacock-Farrell,0,0,0,0,0.0,0.0,0.0
+Dwight_McNeil,2021_2022,Dwight McNeil,3104,0,1,440,556.8,729.5,489.0
+Nathan_Collins,2021_2022,Nathan Collins,1670,2,0,272,426.6,62.4,246.0
+Wayne_Hennessey,2021_2022,Wayne Hennessey,180,0,0,37,62.8,30.0,0.0
+Lewis_Richardson,2021_2022,Lewis Richardson,0,0,0,0,0.0,0.0,0.0
+Bobby_Thomas,2021_2022,Bobby Thomas,0,0,0,0,0.0,0.0,0.0
+Owen_Dodgson,2021_2022,Owen Dodgson,0,0,0,0,0.0,0.0,0.0
+Aaron_Lennon,2021_2022,Aaron Lennon,1541,2,1,172,190.2,136.2,218.0
+Maxwel_Cornet,2021_2022,Maxwel Cornet,1764,9,2,242,390.2,246.9,547.0
+Connor_Roberts,2021_2022,Connor Roberts,1689,1,1,313,299.4,195.6,98.0
+Wout_Weghorst,2021_2022,Wout Weghorst,1448,2,3,134,203.0,188.0,360.0
+Sam_Waller,2021_2022,Sam Waller,0,0,0,0,0.0,0.0,0.0
+Dara_Costelloe,2021_2022,Dara Costelloe,0,0,0,0,0.0,0.0,0.0
+Joseph_McGlynn,2021_2022,Joseph McGlynn,0,0,0,0,0.0,0.0,0.0
+Anthony_Mancini,2021_2022,Anthony Mancini,0,0,0,0,0.0,0.0,0.0
+César_Azpilicueta,2021_2022,César Azpilicueta,2067,1,3,453,450.8,305.0,212.0
+Olivier_Giroud,2021_2022,Olivier Giroud,0,0,0,0,0.0,0.0,0.0
+Thiago_Emiliano da Silva,2021_2022,Thiago Emiliano da Silva,2649,3,1,667,801.4,132.0,229.0
+Marcos_Alonso,2021_2022,Marcos Alonso,2164,4,5,528,560.2,677.3,566.0
+Jorge Luiz_Frello Filho,2021_2022,Jorge Luiz Frello Filho,2271,6,2,519,605.8,429.3,214.0
+Ross_Barkley,2021_2022,Ross Barkley,174,1,0,43,19.2,104.8,38.0
+Mateo_Kovacic,2021_2022,Mateo Kovacic,1552,2,5,348,409.6,407.4,198.0
+Michy_Batshuayi,2021_2022,Michy Batshuayi,0,0,0,0,0.0,0.0,0.0
+Antonio_Rüdiger,2021_2022,Antonio Rüdiger,3035,3,3,661,581.6,257.4,484.0
+Kepa_Arrizabalaga,2021_2022,Kepa Arrizabalaga,360,0,0,89,95.6,0.0,0.0
+N'Golo_Kanté,2021_2022,N'Golo Kanté,1769,2,5,377,434.0,380.6,221.0
+Hakim_Ziyech,2021_2022,Hakim Ziyech,1311,4,3,281,350.6,429.5,482.0
+Ruben_Loftus-Cheek,2021_2022,Ruben Loftus-Cheek,1384,0,3,251,282.8,291.1,218.0
+Andreas_Christensen,2021_2022,Andreas Christensen,1494,0,0,343,296.4,103.4,20.0
+Timo_Werner,2021_2022,Timo Werner,1278,4,2,175,207.6,153.1,773.0
+Benjamin_Chilwell,2021_2022,Benjamin Chilwell,541,3,1,161,175.6,161.0,202.0
+Tammy_Abraham,2021_2022,Tammy Abraham,0,0,0,0,0.0,0.0,0.0
+Christian_Pulisic,2021_2022,Christian Pulisic,1282,6,2,206,317.6,223.9,434.0
+Mason_Mount,2021_2022,Mason Mount,2358,11,11,597,812.8,914.8,931.0
+Ethan_Ampadu,2021_2022,Ethan Ampadu,0,0,0,0,0.0,0.0,0.0
+Callum_Hudson-Odoi,2021_2022,Callum Hudson-Odoi,958,1,4,163,175.4,326.9,326.0
+Kai_Havertz,2021_2022,Kai Havertz,1802,8,4,271,420.4,301.6,855.0
+Reece_James,2021_2022,Reece James,1863,5,9,573,582.0,696.1,436.0
+Edouard_Mendy,2021_2022,Edouard Mendy,3060,0,0,573,564.8,0.0,0.0
+Malang_Sarr,2021_2022,Malang Sarr,544,0,0,141,113.4,45.1,1.0
+Trevoh_Chalobah,2021_2022,Trevoh Chalobah,1447,3,1,396,405.8,105.8,151.0
+Romelu_Lukaku,2021_2022,Romelu Lukaku,1583,8,1,310,367.0,303.3,704.0
+Emerson_Palmieri dos Santos,2021_2022,Emerson Palmieri dos Santos,4,0,0,3,0.0,0.1,2.0
+Saúl_Ñíguez,2021_2022,Saúl Ñíguez,478,0,1,68,63.2,51.8,41.0
+Marcus_Bettinelli,2021_2022,Marcus Bettinelli,0,0,0,0,0.0,0.0,0.0
+Lewis_Hall,2021_2022,Lewis Hall,0,0,0,0,0.0,0.0,0.0
+Harvey_Vale,2021_2022,Harvey Vale,0,0,0,0,0.0,0.0,0.0
+Robert Kenedy_Nunes do Nascimento,2021_2022,Robert Kenedy Nunes do Nascimento,58,0,1,19,0.0,0.0,0.0
+Conor_Gallagher,2021_2022,Conor Gallagher,2843,8,6,469,665.2,611.1,671.0
+Vicente_Guaita,2021_2022,Vicente Guaita,2655,0,0,567,588.4,0.0,0.0
+James_Tomkins,2021_2022,James Tomkins,545,1,0,97,140.4,22.0,88.0
+James_McArthur,2021_2022,James McArthur,1434,0,4,288,324.0,256.5,120.0
+Christian_Benteke,2021_2022,Christian Benteke,1132,4,1,173,250.2,176.7,523.0
+Cheikhou_Kouyaté,2021_2022,Cheikhou Kouyaté,1970,0,1,395,312.4,85.5,41.0
+Martin_Kelly,2021_2022,Martin Kelly,0,0,0,0,0.0,0.0,0.0
+Luka_Milivojevic,2021_2022,Luka Milivojevic,767,0,0,118,88.6,196.6,38.0
+Jordan_Ayew,2021_2022,Jordan Ayew,2012,3,4,281,349.2,361.3,491.0
+Wilfried_Zaha,2021_2022,Wilfried Zaha,2759,14,2,422,732.2,630.6,963.0
+Jeffrey_Schlupp,2021_2022,Jeffrey Schlupp,1840,4,2,297,403.6,238.5,461.0
+Jack_Butland,2021_2022,Jack Butland,765,0,0,132,155.0,0.0,0.0
+Jairo_Riedewald,2021_2022,Jairo Riedewald,116,0,0,16,11.2,27.5,2.0
+Jarosław_Jach,2021_2022,Jarosław Jach,0,0,0,0,0.0,0.0,0.0
+Jean-Philippe_Mateta,2021_2022,Jean-Philippe Mateta,1138,5,1,182,253.6,112.8,568.0
+Eberechi_Eze,2021_2022,Eberechi Eze,599,1,1,125,120.0,175.1,135.0
+Nathan_Ferguson,2021_2022,Nathan Ferguson,8,0,0,3,0.2,0.0,0.0
+Tyrick_Mitchell,2021_2022,Tyrick Mitchell,3101,0,2,561,610.4,379.2,111.0
+Will_Hughes,2021_2022,Will Hughes,1050,0,2,164,155.8,141.1,60.0
+Michael_Olise,2021_2022,Michael Olise,1127,2,6,287,308.2,389.0,269.0
+Joel_Ward,2021_2022,Joel Ward,2486,0,0,422,440.4,132.2,58.0
+Marc_Guéhi,2021_2022,Marc Guéhi,3222,2,1,676,720.6,98.5,290.0
+Joachim_Andersen,2021_2022,Joachim Andersen,2914,0,4,619,610.8,233.2,142.0
+Nathaniel_Clyne,2021_2022,Nathaniel Clyne,1351,0,1,264,170.8,97.7,17.0
+Reece_Hannam,2021_2022,Reece Hannam,0,0,0,0,0.0,0.0,0.0
+Jesurun_Rak-Sakyi,2021_2022,Jesurun Rak-Sakyi,79,0,0,7,1.0,5.0,0.0
+Robert_Street,2021_2022,Robert Street,0,0,0,0,0.0,0.0,0.0
+Scott_Banks,2021_2022,Scott Banks,0,0,0,0,0.0,0.0,0.0
+Remi_Matthews,2021_2022,Remi Matthews,0,0,0,0,0.0,0.0,0.0
+Odsonne_Edouard,2021_2022,Odsonne Edouard,1554,6,4,280,385.2,252.4,610.0
+Tayo_Adaramola,2021_2022,Tayo Adaramola,0,0,0,0,0.0,0.0,0.0
+Anwar_El Ghazi,2021_2022,Anwar El Ghazi,392,1,1,61,74.6,85.2,85.0
+Fabian_Delph,2021_2022,Fabian Delph,660,0,0,118,115.6,58.4,16.0
+Gylfi_Sigurdsson,2021_2022,Gylfi Sigurdsson,0,0,0,0,0.0,0.0,0.0
+Seamus_Coleman,2021_2022,Seamus Coleman,2656,1,1,439,469.4,232.1,170.0
+James_Rodríguez,2021_2022,James Rodríguez,0,0,0,0,0.0,0.0,0.0
+Bernard_Anício Caldeira Duarte,2021_2022,Bernard Anício Caldeira Duarte,0,0,0,0,0.0,0.0,0.0
+Michael_Keane,2021_2022,Michael Keane,2791,3,2,518,676.4,96.9,229.0
+Jordan_Pickford,2021_2022,Jordan Pickford,3150,0,0,624,863.2,43.0,0.0
+Allan_Marques Loureiro,2021_2022,Allan Marques Loureiro,2181,0,3,313,391.4,228.4,82.0
+André Filipe_Tavares Gomes,2021_2022,André Filipe Tavares Gomes,614,0,1,47,84.0,85.2,136.0
+Abdoulaye_Doucouré,2021_2022,Abdoulaye Doucouré,2536,2,5,387,476.8,285.7,441.0
+Alex_Iwobi,2021_2022,Alex Iwobi,2029,2,2,312,361.8,489.7,351.0
+Yerry_Mina,2021_2022,Yerry Mina,844,0,0,133,164.8,18.2,66.0
+Tom_Davies,2021_2022,Tom Davies,230,1,0,44,51.4,8.0,90.0
+Dominic_Calvert-Lewin,2021_2022,Dominic Calvert-Lewin,1281,5,2,207,236.4,123.2,441.0
+Mason_Holgate,2021_2022,Mason Holgate,2133,2,2,312,414.6,41.8,120.0
+Ben_Godfrey,2021_2022,Ben Godfrey,2029,0,0,318,416.0,164.6,222.0
+Richarlison_de Andrade,2021_2022,Richarlison de Andrade,2522,10,6,413,651.4,383.7,1010.0
+João_Virgínia,2021_2022,João Virgínia,0,0,0,0,0.0,0.0,0.0
+Donny_van de Beek,2021_2022,Donny van de Beek,550,2,0,119,116.4,76.5,85.0
+Bamidele_Alli,2021_2022,Bamidele Alli,985,1,0,103,178.6,132.0,125.0
+Asmir_Begović,2021_2022,Asmir Begović,270,0,0,61,53.0,0.0,0.0
+Andros_Townsend,2021_2022,Andros Townsend,1452,3,2,252,351.6,468.9,221.0
+Demarai_Gray,2021_2022,Demarai Gray,2336,5,5,397,479.2,641.6,731.0
+Jonjoe_Kenny,2021_2022,Jonjoe Kenny,1015,0,1,147,147.4,157.1,42.0
+Anthony_Gordon,2021_2022,Anthony Gordon,2277,4,3,325,456.8,512.2,632.0
+Jean-Philippe_Gbamin,2021_2022,Jean-Philippe Gbamin,65,0,0,10,7.0,0.6,0.0
+Jarrad_Branthwaite,2021_2022,Jarrad Branthwaite,387,1,0,49,69.8,2.3,44.0
+Nathan_Broadhead,2021_2022,Nathan Broadhead,0,0,0,0,0.0,0.0,0.0
+Moise_Kean,2021_2022,Moise Kean,1,0,0,2,0.0,0.0,0.0
+Niels_Nkounkou,2021_2022,Niels Nkounkou,0,0,0,0,0.0,0.0,0.0
+Andy_Lonergan,2021_2022,Andy Lonergan,0,0,0,0,0.0,0.0,0.0
+Salomón_Rondón,2021_2022,Salomón Rondón,779,1,1,73,94.2,108.9,339.0
+Ellis_Simms,2021_2022,Ellis Simms,61,0,0,6,6.4,0.4,0.0
+Lewis_Dobbin,2021_2022,Lewis Dobbin,30,0,0,6,2.4,0.9,4.0
+Charlie_Whitaker,2021_2022,Charlie Whitaker,0,0,0,0,0.0,0.0,0.0
+Harry_Tyrer,2021_2022,Harry Tyrer,0,0,0,0,0.0,0.0,0.0
+Cenk_Tosun,2021_2022,Cenk Tosun,5,0,0,3,0.0,0.1,0.0
+Reece_Welch,2021_2022,Reece Welch,0,0,0,0,0.0,0.0,0.0
+Tyler_Onyango,2021_2022,Tyler Onyango,27,0,0,8,1.2,0.0,18.0
+Nathan_Patterson,2021_2022,Nathan Patterson,0,0,0,0,0.0,0.0,0.0
+Vitalii_Mykolenko,2021_2022,Vitalii Mykolenko,1054,1,1,177,187.4,138.8,66.0
+Isaac_Price,2021_2022,Isaac Price,13,0,0,-2,0.0,0.0,0.0
+Kasper_Schmeichel,2021_2022,Kasper Schmeichel,3330,0,0,706,1064.0,11.2,0.0
+Jonny_Evans,2021_2022,Jonny Evans,1346,1,1,257,339.2,46.7,73.0
+Marc_Albrighton,2021_2022,Marc Albrighton,1127,1,2,169,236.2,208.6,51.0
+Nampalys_Mendy,2021_2022,Nampalys Mendy,1032,0,0,147,85.4,42.7,7.0
+Danny_Ward,2021_2022,Danny Ward,90,0,0,17,32.4,0.0,0.0
+Jamie_Vardy,2021_2022,Jamie Vardy,1801,15,3,480,560.4,227.9,722.0
+Dennis_Praet,2021_2022,Dennis Praet,0,0,0,0,0.0,0.0,0.0
+Ricardo Domingos_Barbosa Pereira,2021_2022,Ricardo Domingos Barbosa Pereira,990,1,3,202,252.0,128.1,120.0
+Daniel_Amartey,2021_2022,Daniel Amartey,2118,0,0,422,458.6,69.1,20.0
+Timothy_Castagne,2021_2022,Timothy Castagne,2124,1,0,365,426.0,224.7,92.0
+Youri_Tielemans,2021_2022,Youri Tielemans,2629,6,4,532,714.6,577.1,442.0
+Ayoze_Pérez,2021_2022,Ayoze Pérez,438,2,3,101,100.8,128.1,146.0
+James_Maddison,2021_2022,James Maddison,2454,12,11,637,767.4,664.1,753.0
+Kelechi_Iheanacho,2021_2022,Kelechi Iheanacho,1253,4,6,246,292.0,242.7,390.0
+Hamza_Choudhury,2021_2022,Hamza Choudhury,284,0,0,41,43.0,2.8,6.0
+Harvey_Barnes,2021_2022,Harvey Barnes,2095,6,12,377,525.2,413.0,975.0
+Wilfred_Ndidi,2021_2022,Wilfred Ndidi,1617,0,1,240,322.0,66.0,179.0
+Çaglar_Söyüncü,2021_2022,Çaglar Söyüncü,2497,1,0,454,606.4,64.7,90.0
+James_Justin,2021_2022,James Justin,996,0,0,167,178.4,129.4,97.0
+Luke_Thomas,2021_2022,Luke Thomas,1911,0,1,349,406.2,198.5,59.0
+Wesley_Fofana,2021_2022,Wesley Fofana,630,0,0,112,109.6,29.8,23.0
+Jannik_Vestergaard,2021_2022,Jannik Vestergaard,563,0,0,115,159.2,15.2,15.0
+Patson_Daka,2021_2022,Patson Daka,1152,5,3,216,287.8,166.2,460.0
+Boubakary_Soumaré,2021_2022,Boubakary Soumaré,1095,0,1,153,142.6,98.6,40.0
+Ryan_Bertrand,2021_2022,Ryan Bertrand,337,0,0,32,48.0,14.8,8.0
+Kiernan_Dewsbury-Hall,2021_2022,Kiernan Dewsbury-Hall,2101,1,2,337,373.8,494.2,219.0
+Eldin_Jakupovic,2021_2022,Eldin Jakupovic,0,0,0,0,0.0,0.0,0.0
+Ademola_Lookman,2021_2022,Ademola Lookman,1446,6,0,225,363.0,301.9,516.0
+Vontae_Daley-Campbell,2021_2022,Vontae Daley-Campbell,0,0,0,0,0.0,0.0,0.0
+Ben_Nelson,2021_2022,Ben Nelson,0,0,0,0,0.0,0.0,0.0
+Lewis_Brunt,2021_2022,Lewis Brunt,23,0,0,2,2.0,1.5,2.0
+Kasey_McAteer,2021_2022,Kasey McAteer,2,0,0,3,0.0,0.0,0.0
+Pablo_Hernández Domínguez,2021_2022,Pablo Hernández Domínguez,0,0,0,0,0.0,0.0,0.0
+Francisco_Casilla Cortés,2021_2022,Francisco Casilla Cortés,0,0,0,0,0.0,0.0,0.0
+Liam_Cooper,2021_2022,Liam Cooper,1814,0,2,352,406.4,53.3,65.0
+Luke_Ayling,2021_2022,Luke Ayling,2272,2,3,405,603.2,186.5,238.0
+Mateusz_Klich,2021_2022,Mateusz Klich,2071,1,2,277,337.2,432.9,476.0
+Rodrigo_Moreno,2021_2022,Rodrigo Moreno,2263,6,2,351,422.8,533.1,581.0
+Stuart_Dallas,2021_2022,Stuart Dallas,2920,1,1,473,615.8,509.6,288.0
+Patrick_Bamford,2021_2022,Patrick Bamford,557,2,2,90,125.8,69.0,289.0
+Diego_Llorente,2021_2022,Diego Llorente,2341,3,0,432,515.4,39.8,142.0
+Kalvin_Phillips,2021_2022,Kalvin Phillips,1594,0,1,209,249.0,137.0,99.0
+Hélder Wander_Sousa de Azevedo e Costa,2021_2022,Hélder Wander Sousa de Azevedo e Costa,21,0,0,1,0.0,0.4,1.0
+Tyler_Roberts,2021_2022,Tyler Roberts,976,1,1,105,160.4,189.8,296.0
+Robin_Koch,2021_2022,Robin Koch,1572,0,0,186,196.2,67.4,113.0
+Ian Carlo_Poveda-Ocampo,2021_2022,Ian Carlo Poveda-Ocampo,0,0,0,0,0.0,0.0,0.0
+Raphael_Dias Belloli,2021_2022,Raphael Dias Belloli,2916,11,4,457,728.2,898.8,872.0
+Jamie_Shackleton,2021_2022,Jamie Shackleton,704,0,1,94,126.6,29.0,62.0
+Pascal_Struijk,2021_2022,Pascal Struijk,2050,1,1,339,479.2,124.6,191.0
+Illan_Meslier,2021_2022,Illan Meslier,3384,0,0,713,1059.6,0.0,0.0
+Jack_Harrison,2021_2022,Jack Harrison,2638,8,1,408,569.0,582.1,647.0
+Daniel_James,2021_2022,Daniel James,2489,4,5,221,336.4,348.1,810.0
+Héctor Junior_Firpo Adames,2021_2022,Héctor Junior Firpo Adames,1709,0,2,219,310.0,287.0,139.0
+Kristoffer_Klaesson,2021_2022,Kristoffer Klaesson,35,0,0,12,25.4,0.0,0.0
+Sam_Greenwood,2021_2022,Sam Greenwood,231,0,2,54,51.6,45.0,34.0
+Crysencio_Summerville,2021_2022,Crysencio Summerville,126,0,0,20,18.6,32.0,36.0
+Adam_Forshaw,2021_2022,Adam Forshaw,1526,0,1,204,217.2,195.3,119.0
+Cody_Drameh,2021_2022,Cody Drameh,126,0,0,14,20.0,16.5,4.0
+Charlie_Cresswell,2021_2022,Charlie Cresswell,140,0,0,19,29.2,0.6,4.0
+Liam_McCarron,2021_2022,Liam McCarron,9,0,0,3,0.0,0.0,0.0
+Joe_Gelhardt,2021_2022,Joe Gelhardt,733,2,4,129,148.0,115.2,410.0
+Nohan_Kenneh,2021_2022,Nohan Kenneh,0,0,0,-3,0.0,0.0,0.0
+Stuart_McKinstry,2021_2022,Stuart McKinstry,3,0,0,3,0.0,0.1,0.0
+Leo Fuhr_Hjelde,2021_2022,Leo Fuhr Hjelde,148,0,0,29,45.6,12.8,2.0
+Lewis_Bate,2021_2022,Lewis Bate,145,0,0,4,5.4,2.8,1.0
+Jack_Jenkins,2021_2022,Jack Jenkins,0,0,0,0,0.0,0.0,0.0
+Kris_Moore,2021_2022,Kris Moore,0,0,0,0,0.0,0.0,0.0
+Archie_Gray,2021_2022,Archie Gray,0,0,0,0,0.0,0.0,0.0
+James_Milner,2021_2022,James Milner,844,0,1,196,229.2,327.8,74.0
+Jordan_Henderson,2021_2022,Jordan Henderson,2592,2,5,507,478.6,644.7,247.0
+Adrián_San Miguel del Castillo,2021_2022,Adrián San Miguel del Castillo,0,0,0,0,0.0,0.0,0.0
+Joel_Matip,2021_2022,Joel Matip,2790,3,3,763,678.6,170.6,478.0
+Thiago_Alcántara do Nascimento,2021_2022,Thiago Alcántara do Nascimento,1527,1,4,338,394.6,410.1,274.0
+Xherdan_Shaqiri,2021_2022,Xherdan Shaqiri,0,0,0,0,0.0,0.0,0.0
+Alex_Oxlade-Chamberlain,2021_2022,Alex Oxlade-Chamberlain,777,2,1,148,162.8,170.0,208.0
+Roberto_Firmino,2021_2022,Roberto Firmino,980,5,4,270,312.6,226.1,471.0
+Virgil_van Dijk,2021_2022,Virgil van Dijk,3060,3,3,803,726.4,150.3,455.0
+Sadio_Mané,2021_2022,Sadio Mané,2818,16,5,526,763.2,592.5,1533.0
+Alisson_Ramses Becker,2021_2022,Alisson Ramses Becker,3240,0,1,782,688.0,10.0,0.0
+Fabio Henrique_Tavares,2021_2022,Fabio Henrique Tavares,2311,5,1,438,501.8,282.2,310.0
+Mohamed_Salah,2021_2022,Mohamed Salah,2758,23,14,756,1203.8,874.1,2091.0
+Andrew_Robertson,2021_2022,Andrew Robertson,2537,3,11,770,660.2,882.7,329.0
+Divock_Origi,2021_2022,Divock Origi,126,3,0,87,104.6,6.6,165.0
+Takumi_Minamino,2021_2022,Takumi Minamino,178,3,0,89,117.4,33.8,104.0
+Trent_Alexander-Arnold,2021_2022,Trent Alexander-Arnold,2853,2,12,864,837.2,1362.8,478.0
+Joseph_Gomez,2021_2022,Joseph Gomez,330,0,1,92,76.6,64.0,13.0
+Naby_Keita,2021_2022,Naby Keita,1169,3,2,262,295.8,229.6,232.0
+Diogo_Jota,2021_2022,Diogo Jota,2357,15,7,483,734.8,535.5,1327.0
+Nathaniel_Phillips,2021_2022,Nathaniel Phillips,0,0,0,0,0.0,0.0,0.0
+Caoimhin_Kelleher,2021_2022,Caoimhin Kelleher,180,0,0,52,46.2,0.0,0.0
+Ibrahima_Konaté,2021_2022,Ibrahima Konaté,990,0,0,208,197.4,19.7,20.0
+Curtis_Jones,2021_2022,Curtis Jones,849,1,1,177,156.4,179.7,171.0
+Konstantinos_Tsimikas,2021_2022,Konstantinos Tsimikas,874,0,2,202,214.4,401.1,141.0
+Neco_Williams,2021_2022,Neco Williams,7,0,1,17,18.2,11.1,2.0
+Rhys_Williams,2021_2022,Rhys Williams,0,0,0,0,0.0,0.0,0.0
+Ben_Davies,2021_2022,Ben Davies,0,0,0,0,0.0,0.0,0.0
+Harvey_Elliott,2021_2022,Harvey Elliott,344,0,0,52,43.2,133.5,102.0
+Ben_Woodburn,2021_2022,Ben Woodburn,0,0,0,0,0.0,0.0,0.0
+Tyler_Morton,2021_2022,Tyler Morton,65,0,0,4,2.8,2.4,0.0
+Kaide_Gordon,2021_2022,Kaide Gordon,8,0,0,-3,4.0,0.6,9.0
+Conor_Bradley,2021_2022,Conor Bradley,0,0,0,0,0.0,0.0,0.0
+Owen_Beck,2021_2022,Owen Beck,0,0,0,0,0.0,0.0,0.0
+Marcelo_de Araújo Pitaluga Filho,2021_2022,Marcelo de Araújo Pitaluga Filho,0,0,0,0,0.0,0.0,0.0
+Jarell_Quansah,2021_2022,Jarell Quansah,0,0,0,0,0.0,0.0,0.0
+Luis_Díaz,2021_2022,Luis Díaz,957,4,3,227,273.8,245.6,530.0
+Jack_Grealish,2021_2022,Jack Grealish,1910,3,3,359,394.4,730.6,923.0
+Kyle_Walker,2021_2022,Kyle Walker,1755,0,2,403,274.2,247.8,110.0
+Ilkay_Gündogan,2021_2022,Ilkay Gündogan,1851,8,5,488,484.0,612.0,728.0
+Kevin_De Bruyne,2021_2022,Kevin De Bruyne,2196,15,8,732,973.4,1147.6,845.0
+John_Stones,2021_2022,John Stones,1117,1,0,290,204.6,65.9,110.0
+Benjamin_Mendy,2021_2022,Benjamin Mendy,78,0,0,22,15.2,29.1,2.0
+Riyad_Mahrez,2021_2022,Riyad Mahrez,1485,11,7,477,609.6,603.3,814.0
+Raheem_Sterling,2021_2022,Raheem Sterling,2121,13,7,468,709.8,588.2,1184.0
+João Pedro Cavaco_Cancelo,2021_2022,João Pedro Cavaco Cancelo,3227,1,11,829,778.6,750.1,797.0
+Ederson_Santana de Moraes,2021_2022,Ederson Santana de Moraes,3330,0,0,701,556.0,0.0,0.0
+Nathan_Aké,2021_2022,Nathan Aké,919,2,0,234,245.0,58.9,75.0
+Aymeric_Laporte,2021_2022,Aymeric Laporte,2830,4,2,714,641.0,197.4,331.0
+Zack_Steffen,2021_2022,Zack Steffen,90,0,0,29,23.0,0.0,0.0
+Bernardo Mota_Veiga de Carvalho e Silva,2021_2022,Bernardo Mota Veiga de Carvalho e Silva,2856,8,8,663,729.6,849.7,950.0
+Rúben Santos_Gato Alves Dias,2021_2022,Rúben Santos Gato Alves Dias,2401,2,5,622,581.2,225.2,268.0
+Gabriel Fernando_de Jesus,2021_2022,Gabriel Fernando de Jesus,1871,8,8,488,563.6,508.4,1075.0
+Oleksandr_Zinchenko,2021_2022,Oleksandr Zinchenko,1044,0,4,284,234.2,256.6,103.0
+Phil_Foden,2021_2022,Phil Foden,2125,9,6,483,563.2,670.4,920.0
+Rodrigo_Hernandez,2021_2022,Rodrigo Hernandez,2884,7,2,618,716.6,525.5,435.0
+Ferran_Torres,2021_2022,Ferran Torres,303,2,1,65,88.6,30.0,204.0
+Fernando_Luiz Rosa,2021_2022,Fernando Luiz Rosa,956,2,1,209,220.8,172.9,147.0
+Cole_Palmer,2021_2022,Cole Palmer,121,0,1,29,11.0,30.8,60.0
+Samuel_Edozie,2021_2022,Samuel Edozie,0,0,0,0,0.0,0.0,0.0
+Tommy_Doyle,2021_2022,Tommy Doyle,0,0,0,0,0.0,0.0,0.0
+Scott_Carson,2021_2022,Scott Carson,0,0,0,0,0.0,0.0,0.0
+Luke_Mbete,2021_2022,Luke Mbete,0,0,0,0,0.0,0.0,0.0
+Joshua_Wilson-Esbrand,2021_2022,Joshua Wilson-Esbrand,0,0,0,0,0.0,0.0,0.0
+Romeo_Lavia,2021_2022,Romeo Lavia,0,0,0,0,0.0,0.0,0.0
+Cieran_Slicker,2021_2022,Cieran Slicker,0,0,0,0,0.0,0.0,0.0
+James_McAtee,2021_2022,James McAtee,18,0,0,3,0.0,0.2,0.0
+Conrad_Egan-Riley,2021_2022,Conrad Egan-Riley,3,0,0,5,2.2,0.0,0.0
+Kayky da Silva_Chagas,2021_2022,Kayky da Silva Chagas,6,0,0,2,0.0,0.3,0.0
+Liam_Delap,2021_2022,Liam Delap,8,0,0,2,0.0,0.0,2.0
+Edinson_Cavani,2021_2022,Edinson Cavani,760,2,1,105,109.0,73.7,283.0
+David_de Gea,2021_2022,David de Gea,3420,0,0,667,947.2,0.3,0.0
+Nemanja_Matic,2021_2022,Nemanja Matic,1375,0,4,271,302.6,216.9,45.0
+Paul_Pogba,2021_2022,Paul Pogba,1347,1,9,254,332.6,355.1,328.0
+Harry_Maguire,2021_2022,Harry Maguire,2513,1,0,451,560.8,75.9,314.0
+Frederico_Rodrigues de Paula Santos,2021_2022,Frederico Rodrigues de Paula Santos,2026,4,5,426,583.4,390.2,201.0
+Luke_Shaw,2021_2022,Luke Shaw,1600,0,3,276,292.0,586.1,54.0
+Jesse_Lingard,2021_2022,Jesse Lingard,354,2,0,105,115.8,109.5,102.0
+Bruno Miguel_Borges Fernandes,2021_2022,Bruno Miguel Borges Fernandes,3110,10,7,626,901.0,1275.5,853.0
+Anthony_Martial,2021_2022,Anthony Martial,207,1,0,40,40.4,17.5,91.0
+Alex Nicolao_Telles,2021_2022,Alex Nicolao Telles,1658,0,4,345,382.4,437.3,95.0
+Dean_Henderson,2021_2022,Dean Henderson,0,0,0,0,0.0,0.0,0.0
+Marcus_Rashford,2021_2022,Marcus Rashford,1224,4,2,171,233.8,155.4,406.0
+Axel_Tuanzebe,2021_2022,Axel Tuanzebe,505,0,0,86,71.2,1.1,43.0
+Victor_Lindelöf,2021_2022,Victor Lindelöf,2353,0,2,471,433.2,75.4,66.0
+Scott_McTominay,2021_2022,Scott McTominay,2386,1,2,346,463.4,311.8,258.0
+Eric_Bailly,2021_2022,Eric Bailly,216,0,0,22,36.0,1.0,0.0
+Aaron_Wan-Bissaka,2021_2022,Aaron Wan-Bissaka,1793,0,0,329,371.8,237.0,123.0
+Mason_Greenwood,2021_2022,Mason Greenwood,1269,5,2,232,292.2,266.1,516.0
+Juan_Mata,2021_2022,Juan Mata,230,0,0,50,31.0,52.1,57.0
+Jadon_Sancho,2021_2022,Jadon Sancho,1894,3,4,362,363.2,596.7,549.0
+Tom_Heaton,2021_2022,Tom Heaton,0,0,0,0,0.0,0.0,0.0
+José Diogo_Dalot Teixeira,2021_2022,José Diogo Dalot Teixeira,1797,0,0,382,404.0,282.2,124.0
+Andreas_Pereira,2021_2022,Andreas Pereira,0,0,0,0,0.0,0.0,0.0
+Anthony_Elanga,2021_2022,Anthony Elanga,1208,2,3,193,199.8,168.2,297.0
+Raphaël_Varane,2021_2022,Raphaël Varane,1829,1,1,378,402.4,60.0,119.0
+Cristiano Ronaldo_dos Santos Aveiro,2021_2022,Cristiano Ronaldo dos Santos Aveiro,2454,18,3,608,800.4,421.9,1535.0
+Phil_Jones,2021_2022,Phil Jones,161,0,0,41,53.0,1.6,0.0
+Amad_Diallo,2021_2022,Amad Diallo,0,0,0,0,0.0,0.0,0.0
+Hannibal_Mejbri,2021_2022,Hannibal Mejbri,67,0,0,-2,0.0,0.6,0.0
+Alejandro_Garnacho Ferreyra,2021_2022,Alejandro Garnacho Ferreyra,12,0,0,5,0.0,0.0,0.0
+Shola_Shoretire,2021_2022,Shola Shoretire,15,0,0,3,0.0,0.0,0.0
+Álvaro_Fernández,2021_2022,Álvaro Fernández,0,0,0,0,0.0,0.0,0.0
+Charlie_Savage,2021_2022,Charlie Savage,0,0,0,0,0.0,0.0,0.0
+Joseph_Willock,2021_2022,Joseph Willock,2037,2,3,248,320.4,243.2,449.0
+Matt_Targett,2021_2022,Matt Targett,2871,1,2,530,567.4,623.8,184.0
+Dan_Burn,2021_2022,Dan Burn,2461,1,1,454,569.8,83.7,264.0
+Chris_Wood,2021_2022,Chris Wood,2694,5,0,228,270.6,265.3,784.0
+Jonjo_Shelvey,2021_2022,Jonjo Shelvey,1981,2,1,292,320.8,246.7,156.0
+Matt_Ritchie,2021_2022,Matt Ritchie,1333,0,2,207,225.0,420.1,92.0
+Ciaran_Clark,2021_2022,Ciaran Clark,1012,0,1,131,189.2,49.9,95.0
+Karl_Darlow,2021_2022,Karl Darlow,720,0,0,110,157.0,0.0,0.0
+Martin_Dubravka,2021_2022,Martin Dubravka,2340,0,0,465,566.4,10.0,0.0
+Callum_Wilson,2021_2022,Callum Wilson,1386,8,0,220,248.8,116.0,434.0
+Jeff_Hendrick,2021_2022,Jeff Hendrick,69,1,0,25,38.8,12.1,9.0
+Ryan_Fraser,2021_2022,Ryan Fraser,1459,2,5,263,250.2,428.1,324.0
+Jamaal_Lascelles,2021_2022,Jamaal Lascelles,2055,1,1,284,399.8,46.4,276.0
+Dwight_Gayle,2021_2022,Dwight Gayle,34,0,0,22,4.2,24.2,13.0
+Paul_Dummett,2021_2022,Paul Dummett,197,0,0,28,24.2,1.9,0.0
+Javier_Manquillo,2021_2022,Javier Manquillo,1258,1,3,206,244.2,65.4,64.0
+Emil_Krafth,2021_2022,Emil Krafth,1636,0,1,262,270.4,102.7,54.0
+Jacob_Murphy,2021_2022,Jacob Murphy,1457,1,4,215,261.6,280.2,275.0
+Fabian_Schär,2021_2022,Fabian Schär,2158,2,2,383,465.2,115.9,234.0
+Isaac_Hayden,2021_2022,Isaac Hayden,1000,1,0,124,187.6,33.6,66.0
+Allan_Saint-Maximin,2021_2022,Allan Saint-Maximin,2804,5,7,394,554.8,649.7,841.0
+Miguel_Almirón,2021_2022,Miguel Almirón,1706,1,0,228,224.6,234.7,343.0
+Sean_Longstaff,2021_2022,Sean Longstaff,1458,1,1,206,230.4,114.8,93.0
+Joelinton Cássio_Apolinário de Lira,2021_2022,Joelinton Cássio Apolinário de Lira,2554,4,2,323,529.6,386.4,583.0
+Jamal_Lewis,2021_2022,Jamal Lewis,261,0,0,39,39.4,13.8,2.0
+Matthew_Longstaff,2021_2022,Matthew Longstaff,0,0,0,0,0.0,0.0,0.0
+Federico_Fernández,2021_2022,Federico Fernández,521,0,1,91,129.4,13.8,69.0
+Freddie_Woodman,2021_2022,Freddie Woodman,360,0,0,64,89.4,0.0,0.0
+Mark_Gillespie,2021_2022,Mark Gillespie,0,0,0,0,0.0,0.0,0.0
+Joe_White,2021_2022,Joe White,0,0,0,0,0.0,0.0,0.0
+Elliot_Anderson,2021_2022,Elliot Anderson,0,0,0,0,0.0,0.0,0.0
+Kieran_Trippier,2021_2022,Kieran Trippier,429,2,0,101,146.2,121.7,14.0
+Bruno_Guimarães Rodriguez Moura,2021_2022,Bruno Guimarães Rodriguez Moura,1031,5,1,245,385.4,188.8,301.0
+Lucas_De Bolle,2021_2022,Lucas De Bolle,0,0,0,0,0.0,0.0,0.0
+Billy_Gilmour,2021_2022,Billy Gilmour,1852,0,1,283,280.2,458.7,134.0
+Brandon_Williams,2021_2022,Brandon Williams,2119,0,1,346,371.0,289.3,80.0
+Michael_McGovern,2021_2022,Michael McGovern,0,0,0,0,0.0,0.0,0.0
+Tim_Krul,2021_2022,Tim Krul,2610,0,0,527,749.8,13.4,0.0
+Teemu_Pukki,2021_2022,Teemu Pukki,3253,11,3,441,527.4,355.7,1049.0
+Marco_Stiepermann,2021_2022,Marco Stiepermann,0,0,0,0,0.0,0.0,0.0
+Lukas_Rupp,2021_2022,Lukas Rupp,759,0,0,112,89.4,129.6,115.0
+Kenny_McLean,2021_2022,Kenny McLean,2707,1,0,308,346.6,184.9,355.0
+Grant_Hanley,2021_2022,Grant Hanley,2897,1,0,508,746.6,73.4,220.0
+Onel_Hernández,2021_2022,Onel Hernández,0,0,0,0,0.0,0.0,0.0
+Sam_Byram,2021_2022,Sam Byram,1023,0,0,163,213.0,57.9,121.0
+Jordan_Hugill,2021_2022,Jordan Hugill,0,0,0,0,0.0,0.0,0.0
+Kieran_Dowell,2021_2022,Kieran Dowell,905,1,1,122,133.8,243.3,80.0
+Christoph_Zimmermann,2021_2022,Christoph Zimmermann,156,0,0,16,19.8,0.5,7.0
+Todd_Cantwell,2021_2022,Todd Cantwell,438,0,0,48,34.4,48.5,20.0
+Max_Aarons,2021_2022,Max Aarons,2879,0,2,413,497.0,315.2,166.0
+Jacob_Sørensen,2021_2022,Jacob Sørensen,600,0,0,92,104.6,12.2,86.0
+Przemyslaw_Placheta,2021_2022,Przemyslaw Placheta,499,0,0,60,61.0,77.2,139.0
+Adam_Idah,2021_2022,Adam Idah,617,1,2,107,120.2,84.0,187.0
+Josh_Martin,2021_2022,Josh Martin,0,0,0,0,0.0,0.0,0.0
+Andrew_Omobamidele,2021_2022,Andrew Omobamidele,381,1,0,74,126.4,5.7,35.0
+Angus_Gunn,2021_2022,Angus Gunn,810,0,0,177,305.4,0.0,0.0
+Milot_Rashica,2021_2022,Milot Rashica,2228,1,2,191,286.8,488.5,437.0
+Ben_Gibson,2021_2022,Ben Gibson,2494,0,0,412,549.8,46.7,139.0
+Dimitris_Giannoulis,2021_2022,Dimitris Giannoulis,1165,0,1,241,255.2,131.1,51.0
+Pierre_Lees-Melou,2021_2022,Pierre Lees-Melou,2261,1,2,341,357.0,377.2,239.0
+Bali_Mumba,2021_2022,Bali Mumba,45,0,0,6,9.6,3.3,0.0
+Joshua_Sargent,2021_2022,Joshua Sargent,1566,2,2,205,189.0,166.7,323.0
+Christos_Tzolis,2021_2022,Christos Tzolis,326,0,0,58,38.6,97.0,107.0
+Ozan_Kabak,2021_2022,Ozan Kabak,923,0,0,137,166.2,23.9,65.0
+Mathias_Normann,2021_2022,Mathias Normann,1643,1,2,206,273.0,208.2,111.0
+Jonathan_Tomkinson,2021_2022,Jonathan Tomkinson,0,0,0,0,0.0,0.0,0.0
+Jonathan_Rowe,2021_2022,Jonathan Rowe,208,0,1,39,42.0,62.1,48.0
+Thomas_Dickson-Peters,2021_2022,Thomas Dickson-Peters,0,0,0,0,0.0,0.0,0.0
+Jon_McCracken,2021_2022,Jon McCracken,0,0,0,0,0.0,0.0,0.0
+Liam_Gibbs,2021_2022,Liam Gibbs,0,0,0,0,0.0,0.0,0.0
+Abu_Kamara,2021_2022,Abu Kamara,0,0,0,0,0.0,0.0,0.0
+Tony_Springett,2021_2022,Tony Springett,140,0,0,11,14.4,21.7,27.0
+Theo_Walcott,2021_2022,Theo Walcott,376,0,0,28,13.6,19.2,70.0
+Fraser_Forster,2021_2022,Fraser Forster,1710,0,0,330,559.8,0.0,0.0
+Alex_McCarthy,2021_2022,Alex McCarthy,1530,0,0,286,320.2,10.0,0.0
+Oriol_Romeu Vidal,2021_2022,Oriol Romeu Vidal,2890,2,2,487,527.4,521.5,247.0
+Nathan_Redmond,2021_2022,Nathan Redmond,1827,1,6,313,330.4,506.7,289.0
+Jack_Stephens,2021_2022,Jack Stephens,810,0,0,135,176.0,47.7,6.0
+Stuart_Armstrong,2021_2022,Stuart Armstrong,1465,2,1,239,249.4,363.7,369.0
+James_Ward-Prowse,2021_2022,James Ward-Prowse,3215,10,5,769,933.6,1159.6,394.0
+Kyle_Walker-Peters,2021_2022,Kyle Walker-Peters,2630,1,3,481,465.2,364.1,423.0
+Jan_Bednarek,2021_2022,Jan Bednarek,2629,4,0,499,699.6,88.1,321.0
+Daniel_N'Lundulu,2021_2022,Daniel N'Lundulu,0,0,0,0,0.0,0.0,0.0
+Che_Adams,2021_2022,Che Adams,2034,7,4,333,425.8,337.0,800.0
+Nathan_Tella,2021_2022,Nathan Tella,802,0,2,81,79.4,102.2,138.0
+William_Smallbone,2021_2022,William Smallbone,132,0,0,25,7.2,15.7,8.0
+Michael_Obafemi,2021_2022,Michael Obafemi,0,0,0,0,0.0,0.0,0.0
+Ibrahima_Diallo,2021_2022,Ibrahima Diallo,1016,0,3,187,177.6,209.6,79.0
+Moussa_Djenepo,2021_2022,Moussa Djenepo,452,0,0,21,45.2,87.0,126.0
+Mohammed_Salisu,2021_2022,Mohammed Salisu,2971,0,0,478,720.0,132.3,330.0
+Romain_Perraud,2021_2022,Romain Perraud,1621,0,1,189,195.2,152.7,178.0
+Tino_Livramento,2021_2022,Tino Livramento,2200,1,2,440,437.2,327.4,221.0
+Mohamed_Elyounoussi,2021_2022,Mohamed Elyounoussi,2039,4,3,243,379.8,331.1,719.0
+Armando_Broja,2021_2022,Armando Broja,1969,6,2,234,280.2,159.2,720.0
+Shane_Long,2021_2022,Shane Long,300,1,0,48,57.8,29.2,169.0
+Adam_Armstrong,2021_2022,Adam Armstrong,1409,2,3,150,179.2,173.9,567.0
+Yan_Valery,2021_2022,Yan Valery,369,0,0,62,70.8,20.4,2.0
+Lyanco Evangelista_Silveira Neves Vojnovic,2021_2022,Lyanco Evangelista Silveira Neves Vojnovic,906,0,0,155,194.2,35.3,58.0
+Harry_Lewis,2021_2022,Harry Lewis,0,0,0,0,0.0,0.0,0.0
+Willy_Caballero,2021_2022,Willy Caballero,180,0,0,23,53.2,0.0,0.0
+Dynel_Simeu,2021_2022,Dynel Simeu,0,0,0,0,0.0,0.0,0.0
+Thierry_Small,2021_2022,Thierry Small,0,0,0,0,0.0,0.0,0.0
+Kgaogelo_Chauke,2021_2022,Kgaogelo Chauke,0,0,0,0,0.0,0.0,0.0
+Tyler_Dibling,2021_2022,Tyler Dibling,0,0,0,0,0.0,0.0,0.0
+Joe_Hart,2021_2022,Joe Hart,0,0,0,0,0.0,0.0,0.0
+Hugo_Lloris,2021_2022,Hugo Lloris,3420,0,0,703,743.6,23.0,0.0
+Toby_Alderweireld,2021_2022,Toby Alderweireld,0,0,0,0,0.0,0.0,0.0
+Erik_Lamela,2021_2022,Erik Lamela,0,0,0,0,0.0,0.0,0.0
+Harry_Kane,2021_2022,Harry Kane,3231,17,11,684,969.4,637.9,1701.0
+Serge_Aurier,2021_2022,Serge Aurier,0,0,0,0,0.0,0.0,0.0
+Heung-Min_Son,2021_2022,Heung-Min Son,3009,23,10,819,1128.6,1037.8,1211.0
+Matt_Doherty,2021_2022,Matt Doherty,871,2,5,255,279.6,224.4,291.0
+Eric_Dier,2021_2022,Eric Dier,3071,0,1,680,710.6,116.3,195.0
+Lucas_Rodrigues Moura da Silva,2021_2022,Lucas Rodrigues Moura da Silva,1763,2,6,324,370.6,466.2,431.0
+Ben_Davies,2021_2022,Ben Davies,2537,1,2,490,482.2,199.6,243.0
+Pierre-Emile_Højbjerg,2021_2022,Pierre-Emile Højbjerg,3196,2,3,616,690.0,413.6,315.0
+Harry_Winks,2021_2022,Harry Winks,904,0,2,175,167.8,198.4,20.0
+Davinson_Sánchez,2021_2022,Davinson Sánchez,1626,2,1,417,408.2,93.1,186.0
+Ryan_Sessegnon,2021_2022,Ryan Sessegnon,1046,0,3,231,159.2,178.1,129.0
+Steven_Bergwijn,2021_2022,Steven Bergwijn,548,3,2,138,163.6,101.2,273.0
+Sergio_Reguilón,2021_2022,Sergio Reguilón,1914,2,4,438,468.8,459.9,362.0
+Japhet_Tanganga,2021_2022,Japhet Tanganga,735,0,0,133,118.0,48.1,108.0
+Giovani_Lo Celso,2021_2022,Giovani Lo Celso,231,0,0,41,33.4,77.6,59.0
+Oliver_Skipp,2021_2022,Oliver Skipp,1346,0,0,180,183.8,151.5,39.0
+Joe_Rodon,2021_2022,Joe Rodon,87,0,0,17,19.6,0.7,0.0
+Tanguy_Ndombele,2021_2022,Tanguy Ndombele,481,1,1,85,99.8,83.1,122.0
+Pierluigi_Gollini,2021_2022,Pierluigi Gollini,0,0,0,0,0.0,0.0,0.0
+Bryan_Gil Salvatierra,2021_2022,Bryan Gil Salvatierra,86,0,0,32,22.8,37.3,25.0
+Cristian_Romero,2021_2022,Cristian Romero,1844,1,0,385,498.8,98.9,102.0
+Dane_Scarlett,2021_2022,Dane Scarlett,3,0,0,4,1.0,0.0,0.0
+Emerson Aparecido_Leite de Souza Junior,2021_2022,Emerson Aparecido Leite de Souza Junior,2282,1,1,489,454.6,446.1,298.0
+Dilan_Markanday,2021_2022,Dilan Markanday,0,0,0,0,0.0,0.0,0.0
+Tobi_Omole,2021_2022,Tobi Omole,0,0,0,0,0.0,0.0,0.0
+Brandon_Austin,2021_2022,Brandon Austin,0,0,0,0,0.0,0.0,0.0
+Harvey_White,2021_2022,Harvey White,0,0,0,0,0.0,0.0,0.0
+Dejan_Kulusevski,2021_2022,Dejan Kulusevski,1259,5,9,343,346.6,343.6,382.0
+Rodrigo_Bentancur,2021_2022,Rodrigo Bentancur,1360,0,4,266,274.2,205.0,118.0
+Alfie_Devine,2021_2022,Alfie Devine,0,0,0,0,0.0,0.0,0.0
+Jamie_Bowden,2021_2022,Jamie Bowden,0,0,0,0,0.0,0.0,0.0
+Marcel_Lavinier,2021_2022,Marcel Lavinier,0,0,0,0,0.0,0.0,0.0
+Matthew_Craig,2021_2022,Matthew Craig,0,0,0,0,0.0,0.0,0.0
+Moussa_Sissoko,2021_2022,Moussa Sissoko,3220,2,1,408,558.4,513.2,308.0
+Ben_Foster,2021_2022,Ben Foster,2340,0,1,433,559.2,10.0,0.0
+Danny_Rose,2021_2022,Danny Rose,688,0,0,75,104.8,80.5,39.0
+Dan_Gosling,2021_2022,Dan Gosling,164,1,0,44,13.4,17.3,7.0
+Craig_Cathcart,2021_2022,Craig Cathcart,2394,0,1,393,504.6,46.4,42.0
+Troy_Deeney,2021_2022,Troy Deeney,23,0,0,5,2.2,10.6,14.0
+Tom_Cleverley,2021_2022,Tom Cleverley,1611,0,2,209,211.8,301.6,133.0
+Francisco_Femenía Far,2021_2022,Francisco Femenía Far,2143,0,5,385,404.0,393.9,36.0
+Andre_Gray,2021_2022,Andre Gray,0,0,0,0,0.0,0.0,0.0
+Christian_Kabasele,2021_2022,Christian Kabasele,1190,0,0,163,217.0,27.1,42.0
+Nathaniel_Chalobah,2021_2022,Nathaniel Chalobah,0,0,0,0,0.0,0.0,0.0
+William_Troost-Ekong,2021_2022,William Troost-Ekong,1388,0,0,171,252.6,14.1,17.0
+Stipe_Perica,2021_2022,Stipe Perica,0,0,0,0,0.0,0.0,0.0
+Daniel_Bachmann,2021_2022,Daniel Bachmann,1080,0,0,196,300.6,0.0,0.0
+Adam_Masina,2021_2022,Adam Masina,1075,0,1,179,198.6,106.6,31.0
+Ken_Sema,2021_2022,Ken Sema,844,0,0,81,84.8,159.9,51.0
+Philip_Zinckernagel,2021_2022,Philip Zinckernagel,0,0,0,0,0.0,0.0,0.0
+Isaac_Success Ajayi,2021_2022,Isaac Success Ajayi,0,0,0,0,0.0,0.0,0.0
+Ayotomiwa_Dele-Bashiru,2021_2022,Ayotomiwa Dele-Bashiru,0,0,0,0,0.0,0.0,0.0
+Ashley_Fletcher,2021_2022,Ashley Fletcher,28,0,0,5,9.0,0.5,20.0
+Francisco_Sierralta,2021_2022,Francisco Sierralta,427,0,0,57,95.0,0.5,19.0
+Domingos_Quina,2021_2022,Domingos Quina,0,0,0,0,0.0,0.0,0.0
+Marc_Navarro,2021_2022,Marc Navarro,0,0,0,0,0.0,0.0,0.0
+Ismaila_Sarr,2021_2022,Ismaila Sarr,1862,5,2,217,342.4,298.1,540.0
+Jeremy_Ngakia,2021_2022,Jeremy Ngakia,896,0,0,154,171.8,74.0,16.0
+Ben_Wilmot,2021_2022,Ben Wilmot,0,0,0,0,0.0,0.0,0.0
+Joseph_Hungbo,2021_2022,Joseph Hungbo,0,0,0,0,0.0,0.0,0.0
+Imrân_Louza,2021_2022,Imrân Louza,1415,0,0,173,232.6,228.2,122.0
+João Pedro_Junqueira de Jesus,2021_2022,João Pedro Junqueira de Jesus,1634,3,1,207,318.2,279.6,587.0
+Kwadwo_Baah,2021_2022,Kwadwo Baah,0,0,0,0,0.0,0.0,0.0
+Emmanuel_Dennis,2021_2022,Emmanuel Dennis,2579,10,7,425,667.6,453.4,932.0
+Matthew_Pollock,2021_2022,Matthew Pollock,0,0,0,0,0.0,0.0,0.0
+Oghenekaro Peter_Etebo,2021_2022,Oghenekaro Peter Etebo,396,0,0,58,47.0,33.2,10.0
+Joshua_King,2021_2022,Joshua King,2244,5,4,268,391.8,444.1,692.0
+Adedapo_Awokoya-Mebude,2021_2022,Adedapo Awokoya-Mebude,0,0,0,0,0.0,0.0,0.0
+Juan Camilo_Hernández Suárez,2021_2022,Juan Camilo Hernández Suárez,1138,5,2,247,303.6,289.4,397.0
+Juraj_Kucka,2021_2022,Juraj Kucka,1917,1,2,218,304.8,164.2,353.0
+Ozan_Tufan,2021_2022,Ozan Tufan,334,0,0,22,18.2,53.1,23.0
+Robert_Elliot,2021_2022,Robert Elliot,0,0,0,0,0.0,0.0,0.0
+Nicolas_Nkoulou,2021_2022,Nicolas Nkoulou,167,0,0,27,23.4,10.7,0.0
+James_Morris,2021_2022,James Morris,0,0,0,0,0.0,0.0,0.0
+Vincent_Angelini,2021_2022,Vincent Angelini,0,0,0,0,0.0,0.0,0.0
+Kamil_Conteh,2021_2022,Kamil Conteh,0,0,0,0,0.0,0.0,0.0
+Hassane_Kamara,2021_2022,Hassane Kamara,1622,1,0,299,352.0,152.5,45.0
+Samir_Caetano de Souza Santos,2021_2022,Samir Caetano de Souza Santos,1674,0,0,272,292.2,24.7,121.0
+Edo_Kayembe,2021_2022,Edo Kayembe,795,0,0,127,117.2,90.4,27.0
+Samuel_Kalu,2021_2022,Samuel Kalu,221,0,0,23,21.8,31.9,24.0
+Shaqai_Forde,2021_2022,Shaqai Forde,0,0,0,0,0.0,0.0,0.0
+Tiago_Çukur,2021_2022,Tiago Çukur,0,0,0,0,0.0,0.0,0.0
+Adrian_Blake,2021_2022,Adrian Blake,0,0,0,0,0.0,0.0,0.0
+Jack_Grieves,2021_2022,Jack Grieves,0,0,0,0,0.0,0.0,0.0
+Kurt_Zouma,2021_2022,Kurt Zouma,2078,1,0,388,496.2,32.8,131.0
+Mark_Noble,2021_2022,Mark Noble,325,1,0,76,82.4,14.2,34.0
+Darren_Randolph,2021_2022,Darren Randolph,0,0,0,0,0.0,0.0,0.0
+Lukasz_Fabianski,2021_2022,Lukasz Fabianski,3330,0,0,661,887.0,0.0,0.0
+Angelo_Ogbonna,2021_2022,Angelo Ogbonna,921,1,0,182,167.0,5.3,67.0
+Winston_Reid,2021_2022,Winston Reid,0,0,0,0,0.0,0.0,0.0
+Aaron_Cresswell,2021_2022,Aaron Cresswell,2726,2,4,578,575.0,542.4,151.0
+Andriy_Yarmolenko,2021_2022,Andriy Yarmolenko,303,1,0,73,75.2,62.9,150.0
+Michail_Antonio,2021_2022,Michail Antonio,2975,10,10,441,611.6,613.5,1263.0
+Craig_Dawson,2021_2022,Craig Dawson,2752,2,3,466,684.2,61.6,387.0
+Ryan_Fredericks,2021_2022,Ryan Fredericks,303,0,0,38,29.6,31.6,4.0
+Manuel_Lanzini,2021_2022,Manuel Lanzini,1777,5,3,440,420.2,367.2,201.0
+Arthur_Masuaku,2021_2022,Arthur Masuaku,645,1,1,145,178.2,57.2,39.0
+Vladimir_Coufal,2021_2022,Vladimir Coufal,2207,0,4,384,415.8,331.5,161.0
+Saïd_Benrahma,2021_2022,Saïd Benrahma,2162,8,6,441,561.0,476.4,737.0
+Jarrod_Bowen,2021_2022,Jarrod Bowen,2987,12,17,586,819.4,624.6,1201.0
+Declan_Rice,2021_2022,Declan Rice,3178,1,4,595,740.2,391.0,277.0
+Tomas_Soucek,2021_2022,Tomas Soucek,3061,5,1,485,653.4,299.8,686.0
+Pablo_Fornals,2021_2022,Pablo Fornals,2795,6,4,480,569.0,704.4,528.0
+Issa_Diop,2021_2022,Issa Diop,961,0,1,203,225.6,21.3,44.0
+Ben_Johnson,2021_2022,Ben Johnson,1397,1,0,235,307.2,176.1,39.0
+Alphonse_Areola,2021_2022,Alphonse Areola,90,0,0,11,20.4,0.0,0.0
+Frederik_Alves,2021_2022,Frederik Alves,0,0,0,0,0.0,0.0,0.0
+Conor_Coventry,2021_2022,Conor Coventry,0,0,0,0,0.0,0.0,0.0
+Jamal_Baptiste,2021_2022,Jamal Baptiste,0,0,0,0,0.0,0.0,0.0
+Nikola_Vlasic,2021_2022,Nikola Vlasic,549,1,0,98,85.4,122.8,115.0
+Alex_Kral,2021_2022,Alex Kral,1,0,0,3,0.0,0.0,0.0
+Harrison_Ashby,2021_2022,Harrison Ashby,6,0,0,4,2.0,1.0,0.0
+Sonny_Perkins,2021_2022,Sonny Perkins,3,0,0,3,0.0,0.0,0.0
+Ajibola_Alese,2021_2022,Ajibola Alese,0,0,0,0,0.0,0.0,0.0
+Armstrong_Oko-Flex,2021_2022,Armstrong Oko-Flex,0,0,0,0,0.0,0.0,0.0
+Pierre_Ekwah,2021_2022,Pierre Ekwah,0,0,0,0,0.0,0.0,0.0
+Daniel_Chesters,2021_2022,Daniel Chesters,1,0,0,3,0.0,0.0,0.0
+João Filipe Iria_Santos Moutinho,2021_2022,João Filipe Iria Santos Moutinho,2970,2,1,511,512.6,645.2,144.0
+Rui Pedro_dos Santos Patrício,2021_2022,Rui Pedro dos Santos Patrício,0,0,0,0,0.0,0.0,0.0
+Willy_Boly,2021_2022,Willy Boly,900,0,0,165,157.2,18.0,27.0
+Conor_Coady,2021_2022,Conor Coady,3361,4,0,688,737.2,45.4,202.0
+Raúl_Jiménez,2021_2022,Raúl Jiménez,2630,6,5,266,441.4,481.4,742.0
+Romain_Saïss,2021_2022,Romain Saïss,2706,2,0,540,694.6,112.2,214.0
+Fernando_Marçal,2021_2022,Fernando Marçal,1448,0,3,295,247.2,187.3,135.0
+Jonathan_Castro Otto,2021_2022,Jonathan Castro Otto,1022,2,0,178,203.0,159.5,144.0
+Leander_Dendoncker,2021_2022,Leander Dendoncker,1945,2,3,308,339.0,175.5,258.0
+Adama_Traoré,2021_2022,Adama Traoré,1069,1,1,168,192.0,271.1,300.0
+Rúben Diogo_da Silva Neves,2021_2022,Rúben Diogo da Silva Neves,2659,4,2,509,617.4,408.2,237.0
+Nélson_Cabral Semedo,2021_2022,Nélson Cabral Semedo,2131,0,1,412,346.2,289.3,266.0
+Daniel_Castelo Podence,2021_2022,Daniel Castelo Podence,1475,2,3,257,328.6,493.0,459.0
+Max_Kilman,2021_2022,Max Kilman,2688,1,1,536,587.8,68.8,207.0
+Morgan_Gibbs-White,2021_2022,Morgan Gibbs-White,7,0,0,0,0.0,0.7,24.0
+Pedro_Lomba Neto,2021_2022,Pedro Lomba Neto,459,1,1,88,68.4,193.9,200.0
+Owen_Otasowie,2021_2022,Owen Otasowie,0,0,0,0,0.0,0.0,0.0
+Ki-Jana_Hoever,2021_2022,Ki-Jana Hoever,306,0,0,56,42.6,22.1,8.0
+Andreas_Söndergaard,2021_2022,Andreas Söndergaard,0,0,0,0,0.0,0.0,0.0
+Fabio_Silva,2021_2022,Fabio Silva,562,0,1,43,21.0,48.3,262.0
+Yerson_Mosquera Valdelamar,2021_2022,Yerson Mosquera Valdelamar,0,0,0,0,0.0,0.0,0.0
+John_Ruddy,2021_2022,John Ruddy,135,0,0,20,11.4,0.0,0.0
+Francisco_Machado Mota de Castro Trincão,2021_2022,Francisco Machado Mota de Castro Trincão,1328,2,1,197,240.0,247.1,390.0
+Rayan_Ait Nouri,2021_2022,Rayan Ait Nouri,1826,1,4,367,371.0,320.8,167.0
+José_Malheiro de Sá,2021_2022,José Malheiro de Sá,3285,0,1,722,938.8,30.0,0.0
+Patrick_Cutrone,2021_2022,Patrick Cutrone,0,0,0,0,0.0,0.0,0.0
+Luke_Cundle,2021_2022,Luke Cundle,179,0,0,32,17.0,32.0,2.0
+Chem_Campbell,2021_2022,Chem Campbell,12,0,0,5,2.0,1.7,2.0
+Christian_Marques,2021_2022,Christian Marques,0,0,0,0,0.0,0.0,0.0
+Hee-Chan_Hwang,2021_2022,Hee-Chan Hwang,1811,5,1,288,318.0,258.6,433.0
+Louie_Moulden,2021_2022,Louie Moulden,0,0,0,0,0.0,0.0,0.0
+James_Storer,2021_2022,James Storer,0,0,0,0,0.0,0.0,0.0
+Hugo_Bueno,2021_2022,Hugo Bueno,0,0,0,0,0.0,0.0,0.0
+Bruno André_Cavaco Jordão,2021_2022,Bruno André Cavaco Jordão,0,0,0,0,0.0,0.0,0.0
+Toti António_Gomes,2021_2022,Toti António Gomes,360,0,0,52,59.6,4.3,28.0
+Dion_Sanderson,2021_2022,Dion Sanderson,0,0,0,0,0.0,0.0,0.0
+Ryan_Giles,2021_2022,Ryan Giles,0,0,0,0,0.0,0.0,0.0
+Francisco Jorge_Tomás Oliveira,2021_2022,Francisco Jorge Tomás Oliveira,203,0,3,67,99.4,83.4,118.0

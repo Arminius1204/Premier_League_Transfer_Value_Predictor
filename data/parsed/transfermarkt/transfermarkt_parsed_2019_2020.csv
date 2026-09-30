@@ -1,0 +1,477 @@
+transfer_id,source_transfer_id,source_player_id,source_player_name,season_id,fee_status,raw_fee_string,raw_row_text
+b2a97bea-95e,2535945,357565,Rodri,2019_2020,DISCLOSED,€70.00m,Rodri | Rodri | 23 | Defensive Midfield | DM | €80.00m | Atlético | €70.00m
+f939f9d7-bdb,2595717,182712,João Cancelo,2019_2020,DISCLOSED,€65.00m,João Cancelo | J. Cancelo | 25 | Right-Back | RB | €55.00m | Juventus | €65.00m
+31da409f-081,2536302,277179,Angeliño,2019_2020,DISCLOSED,€12.00m,Angeliño | Angeliño | 22 | Left-Back | LB | €16.00m | PSV | €12.00m
+351561ce-cfd,2597030,553875,Pedro Porro,2019_2020,DISCLOSED,€12.00m,Pedro Porro | P. Porro | 19 | Right-Back | RB | €10.00m | Girona | €12.00m
+b8ab7475-5a9,2336298,221624,Zack Steffen,2019_2020,DISCLOSED,€6.82m,Zack Steffen | Z. Steffen | 24 | Goalkeeper | GK | €5.00m | Columbus Crew | €6.82m
+c804e0d3-10b,2639520,505652,Slobodan Tedic,2019_2020,DISCLOSED,€3.00m,Slobodan Tedic | S. Tedic | 19 | Centre-Forward | CF | €2.00m | Cukaricki | €3.00m
+1fcb26c0-f94,2598514,426666,Ryotaro Meshino,2019_2020,DISCLOSED,€1.00m,Ryotaro Meshino | R. Meshino | 21 | Left Winger | LW | €500k | Gamba Osaka | €1.00m
+c9f00d03-7cb,2596992,14555,Scott Carson,2019_2020,DISCLOSED,loan transfer,Scott Carson | S. Carson | 33 | Goalkeeper | GK | €2.00m | Derby | loan transfer
+bd4bc21b-022,2741561,466794,Eric García,2019_2020,DISCLOSED,-,Eric García | E. García | 18 | Centre-Back | CB | - | Man City U23 | -
+75ed98fd-60f,3726684,282199,Erik Palmer-Brown,2019_2020,DISCLOSED,-,Erik Palmer-Brown | E. Palmer-Brown | 22 | Centre-Back | CB | €600k | Man City U23 | -
+87f3d02a-27a,3415210,314288,Lukas Nmecha,2019_2020,DISCLOSED,-,Lukas Nmecha | L. Nmecha | 20 | Centre-Forward | CF | €1.00m | Man City U23 | -
+beed76de-bf0,2546004,371021,Arijanet Murić,2019_2020,DISCLOSED,End of loan31/05/2020,Arijanet Murić | A. Murić | 21 | Goalkeeper | GK | €1.80m | Nott'm Forest | End of loan | 31/05/2020
+68e122f8-5c3,2490489,225452,Patrick Roberts,2019_2020,DISCLOSED,End of loan01/01/2020,Patrick Roberts | P. Roberts | 22 | Right Winger | RW | €3.50m | Norwich | End of loan | 01/01/2020
+0d554bc2-930,2388708,371003,Ante Palaversa,2019_2020,DISCLOSED,End of loan02/07/2019,Ante Palaversa | A. Palaversa | 19 | Defensive Midfield | DM | €5.00m | Hajduk Split | End of loan | 02/07/2019
+f5c80707-edb,2382623,345654,Marlos Moreno,2019_2020,DISCLOSED,End of loan30/06/2019,Marlos Moreno | M. Moreno | 22 | Left Winger | LW | €700k | Santos Laguna | End of loan | 30/06/2019
+d3857264-393,2371105,378293,Yangel Herrera,2019_2020,DISCLOSED,End of loan30/06/2019,Yangel Herrera | Y. Herrera | 21 | Central Midfield | CM | €2.00m | SD Huesca | End of loan | 30/06/2019
+6646ea64-292,2354802,226739,Anthony Cáceres,2019_2020,DISCLOSED,End of loan30/06/2019,Anthony Cáceres | A. Cáceres | 26 | Central Midfield | CM | €350k | Sydney FC | End of loan | 30/06/2019
+4fc9b6cc-3d1,2247566,447661,Douglas Luiz,2019_2020,DISCLOSED,End of loan30/06/2019,Douglas Luiz | Douglas Luiz | 21 | Central Midfield | CM | €2.50m | Girona | End of loan | 30/06/2019
+f2434e52-969,2164077,277118,Manu García,2019_2020,DISCLOSED,End of loan30/06/2019,Manu García | M. García | 21 | Attacking Midfield | AM | €5.00m | Toulouse | End of loan | 30/06/2019
+1563a640-d9f,2155064,210178,Pablo Marí,2019_2020,DISCLOSED,End of loan30/06/2019,Pablo Marí | P. Marí | 25 | Centre-Back | CB | €800k | Dep. La Coruña | End of loan | 30/06/2019
+e45b5617-a64,1863206,261504,Aleix García,2019_2020,DISCLOSED,End of loan30/06/2019,Aleix García | A. García | 22 | Central Midfield | CM | €3.00m | Girona | End of loan | 30/06/2019
+94683282-f97,1511504,114365,Luke Brattan,2019_2020,DISCLOSED,End of loan30/06/2019,Luke Brattan | L. Brattan | 29 | Defensive Midfield | DM | €500k | Melbourne City | End of loan | 30/06/2019
+8ba96375-9cb,2595728,145707,Danilo,2019_2020,DISCLOSED,€37.00m,Danilo | Danilo | 28 | Centre-Back | CB | €20.00m | Juventus | €37.00m
+1ecc38d5-f3b,2558265,50362,Fabian Delph,2019_2020,DISCLOSED,€9.50m,Fabian Delph | F. Delph | 29 | Central Midfield | CM | €15.00m | Everton | €9.50m
+b2d0e069-ca3,2781101,277179,Angeliño,2019_2020,LOAN,0,Angeliño | Angeliño | 23 | Left-Back | LB | €16.00m | Leipzig | Loan fee: | €2.00m
+ea294095-60b,2479931,9594,Vincent Kompany,2019_2020,DISCLOSED,free transfer,Vincent Kompany | V. Kompany | 33 | Centre-Back | CB | €8.00m | Anderlecht | free transfer
+b5dd7331-697,2603756,90681,Eliaquim Mangala,2019_2020,DISCLOSED,free transfer,Eliaquim Mangala | E. Mangala | 28 | Centre-Back | CB | €10.00m | Valencia | free transfer
+31d4cf8d-e7d,2590966,384807,Thomas Agyepong,2019_2020,DISCLOSED,loan transfer,Thomas Agyepong | T. Agyepong | 22 | Left Winger | LW | €250k | Waasland-Beveren | loan transfer
+ceaa6ac8-888,2562042,340460,Philippe Sandler,2019_2020,DISCLOSED,loan transfer,Philippe Sandler | P. Sandler | 22 | Centre-Back | CB | €2.50m | Anderlecht | loan transfer
+a9501d9a-614,2728606,165793,Takumi Minamino,2019_2020,DISCLOSED,€8.50m,Takumi Minamino | T. Minamino | 24 | Left Winger | LW | €12.50m | Salzburg | €8.50m
+49c730c0-03c,2526170,541231,Sepp van den Berg,2019_2020,DISCLOSED,€1.90m,Sepp van den Berg | S. van den Berg | 17 | Centre-Back | CB | €2.00m | PEC Zwolle | €1.90m
+f6e9b836-c7b,2491327,14044,Andy Lonergan,2019_2020,DISCLOSED,free transfer,Andy Lonergan | A. Lonergan | 35 | Goalkeeper | GK | €250k | Middlesbrough | free transfer
+530d1b90-e31,2590913,71271,Adrián San Miguel,2019_2020,DISCLOSED,free transfer,Adrián San Miguel | A. San Miguel | 32 | Goalkeeper | GK | €3.50m | West Ham | free transfer
+3a716229-7ed,3123854,371814,Nat Phillips,2019_2020,DISCLOSED,-,Nat Phillips | N. Phillips | 22 | Centre-Back | CB | - | Liverpool U23 | -
+8fd09d89-ba4,2981492,503680,Neco Williams,2019_2020,DISCLOSED,-,Neco Williams | N. Williams | 18 | Left-Back | LB | - | Liverpool U23 | -
+d8e0cfe3-505,2658642,340918,Caoimhín Kelleher,2019_2020,DISCLOSED,-,Caoimhín Kelleher | C. Kelleher | 20 | Goalkeeper | GK | - | Liverpool U23 | -
+ce0c2758-2fb,2365330,295313,Taiwo Awoniyi,2019_2020,DISCLOSED,End of loan30/06/2019,Taiwo Awoniyi | T. Awoniyi | 21 | Centre-Forward | CF | €4.50m | Mouscron | End of loan | 30/06/2019
+bf102a72-b5a,2406070,385271,Allan,2019_2020,DISCLOSED,End of loan31/12/2019,Allan | Allan | 22 | Defensive Midfield | DM | €2.00m | Fluminense | End of loan | 31/12/2019
+707f969d-287,2244972,236510,Sheyi Ojo,2019_2020,DISCLOSED,End of loan30/06/2019,Sheyi Ojo | Sheyi Ojo | 22 | Right Winger | RW | €2.00m | Stade Reims | End of loan | 30/06/2019
+dfa877cf-c83,2217975,134294,Danny Ings,2019_2020,DISCLOSED,End of loan30/06/2019,Danny Ings | D. Ings | 26 | Centre-Forward | CF | €15.00m | Southampton | End of loan | 30/06/2019
+053d0142-9cd,2238443,85864,Loris Karius,2019_2020,DISCLOSED,End of loan04/05/2020,Loris Karius | L. Karius | 26 | Goalkeeper | GK | €3.20m | Beşiktaş | End of loan | 04/05/2020
+e57d900a-aae,2231308,222813,Marko Grujić,2019_2020,DISCLOSED,End of loan30/06/2019,Marko Grujić | M. Grujić | 23 | Defensive Midfield | DM | €20.00m | Hertha BSC | End of loan | 30/06/2019
+1010cc76-1b1,2632720,279457,Ryan Kent,2019_2020,DISCLOSED,€7.20m,Ryan Kent | Ryan Kent | 22 | Left Winger | LW | €1.75m | Rangers | €7.20m
+9c119e3a-dd6,2589788,50219,Simon Mignolet,2019_2020,DISCLOSED,€7.00m,Simon Mignolet | S. Mignolet | 31 | Goalkeeper | GK | €8.00m | Club Brugge | €7.00m
+a374313e-74f,2593409,279455,Harry Wilson,2019_2020,LOAN,0,Harry Wilson | H. Wilson | 22 | Right Winger | RW | €12.00m | Bournemouth | Loan fee: | €2.70m
+6f709d59-970,2548186,222813,Marko Grujić,2019_2020,LOAN,0,Marko Grujić | M. Grujić | 23 | Defensive Midfield | DM | €20.00m | Hertha BSC | Loan fee: | €2.00m
+bed2cc0c-e05,2596425,295313,Taiwo Awoniyi,2019_2020,LOAN,0,Taiwo Awoniyi | T. Awoniyi | 21 | Centre-Forward | CF | €4.50m | Mainz | Loan fee: | €500k
+6c566bdf-510,2495023,47082,Daniel Sturridge,2019_2020,DISCLOSED,free transfer,Daniel Sturridge | D. Sturridge | 29 | Centre-Forward | CF | €15.00m | Trabzonspor | free transfer
+717917c2-031,2495024,207917,Alberto Moreno,2019_2020,DISCLOSED,free transfer,Alberto Moreno | A. Moreno | 27 | Left-Back | LB | €9.00m | Villarreal | free transfer
+5f9add04-6e6,2582044,344015,Ben Woodburn,2019_2020,DISCLOSED,loan transfer,Ben Woodburn | B. Woodburn | 19 | Attacking Midfield | AM | €5.00m | Oxford United | loan transfer
+6d089299-0c7,2597011,337284,Ovie Ejaria,2019_2020,DISCLOSED,loan transfer,Ovie Ejaria | O. Ejaria | 21 | Left Winger | LW | €900k | Reading | loan transfer
+8fe1578e-d5d,2500475,55247,Ádám Bogdán,2019_2020,DISCLOSED,-,Ádám Bogdán | Á. Bogdán | 31 | Goalkeeper | GK | €500k | Without Club | -
+0c35e4c7-9f5,2500474,262545,Connor Randall,2019_2020,DISCLOSED,-,Connor Randall | C. Randall | 23 | Right-Back | RB | €500k | Without Club | -
+55f0baf7-89b,2532076,51471,Mateo Kovacic,2019_2020,DISCLOSED,€45.00m,Mateo Kovacic | M. Kovacic | 25 | Central Midfield | CM | €35.00m | Real Madrid | €45.00m
+04cc4420-5c9,2557049,346483,Mason Mount,2019_2020,DISCLOSED,-,Mason Mount | M. Mount | 20 | Attacking Midfield | AM | €12.00m | Chelsea U23 | -
+c62f49d3-c40,2796601,423744,Billy Gilmour,2019_2020,DISCLOSED,-,Billy Gilmour | B. Gilmour | 18 | Defensive Midfield | DM | €3.00m | Chelsea U23 | -
+0cbf1474-d3a,2617771,472423,Reece James,2019_2020,DISCLOSED,-,Reece James | R. James | 19 | Right-Back | RB | €7.00m | Chelsea U23 | -
+4ffa8691-ac1,4385926,392757,Marc Guéhi,2019_2020,DISCLOSED,-,Marc Guéhi | M. Guéhi | 19 | Centre-Back | CB | €1.50m | Chelsea U23 | -
+b2826e63-eb9,2629767,222830,Danilo Pantic,2019_2020,DISCLOSED,End of loan31/01/2020,Danilo Pantic | D. Pantic | 23 | Attacking Midfield | AM | €1.80m | Vidi FC | End of loan | 31/01/2020
+48f5ae86-e83,2633308,128898,Jamal Blackman,2019_2020,DISCLOSED,End of loan16/01/2020,Jamal Blackman | J. Blackman | 26 | Goalkeeper | GK | €500k | Vitesse | End of loan | 16/01/2020
+184a9182-6ba,2572831,198589,Lewis Baker,2019_2020,DISCLOSED,End of loan22/01/2020,Lewis Baker | L. Baker | 24 | Central Midfield | CM | €3.50m | F. Düsseldorf | End of loan | 22/01/2020
+c4c11be5-18e,2597092,73491,Danny Drinkwater,2019_2020,DISCLOSED,End of loan06/01/2020,Danny Drinkwater | D. Drinkwater | 29 | Central Midfield | CM | €6.00m | Burnley | End of loan | 06/01/2020
+c3da335f-5c8,2390726,179184,Michy Batshuayi,2019_2020,DISCLOSED,End of loan30/06/2019,Michy Batshuayi | M. Batshuayi | 25 | Centre-Forward | CF | €30.00m | Crystal Palace | End of loan | 30/06/2019
+e85f52e4-336,2389651,176485,Lucas Piazón,2019_2020,DISCLOSED,End of loan30/06/2019,Lucas Piazón | L. Piazón | 25 | Attacking Midfield | AM | €1.50m | Chievo Verona | End of loan | 30/06/2019
+aa11f714-028,2386264,224884,Abdul Rahman Baba,2019_2020,DISCLOSED,End of loan30/06/2019,Abdul Rahman Baba | A. Baba | 24 | Left-Back | LB | €5.00m | Stade Reims | End of loan | 30/06/2019
+983ff160-647,2381937,59866,Victor Moses,2019_2020,DISCLOSED,End of loan22/01/2020,Victor Moses | V. Moses | 29 | Right Winger | RW | €8.50m | Fenerbahçe | End of loan | 22/01/2020
+e714f143-6b0,2354714,315779,Christian Pulisic,2019_2020,DISCLOSED,End of loan30/06/2019,Christian Pulisic | C. Pulisic | 20 | Right Winger | RW | €60.00m | Dortmund | End of loan | 30/06/2019
+a8459dca-e6c,2247476,157490,Michael Hector,2019_2020,DISCLOSED,End of loan30/06/2019,Michael Hector | M. Hector | 26 | Centre-Back | CB | €3.00m | Sheff Wed | End of loan | 30/06/2019
+ef451a74-584,2225633,131708,Kenneth Omeruo,2019_2020,DISCLOSED,End of loan30/06/2019,Kenneth Omeruo | K. Omeruo | 25 | Centre-Back | CB | €5.00m | CD Leganés | End of loan | 30/06/2019
+54ac188f-89e,2224993,236490,Ola Aina,2019_2020,DISCLOSED,End of loan30/06/2019,Ola Aina | Ola Aina | 22 | Right-Back | RB | €10.00m | Torino | End of loan | 30/06/2019
+bc33b9cb-b5e,2224361,182618,Tiemoué Bakayoko,2019_2020,DISCLOSED,End of loan30/06/2019,Tiemoué Bakayoko | T. Bakayoko | 24 | Defensive Midfield | DM | €35.00m | AC Milan | End of loan | 30/06/2019
+0a44e0bd-d81,2163434,34159,Eduardo,2019_2020,DISCLOSED,End of loan30/06/2019,Eduardo | Eduardo | 36 | Goalkeeper | GK | €750k | Vitesse | End of loan | 30/06/2019
+583b4d18-826,2156682,316551,Jake Clarke-Salter,2019_2020,DISCLOSED,End of loan30/06/2019,Jake Clarke-Salter | J. Clarke-Salter | 21 | Centre-Back | CB | €2.00m | Vitesse | End of loan | 30/06/2019
+a807ef7b-4f5,2499860,50202,Eden Hazard,2019_2020,DISCLOSED,€120.80m,Eden Hazard | E. Hazard | 28 | Left Winger | LW | €150.00m | Real Madrid | €120.80m
+26594a94-d0c,2532420,148657,Tomas Kalas,2019_2020,DISCLOSED,€9.00m,Tomas Kalas | T. Kalas | 26 | Centre-Back | CB | €4.00m | Bristol City | €9.00m
+afd87f6d-9e1,2597256,46741,David Luiz,2019_2020,DISCLOSED,€8.70m,David Luiz | David Luiz | 32 | Centre-Back | CB | €20.00m | Arsenal | €8.70m
+194ec4d7-32f,2629318,182618,Tiemoué Bakayoko,2019_2020,LOAN,0,Tiemoué Bakayoko | T. Bakayoko | 25 | Defensive Midfield | DM | €35.00m | Monaco | Loan fee: | €3.00m
+d9efe21b-b5e,2569250,392771,Ethan Ampadu,2019_2020,LOAN,0,Ethan Ampadu | E. Ampadu | 18 | Defensive Midfield | DM | €10.00m | Leipzig | Loan fee: | €650k
+44f5c4fe-01e,2770266,59866,Victor Moses,2019_2020,LOAN,0,Victor Moses | V. Moses | 29 | Right Winger | RW | €8.50m | Inter | Loan fee: | €216k
+327ff27c-367,2471047,154287,Todd Kane,2019_2020,DISCLOSED,free transfer,Todd Kane | Todd Kane | 25 | Right-Back | RB | €1.00m | QPR | free transfer
+da59ba6a-354,2467298,27511,Gary Cahill,2019_2020,DISCLOSED,free transfer,Gary Cahill | G. Cahill | 33 | Centre-Back | CB | €8.00m | Crystal Palace | free transfer
+f2bfea44-089,2616787,173859,Davide Zappacosta,2019_2020,DISCLOSED,loan transfer,Davide Zappacosta | D. Zappacosta | 27 | Right-Back | RB | €15.00m | Roma | loan transfer
+58acfa01-d0d,2597109,245805,Izzy Brown,2019_2020,DISCLOSED,loan transfer,Izzy Brown | I. Brown | 22 | Left Winger | LW | €5.00m | Luton | loan transfer
+16b6f7e2-f8f,2631967,281404,Kenedy,2019_2020,DISCLOSED,loan transfer,Kenedy | Kenedy | 23 | Left Winger | LW | €10.00m | Getafe | loan transfer
+ce3d240c-66e,2573911,245893,Matt Miazga,2019_2020,DISCLOSED,loan transfer,Matt Miazga | M. Miazga | 24 | Centre-Back | CB | €3.00m | Reading | loan transfer
+53ad1e2d-a6e,2491348,11680,Rob Green,2019_2020,DISCLOSED,-,Rob Green | Rob Green | 39 | Goalkeeper | GK | - | Retired | -
+c16f083c-421,2380197,39153,Gonzalo Higuaín,2019_2020,DISCLOSED,End of loan30/06/2019,Gonzalo Higuaín | G. Higuaín | 31 | Centre-Forward | CF | €35.00m | Juventus | End of loan | 30/06/2019
+426145e2-bb1,2534110,450936,Tanguy Ndombélé,2019_2020,DISCLOSED,€62.00m,Tanguy Ndombélé | T. Ndombélé | 22 | Central Midfield | CM | €65.00m | Lyon | €62.00m
+ed2ee30e-e7c,2777367,284165,Steven Bergwijn,2019_2020,DISCLOSED,€30.00m,Steven Bergwijn | S. Bergwijn | 22 | Left Winger | LW | €35.00m | PSV | €30.00m
+caf4dfe8-733,2597044,392775,Ryan Sessegnon,2019_2020,DISCLOSED,€27.00m,Ryan Sessegnon | R. Sessegnon | 19 | Left-Back | LB | €35.00m | Fulham | €27.00m
+5385f9a0-832,2597017,348795,Giovani Lo Celso,2019_2020,LOAN,0,Giovani Lo Celso | G. Lo Celso | 23 | Attacking Midfield | AM | €50.00m | Real Betis | Loan fee: | €16.00m
+a50ce30d-4e7,2532942,559794,Jack Clarke,2019_2020,DISCLOSED,€11.00m,Jack Clarke | J. Clarke | 18 | Left Winger | LW | €6.00m | Leeds | €11.00m
+b64c0596-168,2758843,337800,Gedson Fernandes,2019_2020,LOAN,0,Gedson Fernandes | G. Fernandes | 21 | Central Midfield | CM | €15.00m | Benfica | Loan fee: | €4.50m
+3932a0f3-9fc,2784586,346478,Japhet Tanganga,2019_2020,DISCLOSED,-,Japhet Tanganga | J. Tanganga | 20 | Centre-Back | CB | €800k | Tottenham U23 | -
+9a0d8ee1-199,2849476,282823,Alfie Whiteman,2019_2020,DISCLOSED,-,Alfie Whiteman | A. Whiteman | 20 | Goalkeeper | GK | - | Tottenham U23 | -
+5b27731c-36e,2678142,26276,Michel Vorm,2019_2020,DISCLOSED,-,Michel Vorm | M. Vorm | 35 | Goalkeeper | GK | €1.00m | Without Club | -
+f7d8e3ac-731,2597000,341049,Cameron Carter-Vickers,2019_2020,DISCLOSED,End of loan02/01/2020,Cameron Carter-Vickers | C. Carter-Vickers | 22 | Centre-Back | CB | €2.50m | Stoke City | End of loan | 02/01/2020
+d22ed910-495,2388883,215679,Georges-Kevin N'Koudou,2019_2020,DISCLOSED,End of loan30/06/2019,Georges-Kevin N'Koudou | G. N'Koudou | 24 | Left Winger | LW | €5.00m | Monaco | End of loan | 30/06/2019
+eed06e21-cb3,2776282,69633,Christian Eriksen,2019_2020,DISCLOSED,€27.00m,Christian Eriksen | C. Eriksen | 27 | Attacking Midfield | AM | €90.00m | Inter | €27.00m
+f0906321-c71,2562082,95810,Kieran Trippier,2019_2020,DISCLOSED,€22.00m,Kieran Trippier | K. Trippier | 28 | Right-Back | RB | €35.00m | Atlético | €22.00m
+1300914f-d8b,2571726,207015,Vincent Janssen,2019_2020,DISCLOSED,€9.00m,Vincent Janssen | V. Janssen | 25 | Centre-Forward | CF | €8.00m | Monterrey | €9.00m
+70151aad-f09,2779461,50174,Danny Rose,2019_2020,LOAN,0,Danny Rose | D. Rose | 29 | Left-Back | LB | €20.00m | Newcastle | Loan fee: | €2.00m
+567cb26f-74d,2819418,77760,Victor Wanyama,2019_2020,DISCLOSED,free transfer,Victor Wanyama | V. Wanyama | 28 | Defensive Midfield | DM | €12.00m | Montreal | free transfer
+8e43bb6e-20d,2630579,35564,Fernando Llorente,2019_2020,DISCLOSED,free transfer,Fernando Llorente | F. Llorente | 34 | Centre-Forward | CF | €3.50m | Napoli | free transfer
+27b5f06e-5a6,2597049,243589,Josh Onomah,2019_2020,DISCLOSED,free transfer,Josh Onomah | J. Onomah | 22 | Central Midfield | CM | €3.00m | Fulham | free transfer
+9f41a75d-8f4,2777940,341051,Kyle Walker-Peters,2019_2020,DISCLOSED,loan transfer,Kyle Walker-Peters | K. Walker-Peters | 22 | Right-Back | RB | €10.00m | Southampton | loan transfer
+d7148479-c63,2585250,343052,Nicolas Pépé,2019_2020,DISCLOSED,€80.00m,Nicolas Pépé | N. Pépé | 24 | Right Winger | RW | €65.00m | Lille | €80.00m
+38acf972-fb2,2574513,495666,William Saliba,2019_2020,DISCLOSED,€30.00m,William Saliba | W. Saliba | 18 | Centre-Back | CB | €12.00m | Saint-Étienne | €30.00m
+92331da1-7db,2596989,300716,Kieran Tierney,2019_2020,DISCLOSED,€27.00m,Kieran Tierney | K. Tierney | 22 | Left-Back | LB | €12.50m | Celtic | €27.00m
+3af1fa9a-5ee,2777579,210178,Pablo Marí,2019_2020,LOAN,0,Pablo Marí | P. Marí | 26 | Centre-Back | CB | €1.80m | Flamengo | Loan fee: | €8.00m
+867289f7-3e8,2533542,655488,Gabriel Martinelli,2019_2020,DISCLOSED,€7.10m,Gabriel Martinelli | G. Martinelli | 18 | Left Winger | LW | - | Ituano | €7.10m
+17344bfb-a98,2780160,112988,Cédric Soares,2019_2020,DISCLOSED,loan transfer,Cédric Soares | C. Soares | 28 | Right-Back | RB | €10.00m | Southampton | loan transfer
+026d58f8-fc9,2574341,319745,Dani Ceballos,2019_2020,DISCLOSED,loan transfer,Dani Ceballos | D. Ceballos | 22 | Central Midfield | CM | €30.00m | Real Madrid | loan transfer
+eb3e4b85-9ac,2611520,340325,Reiss Nelson,2019_2020,DISCLOSED,-,Reiss Nelson | R. Nelson | 19 | Left Winger | LW | €17.00m | Arsenal U23 | -
+816d199a-384,2614453,340329,Joe Willock,2019_2020,DISCLOSED,-,Joe Willock | J. Willock | 19 | Central Midfield | CM | - | Arsenal U23 | -
+7c63b5a8-8aa,2685855,433177,Bukayo Saka,2019_2020,DISCLOSED,-,Bukayo Saka | B. Saka | 17 | Right Winger | RW | - | Arsenal U23 | -
+3dc0621d-e3d,2596923,340324,Eddie Nketiah,2019_2020,DISCLOSED,End of loan02/01/2020,Eddie Nketiah | E. Nketiah | 20 | Centre-Forward | CF | €8.00m | Leeds | End of loan | 02/01/2020
+0adfdd38-d78,2554122,205757,Dejan Iliev,2019_2020,DISCLOSED,End of loan31/12/2019,Dejan Iliev | D. Iliev | 24 | Goalkeeper | GK | €300k | SKF Sered | End of loan | 31/12/2019
+c0be0d3f-851,2756361,415912,Konstantinos Mavropanos,2019_2020,DISCLOSED,End of loan12/07/2020,Konstantinos Mavropanos | K. Mavropanos | 22 | Centre-Back | CB | €2.40m | 1.FC Nuremberg | End of loan | 12/07/2020
+17e7bf53-12a,2228763,73396,David Ospina,2019_2020,DISCLOSED,End of loan30/06/2019,David Ospina | D. Ospina | 30 | Goalkeeper | GK | €4.00m | Napoli | End of loan | 30/06/2019
+f3cb8951-1ae,2114036,245744,Takuma Asano,2019_2020,DISCLOSED,End of loan30/06/2019,Takuma Asano | T. Asano | 24 | Right Winger | RW | €1.50m | Hannover 96 | End of loan | 30/06/2019
+fb14508e-0ce,2597318,242631,Alex Iwobi,2019_2020,DISCLOSED,€30.40m,Alex Iwobi | A. Iwobi | 23 | Defensive Midfield | DM | €25.00m | Everton | €30.40m
+01f2a17c-b0c,2586433,287247,Krystian Bielik,2019_2020,DISCLOSED,€8.20m,Krystian Bielik | K. Bielik | 21 | Centre-Back | CB | €2.00m | Derby | €8.20m
+7c9cf38d-605,2592942,76277,Laurent Koscielny,2019_2020,DISCLOSED,€5.00m,Laurent Koscielny | L. Koscielny | 33 | Centre-Back | CB | €8.00m | G. Bordeaux | €5.00m
+336f8de4-629,2631517,55735,Henrikh Mkhitaryan,2019_2020,LOAN,0,Henrikh Mkhitaryan | H. Mkhitaryan | 30 | Central Midfield | CM | €25.00m | Roma | Loan fee: | €3.10m
+2d3c04b8-afc,2594486,126321,Carl Jenkinson,2019_2020,DISCLOSED,€2.20m,Carl Jenkinson | C. Jenkinson | 27 | Right-Back | RB | €2.00m | Nott'm Forest | €2.20m
+81cb5b70-ece,2628766,43003,Nacho Monreal,2019_2020,DISCLOSED,€250k,Nacho Monreal | N. Monreal | 33 | Left-Back | LB | €8.00m | Real Sociedad | €250k
+5871f3e5-72b,2493868,2865,Stephan Lichtsteiner,2019_2020,DISCLOSED,free transfer,Stephan Lichtsteiner | S. Lichtsteiner | 35 | Right-Back | RB | €1.50m | Augsburg | free transfer
+acb8d35a-20c,2401134,50057,Aaron Ramsey,2019_2020,DISCLOSED,free transfer,Aaron Ramsey | A. Ramsey | 28 | Central Midfield | CM | €40.00m | Juventus | free transfer
+a99c77c0-ccc,2594992,67063,Danny Welbeck,2019_2020,DISCLOSED,free transfer,Danny Welbeck | D. Welbeck | 28 | Centre-Forward | CF | €12.00m | Watford | free transfer
+9e52621a-d4b,2628870,160438,Mohamed Elneny,2019_2020,DISCLOSED,loan transfer,Mohamed Elneny | M. Elneny | 27 | Defensive Midfield | DM | €8.00m | Beşiktaş | loan transfer
+e1e8d89e-e03,2369344,5658,Petr Cech,2019_2020,DISCLOSED,-,Petr Cech | Petr Cech | 37 | Goalkeeper | GK | €2.50m | Retired | -
+a05afdd9-5b8,2388679,165007,Denis Suárez,2019_2020,DISCLOSED,End of loan30/06/2019,Denis Suárez | D. Suárez | 25 | Attacking Midfield | AM | €12.00m | Barcelona | End of loan | 30/06/2019
+18b7a241-ea2,2590601,177907,Harry Maguire,2019_2020,DISCLOSED,€87.00m,Harry Maguire | H. Maguire | 26 | Centre-Back | CB | €50.00m | Leicester | €87.00m
+3c98ac7b-dc3,2777833,240306,Bruno Fernandes,2019_2020,DISCLOSED,€65.00m,Bruno Fernandes | B. Fernandes | 25 | Attacking Midfield | AM | €60.00m | Sporting | €65.00m
+5197a76f-273,2529063,477758,Aaron Wan-Bissaka,2019_2020,DISCLOSED,€55.00m,Aaron Wan-Bissaka | A. Wan-Bissaka | 21 | Right-Back | RB | €35.00m | Crystal Palace | €55.00m
+ea219d6a-303,2498991,319301,Daniel James,2019_2020,DISCLOSED,€17.80m,Daniel James | D. James | 21 | Right Winger | RW | €12.00m | Swansea | €17.80m
+59517415-964,2782595,62121,Odion Ighalo,2019_2020,LOAN,0,Odion Ighalo | O. Ighalo | 30 | Centre-Forward | CF | €6.50m | SH Shenhua | Loan fee: | €12.00m
+f226daa0-1e1,2601772,532826,Mason Greenwood,2019_2020,DISCLOSED,-,Mason Greenwood | M. Greenwood | 17 | Right Winger | RW | - | Man Utd U18 | -
+959df22c-d52,2562293,507700,Brandon Williams,2019_2020,DISCLOSED,-,Brandon Williams | B. Williams | 18 | Left-Back | LB | - | Man Utd U18 | -
+da925783-7d3,2826681,344830,Tahith Chong,2019_2020,DISCLOSED,-,Tahith Chong | T. Chong | 19 | Attacking Midfield | AM | - | Man Utd U23 | -
+db4ead08-1ac,4277470,392770,Angel Gomes,2019_2020,DISCLOSED,-,Angel Gomes | A. Gomes | 18 | Attacking Midfield | AM | - | Man Utd U23 | -
+1642ab4e-85d,2631430,258879,Cameron Borthwick-Jackson,2019_2020,DISCLOSED,End of loan09/01/2020,Cameron Borthwick-Jackson | C. Borthwick-Jackson | 22 | Left-Back | LB | €1.00m | Tranmere | End of loan | 09/01/2020
+61b7a3d1-aa3,2389657,192611,Joel Pereira,2019_2020,DISCLOSED,End of loan30/06/2019,Joel Pereira | J. Pereira | 23 | Goalkeeper | GK | €850k | KV Kortrijk | End of loan | 30/06/2019
+473335cf-497,2596904,96341,Romelu Lukaku,2019_2020,DISCLOSED,€74.00m,Romelu Lukaku | R. Lukaku | 26 | Centre-Forward | CF | €75.00m | Inter | €74.00m
+503ff4d2-013,2628300,103427,Chris Smalling,2019_2020,LOAN,0,Chris Smalling | C. Smalling | 29 | Centre-Back | CB | €20.00m | Roma | Loan fee: | €3.00m
+7f20889c-c8c,2630596,54906,Matteo Darmian,2019_2020,DISCLOSED,€2.48m,Matteo Darmian | M. Darmian | 29 | Right-Back | RB | €10.00m | Parma | €2.48m
+eb8f7eee-499,2763108,14086,Ashley Young,2019_2020,DISCLOSED,€1.70m,Ashley Young | A. Young | 34 | Right-Back | RB | €4.00m | Inter | €1.70m
+7b68437d-2d4,2454556,33544,Antonio Valencia,2019_2020,DISCLOSED,free transfer,Antonio Valencia | A. Valencia | 33 | Right-Back | RB | €5.00m | LDU Quito | free transfer
+32381bbc-ba8,2536652,214104,James Wilson,2019_2020,DISCLOSED,free transfer,James Wilson | J. Wilson | 23 | Centre-Forward | CF | €1.50m | Aberdeen FC | free transfer
+eb57b7ea-b3a,2538473,99343,Ander Herrera,2019_2020,DISCLOSED,free transfer,Ander Herrera | A. Herrera | 29 | Central Midfield | CM | €25.00m | PSG | free transfer
+19cdd235-095,2627088,40433,Alexis Sánchez,2019_2020,DISCLOSED,loan transfer,Alexis Sánchez | A. Sánchez | 30 | Second Striker | SS | €35.00m | Inter | loan transfer
+1d70f70d-e69,2779053,93176,Marcos Rojo,2019_2020,DISCLOSED,loan transfer,Marcos Rojo | M. Rojo | 29 | Centre-Back | CB | €10.00m | Estudiantes LP | loan transfer
+1b8667a1-390,2443967,206040,Raúl Jiménez,2019_2020,DISCLOSED,€38.00m,Raúl Jiménez | R. Jiménez | 28 | Centre-Forward | CF | €35.00m | Benfica | €38.00m
+e16b0d1e-62f,2778803,256977,Daniel Podence,2019_2020,DISCLOSED,€19.60m,Daniel Podence | D. Podence | 24 | Left Winger | LW | €6.00m | Olympiacos | €19.60m
+9d1f4b74-280,2581994,265078,Patrick Cutrone,2019_2020,DISCLOSED,€18.00m,Patrick Cutrone | P. Cutrone | 21 | Centre-Forward | CF | €28.00m | AC Milan | €18.00m
+df6086e7-759,2587127,487465,Pedro Neto,2019_2020,DISCLOSED,€17.90m,Pedro Neto | P. Neto | 19 | Right Winger | RW | €2.50m | Lazio | €17.90m
+f4c66e89-09e,2217502,168157,Leander Dendoncker,2019_2020,DISCLOSED,€13.80m,Leander Dendoncker | L. Dendoncker | 24 | Defensive Midfield | DM | €18.00m | Anderlecht | €13.80m
+f6cabc79-4f4,2587126,415646,Bruno Jordão,2019_2020,DISCLOSED,€8.90m,Bruno Jordão | B. Jordão | 20 | Defensive Midfield | DM | €1.00m | Lazio | €8.90m
+7efbe084-c42,2592877,335461,Renat Dadashov,2019_2020,DISCLOSED,€500k,Renat Dadashov | R. Dadashov | 20 | Centre-Forward | CF | €225k | Estoril | €500k
+52126c25-3ac,2767401,606872,Leonardo Campana,2019_2020,DISCLOSED,free transfer,Leonardo Campana | L. Campana | 19 | Centre-Forward | CF | €2.00m | Barcelona SC | free transfer
+85b13e7b-0ed,2576853,251896,Jesús Vallejo,2019_2020,DISCLOSED,loan transfer,Jesús Vallejo | J. Vallejo | 22 | Centre-Back | CB | €10.00m | Real Madrid | loan transfer
+07d43d23-45e,2998078,293283,Oskar Buur,2019_2020,DISCLOSED,-,Oskar Buur | O. Buur | 21 | Right-Back | RB | €100k | Wolves U23 | -
+bd2dbd25-da3,2781384,183283,Jordan Graham,2019_2020,DISCLOSED,End of loan31/05/2020,Jordan Graham | J. Graham | 25 | Right Winger | RW | €250k | Gillingham | End of loan | 31/05/2020
+82a550e9-b90,2763470,337787,Connor Ronan,2019_2020,DISCLOSED,End of loan31/05/2020,Connor Ronan | C. Ronan | 22 | Central Midfield | CM | €450k | Blackpool | End of loan | 31/05/2020
+f7cdc8f3-6dc,2782074,504581,Ryan Giles,2019_2020,DISCLOSED,End of loan31/05/2020,Ryan Giles | R. Giles | 20 | Left-Back | LB | - | Coventry | End of loan | 31/05/2020
+412aa235-15f,2582060,285033,Will Norris,2019_2020,DISCLOSED,End of loan31/05/2020,Will Norris | W. Norris | 26 | Goalkeeper | GK | €250k | Ipswich | End of loan | 31/05/2020
+0adbe89c-d28,2597079,345772,Bright Enobakhare,2019_2020,DISCLOSED,End of loan02/01/2020,Bright Enobakhare | B. Enobakhare | 21 | Centre-Forward | CF | €500k | Wigan | End of loan | 02/01/2020
+cfe8ca57-7b9,2581316,361254,Rafa Mir,2019_2020,DISCLOSED,End of loan13/01/2020,Rafa Mir | Rafa Mir | 22 | Centre-Forward | CF | €3.00m | Nott'm Forest | End of loan | 13/01/2020
+215945f6-668,2553982,149716,Ivan Cavaleiro,2019_2020,DISCLOSED,End of loan06/01/2020,Ivan Cavaleiro | I. Cavaleiro | 26 | Left Winger | LW | €10.00m | Fulham | End of loan | 06/01/2020
+1f94df6c-d59,2390433,346175,Jack Ruddy,2019_2020,DISCLOSED,End of loan30/06/2019,Jack Ruddy | J. Ruddy | 21 | Goalkeeper | GK | €100k | UD Sanse | End of loan | 30/06/2019
+847f7a8b-428,2389403,133858,Phil Ofosu-Ayeh,2019_2020,DISCLOSED,End of loan30/06/2019,Phil Ofosu-Ayeh | P. Ofosu-Ayeh | 27 | Right-Back | RB | €300k | Würzb. Kickers | End of loan | 30/06/2019
+4cbf10b1-f6f,2360247,233124,Kortney Hause,2019_2020,DISCLOSED,End of loan30/06/2019,Kortney Hause | K. Hause | 23 | Centre-Back | CB | €1.00m | Aston Villa | End of loan | 30/06/2019
+4d054fbc-2b3,2247941,67431,Michal Zyro,2019_2020,DISCLOSED,End of loan30/06/2019,Michal Zyro | M. Zyro | 26 | Centre-Forward | CF | €250k | Pogon Szczecin | End of loan | 30/06/2019
+8b44b07e-fd7,2234738,272621,Sylvain Deslandes,2019_2020,DISCLOSED,End of loan30/06/2019,Sylvain Deslandes | S. Deslandes | 22 | Centre-Back | CB | €100k | Jumilla | End of loan | 30/06/2019
+4e557257-19e,2173089,87856,Roderick Miranda,2019_2020,DISCLOSED,End of loan30/06/2019,Roderick Miranda | R. Miranda | 28 | Centre-Back | CB | €1.75m | Olympiacos | End of loan | 30/06/2019
+0244b566-e06,2553981,149716,Ivan Cavaleiro,2019_2020,LOAN,0,Ivan Cavaleiro | I. Cavaleiro | 25 | Left Winger | LW | €10.00m | Fulham | Loan fee: | €5.90m
+48eaa9ed-511,2753497,265078,Patrick Cutrone,2019_2020,LOAN,0,Patrick Cutrone | P. Cutrone | 22 | Centre-Forward | CF | €20.00m | Fiorentina | Loan fee: | €3.00m
+4da4f2e4-29a,2489169,129067,Ethan Ebanks-Landell,2019_2020,DISCLOSED,free transfer,Ethan Ebanks-Landell | E. Ebanks-Landell | 26 | Centre-Back | CB | €250k | Shrewsbury | free transfer
+f63fa26b-d58,2782358,67252,Ryan Bennett,2019_2020,DISCLOSED,loan transfer,Ryan Bennett | R. Bennett | 29 | Centre-Back | CB | €5.00m | Leicester | loan transfer
+875070e3-9f6,2628100,181781,Léo Bonatini,2019_2020,DISCLOSED,loan transfer,Léo Bonatini | L. Bonatini | 25 | Centre-Forward | CF | €4.00m | Vit. Guimarães | loan transfer
+616161ea-784,2535646,173900,Hélder Costa,2019_2020,DISCLOSED,loan transfer,Hélder Costa | H. Costa | 25 | Right Winger | RW | €15.00m | Leeds | loan transfer
+67add957-769,2710447,285583,Harry Burgoyne,2019_2020,DISCLOSED,-,Harry Burgoyne | H. Burgoyne | 22 | Goalkeeper | GK | - | Without Club | -
+1582a4af-f2a,2588686,364135,Moise Kean,2019_2020,DISCLOSED,€27.50m,Moise Kean | M. Kean | 19 | Centre-Forward | CF | €40.00m | Juventus | €27.50m
+34395553-83b,2587041,182894,Jean-Philippe Gbamin,2019_2020,DISCLOSED,€25.00m,Jean-Philippe Gbamin | J. Gbamin | 23 | Centre-Back | CB | €28.00m | Mainz | €25.00m
+f1fcab06-109,2523413,221025,André Gomes,2019_2020,DISCLOSED,€25.00m,André Gomes | A. Gomes | 25 | Central Midfield | CM | €28.00m | Barcelona | €25.00m
+86251a28-7bd,2595736,161869,Djibril Sidibé,2019_2020,LOAN,0,Djibril Sidibé | D. Sidibé | 27 | Right-Back | RB | €15.00m | Monaco | Loan fee: | €2.50m
+eb94e601-c96,2760809,661053,Jarrad Branthwaite,2019_2020,DISCLOSED,€1.10m,Jarrad Branthwaite | J. Branthwaite | 17 | Centre-Back | CB | - | Carlisle United | €1.10m
+5393a071-854,2467962,48870,Jonas Lössl,2019_2020,DISCLOSED,free transfer,Jonas Lössl | J. Lössl | 30 | Goalkeeper | GK | €5.00m | Huddersfield | free transfer
+b2462c24-77e,2994166,503733,Anthony Gordon,2019_2020,DISCLOSED,-,Anthony Gordon | A. Gordon | 18 | Left Winger | LW | - | Everton U23 | -
+5c9bde33-1b6,2552353,110860,Luke Garbutt,2019_2020,DISCLOSED,End of loan31/05/2020,Luke Garbutt | L. Garbutt | 27 | Left-Back | LB | €600k | Ipswich | End of loan | 31/05/2020
+c319d7f5-dae,2552056,258916,Kieran Dowell,2019_2020,DISCLOSED,End of loan02/01/2020,Kieran Dowell | K. Dowell | 22 | Attacking Midfield | AM | €3.00m | Derby | End of loan | 02/01/2020
+bc84ebf0-049,2597125,93905,Muhamed Besic,2019_2020,DISCLOSED,End of loan31/05/2020,Muhamed Besic | M. Besic | 27 | Centre-Back | CB | €2.40m | Sheff Utd | End of loan | 31/05/2020
+461f595b-3a5,2390560,75471,Yannick Bolasie,2019_2020,DISCLOSED,End of loan30/06/2019,Yannick Bolasie | Y. Bolasie | 30 | Centre-Forward | CF | €11.00m | Anderlecht | End of loan | 30/06/2019
+d801f54e-be6,2389386,91251,Cuco Martina,2019_2020,DISCLOSED,End of loan30/06/2019,Cuco Martina | C. Martina | 29 | Centre-Back | CB | €1.50m | Feyenoord | End of loan | 30/06/2019
+9fa8a6e3-1a8,2373559,209781,Oumar Niasse,2019_2020,DISCLOSED,End of loan30/06/2019,Oumar Niasse | O. Niasse | 29 | Centre-Forward | CF | €6.00m | Cardiff | End of loan | 30/06/2019
+73932fdd-cf6,2246149,199369,Sandro Ramírez,2019_2020,DISCLOSED,End of loan30/06/2019,Sandro Ramírez | S. Ramírez | 23 | Centre-Forward | CF | €4.00m | Real Sociedad | End of loan | 30/06/2019
+0c0492c2-bcb,2226201,293200,Nikola Vlašić,2019_2020,DISCLOSED,End of loan30/06/2019,Nikola Vlašić | N. Vlašić | 21 | Attacking Midfield | AM | €20.00m | CSKA Moscow | End of loan | 30/06/2019
+cdf690f1-f9d,2210692,33639,Kevin Mirallas,2019_2020,DISCLOSED,End of loan30/06/2019,Kevin Mirallas | K. Mirallas | 31 | Right Winger | RW | €5.00m | Fiorentina | End of loan | 30/06/2019
+d2395226-66e,2753055,45671,Cenk Tosun,2019_2020,DISCLOSED,End of loan05/03/2020,Cenk Tosun | C. Tosun | 28 | Centre-Forward | CF | €15.00m | Crystal Palace | End of loan | 05/03/2020
+195547e3-bf3,2183260,184381,Shani Tarashaj,2019_2020,DISCLOSED,End of loan30/06/2019,Shani Tarashaj | S. Tarashaj | 24 | Second Striker | SS | €500k | Grasshoppers | End of loan | 30/06/2019
+f158f9f1-d08,2173018,380415,Henry Onyekuru,2019_2020,DISCLOSED,End of loan30/06/2019,Henry Onyekuru | H. Onyekuru | 22 | Left Winger | LW | €13.00m | Galatasaray | End of loan | 30/06/2019
+734b41cd-c81,2581231,126665,Idrissa Gueye,2019_2020,DISCLOSED,€30.00m,Idrissa Gueye | I. Gueye | 29 | Defensive Midfield | DM | €25.00m | PSG | €30.00m
+baf07348-01f,2573901,406040,Ademola Lookman,2019_2020,DISCLOSED,€18.00m,Ademola Lookman | A. Lookman | 21 | Left Winger | LW | €20.00m | Leipzig | €18.00m
+27e88cf2-2d1,2596151,45333,James McCarthy,2019_2020,DISCLOSED,€3.30m,James McCarthy | J. McCarthy | 28 | Central Midfield | CM | €5.00m | Crystal Palace | €3.30m
+e79d3b93-2e0,2501860,318547,Mateusz Hewelt,2019_2020,DISCLOSED,free transfer,Mateusz Hewelt | M. Hewelt | 22 | Goalkeeper | GK | - | Miedz Legnica | free transfer
+c9152d8c-dc1,2619480,67355,Ashley Williams,2019_2020,DISCLOSED,free transfer,Ashley Williams | A. Williams | 35 | Centre-Back | CB | €2.00m | Bristol City | free transfer
+0437b30c-378,2535625,208244,Brendan Galloway,2019_2020,DISCLOSED,free transfer,Brendan Galloway | B. Galloway | 23 | Centre-Back | CB | €1.50m | Luton | free transfer
+b8b441b2-505,2495072,13520,Phil Jagielka,2019_2020,DISCLOSED,free transfer,Phil Jagielka | P. Jagielka | 36 | Centre-Back | CB | €1.00m | Sheff Utd | free transfer
+7a3dc95b-670,2596970,220755,Matthew Pennington,2019_2020,DISCLOSED,loan transfer,Matthew Pennington | M. Pennington | 24 | Centre-Back | CB | €1.00m | Hull City | loan transfer
+eddc7a69-1bb,2503517,258883,Jonjoe Kenny,2019_2020,DISCLOSED,loan transfer,Jonjoe Kenny | J. Kenny | 22 | Right-Back | RB | €5.00m | FC Schalke 04 | loan transfer
+f091759c-606,2544718,249565,Youri Tielemans,2019_2020,DISCLOSED,€45.00m,Youri Tielemans | Y. Tielemans | 22 | Central Midfield | CM | €38.00m | Monaco | €45.00m
+1458f5b4-b7c,2537420,246968,Ayoze Pérez,2019_2020,DISCLOSED,€33.40m,Ayoze Pérez | A. Pérez | 25 | Centre-Forward | CF | €20.00m | Newcastle | €33.40m
+efc9fdd2-30b,2597187,129588,Dennis Praet,2019_2020,DISCLOSED,€19.20m,Dennis Praet | D. Praet | 25 | Central Midfield | CM | €24.00m | Sampdoria | €19.20m
+4d348960-efc,2528340,413220,James Justin,2019_2020,DISCLOSED,€6.70m,James Justin | J. Justin | 21 | Right-Back | RB | - | Luton | €6.70m
+cc49cba9-fb8,2598766,502011,Callum Hulme,2019_2020,DISCLOSED,free transfer,Callum Hulme | C. Hulme | 18 | Defensive Midfield | DM | - | Bury | free transfer
+43320c4c-bb6,2540202,420808,George Hirst,2019_2020,UNDISCLOSED,UNDISCLOSED,George Hirst | G. Hirst | 20 | Centre-Forward | CF | €500k | OH Leuven | ?
+1464620a-db1,2609274,56872,Andy King,2019_2020,DISCLOSED,End of loan05/01/2020,Andy King | Andy King | 31 | Central Midfield | CM | €2.50m | Rangers | End of loan | 05/01/2020
+e8a27af4-18a,2644715,395797,Sam Hughes,2019_2020,DISCLOSED,End of loan23/01/2020,Sam Hughes | S. Hughes | 22 | Centre-Back | CB | - | Salford | End of loan | 23/01/2020
+c38176d0-620,2363125,364861,Fousseni Diabaté,2019_2020,DISCLOSED,End of loan30/06/2019,Fousseni Diabaté | F. Diabaté | 23 | Right Winger | RW | €3.00m | Sivasspor | End of loan | 30/06/2019
+0d99d02b-a20,2248285,293168,Filip Benkovic,2019_2020,DISCLOSED,End of loan30/06/2019,Filip Benkovic | F. Benkovic | 21 | Centre-Back | CB | €11.00m | Celtic | End of loan | 30/06/2019
+4cb4ef1a-009,2220900,174915,Islam Slimani,2019_2020,DISCLOSED,End of loan30/06/2019,Islam Slimani | I. Slimani | 31 | Centre-Forward | CF | €5.00m | Fenerbahçe | End of loan | 30/06/2019
+5c71c4b2-330,2597108,271997,Callum Elder,2019_2020,DISCLOSED,€1.50m,Callum Elder | C. Elder | 24 | Left-Back | LB | €250k | Hull City | €1.50m
+ebd17902-226,2470163,79642,Shinji Okazaki,2019_2020,DISCLOSED,free transfer,Shinji Okazaki | S. Okazaki | 33 | Centre-Forward | CF | €4.00m | Málaga CF | free transfer
+d5794858-7c1,2632151,118287,Rachid Ghezzal,2019_2020,DISCLOSED,loan transfer,Rachid Ghezzal | R. Ghezzal | 27 | Right Winger | RW | €8.00m | Fiorentina | loan transfer
+39a595fa-3e1,2756313,298240,George Thomas,2019_2020,DISCLOSED,loan transfer,George Thomas | G. Thomas | 22 | Attacking Midfield | AM | €250k | ADO Den Haag | loan transfer
+ccf9ddb4-f0a,2470164,37442,Danny Simpson,2019_2020,DISCLOSED,-,Danny Simpson | D. Simpson | 32 | Right-Back | RB | €3.50m | Without Club | -
+f381eeae-ec0,2561224,181375,Sébastien Haller,2019_2020,DISCLOSED,€50.00m,Sébastien Haller | S. Haller | 25 | Centre-Forward | CF | €40.00m | Frankfurt | €50.00m
+15bd505e-78c,2507793,357885,Pablo Fornals,2019_2020,DISCLOSED,€28.00m,Pablo Fornals | P. Fornals | 23 | Central Midfield | CM | €25.00m | Villarreal | €28.00m
+5879c56a-563,2782552,314875,Jarrod Bowen,2019_2020,DISCLOSED,€21.30m,Jarrod Bowen | J. Bowen | 23 | Right Winger | RW | €10.00m | Hull City | €21.30m
+7fa29a8d-19f,2596400,195906,Albian Ajeti,2019_2020,DISCLOSED,€11.30m,Albian Ajeti | A. Ajeti | 22 | Centre-Forward | CF | €7.00m | Basel | €11.30m
+92e163b2-e52,2759101,51321,Darren Randolph,2019_2020,DISCLOSED,€4.70m,Darren Randolph | D. Randolph | 32 | Goalkeeper | GK | €4.50m | Middlesbrough | €4.70m
+4bcf4c45-b3a,2777811,283628,Tomáš Souček,2019_2020,LOAN,0,Tomáš Souček | T. Souček | 24 | Defensive Midfield | DM | €10.00m | Slavia Prague | Loan fee: | €4.50m
+fb57ce6a-353,2494187,15930,David Martin,2019_2020,DISCLOSED,free transfer,David Martin | D. Martin | 33 | Goalkeeper | GK | €250k | Millwall | free transfer
+80509df6-93a,2491153,37403,Roberto,2019_2020,DISCLOSED,free transfer,Roberto | Roberto | 33 | Goalkeeper | GK | €1.50m | Espanyol | free transfer
+ebe2f003-c58,2223047,247555,Edimilson Fernandes,2019_2020,DISCLOSED,End of loan30/06/2019,Edimilson Fernandes | E. Fernandes | 23 | Defensive Midfield | DM | €8.00m | Fiorentina | End of loan | 30/06/2019
+414db162-f0b,2389222,314295,Reece Oxford,2019_2020,DISCLOSED,End of loan30/06/2019,Reece Oxford | R. Oxford | 20 | Centre-Back | CB | €4.00m | Augsburg | End of loan | 30/06/2019
+50f0f9c8-cc9,2543677,41384,Marko Arnautovic,2019_2020,DISCLOSED,€25.00m,Marko Arnautovic | M. Arnautovic | 30 | Centre-Forward | CF | €35.00m | SH SIPG | €25.00m
+15875367-41d,2630785,50935,Chicharito,2019_2020,DISCLOSED,€7.75m,Chicharito | Chicharito | 31 | Centre-Forward | CF | €12.00m | Sevilla FC | €7.75m
+c8edf059-7bc,2573544,101213,Pedro Obiang,2019_2020,DISCLOSED,€7.75m,Pedro Obiang | P. Obiang | 27 | Central Midfield | CM | €7.00m | Sassuolo | €7.75m
+8baca1a1-070,2929849,349300,Sead Haksabanovic,2019_2020,DISCLOSED,€2.60m,Sead Haksabanovic | S. Haksabanovic | 21 | Left Winger | LW | €1.00m | Norrköping | €2.60m
+2607ef41-949,2494115,73185,Lucas Pérez,2019_2020,DISCLOSED,€2.30m,Lucas Pérez | L. Pérez | 30 | Centre-Forward | CF | €4.00m | Alavés | €2.30m
+880db327-dd7,2558700,236953,Sam Byram,2019_2020,DISCLOSED,€830k,Sam Byram | Sam Byram | 25 | Right-Back | RB | €3.50m | Norwich | €830k
+6d7c2b2c-5b4,2540166,18935,Samir Nasri,2019_2020,DISCLOSED,free transfer,Samir Nasri | S. Nasri | 32 | Attacking Midfield | AM | €5.00m | Anderlecht | free transfer
+c6b625ea-fc4,2489111,48066,Andy Carroll,2019_2020,DISCLOSED,free transfer,Andy Carroll | A. Carroll | 30 | Centre-Forward | CF | €8.00m | Newcastle | free transfer
+ac81bb83-c20,2628031,242644,Moses Makasi,2019_2020,DISCLOSED,free transfer,Moses Makasi | M. Makasi | 23 | Central Midfield | CM | - | FC Eindhoven | free transfer
+2619ae52-3e9,2801099,37526,Winston Reid,2019_2020,DISCLOSED,loan transfer,Winston Reid | W. Reid | 31 | Centre-Back | CB | €5.00m | Kansas City | loan transfer
+5cd5c32a-7de,2578258,291544,Jordan Hugill,2019_2020,DISCLOSED,loan transfer,Jordan Hugill | J. Hugill | 27 | Centre-Forward | CF | €6.00m | QPR | loan transfer
+a81f9165-0e9,2596766,342048,Grady Diangana,2019_2020,DISCLOSED,loan transfer,Grady Diangana | G. Diangana | 21 | Right Winger | RW | €5.00m | West Brom | loan transfer
+853f761d-b08,2595699,242606,Josh Cullen,2019_2020,DISCLOSED,loan transfer,Josh Cullen | J. Cullen | 23 | Central Midfield | CM | €1.00m | Charlton | loan transfer
+c004ea4c-957,2596848,410225,Ismaïla Sarr,2019_2020,DISCLOSED,€30.00m,Ismaïla Sarr | I. Sarr | 21 | Right Winger | RW | €30.00m | Rennes | €30.00m
+98b8a4ec-912,2295869,626724,João Pedro,2019_2020,DISCLOSED,€11.50m,João Pedro | João Pedro | 18 | Centre-Forward | CF | €20.00m | Fluminense | €11.50m
+74572034-613,2757934,283528,Ignacio Pussetto,2019_2020,DISCLOSED,€8.50m,Ignacio Pussetto | I. Pussetto | 24 | Centre-Forward | CF | €8.00m | Udinese | €8.50m
+92e4818d-c09,2531914,121477,Craig Dawson,2019_2020,DISCLOSED,€6.00m,Craig Dawson | C. Dawson | 29 | Centre-Back | CB | €6.00m | West Brom | €6.00m
+8385e3ca-e4d,2500473,346472,Tom Dele-Bashiru,2019_2020,DISCLOSED,free transfer,Tom Dele-Bashiru | T. Dele-Bashiru | 19 | Defensive Midfield | DM | €150k | Man City U23 | free transfer
+7ac63678-a68,2618396,290788,Kaylen Hinds,2019_2020,DISCLOSED,-,Kaylen Hinds | K. Hinds | 21 | Second Striker | SS | €500k | Without Club | -
+67f02320-8df,2167750,424784,Luis Suárez,2019_2020,DISCLOSED,End of loan30/06/2019,Luis Suárez | L. Suárez | 21 | Centre-Forward | CF | €800k | Gimnàstic | End of loan | 30/06/2019
+b4bc9225-a5f,1827451,459463,Cucho Hernández,2019_2020,DISCLOSED,End of loan30/06/2019,Cucho Hernández | C. Hernández | 20 | Centre-Forward | CF | €10.00m | SD Huesca | End of loan | 30/06/2019
+3d88b017-805,2189835,303259,Dodi Lukébakio,2019_2020,DISCLOSED,End of loan30/06/2019,Dodi Lukébakio | D. Lukébakio | 21 | Right Winger | RW | €18.00m | F. Düsseldorf | End of loan | 30/06/2019
+7516356f-8ca,2219140,349599,Pervis Estupiñán,2019_2020,DISCLOSED,End of loan30/06/2019,Pervis Estupiñán | P. Estupiñán | 21 | Left-Back | LB | €2.00m | RCD Mallorca | End of loan | 30/06/2019
+dc719d04-c3c,2236100,314959,Obbi Oulare,2019_2020,DISCLOSED,End of loan30/06/2019,Obbi Oulare | O. Oulare | 23 | Centre-Forward | CF | €1.80m | Standard Liège | End of loan | 30/06/2019
+94ff07a1-125,2236466,170472,Dimitri Foulquier,2019_2020,DISCLOSED,End of loan30/06/2019,Dimitri Foulquier | D. Foulquier | 26 | Right-Back | RB | €3.50m | Getafe | End of loan | 30/06/2019
+d07d0883-8f4,2349204,453575,Jorge Segura,2019_2020,DISCLOSED,End of loan31/12/2019,Jorge Segura | J. Segura | 22 | Centre-Back | CB | €1.00m | Atlas | End of loan | 31/12/2019
+4316b1a5-410,2647930,442337,Filip Stuparevic,2019_2020,DISCLOSED,End of loan31/12/2019,Filip Stuparevic | F. Stuparevic | 19 | Centre-Forward | CF | €1.00m | Pribram | End of loan | 31/12/2019
+09301d97-7ee,2361109,35249,Stefano Okaka,2019_2020,DISCLOSED,End of loan30/06/2019,Stefano Okaka | S. Okaka | 29 | Centre-Forward | CF | €5.00m | Udinese | End of loan | 30/06/2019
+2f18ce7f-d7c,2363648,92899,Marvin Zeegelaar,2019_2020,DISCLOSED,End of loan30/06/2019,Marvin Zeegelaar | M. Zeegelaar | 28 | Left-Back | LB | €2.50m | Udinese | End of loan | 30/06/2019
+80532ade-7ef,2630617,308801,Adalberto Peñaranda,2019_2020,DISCLOSED,End of loan31/01/2020,Adalberto Peñaranda | A. Peñaranda | 22 | Left Winger | LW | €1.30m | KAS Eupen | End of loan | 31/01/2020
+883b064a-071,2389808,467599,Ben Wilmot,2019_2020,DISCLOSED,End of loan30/06/2019,Ben Wilmot | B. Wilmot | 19 | Centre-Back | CB | €1.50m | Udinese | End of loan | 30/06/2019
+013ae0db-8a1,2508362,538006,Kwasi Sibo,2019_2020,DISCLOSED,End of loan30/06/2019,Kwasi Sibo | K. Sibo | 21 | Central Midfield | CM | €200k | KF Skënderbeu | End of loan | 30/06/2019
+ce4ec9da-29a,2617664,252345,Ken Sema,2019_2020,DISCLOSED,loan transfer,Ken Sema | Ken Sema | 25 | Left-Back | LB | €3.50m | Udinese | loan transfer
+bbe0a952-f31,2781466,365544,Pontus Dahlberg,2019_2020,DISCLOSED,loan transfer,Pontus Dahlberg | P. Dahlberg | 21 | Goalkeeper | GK | €1.00m | FC Emmen | loan transfer
+33b7d300-7a9,2529127,236513,Jerome Sinclair,2019_2020,DISCLOSED,loan transfer,Jerome Sinclair | J. Sinclair | 22 | Centre-Forward | CF | €1.50m | VVV-Venlo | loan transfer
+2004234c-3c0,2500036,183161,Tommie Hoban,2019_2020,DISCLOSED,-,Tommie Hoban | T. Hoban | 25 | Centre-Back | CB | €500k | Without Club | -
+b70132e8-5e0,2500022,76799,Miguel Britos,2019_2020,DISCLOSED,-,Miguel Britos | M. Britos | 33 | Centre-Back | CB | - | Retired | -
+02658bf1-09c,2781474,37981,Sebastian Prödl,2019_2020,DISCLOSED,-,Sebastian Prödl | S. Prödl | 32 | Centre-Back | CB | €1.50m | Without Club | -
+e9d647e6-b60,2573931,108354,Jordan Ayew,2019_2020,DISCLOSED,€2.80m,Jordan Ayew | J. Ayew | 27 | Centre-Forward | CF | €8.00m | Swansea | €2.80m
+d425ebb2-0c8,2595684,263856,Víctor Camarasa,2019_2020,LOAN,0,Víctor Camarasa | V. Camarasa | 25 | Central Midfield | CM | €10.00m | Real Betis | Loan fee: | €1.50m
+2b499a2c-548,2475558,52191,Stephen Henderson,2019_2020,DISCLOSED,free transfer,Stephen Henderson | S. Henderson | 31 | Goalkeeper | GK | €500k | Nott'm Forest | free transfer
+79f2f369-9a5,3037623,611650,Sam Woods,2019_2020,DISCLOSED,-,Sam Woods | Sam Woods | 20 | Centre-Back | CB | - | Palace U23 | -
+17ce036c-421,2622906,183284,Ryan Inniss,2019_2020,DISCLOSED,End of loan31/05/2020,Ryan Inniss | R. Inniss | 24 | Centre-Back | CB | €150k | Newport County | End of loan | 31/05/2020
+67ea6f98-62f,2392502,327755,Jarosław Jach,2019_2020,DISCLOSED,End of loan29/08/2019,Jarosław Jach | J. Jach | 25 | Centre-Back | CB | €850k | FC Sheriff | End of loan | 29/08/2019
+b9f6945c-157,2361199,238407,Alexander Sørloth,2019_2020,DISCLOSED,End of loan30/06/2019,Alexander Sørloth | A. Sørloth | 23 | Centre-Forward | CF | €6.00m | KAA Gent | End of loan | 30/06/2019
+4980b094-f5d,2785274,345899,Dion Henry,2019_2020,DISCLOSED,End of loan31/05/2020,Dion Henry | D. Henry | 22 | Goalkeeper | GK | - | Hampton & Rich. | End of loan | 31/05/2020
+6d2b9e38-443,2357671,47995,Jason Puncheon,2019_2020,DISCLOSED,End of loan30/06/2019,Jason Puncheon | J. Puncheon | 33 | Central Midfield | CM | €3.00m | Huddersfield | End of loan | 30/06/2019
+b051478c-295,2588675,238407,Alexander Sørloth,2019_2020,LOAN,0,Alexander Sørloth | A. Sørloth | 23 | Centre-Forward | CF | €6.00m | Trabzonspor | Loan fee: | €375k
+30487e19-04e,2591644,125868,Pape Souaré,2019_2020,DISCLOSED,free transfer,Pape Souaré | P. Souaré | 29 | Left-Back | LB | €2.00m | Troyes | free transfer
+d8bb4cfe-766,2782513,95435,Connor Wickham,2019_2020,DISCLOSED,loan transfer,Connor Wickham | C. Wickham | 26 | Centre-Forward | CF | €2.50m | Sheff Wed | loan transfer
+be2bcb40-d42,2497086,46791,Bakary Sako,2019_2020,DISCLOSED,-,Bakary Sako | B. Sako | 31 | Left Winger | LW | €4.00m | Without Club | -
+565c1862-8a6,2470595,12814,Julián Speroni,2019_2020,DISCLOSED,-,Julián Speroni | J. Speroni | 40 | Goalkeeper | GK | €250k | Retired | -
+ccb835f2-b54,2595685,263856,Víctor Camarasa,2019_2020,DISCLOSED,End of loan12/01/2020,Víctor Camarasa | V. Camarasa | 25 | Central Midfield | CM | €5.00m | Real Betis | End of loan | 12/01/2020
+75a2f46e-3e4,2381460,352041,Lucas Perri,2019_2020,DISCLOSED,End of loan30/06/2019,Lucas Perri | L. Perri | 21 | Goalkeeper | GK | €250k | São Paulo | End of loan | 30/06/2019
+09f6e727-a35,2571479,333241,Joelinton,2019_2020,DISCLOSED,€43.50m,Joelinton | Joelinton | 22 | Central Midfield | CM | €35.00m | Hoffenheim | €43.50m
+09c088b5-219,2587010,272642,Allan Saint-Maximin,2019_2020,DISCLOSED,€18.00m,Allan Saint-Maximin | A. Saint-Maximin | 22 | Left Winger | LW | €25.00m | Nice | €18.00m
+22b8daea-5b5,2596523,184528,Emil Krafth,2019_2020,DISCLOSED,€5.40m,Emil Krafth | E. Krafth | 25 | Right-Back | RB | €2.50m | Amiens SC | €5.40m
+b274ee63-955,2771661,186368,Valentino Lazaro,2019_2020,LOAN,0,Valentino Lazaro | V. Lazaro | 23 | Right Midfield | RM | €19.00m | Inter | Loan fee: | €1.50m
+e313b8fb-8eb,2586979,146258,Jetro Willems,2019_2020,LOAN,0,Jetro Willems | J. Willems | 25 | Centre-Back | CB | €5.00m | Frankfurt | Loan fee: | €1.00m
+b726561f-f54,2767307,245537,Nabil Bentaleb,2019_2020,LOAN,0,Nabil Bentaleb | N. Bentaleb | 25 | Defensive Midfield | DM | €5.00m | FC Schalke 04 | Loan fee: | €1.00m
+3cfc2449-bd2,2734091,484387,Matty Longstaff,2019_2020,DISCLOSED,-,Matty Longstaff | M. Longstaff | 19 | Central Midfield | CM | - | Newcastle U23 | -
+67dc5dbf-183,2782501,258188,Rolando Aarons,2019_2020,DISCLOSED,End of loan31/05/2020,Rolando Aarons | R. Aarons | 24 | Left Winger | LW | €400k | Motherwell FC | End of loan | 31/05/2020
+65c5bf2a-e5f,2237403,51540,Henri Saivet,2019_2020,DISCLOSED,End of loan30/06/2019,Henri Saivet | H. Saivet | 28 | Central Midfield | CM | €1.00m | Bursaspor | End of loan | 30/06/2019
+cfb4d986-f5d,2536129,256773,Dan Barlaser,2019_2020,DISCLOSED,End of loan31/05/2020,Dan Barlaser | D. Barlaser | 23 | Defensive Midfield | DM | - | Rotherham | End of loan | 31/05/2020
+ed4c3bea-c3a,2557107,81999,Joselu,2019_2020,DISCLOSED,€2.24m,Joselu | Joselu | 29 | Centre-Forward | CF | €4.00m | Alavés | €2.24m
+20c008ea-15f,2550092,70950,Mohamed Diamé,2019_2020,DISCLOSED,free transfer,Mohamed Diamé | M. Diamé | 32 | Central Midfield | CM | €5.00m | Al-Ahli SC | free transfer
+537a6a69-a31,2780795,81796,Sung-yueng Ki,2019_2020,DISCLOSED,free transfer,Sung-yueng Ki | S. Ki | 31 | Defensive Midfield | DM | €4.50m | RCD Mallorca | free transfer
+628c3934-a6c,2597007,199527,Jacob Murphy,2019_2020,DISCLOSED,loan transfer,Jacob Murphy | J. Murphy | 24 | Right Winger | RW | €6.00m | Sheff Wed | loan transfer
+6d06af99-280,2585488,226049,Freddie Woodman,2019_2020,DISCLOSED,loan transfer,Freddie Woodman | F. Woodman | 22 | Goalkeeper | GK | €500k | Swansea | loan transfer
+9d2992d0-559,2631985,139173,Achraf Lazaar,2019_2020,DISCLOSED,loan transfer,Achraf Lazaar | A. Lazaar | 27 | Left Midfield | LM | €1.00m | Cosenza | loan transfer
+da7a4cbf-3a0,2388721,241889,Antonio Barreca,2019_2020,DISCLOSED,End of loan30/06/2019,Antonio Barreca | A. Barreca | 24 | Left-Back | LB | €7.00m | Monaco | End of loan | 30/06/2019
+e5133f2c-f3e,2580244,320411,Philip Billing,2019_2020,DISCLOSED,€16.50m,Philip Billing | P. Billing | 23 | Central Midfield | CM | €7.00m | Huddersfield | €16.50m
+d7025fac-809,2584573,355861,Arnaut Danjuma,2019_2020,DISCLOSED,€16.46m,Arnaut Danjuma | A. Danjuma | 22 | Left Winger | LW | €12.00m | Club Brugge | €16.46m
+b8a6decd-bf3,2479737,480116,Lloyd Kelly,2019_2020,DISCLOSED,€14.80m,Lloyd Kelly | L. Kelly | 20 | Centre-Back | CB | €9.00m | Bristol City | €14.80m
+08d89da6-e38,2544231,249356,Jack Stacey,2019_2020,DISCLOSED,€4.45m,Jack Stacey | J. Stacey | 23 | Right-Back | RB | - | Luton | €4.45m
+4500f0e9-952,2594098,398402,Sam Surridge,2019_2020,DISCLOSED,-,Sam Surridge | S. Surridge | 20 | Centre-Forward | CF | - | Bournemouth U23 | -
+4329c633-58e,2631934,611906,Nnamdi Ofoborh,2019_2020,DISCLOSED,-,Nnamdi Ofoborh | N. Ofoborh | 19 | Central Midfield | CM | €150k | Bournemouth U23 | -
+7825d366-366,2533357,223047,Emerson Hyndman,2019_2020,DISCLOSED,loan transfer,Emerson Hyndman | E. Hyndman | 23 | Central Midfield | CM | €1.50m | Atlanta | loan transfer
+2a8762e7-7ab,2781903,391132,Matt Butcher,2019_2020,DISCLOSED,End of loan31/05/2020,Matt Butcher | M. Butcher | 23 | Defensive Midfield | DM | €75k | St. Johnstone | End of loan | 31/05/2020
+972f5801-9bc,2631354,33873,Asmir Begovic,2019_2020,DISCLOSED,End of loan31/12/2019,Asmir Begovic | A. Begovic | 32 | Goalkeeper | GK | €5.00m | Qarabağ | End of loan | 31/12/2019
+09c4979c-27a,2216214,175745,Brad Smith,2019_2020,DISCLOSED,End of loan31/12/2019,Brad Smith | B. Smith | 25 | Left-Back | LB | €1.00m | Seattle | End of loan | 31/12/2019
+3d1c26ab-a9b,2358950,3875,Jermain Defoe,2019_2020,DISCLOSED,End of loan31/05/2020,Jermain Defoe | J. Defoe | 37 | Centre-Forward | CF | €1.40m | Rangers | End of loan | 31/05/2020
+e0dd3423-043,2544952,253677,Tyrone Mings,2019_2020,DISCLOSED,€22.30m,Tyrone Mings | T. Mings | 26 | Centre-Back | CB | €5.00m | Aston Villa | €22.30m
+8f3a5e85-a42,2567653,291422,Lys Mousset,2019_2020,DISCLOSED,€11.10m,Lys Mousset | L. Mousset | 23 | Centre-Forward | CF | €3.50m | Sheff Utd | €11.10m
+4212f895-087,2546793,287528,Connor Mahoney,2019_2020,DISCLOSED,€1.10m,Connor Mahoney | C. Mahoney | 22 | Right Winger | RW | €750k | Millwall | €1.10m
+848187b0-bac,2756753,33873,Asmir Begovic,2019_2020,LOAN,0,Asmir Begovic | A. Begovic | 32 | Goalkeeper | GK | €5.00m | AC Milan | Loan fee: | €125k
+44d8b646-44a,2577415,36939,Marc Pugh,2019_2020,DISCLOSED,free transfer,Marc Pugh | Marc Pugh | 32 | Left Winger | LW | €1.50m | QPR | free transfer
+91ba0ed8-69d,2593089,55742,Harry Arter,2019_2020,DISCLOSED,loan transfer,Harry Arter | H. Arter | 29 | Central Midfield | CM | €7.00m | Fulham | loan transfer
+58e41d80-b3f,3176886,53360,Jay Rodríguez,2019_2020,DISCLOSED,€10.00m,Jay Rodríguez | J. Rodríguez | 29 | Centre-Forward | CF | €10.00m | West Brom | €10.00m
+58a94a4c-6ea,2780126,293569,Josh Brownhill,2019_2020,DISCLOSED,€10.00m,Josh Brownhill | J. Brownhill | 24 | Central Midfield | CM | €4.50m | Bristol City | €10.00m
+2bd59230-dd8,2586668,410436,Bailey Peacock-Farrell,2019_2020,DISCLOSED,€2.75m,Bailey Peacock-Farrell | B. Peacock-Farrell | 22 | Goalkeeper | GK | €1.50m | Leeds | €2.75m
+2350a274-379,2544465,43763,Erik Pieters,2019_2020,DISCLOSED,€1.10m,Erik Pieters | E. Pieters | 30 | Left-Back | LB | €5.00m | Stoke City | €1.10m
+0750df43-f23,2225673,385918,Aiden O'Neill,2019_2020,DISCLOSED,End of loan30/06/2019,Aiden O'Neill | A. O'Neill | 20 | Defensive Midfield | DM | €500k | Central Coast | End of loan | 30/06/2019
+ce599cbe-7e0,2774771,173483,Nahki Wells,2019_2020,DISCLOSED,End of loan27/01/2020,Nahki Wells | N. Wells | 29 | Centre-Forward | CF | €4.00m | QPR | End of loan | 27/01/2020
+481f9361-666,2362884,385922,Ntumba Massanka,2019_2020,DISCLOSED,End of loan30/06/2019,Ntumba Massanka | N. Massanka | 22 | Centre-Forward | CF | - | RWDM | End of loan | 30/06/2019
+cd172a04-652,2584411,34130,Tom Heaton,2019_2020,DISCLOSED,€8.80m,Tom Heaton | T. Heaton | 33 | Goalkeeper | GK | €3.00m | Aston Villa | €8.80m
+bf25d483-2e2,2600703,248592,Conor Mitchell,2019_2020,DISCLOSED,free transfer,Conor Mitchell | C. Mitchell | 23 | Goalkeeper | GK | €50k | Larne FC | free transfer
+ebe2db6a-05a,2629346,33866,Steven Defour,2019_2020,DISCLOSED,free transfer,Steven Defour | S. Defour | 31 | Defensive Midfield | DM | €5.00m | Royal Antwerp | free transfer
+757817bb-ef9,2476281,22491,Anders Lindegaard,2019_2020,DISCLOSED,free transfer,Anders Lindegaard | A. Lindegaard | 35 | Goalkeeper | GK | €500k | Helsingborgs IF | free transfer
+785dd5b2-cc1,2473737,34691,Stephen Ward,2019_2020,DISCLOSED,free transfer,Stephen Ward | S. Ward | 33 | Left-Back | LB | €2.00m | Stoke City | free transfer
+7960b5f2-7db,2551718,4072,Peter Crouch,2019_2020,DISCLOSED,-,Peter Crouch | P. Crouch | 38 | Centre-Forward | CF | - | Retired | -
+fb709f19-eed,2531523,346779,Ché Adams,2019_2020,DISCLOSED,€16.70m,Ché Adams | Ché Adams | 22 | Centre-Forward | CF | €7.00m | Birmingham | €16.70m
+eacc5a24-8c4,2506928,485424,Moussa Djenepo,2019_2020,DISCLOSED,€15.70m,Moussa Djenepo | M. Djenepo | 21 | Left Winger | LW | €12.00m | Standard Liège | €15.70m
+8b086664-22d,2597835,263236,Kevin Danso,2019_2020,LOAN,0,Kevin Danso | K. Danso | 20 | Centre-Back | CB | €8.00m | Augsburg | Loan fee: | €4.00m
+fd6beae8-fc9,2937411,444211,Will Smallbone,2019_2020,DISCLOSED,-,Will Smallbone | W. Smallbone | 19 | Central Midfield | CM | - | Southampt. U23 | -
+2ace8b6c-f84,2618300,52570,Fraser Forster,2019_2020,DISCLOSED,End of loan31/05/2020,Fraser Forster | F. Forster | 32 | Goalkeeper | GK | €6.50m | Celtic | End of loan | 31/05/2020
+3e3dc804-16c,2544536,186923,Jack Rose,2019_2020,DISCLOSED,End of loan31/05/2020,Jack Rose | Jack Rose | 25 | Goalkeeper | GK | €100k | Walsall | End of loan | 31/05/2020
+d145a5a3-e22,2631617,315185,Jake Hesketh,2019_2020,DISCLOSED,End of loan31/05/2020,Jake Hesketh | J. Hesketh | 24 | Attacking Midfield | AM | €200k | Lincoln City | End of loan | 31/05/2020
+9a271234-e5c,2377718,253765,Wesley Hoedt,2019_2020,DISCLOSED,End of loan30/06/2019,Wesley Hoedt | W. Hoedt | 25 | Centre-Back | CB | €12.00m | Celta | End of loan | 30/06/2019
+14cda266-d43,2194862,104223,Jordy Clasie,2019_2020,DISCLOSED,End of loan30/06/2019,Jordy Clasie | J. Clasie | 28 | Defensive Midfield | DM | €5.50m | Feyenoord | End of loan | 30/06/2019
+fa9076b5-f5c,2187035,232271,Sofiane Boufal,2019_2020,DISCLOSED,End of loan30/06/2019,Sofiane Boufal | S. Boufal | 25 | Left Winger | LW | €12.00m | Celta | End of loan | 30/06/2019
+a4ee75ed-35c,2165443,184672,Guido Carrillo,2019_2020,DISCLOSED,End of loan30/06/2019,Guido Carrillo | G. Carrillo | 28 | Centre-Forward | CF | €7.50m | CD Leganés | End of loan | 30/06/2019
+1870bfa2-1b1,2531505,250478,Matt Targett,2019_2020,DISCLOSED,€15.50m,Matt Targett | M. Targett | 23 | Left-Back | LB | €7.00m | Aston Villa | €15.50m
+62d509d9-bfe,2554227,227183,Sam Gallagher,2019_2020,DISCLOSED,€6.50m,Sam Gallagher | S. Gallagher | 23 | Centre-Forward | CF | €3.00m | Blackburn | €6.50m
+130c1cc9-afe,2596844,129627,Charlie Austin,2019_2020,DISCLOSED,€4.30m,Charlie Austin | C. Austin | 30 | Centre-Forward | CF | €8.00m | West Brom | €4.30m
+48c740da-09c,2632046,170934,Mario Lemina,2019_2020,LOAN,0,Mario Lemina | M. Lemina | 26 | Defensive Midfield | DM | €15.00m | Galatasaray | Loan fee: | €1.00m
+6b654159-8f4,2474388,28973,Steven Davis,2019_2020,DISCLOSED,free transfer,Steven Davis | S. Davis | 34 | Central Midfield | CM | €2.00m | Rangers | free transfer
+83925c52-760,2781406,81789,Maya Yoshida,2019_2020,DISCLOSED,loan transfer,Maya Yoshida | M. Yoshida | 31 | Centre-Back | CB | €5.00m | Sampdoria | loan transfer
+749315dd-4b9,2596414,286919,Josh Sims,2019_2020,DISCLOSED,loan transfer,Josh Sims | Josh Sims | 22 | Right Winger | RW | €2.00m | New York | loan transfer
+d03f152c-a5a,2597234,226973,Harrison Reed,2019_2020,DISCLOSED,loan transfer,Harrison Reed | H. Reed | 24 | Central Midfield | CM | €2.00m | Fulham | loan transfer
+a3919180-02c,2628707,186644,Mohamed Elyounoussi,2019_2020,DISCLOSED,loan transfer,Mohamed Elyounoussi | M. Elyounoussi | 25 | Second Striker | SS | €15.00m | Celtic | loan transfer
+eb3d0ab9-f71,2587745,212847,Adam Webster,2019_2020,DISCLOSED,€22.22m,Adam Webster | A. Webster | 24 | Centre-Back | CB | €9.00m | Bristol City | €22.22m
+8f33eb6b-bbc,2591494,217115,Neal Maupay,2019_2020,DISCLOSED,€15.56m,Neal Maupay | N. Maupay | 22 | Centre-Forward | CF | €12.00m | Brentford | €15.56m
+8f65a45e-327,2524396,144028,Leandro Trossard,2019_2020,DISCLOSED,€15.56m,Leandro Trossard | L. Trossard | 24 | Left Winger | LW | €16.00m | Genk | €15.56m
+3d147a3a-c61,2518147,307497,Matt Clarke,2019_2020,DISCLOSED,€3.90m,Matt Clarke | M. Clarke | 22 | Centre-Back | CB | €200k | Portsmouth | €3.90m
+7023ecc1-f8d,2771224,123951,Aaron Mooy,2019_2020,DISCLOSED,€3.30m,Aaron Mooy | A. Mooy | 29 | Central Midfield | CM | €12.00m | Huddersfield | €3.30m
+a62dad4b-063,2781584,504148,Tariq Lamptey,2019_2020,DISCLOSED,€1.20m,Tariq Lamptey | T. Lamptey | 19 | Right-Back | RB | - | Chelsea U23 | €1.20m
+6fbfc15b-722,2856885,476237,Steven Alzate,2019_2020,DISCLOSED,-,Steven Alzate | S. Alzate | 20 | Central Midfield | CM | - | Brighton U23 | -
+a6656716-41a,2669525,434207,Aaron Connolly,2019_2020,DISCLOSED,-,Aaron Connolly | A. Connolly | 19 | Centre-Forward | CF | - | Brighton U23 | -
+f4f741bf-c1d,2782568,56100,Leon Balogun,2019_2020,DISCLOSED,End of loan31/05/2020,Leon Balogun | L. Balogun | 31 | Centre-Back | CB | €800k | Wigan | End of loan | 31/05/2020
+26a936ff-590,2225744,312239,Percy Tau,2019_2020,DISCLOSED,End of loan30/06/2019,Percy Tau | Percy Tau | 25 | Right Winger | RW | €3.50m | Union SG | End of loan | 30/06/2019
+dff06f1e-a2f,2781078,166240,Jürgen Locadia,2019_2020,DISCLOSED,End of loan31/01/2020,Jürgen Locadia | J. Locadia | 26 | Centre-Forward | CF | €10.00m | Hoffenheim | End of loan | 31/01/2020
+3942eb5b-0c1,2372826,31514,Markus Suttner,2019_2020,DISCLOSED,End of loan30/06/2019,Markus Suttner | M. Suttner | 32 | Left-Back | LB | €1.50m | F. Düsseldorf | End of loan | 30/06/2019
+6bd6ec60-4a2,2171851,242078,Ales Mateju,2019_2020,DISCLOSED,End of loan30/06/2019,Ales Mateju | A. Mateju | 23 | Centre-Back | CB | €1.70m | Brescia | End of loan | 30/06/2019
+bbb91e80-833,2381216,534033,Alexis Mac Allister,2019_2020,DISCLOSED,End of loan30/06/2019,Alexis Mac Allister | A. Mac Allister | 20 | Central Midfield | CM | €5.00m | Argentinos Jrs. | End of loan | 30/06/2019
+b17b6886-8ee,2381235,450237,Billy Arce,2019_2020,DISCLOSED,End of loan02/06/2019,Billy Arce | B. Arce | 20 | Left Winger | LW | €1.00m | CS Emelec | End of loan | 02/06/2019
+e63833b0-805,2384667,119164,Ezequiel Schelotto,2019_2020,DISCLOSED,End of loan30/06/2019,Ezequiel Schelotto | E. Schelotto | 30 | Right Midfield | RM | €3.00m | Chievo Verona | End of loan | 30/06/2019
+11a09c88-3d9,2389458,433976,Tudor Băluță,2019_2020,DISCLOSED,End of loan30/06/2019,Tudor Băluță | T. Băluță | 20 | Defensive Midfield | DM | €4.50m | FC Viitorul | End of loan | 30/06/2019
+3a6936a3-a27,2629719,262895,Soufyan Ahannach,2019_2020,DISCLOSED,End of loan19/01/2020,Soufyan Ahannach | S. Ahannach | 24 | Left Winger | LW | €450k | Union SG | End of loan | 19/01/2020
+a7567713-309,2619004,342389,Anders Dreyer,2019_2020,DISCLOSED,End of loan05/01/2020,Anders Dreyer | A. Dreyer | 21 | Right Winger | RW | €600k | Heerenveen | End of loan | 05/01/2020
+f981b196-06d,2389479,309180,Jan Mlakar,2019_2020,DISCLOSED,End of loan30/06/2019,Jan Mlakar | J. Mlakar | 20 | Centre-Forward | CF | €2.00m | NK Maribor | End of loan | 30/06/2019
+583a8b5f-127,2597652,44741,Beram Kayal,2019_2020,DISCLOSED,End of loan01/01/2020,Beram Kayal | B. Kayal | 31 | Central Midfield | CM | €1.50m | Charlton | End of loan | 01/01/2020
+6bbd11c9-455,2568505,149237,Anthony Knockaert,2019_2020,LOAN,0,Anthony Knockaert | A. Knockaert | 27 | Right Winger | RW | €8.00m | Fulham | Loan fee: | €4.50m
+e11d37bd-883,2631310,177065,Florin Andone,2019_2020,LOAN,0,Florin Andone | F. Andone | 26 | Centre-Forward | CF | €6.00m | Galatasaray | Loan fee: | €700k
+df517b14-fec,2780152,36291,Gaëtan Bong,2019_2020,DISCLOSED,€500k,Gaëtan Bong | G. Bong | 31 | Left-Back | LB | €2.00m | Nott'm Forest | €500k
+80b901c5-47e,2613782,112668,Tomer Hemed,2019_2020,DISCLOSED,free transfer,Tomer Hemed | T. Hemed | 32 | Centre-Forward | CF | €2.50m | Charlton | free transfer
+639d8505-d63,2491868,114116,Richie Towell,2019_2020,DISCLOSED,free transfer,Richie Towell | R. Towell | 27 | Attacking Midfield | AM | €200k | Salford | free transfer
+e2d9c622-25a,2531905,335721,Ben White,2019_2020,DISCLOSED,loan transfer,Ben White | Ben White | 21 | Right-Back | RB | - | Leeds | loan transfer
+5d81d435-1c1,2564151,367284,Leo Østigård,2019_2020,DISCLOSED,loan transfer,Leo Østigård | L. Østigård | 19 | Centre-Back | CB | €150k | St. Pauli | loan transfer
+3922ef56-48c,2574582,325443,Viktor Gyökeres,2019_2020,DISCLOSED,loan transfer,Viktor Gyökeres | V. Gyökeres | 21 | Centre-Forward | CF | €500k | St. Pauli | loan transfer
+d366e3d8-4cf,2571407,208379,Christian Walton,2019_2020,DISCLOSED,loan transfer,Christian Walton | C. Walton | 23 | Goalkeeper | GK | €1.00m | Blackburn | loan transfer
+ddd6a05d-1b4,2471554,51528,Bruno Saltor,2019_2020,DISCLOSED,-,Bruno Saltor | B. Saltor | 38 | Right-Back | RB | - | Retired | -
+87f9f73b-110,2780179,618901,Sam McCallum,2019_2020,DISCLOSED,€4.15m,Sam McCallum | S. McCallum | 19 | Left-Back | LB | - | Coventry | €4.15m
+a93299e3-7f9,2540334,39015,Ralf Fährmann,2019_2020,LOAN,0,Ralf Fährmann | R. Fährmann | 30 | Goalkeeper | GK | €5.00m | FC Schalke 04 | Loan fee: | €3.00m
+a5c01a0e-c25,2756492,82863,Lukas Rupp,2019_2020,DISCLOSED,€500k,Lukas Rupp | L. Rupp | 29 | Central Midfield | CM | €3.00m | Hoffenheim | €500k
+087b7540-c4f,2512868,532464,Daniel Adshead,2019_2020,DISCLOSED,€335k,Daniel Adshead | D. Adshead | 17 | Central Midfield | CM | - | Rochdale | €335k
+88b47cd6-33d,2497187,140579,Josip Drmic,2019_2020,DISCLOSED,free transfer,Josip Drmic | J. Drmic | 26 | Centre-Forward | CF | €3.00m | Mönchengladbach | free transfer
+2dbf13f6-55c,2535596,511802,Rocky Bushiri,2019_2020,UNDISCLOSED,UNDISCLOSED,Rocky Bushiri | R. Bushiri | 19 | Centre-Back | CB | €1.20m | KV Oostende | ?
+983707b0-ef2,2755386,232418,Ondrej Duda,2019_2020,DISCLOSED,loan transfer,Ondrej Duda | O. Duda | 25 | Central Midfield | CM | €13.00m | Hertha BSC | loan transfer
+d948e6f1-fea,2594977,205503,Ibrahim Amadou,2019_2020,DISCLOSED,loan transfer,Ibrahim Amadou | I. Amadou | 26 | Defensive Midfield | DM | €7.00m | Sevilla FC | loan transfer
+acd752e9-942,2977393,434223,Adam Idah,2019_2020,DISCLOSED,-,Adam Idah | Adam Idah | 18 | Centre-Forward | CF | - | Norwich City U23 | -
+f133f69c-2a8,2151176,152435,Marcel Franke,2019_2020,DISCLOSED,End of loan30/06/2019,Marcel Franke | M. Franke | 26 | Centre-Back | CB | €1.00m | Darmstadt 98 | End of loan | 30/06/2019
+9f87fa6c-790,2614412,207771,Louis Thompson,2019_2020,DISCLOSED,End of loan02/01/2020,Louis Thompson | L. Thompson | 25 | Central Midfield | CM | €250k | Shrewsbury | End of loan | 02/01/2020
+7d98e3f0-f11,2483401,246963,Carlton Morris,2019_2020,DISCLOSED,End of loan07/01/2020,Carlton Morris | C. Morris | 24 | Centre-Forward | CF | €150k | Rotherham | End of loan | 07/01/2020
+7d58d7bf-44e,2491939,339013,Mason Bloomfield,2019_2020,DISCLOSED,End of loan31/05/2020,Mason Bloomfield | M. Bloomfield | 23 | Centre-Forward | CF | - | Crawley Town | End of loan | 31/05/2020
+12c932bd-561,2575515,167393,James Husband,2019_2020,DISCLOSED,End of loan24/01/2020,James Husband | J. Husband | 26 | Left-Back | LB | €1.00m | Blackpool | End of loan | 24/01/2020
+86fb676b-cb1,2749857,425713,Akin Famewo,2019_2020,DISCLOSED,End of loan31/05/2020,Akin Famewo | A. Famewo | 21 | Centre-Back | CB | €25k | St. Mirren | End of loan | 31/05/2020
+117223f2-44e,2585899,511802,Rocky Bushiri,2019_2020,DISCLOSED,End of loan06/01/2020,Rocky Bushiri | R. Bushiri | 20 | Centre-Back | CB | €1.20m | Blackpool | End of loan | 06/01/2020
+0d29efa8-d8b,2587572,288948,Aston Oxborough,2019_2020,DISCLOSED,End of loan29/03/2020,Aston Oxborough | A. Oxborough | 21 | Goalkeeper | GK | €50k | Wealdstone | End of loan | 29/03/2020
+e07c5901-7e3,2567155,72768,Nélson Oliveira,2019_2020,DISCLOSED,€1.00m,Nélson Oliveira | N. Oliveira | 27 | Centre-Forward | CF | €3.50m | AEK Athens | €1.00m
+6cac4d66-885,2750030,159239,Dennis Srbeny,2019_2020,DISCLOSED,€200k,Dennis Srbeny | D. Srbeny | 25 | Centre-Forward | CF | €1.00m | SC Paderborn | €200k
+ea9e28f1-6d5,2472370,82281,Ivo Pinto,2019_2020,DISCLOSED,free transfer,Ivo Pinto | Ivo Pinto | 29 | Right-Back | RB | €2.00m | GNK Dinamo | free transfer
+e8e23feb-ddd,2574466,492391,Tristan Abrahams,2019_2020,DISCLOSED,free transfer,Tristan Abrahams | T. Abrahams | 20 | Centre-Forward | CF | €150k | Newport County | free transfer
+368c07d9-873,2500988,151189,Yanic Wildschut,2019_2020,DISCLOSED,free transfer,Yanic Wildschut | Y. Wildschut | 27 | Left Winger | LW | €2.00m | Maccabi Haifa | free transfer
+59442ecd-e26,2500989,12763,Steven Naismith,2019_2020,DISCLOSED,free transfer,Steven Naismith | S. Naismith | 32 | Second Striker | SS | €1.50m | Heart of Midl. | free transfer
+a5c4c1ee-889,2526914,226219,Sean Raggett,2019_2020,DISCLOSED,loan transfer,Sean Raggett | S. Raggett | 25 | Centre-Back | CB | €250k | Portsmouth | loan transfer
+cc388859-e08,2744236,112617,Philip Heise,2019_2020,DISCLOSED,loan transfer,Philip Heise | P. Heise | 28 | Left-Back | LB | €700k | 1.FC Nuremberg | loan transfer
+d9c7876f-381,2626541,118567,Ben Marshall,2019_2020,DISCLOSED,-,Ben Marshall | B. Marshall | 28 | Right Midfield | RM | €1.50m | Without Club | -
+08360776-349,2501897,15921,Matt Jarvis,2019_2020,DISCLOSED,-,Matt Jarvis | M. Jarvis | 33 | Left Winger | LW | €350k | Without Club | -
+94a272fb-5b9,2156899,274461,Felix Passlack,2019_2020,DISCLOSED,End of loan30/06/2019,Felix Passlack | F. Passlack | 21 | Right-Back | RB | €1.50m | Dortmund | End of loan | 30/06/2019
+065963ad-59a,2540335,39015,Ralf Fährmann,2019_2020,DISCLOSED,End of loan09/03/2020,Ralf Fährmann | R. Fährmann | 31 | Goalkeeper | GK | €2.00m | FC Schalke 04 | End of loan | 09/03/2020
+5e2d80ad-c57,2779338,333014,Sander Berge,2019_2020,DISCLOSED,€25.00m,Sander Berge | S. Berge | 21 | Defensive Midfield | DM | €22.00m | Genk | €25.00m
+1c6c45d9-698,2586353,298477,Oli McBurnie,2019_2020,DISCLOSED,€19.10m,Oli McBurnie | O. McBurnie | 23 | Centre-Forward | CF | €8.00m | Swansea | €19.10m
+d00a10da-4d8,2552372,183299,Callum Robinson,2019_2020,DISCLOSED,€7.80m,Callum Robinson | C. Robinson | 24 | Centre-Forward | CF | €4.50m | Preston | €7.80m
+7b2f516d-e14,2536096,66923,Luke Freeman,2019_2020,DISCLOSED,€5.60m,Luke Freeman | L. Freeman | 27 | Attacking Midfield | AM | €3.50m | QPR | €5.60m
+3b742baf-cde,2575573,218087,Ben Osborn,2019_2020,DISCLOSED,€3.90m,Ben Osborn | B. Osborn | 24 | Central Midfield | CM | €3.00m | Nott'm Forest | €3.90m
+affd780d-a65,2597140,288259,Michael Verrips,2019_2020,DISCLOSED,free transfer,Michael Verrips | M. Verrips | 22 | Goalkeeper | GK | €1.50m | KV Mechelen | free transfer
+c31352f1-495,2559550,128907,Ravel Morrison,2019_2020,DISCLOSED,free transfer,Ravel Morrison | R. Morrison | 26 | Attacking Midfield | AM | €300k | Östersund | free transfer
+c3abcff7-b36,2597117,258919,Dean Henderson,2019_2020,DISCLOSED,loan transfer,Dean Henderson | D. Henderson | 22 | Goalkeeper | GK | €2.50m | Man Utd U23 | loan transfer
+fd8abf51-8ec,2767215,128909,Jack Robinson,2019_2020,UNDISCLOSED,UNDISCLOSED,Jack Robinson | J. Robinson | 26 | Centre-Back | CB | €2.50m | Nott'm Forest | ?
+3661f668-1b6,2781512,324351,Panagiotis Retsos,2019_2020,DISCLOSED,loan transfer,Panagiotis Retsos | P. Retsos | 21 | Centre-Back | CB | €9.00m | Leverkusen | loan transfer
+10a21daf-7e3,2780358,252755,Richairo Zivkovic,2019_2020,DISCLOSED,loan transfer,Richairo Zivkovic | R. Zivkovic | 23 | Centre-Forward | CF | €800k | CC Yatai | loan transfer
+19c5738b-0c4,3383200,543164,Rhys Norrington-Davies,2019_2020,DISCLOSED,-,Rhys Norrington-Davies | R. Norrington-Davies | 20 | Left-Back | LB | - | Sheffield U23 | -
+443870d7-07a,2743130,57079,Jack Rodwell,2019_2020,DISCLOSED,-,Jack Rodwell | J. Rodwell | 28 | Centre-Back | CB | €1.50m | Without Club | -
+1eacf0a3-c71,2780183,214928,Kean Bryan,2019_2020,DISCLOSED,End of loan31/05/2020,Kean Bryan | K. Bryan | 23 | Centre-Back | CB | €250k | Bolton | End of loan | 31/05/2020
+c45a5190-71b,2631400,104677,Jake Wright,2019_2020,DISCLOSED,End of loan05/01/2020,Jake Wright | J. Wright | 33 | Centre-Back | CB | - | Bolton | End of loan | 05/01/2020
+acab7319-2e9,2539711,526873,Jake Eastwood,2019_2020,DISCLOSED,End of loan31/05/2020,Jake Eastwood | J. Eastwood | 23 | Goalkeeper | GK | €100k | Scunthorpe Utd. | End of loan | 31/05/2020
+22c528ab-b3e,2619626,156939,Ben Heneghan,2019_2020,DISCLOSED,End of loan31/05/2020,Ben Heneghan | B. Heneghan | 26 | Centre-Back | CB | €400k | Blackpool | End of loan | 31/05/2020
+2a77c725-8f9,2572818,222024,Nathan Thomas,2019_2020,DISCLOSED,End of loan31/05/2020,Nathan Thomas | N. Thomas | 25 | Left Winger | LW | €250k | Carlisle United | End of loan | 31/05/2020
+7970f5d3-f13,2597095,105565,Mark Duffy,2019_2020,DISCLOSED,End of loan30/01/2020,Mark Duffy | M. Duffy | 34 | Central Midfield | CM | €500k | Stoke City | End of loan | 30/01/2020
+ade23302-2fe,2753517,34349,Richard Stearman,2019_2020,DISCLOSED,€200k,Richard Stearman | R. Stearman | 32 | Centre-Back | CB | €1.00m | Huddersfield | €200k
+f79bd3cf-c21,2593178,61622,Ched Evans,2019_2020,DISCLOSED,€150k,Ched Evans | C. Evans | 30 | Centre-Forward | CF | €350k | Fleetwood | €150k
+1968a0d9-bdf,2475197,93055,Paul Coutts,2019_2020,DISCLOSED,free transfer,Paul Coutts | P. Coutts | 30 | Central Midfield | CM | €350k | Fleetwood | free transfer
+83a94ea8-cf3,2475195,249815,Conor Washington,2019_2020,DISCLOSED,free transfer,Conor Washington | C. Washington | 27 | Centre-Forward | CF | €1.00m | Heart of Midl. | free transfer
+df389170-bd6,2596419,127983,Caolan Lavery,2019_2020,DISCLOSED,free transfer,Caolan Lavery | C. Lavery | 26 | Centre-Forward | CF | €150k | Walsall | free transfer
+536cba8d-335,2626857,146488,Samir Carruthers,2019_2020,DISCLOSED,free transfer,Samir Carruthers | S. Carruthers | 26 | Central Midfield | CM | €250k | Cambridge Utd. | free transfer
+31722ac1-159,2725449,264062,Jake Bennett,2019_2020,DISCLOSED,free transfer,Jake Bennett | J. Bennett | 23 | Right-Back | RB | - | Alfreton | free transfer
+ed49a0a8-4b9,2475199,27659,Martin Cranie,2019_2020,DISCLOSED,free transfer,Martin Cranie | M. Cranie | 32 | Centre-Back | CB | €350k | Luton | free transfer
+9b08dd9e-300,2475198,85928,Danny Lafferty,2019_2020,DISCLOSED,free transfer,Danny Lafferty | D. Lafferty | 30 | Left-Back | LB | €350k | Shamrock Rovers | free transfer
+645a9c8d-893,2507183,381362,Wesley Moraes,2019_2020,DISCLOSED,€25.00m,Wesley Moraes | Wesley Moraes | 22 | Centre-Forward | CF | €20.00m | Club Brugge | €25.00m
+1c4011f0-425,2549610,413403,Ezri Konsa,2019_2020,DISCLOSED,€13.30m,Ezri Konsa | E. Konsa | 21 | Centre-Back | CB | €3.50m | Brentford | €13.30m
+b2df0bba-944,2584706,324882,Marvelous Nakamba,2019_2020,DISCLOSED,€12.00m,Marvelous Nakamba | M. Nakamba | 25 | Defensive Midfield | DM | €6.50m | Club Brugge | €12.00m
+eba6cf9e-fdc,2766514,182201,Mbwana Samatta,2019_2020,DISCLOSED,€10.50m,Mbwana Samatta | M. Samatta | 27 | Centre-Forward | CF | €12.00m | Genk | €10.50m
+51703c20-092,2571975,234189,Trezeguet,2019_2020,DISCLOSED,€10.00m,Trezeguet | Trezeguet | 24 | Left Winger | LW | €6.00m | Kasimpasa | €10.00m
+99b6e62e-92f,2502917,183720,Anwar El Ghazi,2019_2020,DISCLOSED,€9.00m,Anwar El Ghazi | A. El Ghazi | 24 | Right Winger | RW | €7.50m | Lille | €9.00m
+f6ef528d-29f,2560240,193469,Björn Engels,2019_2020,DISCLOSED,€8.00m,Björn Engels | B. Engels | 24 | Centre-Back | CB | €6.00m | Stade Reims | €8.00m
+0ceca448-5d4,2495739,176591,Jota Peleteiro,2019_2020,DISCLOSED,€4.50m,Jota Peleteiro | J. Peleteiro | 28 | Right Winger | RW | €5.00m | Birmingham | €4.50m
+74a022bf-086,2756703,7825,Pepe Reina,2019_2020,LOAN,0,Pepe Reina | P. Reina | 37 | Goalkeeper | GK | €800k | AC Milan | Loan fee: | €400k
+6f4ae229-133,2782530,85324,Borja Bastón,2019_2020,DISCLOSED,free transfer,Borja Bastón | B. Bastón | 27 | Centre-Forward | CF | €4.00m | Swansea | free transfer
+b40fe7fe-157,2780782,73482,James Chester,2019_2020,DISCLOSED,End of loan31/05/2020,James Chester | J. Chester | 31 | Centre-Back | CB | €2.40m | Stoke City | End of loan | 31/05/2020
+bf71b451-b1e,2217849,110861,Gary Gardner,2019_2020,DISCLOSED,End of loan30/06/2019,Gary Gardner | G. Gardner | 27 | Central Midfield | CM | €2.00m | Birmingham | End of loan | 30/06/2019
+2e89e7a4-0eb,2263278,55687,Ritchie De Laet,2019_2020,DISCLOSED,End of loan30/06/2019,Ritchie De Laet | R. De Laet | 30 | Right-Back | RB | €1.30m | Melbourne City | End of loan | 30/06/2019
+da9bfe9a-c86,2595702,138783,Scott Hogan,2019_2020,DISCLOSED,End of loan28/01/2020,Scott Hogan | S. Hogan | 27 | Centre-Forward | CF | €3.00m | Stoke City | End of loan | 28/01/2020
+c96f1d8a-451,2585596,309841,Andre Green,2019_2020,DISCLOSED,End of loan01/01/2020,Andre Green | A. Green | 21 | Left Winger | LW | €2.00m | Preston | End of loan | 01/01/2020
+15128152-3e5,2390395,354352,Frédéric Guilbert,2019_2020,DISCLOSED,End of loan30/06/2019,Frédéric Guilbert | F. Guilbert | 24 | Right-Back | RB | €6.00m | SM Caen | End of loan | 30/06/2019
+3cee5880-f0c,2763893,88971,Jonathan Kodjia,2019_2020,DISCLOSED,€3.00m,Jonathan Kodjia | J. Kodjia | 30 | Centre-Forward | CF | €4.00m | Al-Gharafa | €3.00m
+74384ae0-82d,2493058,83430,Albert Adomah,2019_2020,DISCLOSED,free transfer,Albert Adomah | A. Adomah | 31 | Right Winger | RW | €3.50m | Nott'm Forest | free transfer
+517ec2ab-7da,2492153,12124,Glenn Whelan,2019_2020,DISCLOSED,free transfer,Glenn Whelan | G. Whelan | 35 | Defensive Midfield | DM | €1.00m | Heart of Midl. | free transfer
+6b0e71f8-2e4,2492152,37152,Tommy Elphick,2019_2020,DISCLOSED,free transfer,Tommy Elphick | T. Elphick | 31 | Centre-Back | CB | €2.00m | Huddersfield | free transfer
+81bc7496-d2f,2766264,46405,Lovre Kalinic,2019_2020,DISCLOSED,loan transfer,Lovre Kalinic | L. Kalinic | 29 | Goalkeeper | GK | €3.50m | Toulouse | loan transfer
+cb8747d1-271,2627207,243633,Aaron Tshibola,2019_2020,UNDISCLOSED,UNDISCLOSED,Aaron Tshibola | A. Tshibola | 24 | Central Midfield | CM | €1.50m | Waasland-Beveren | ?
+c209b275-024,2495735,110861,Gary Gardner,2019_2020,UNDISCLOSED,UNDISCLOSED,Gary Gardner | G. Gardner | 27 | Central Midfield | CM | €2.00m | Birmingham | ?
+a391832c-b87,2597080,324223,James Bree,2019_2020,DISCLOSED,loan transfer,James Bree | J. Bree | 21 | Right-Back | RB | €1.00m | Luton | loan transfer
+277a309b-9d2,2596991,34453,Birkir Bjarnason,2019_2020,DISCLOSED,-,Birkir Bjarnason | B. Bjarnason | 31 | Central Midfield | CM | €1.50m | Without Club | -
+6bf00d32-cf7,2575628,32617,Micah Richards,2019_2020,DISCLOSED,-,Micah Richards | M. Richards | 31 | Right-Back | RB | - | Retired | -
+6220ca99-510,2492151,49319,Mark Bunn,2019_2020,DISCLOSED,-,Mark Bunn | Mark Bunn | 34 | Goalkeeper | GK | - | Retired | -
+5f65ca19-acd,2492159,28336,Mile Jedinak,2019_2020,DISCLOSED,-,Mile Jedinak | M. Jedinak | 34 | Defensive Midfield | DM | - | Without Club | -
+6bbdc103-6d0,2493059,9619,Alan Hutton,2019_2020,DISCLOSED,-,Alan Hutton | A. Hutton | 34 | Right-Back | RB | €1.00m | Without Club | -
+c56f1c92-869,2494260,29006,Ross McCormack,2019_2020,DISCLOSED,-,Ross McCormack | R. McCormack | 32 | Second Striker | SS | €1.50m | Without Club | -

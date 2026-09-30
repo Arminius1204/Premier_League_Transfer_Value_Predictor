@@ -101,10 +101,12 @@ class PlayerResolver:
                                 best_match = master_id
                                 break
                             
-                            score = self._fuzzy_score(norm_name, master_name)
-                            if score > best_score:
-                                best_score = score
-                                best_match = master_id
+                            # Only compute fuzzy if starting characters match or lengths are similar
+                            if abs(len(master_name) - len(norm_name)) <= 4 and (master_name[:2] == norm_name[:2] or master_name[-2:] == norm_name[-2:]):
+                                score = self._fuzzy_score(norm_name, master_name)
+                                if score > best_score:
+                                    best_score = score
+                                    best_match = master_id
                                 
                         if best_score == 100.0:
                             match_method = "EXACT_NAME"

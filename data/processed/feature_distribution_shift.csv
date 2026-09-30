@@ -1,0 +1,6 @@
+feature,train_stat,test_stat,difference,shift_flag,interpretation
+age_at_transfer,23.16 (mean),23.89 (mean),0.73,Normal,Check temporal drift
+age_squared,550.20 (mean),583.40 (mean),33.19,Normal,Check temporal drift
+prev_season_points,33.50 (mean),51.67 (mean),18.17,High,Check temporal drift
+prev_season_points_per_match,1.20 (mean),1.61 (mean),0.42,High,Check temporal drift
+prev_season_gd,-11.50 (mean),13.67 (mean),25.17,High,Check temporal drift

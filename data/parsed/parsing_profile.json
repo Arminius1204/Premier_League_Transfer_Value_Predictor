@@ -1,6 +1,57 @@
 [
   {
     "source": "football_data",
+    "file_name": "football_data_parsed_2018_2019.csv",
+    "row_count": 380,
+    "column_count": 7,
+    "columns": [
+      "source_match_id",
+      "season_id",
+      "source_home_team",
+      "source_away_team",
+      "home_goals",
+      "away_goals",
+      "match_date"
+    ],
+    "unique_players": 0,
+    "unique_clubs": 20
+  },
+  {
+    "source": "football_data",
+    "file_name": "football_data_parsed_2019_2020.csv",
+    "row_count": 380,
+    "column_count": 7,
+    "columns": [
+      "source_match_id",
+      "season_id",
+      "source_home_team",
+      "source_away_team",
+      "home_goals",
+      "away_goals",
+      "match_date"
+    ],
+    "unique_players": 0,
+    "unique_clubs": 20
+  },
+  {
+    "source": "football_data",
+    "file_name": "football_data_parsed_2020_2021.csv",
+    "row_count": 380,
+    "column_count": 7,
+    "columns": [
+      "source_match_id",
+      "season_id",
+      "source_home_team",
+      "source_away_team",
+      "home_goals",
+      "away_goals",
+      "match_date"
+    ],
+    "unique_players": 0,
+    "unique_clubs": 20
+  },
+  {
+    "source": "football_data",
     "file_name": "football_data_parsed_2021_2022.csv",
     "row_count": 380,
     "column_count": 7,
@@ -88,6 +139,180 @@
     ],
     "unique_players": 667,
     "unique_clubs": 20
+  },
+  {
+    "source": "fpl_historical",
+    "file_name": "fpl_historical_parsed_2018_2019.csv",
+    "row_count": 624,
+    "column_count": 10,
+    "columns": [
+      "source_player_id",
+      "season_id",
+      "source_player_name",
+      "minutes",
+      "goals_scored",
+      "assists",
+      "bps",
+      "influence",
+      "creativity",
+      "threat"
+    ],
+    "unique_players": 623,
+    "unique_clubs": 0
+  },
+  {
+    "source": "fpl_historical",
+    "file_name": "fpl_historical_parsed_2019_2020.csv",
+    "row_count": 666,
+    "column_count": 10,
+    "columns": [
+      "source_player_id",
+      "season_id",
+      "source_player_name",
+      "minutes",
+      "goals_scored",
+      "assists",
+      "bps",
+      "influence",
+      "creativity",
+      "threat"
+    ],
+    "unique_players": 666,
+    "unique_clubs": 0
+  },
+  {
+    "source": "fpl_historical",
+    "file_name": "fpl_historical_parsed_2020_2021.csv",
+    "row_count": 713,
+    "column_count": 10,
+    "columns": [
+      "source_player_id",
+      "season_id",
+      "source_player_name",
+      "minutes",
+      "goals_scored",
+      "assists",
+      "bps",
+      "influence",
+      "creativity",
+      "threat"
+    ],
+    "unique_players": 712,
+    "unique_clubs": 0
+  },
+  {
+    "source": "fpl_historical",
+    "file_name": "fpl_historical_parsed_2021_2022.csv",
+    "row_count": 737,
+    "column_count": 10,
+    "columns": [
+      "source_player_id",
+      "season_id",
+      "source_player_name",
+      "minutes",
+      "goals_scored",
+      "assists",
+      "bps",
+      "influence",
+      "creativity",
+      "threat"
+    ],
+    "unique_players": 735,
+    "unique_clubs": 0
+  },
+  {
+    "source": "fpl_historical",
+    "file_name": "fpl_historical_parsed_2022_2023.csv",
+    "row_count": 778,
+    "column_count": 10,
+    "columns": [
+      "source_player_id",
+      "season_id",
+      "source_player_name",
+      "minutes",
+      "goals_scored",
+      "assists",
+      "bps",
+      "influence",
+      "creativity",
+      "threat"
+    ],
+    "unique_players": 777,
+    "unique_clubs": 0
+  },
+  {
+    "source": "fpl_historical",
+    "file_name": "fpl_historical_parsed_2023_2024.csv",
+    "row_count": 865,
+    "column_count": 10,
+    "columns": [
+      "source_player_id",
+      "season_id",
+      "source_player_name",
+      "minutes",
+      "goals_scored",
+      "assists",
+      "bps",
+      "influence",
+      "creativity",
+      "threat"
+    ],
+    "unique_players": 865,
+    "unique_clubs": 0
+  },
+  {
+    "source": "transfermarkt",
+    "file_name": "transfermarkt_parsed_2018_2019.csv",
+    "row_count": 476,
+    "column_count": 8,
+    "columns": [
+      "transfer_id",
+      "source_transfer_id",
+      "source_player_id",
+      "source_player_name",
+      "season_id",
+      "fee_status",
+      "raw_fee_string",
+      "raw_row_text"
+    ],
+    "unique_players": 460,
+    "unique_clubs": 0
+  },
+  {
+    "source": "transfermarkt",
+    "file_name": "transfermarkt_parsed_2019_2020.csv",
+    "row_count": 476,
+    "column_count": 8,
+    "columns": [
+      "transfer_id",
+      "source_transfer_id",
+      "source_player_id",
+      "source_player_name",
+      "season_id",
+      "fee_status",
+      "raw_fee_string",
+      "raw_row_text"
+    ],
+    "unique_players": 462,
+    "unique_clubs": 0
+  },
+  {
+    "source": "transfermarkt",
+    "file_name": "transfermarkt_parsed_2020_2021.csv",
+    "row_count": 434,
+    "column_count": 8,
+    "columns": [
+      "transfer_id",
+      "source_transfer_id",
+      "source_player_id",
+      "source_player_name",
+      "season_id",
+      "fee_status",
+      "raw_fee_string",
+      "raw_row_text"
+    ],
+    "unique_players": 420,
+    "unique_clubs": 0
   },
   {
     "source": "transfermarkt",

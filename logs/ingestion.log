@@ -50,3 +50,27 @@
 2026-09-30 13:43:36,172 [ERROR] Capology - Access Denied (403) for https://www.capology.com/uk/premier-league/salaries/2022-2023/. Anti-bot system detected. Respecting restriction.
 2026-09-30 13:43:41,174 [INFO] Capology - Fetching: https://www.capology.com/uk/premier-league/salaries/2023-2024/
 2026-09-30 13:43:41,228 [ERROR] Capology - Access Denied (403) for https://www.capology.com/uk/premier-league/salaries/2023-2024/. Anti-bot system detected. Respecting restriction.
+2026-09-30 14:38:52,741 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/1819/E0.csv
+2026-09-30 14:38:54,808 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2018_2019.csv
+2026-09-30 14:38:55,809 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/1920/E0.csv
+2026-09-30 14:38:56,413 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2019_2020.csv
+2026-09-30 14:38:57,415 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/2021/E0.csv
+2026-09-30 14:38:57,881 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2020_2021.csv
+2026-09-30 14:38:58,882 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/2122/E0.csv
+2026-09-30 14:38:59,326 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2021_2022.csv
+2026-09-30 14:39:00,326 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/2223/E0.csv
+2026-09-30 14:39:00,777 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2022_2023.csv
+2026-09-30 14:39:01,777 [INFO] football-data.co.uk - Fetching: https://www.football-data.co.uk/mmz4281/2324/E0.csv
+2026-09-30 14:39:02,223 [INFO] football-data.co.uk - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\football_data\E0_2023_2024.csv
+2026-09-30 14:39:07,224 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2018
+2026-09-30 14:39:09,047 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2018_2019.html
+2026-09-30 14:39:14,048 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2019
+2026-09-30 14:39:16,277 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2019_2020.html
+2026-09-30 14:39:21,278 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2020
+2026-09-30 14:39:23,130 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2020_2021.html
+2026-09-30 14:39:28,131 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2021
+2026-09-30 14:39:30,651 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2021_2022.html
+2026-09-30 14:39:35,652 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2022
+2026-09-30 14:39:37,105 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2022_2023.html
+2026-09-30 14:39:42,106 [INFO] Transfermarkt - Fetching: https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2023
+2026-09-30 14:39:44,725 [INFO] Transfermarkt - Saved raw data and metadata to C:\Users\aksha\Desktop\College\Premier_League_Transfer_Value_Predictor\data\raw\transfermarkt\transfermarkt_pl_2023_2024.html

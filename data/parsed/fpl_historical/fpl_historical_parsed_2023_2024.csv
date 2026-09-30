@@ -1,0 +1,866 @@
+source_player_id,season_id,source_player_name,minutes,goals_scored,assists,bps,influence,creativity,threat
+Folarin_Balogun,2023_2024,Folarin Balogun,0,0,0,0,0.0,0.0,0.0
+Cédric_Alves Soares,2023_2024,Cédric Alves Soares,59,0,0,15,2.0,4.3,0.0
+Mohamed_Elneny,2023_2024,Mohamed Elneny,25,0,1,16,4.0,2.1,10.0
+Fábio_Ferreira Vieira,2023_2024,Fábio Ferreira Vieira,290,1,3,67,82.8,88.8,85.0
+Gabriel_dos Santos Magalhães,2023_2024,Gabriel dos Santos Magalhães,3042,3,1,676,675.8,121.9,379.0
+Kai_Havertz,2023_2024,Kai Havertz,2627,13,10,515,763.2,613.4,1027.0
+Gabriel_Fernando de Jesus,2023_2024,Gabriel Fernando de Jesus,1470,4,7,271,364.8,403.0,756.0
+Jorge Luiz_Frello Filho,2023_2024,Jorge Luiz Frello Filho,913,0,2,182,165.4,187.8,16.0
+Jakub_Kiwior,2023_2024,Jakub Kiwior,942,1,3,260,228.8,106.9,90.0
+Marcus_Oliveira Alencar,2023_2024,Marcus Oliveira Alencar,0,0,0,0,0.0,0.0,0.0
+Gabriel_Martinelli Silva,2023_2024,Gabriel Martinelli Silva,2010,6,5,404,500.4,717.1,795.0
+Eddie_Nketiah,2023_2024,Eddie Nketiah,1065,5,4,206,235.0,136.3,417.0
+Martin_Ødegaard,2023_2024,Martin Ødegaard,3098,8,11,703,910.4,1499.4,757.0
+Thomas_Partey,2023_2024,Thomas Partey,785,0,0,142,117.6,122.9,37.0
+Nicolas_Pépé,2023_2024,Nicolas Pépé,0,0,0,0,0.0,0.0,0.0
+Aaron_Ramsdale,2023_2024,Aaron Ramsdale,540,0,0,90,73.2,0.0,0.0
+Rúnar Alex_Rúnarsson,2023_2024,Rúnar Alex Rúnarsson,0,0,0,0,0.0,0.0,0.0
+Bukayo_Saka,2023_2024,Bukayo Saka,2922,16,12,776,1093.8,1319.8,1342.0
+William_Saliba,2023_2024,William Saliba,3420,2,1,781,697.2,152.1,140.0
+Emile_Smith Rowe,2023_2024,Emile Smith Rowe,343,0,2,73,62.4,72.2,128.0
+Kieran_Tierney,2023_2024,Kieran Tierney,0,0,0,0,0.0,0.0,0.0
+Takehiro_Tomiyasu,2023_2024,Takehiro Tomiyasu,1140,2,1,244,247.0,141.8,143.0
+Leandro_Trossard,2023_2024,Leandro Trossard,1633,12,2,398,563.6,384.7,746.0
+Benjamin_White,2023_2024,Benjamin White,2987,4,5,776,765.8,589.4,234.0
+Granit_Xhaka,2023_2024,Granit Xhaka,0,0,0,0,0.0,0.0,0.0
+Oleksandr_Zinchenko,2023_2024,Oleksandr Zinchenko,1717,1,2,468,395.4,474.8,133.0
+David_Raya Martin,2023_2024,David Raya Martin,2880,0,0,569,413.0,0.0,0.0
+Declan_Rice,2023_2024,Declan Rice,3225,7,9,744,959.4,745.3,451.0
+Reiss_Nelson,2023_2024,Reiss Nelson,256,0,0,58,42.8,87.7,39.0
+Jurriën_Timber,2023_2024,Jurriën Timber,70,0,0,4,5.8,4.7,2.0
+Karl_Hein,2023_2024,Karl Hein,0,0,0,0,0.0,0.0,0.0
+Charles_Sagoe,2023_2024,Charles Sagoe,0,0,0,0,0.0,0.0,0.0
+Reuell_Walters,2023_2024,Reuell Walters,0,0,0,0,0.0,0.0,0.0
+Bradley_Ibrahim,2023_2024,Bradley Ibrahim,0,0,0,0,0.0,0.0,0.0
+Myles_Lewis-Skelly,2023_2024,Myles Lewis-Skelly,0,0,0,0,0.0,0.0,0.0
+Ethan_Nwaneri,2023_2024,Ethan Nwaneri,13,0,0,3,2.0,12.3,4.0
+Mauro_Bandeira,2023_2024,Mauro Bandeira,0,0,0,0,0.0,0.0,0.0
+James_Sweet,2023_2024,James Sweet,0,0,0,0,0.0,0.0,0.0
+Alexandre_Moreno Lopera,2023_2024,Alexandre Moreno Lopera,1024,2,0,211,217.8,156.9,152.0
+Leon_Bailey,2023_2024,Leon Bailey,2063,10,11,482,663.2,707.1,623.0
+Emiliano_Buendía Stati,2023_2024,Emiliano Buendía Stati,0,0,0,0,0.0,0.0,0.0
+Matty_Cash,2023_2024,Matty Cash,2138,2,2,337,465.2,231.8,378.0
+Calum_Chambers,2023_2024,Calum Chambers,149,0,1,37,39.0,12.2,0.0
+Philippe_Coutinho Correia,2023_2024,Philippe Coutinho Correia,24,0,0,7,4.0,2.8,12.0
+Keinan_Davis,2023_2024,Keinan Davis,0,0,0,0,0.0,0.0,0.0
+Leander_Dendoncker,2023_2024,Leander Dendoncker,118,1,1,64,59.2,3.9,37.0
+Diego Carlos_Santos Silva,2023_2024,Diego Carlos Santos Silva,1809,0,0,338,370.4,59.8,100.0
+Lucas_Digne,2023_2024,Lucas Digne,2405,1,4,420,448.4,601.7,200.0
+Douglas Luiz_Soares de Paulo,2023_2024,Douglas Luiz Soares de Paulo,2994,9,5,666,761.8,867.0,381.0
+Jhon_Durán,2023_2024,Jhon Durán,461,5,1,162,190.2,55.2,165.0
+Kortney_Hause,2023_2024,Kortney Hause,0,0,0,0,0.0,0.0,0.0
+Tim_Iroegbunam,2023_2024,Tim Iroegbunam,157,0,0,29,18.6,4.0,0.0
+Boubacar_Kamara,2023_2024,Boubacar Kamara,1653,0,1,247,256.2,292.7,44.0
+Ezri_Konsa Ngoyo,2023_2024,Ezri Konsa Ngoyo,3069,1,1,562,554.4,170.6,223.0
+Emiliano_Martínez Romero,2023_2024,Emiliano Martínez Romero,3015,0,0,640,802.0,20.0,0.0
+John_McGinn,2023_2024,John McGinn,3000,6,5,502,640.4,690.7,360.0
+Tyrone_Mings,2023_2024,Tyrone Mings,30,0,0,5,3.6,13.0,5.0
+Robin_Olsen,2023_2024,Robin Olsen,405,0,0,107,194.6,0.0,0.0
+Jaden_Philogene-Bidace,2023_2024,Jaden Philogene-Bidace,3,0,0,3,0.4,0.3,2.0
+Jacob_Ramsey,2023_2024,Jacob Ramsey,848,1,1,101,124.0,159.3,182.0
+Morgan_Sanson,2023_2024,Morgan Sanson,0,0,0,0,0.0,0.0,0.0
+Viljami_Sinisalo,2023_2024,Viljami Sinisalo,0,0,0,0,0.0,0.0,0.0
+Youri_Tielemans,2023_2024,Youri Tielemans,1613,2,6,318,369.2,325.4,136.0
+Bertrand_Traoré,2023_2024,Bertrand Traoré,10,0,0,6,3.0,0.0,0.0
+Ollie_Watkins,2023_2024,Ollie Watkins,3222,19,18,752,1024.6,588.5,1420.0
+Wesley_Moraes Ferreira da Silva,2023_2024,Wesley Moraes Ferreira da Silva,0,0,0,0,0.0,0.0,0.0
+Pau_Torres,2023_2024,Pau Torres,2462,2,0,461,479.4,150.6,135.0
+Moussa_Diaby,2023_2024,Moussa Diaby,2168,6,11,429,515.4,617.8,675.0
+Omari_Kellyman,2023_2024,Omari Kellyman,35,0,0,6,2.6,0.5,2.0
+Filip_Marschall,2023_2024,Filip Marschall,0,0,0,0,0.0,0.0,0.0
+Nicolò_Zaniolo,2023_2024,Nicolò Zaniolo,824,2,0,36,146.8,120.1,357.0
+Oliwier_Zych,2023_2024,Oliwier Zych,0,0,0,0,0.0,0.0,0.0
+Clément_Lenglet,2023_2024,Clément Lenglet,1153,0,1,207,250.6,41.8,103.0
+Sam_Proctor,2023_2024,Sam Proctor,0,0,0,0,0.0,0.0,0.0
+Tommi_O'Reilly,2023_2024,Tommi O'Reilly,0,0,0,0,0.0,0.0,0.0
+James_Wright,2023_2024,James Wright,0,0,0,0,0.0,0.0,0.0
+Kaine_Kesler-Hayden,2023_2024,Kaine Kesler-Hayden,5,0,0,9,0.0,0.0,0.0
+Morgan_Rogers,2023_2024,Morgan Rogers,636,3,1,114,177.8,118.4,150.0
+Joe_Gauci,2023_2024,Joe Gauci,0,0,0,0,0.0,0.0,0.0
+Finley_Munroe,2023_2024,Finley Munroe,3,0,0,3,0.0,1.0,0.0
+Kadan_Young,2023_2024,Kadan Young,0,0,0,0,0.0,0.0,0.0
+Lander_Emery,2023_2024,Lander Emery,0,0,0,0,0.0,0.0,0.0
+Jaidon_Anthony,2023_2024,Jaidon Anthony,151,0,0,4,9.0,4.6,16.0
+Philip_Billing,2023_2024,Philip Billing,1385,2,3,228,304.2,313.5,267.0
+David_Brooks,2023_2024,David Brooks,271,1,1,71,88.2,112.4,113.0
+Ryan_Christie,2023_2024,Ryan Christie,2908,0,5,433,620.2,780.2,351.0
+Lewis_Cook,2023_2024,Lewis Cook,2787,0,3,446,520.2,681.9,67.0
+Siriki_Dembélé,2023_2024,Siriki Dembélé,0,0,0,0,0.0,0.0,0.0
+Ryan_Fredericks,2023_2024,Ryan Fredericks,0,0,0,0,0.0,0.0,0.0
+James_Hill,2023_2024,James Hill,74,0,0,22,32.6,2.2,0.0
+Lloyd_Kelly,2023_2024,Lloyd Kelly,1553,0,1,293,279.0,141.8,48.0
+Gavin_Kilkenny,2023_2024,Gavin Kilkenny,0,0,0,0,0.0,0.0,0.0
+Justin_Kluivert,2023_2024,Justin Kluivert,1910,7,1,229,362.2,283.2,619.0
+Jamal_Lowe,2023_2024,Jamal Lowe,0,0,0,0,0.0,0.0,0.0
+Emiliano_Marcondes,2023_2024,Emiliano Marcondes,0,0,0,0,0.0,0.0,0.0
+Chris_Mepham,2023_2024,Chris Mepham,613,0,1,113,142.6,40.0,27.0
+Kieffer_Moore,2023_2024,Kieffer Moore,100,1,0,38,37.4,27.9,81.0
+Norberto_Murara Neto,2023_2024,Norberto Murara Neto,2880,0,0,592,875.2,0.0,0.0
+Dango_Ouattara,2023_2024,Dango Ouattara,1214,1,2,207,298.4,245.4,332.0
+Ben_Pearson,2023_2024,Ben Pearson,0,0,0,0,0.0,0.0,0.0
+Darren_Randolph,2023_2024,Darren Randolph,0,0,0,0,0.0,0.0,0.0
+Joe_Rothwell,2023_2024,Joe Rothwell,380,0,0,54,45.8,63.9,5.0
+Antoine_Semenyo,2023_2024,Antoine Semenyo,2099,8,4,363,506.8,411.2,748.0
+Marcos_Senesi,2023_2024,Marcos Senesi,2239,4,5,486,735.0,311.2,147.0
+Adam_Smith,2023_2024,Adam Smith,2148,0,3,378,336.4,296.5,27.0
+Dominic_Solanke,2023_2024,Dominic Solanke,3325,19,3,560,902.0,479.6,1348.0
+Marcus_Tavernier,2023_2024,Marcus Tavernier,2118,3,4,324,468.4,649.4,460.0
+Hamed_Traorè,2023_2024,Hamed Traorè,44,0,0,10,12.8,14.8,30.0
+Mark_Travers,2023_2024,Mark Travers,360,0,0,79,92.6,0.0,0.0
+Illia_Zabarnyi,2023_2024,Illia Zabarnyi,3330,1,0,583,686.0,111.1,117.0
+Milos_Kerkez,2023_2024,Milos Kerkez,1966,0,2,290,310.0,216.5,150.0
+Ionuț_Radu,2023_2024,Ionuț Radu,180,0,0,31,33.0,0.0,0.0
+Ben_Greenwood,2023_2024,Ben Greenwood,0,0,0,0,0.0,0.0,0.0
+Max_Aarons,2023_2024,Max Aarons,1233,0,1,199,179.6,114.0,27.0
+Alex_Scott,2023_2024,Alex Scott,1003,1,1,163,197.0,294.7,116.0
+Tyler_Adams,2023_2024,Tyler Adams,118,0,0,28,24.6,14.1,10.0
+Luis_Sinisterra,2023_2024,Luis Sinisterra,685,2,2,149,221.4,251.4,343.0
+Romain_Faivre,2023_2024,Romain Faivre,37,0,0,9,5.0,2.5,13.0
+Max_Kinsey,2023_2024,Max Kinsey,0,0,0,0,0.0,0.0,0.0
+Enes_Ünal,2023_2024,Enes Ünal,317,2,4,99,142.4,58.6,242.0
+Dominic_Sadi,2023_2024,Dominic Sadi,1,0,0,3,0.0,0.0,0.0
+Michael_Dacosta Gonzalez,2023_2024,Michael Dacosta Gonzalez,0,0,0,0,0.0,0.0,0.0
+Callan_McKenna,2023_2024,Callan McKenna,0,0,0,0,0.0,0.0,0.0
+Kristoffer_Ajer,2023_2024,Kristoffer Ajer,1826,2,1,323,406.8,166.6,223.0
+Ellery_Balcombe,2023_2024,Ellery Balcombe,0,0,0,0,0.0,0.0,0.0
+Shandon_Baptiste,2023_2024,Shandon Baptiste,222,1,1,83,92.4,54.8,60.0
+Mads_Bech Sørensen,2023_2024,Mads Bech Sørensen,0,0,0,0,0.0,0.0,0.0
+Mads_Bidstrup,2023_2024,Mads Bidstrup,0,0,0,0,0.0,0.0,0.0
+Sergi_Canós Tenés,2023_2024,Sergi Canós Tenés,0,0,0,0,0.0,0.0,0.0
+Nathan_Collins,2023_2024,Nathan Collins,2649,1,1,489,653.8,151.5,180.0
+Matthew_Cox,2023_2024,Matthew Cox,0,0,0,0,0.0,0.0,0.0
+Mikkel_Damsgaard,2023_2024,Mikkel Damsgaard,829,0,4,155,162.6,179.1,103.0
+Josh_Dasilva,2023_2024,Josh Dasilva,22,0,0,6,6.8,15.4,14.0
+Halil_Dervişoğlu,2023_2024,Halil Dervişoğlu,0,0,0,0,0.0,0.0,0.0
+Mark_Flekken,2023_2024,Mark Flekken,3285,0,1,685,921.2,40.3,0.0
+Charlie_Goode,2023_2024,Charlie Goode,0,0,0,0,0.0,0.0,0.0
+Rico_Henry,2023_2024,Rico Henry,401,0,1,74,72.8,67.9,17.0
+Aaron_Hickey,2023_2024,Aaron Hickey,713,0,0,87,66.6,28.4,37.0
+Vitaly_Janelt,2023_2024,Vitaly Janelt,3054,1,4,466,503.4,562.5,285.0
+Mathias_Jensen,2023_2024,Mathias Jensen,2201,3,4,422,481.2,689.3,135.0
+Keane_Lewis-Potter,2023_2024,Keane Lewis-Potter,1428,3,2,186,280.0,203.8,573.0
+Bryan_Mbeumo,2023_2024,Bryan Mbeumo,1957,9,7,364,554.2,572.1,576.0
+Ben_Mee,2023_2024,Ben Mee,1272,2,1,210,334.8,88.2,118.0
+Christian_Nørgaard,2023_2024,Christian Nørgaard,2504,2,1,414,501.8,396.2,316.0
+Frank_Onyeka,2023_2024,Frank Onyeka,1147,1,2,150,259.0,178.3,189.0
+Ethan_Pinnock,2023_2024,Ethan Pinnock,2521,2,0,479,653.2,63.4,221.0
+Mads_Roerslev Rasmussen,2023_2024,Mads Roerslev Rasmussen,1975,1,2,354,382.0,281.3,94.0
+Kevin_Schade,2023_2024,Kevin Schade,327,2,2,81,105.8,58.3,100.0
+Thomas_Strakosha,2023_2024,Thomas Strakosha,135,0,0,24,42.8,0.0,0.0
+Ivan_Toney,2023_2024,Ivan Toney,1449,4,3,159,289.6,206.5,524.0
+Ryan_Trevitt,2023_2024,Ryan Trevitt,0,0,0,0,0.0,0.0,0.0
+Yoane_Wissa,2023_2024,Yoane Wissa,2488,12,4,457,592.8,384.0,769.0
+Yegor_Yarmoliuk,2023_2024,Yegor Yarmoliuk,670,0,0,95,98.4,66.9,127.0
+Mathias_Jorgensen,2023_2024,Mathias Jorgensen,1086,1,0,179,216.0,94.0,90.0
+Neal_Maupay,2023_2024,Neal Maupay,1417,6,3,248,325.8,242.5,568.0
+Sergio_Reguilón,2023_2024,Sergio Reguilón,1524,0,6,350,390.2,436.3,111.0
+Michael_Olakigbe,2023_2024,Michael Olakigbe,51,0,0,14,4.8,4.1,27.0
+Ethan_Brierley,2023_2024,Ethan Brierley,0,0,0,0,0.0,0.0,0.0
+Saman_Ghoddos,2023_2024,Saman Ghoddos,728,1,0,127,139.8,163.8,45.0
+Ji-Soo_Kim,2023_2024,Ji-Soo Kim,0,0,0,0,0.0,0.0,0.0
+Valintino_Adedokun,2023_2024,Valintino Adedokun,0,0,0,0,0.0,0.0,0.0
+Myles_Peart-Harris,2023_2024,Myles Peart-Harris,11,0,0,6,2.2,10.9,2.0
+Vincent_Angelini,2023_2024,Vincent Angelini,0,0,0,0,0.0,0.0,0.0
+Hákon_Valdimarsson,2023_2024,Hákon Valdimarsson,0,0,0,0,0.0,0.0,0.0
+Benjamin_Fredrick,2023_2024,Benjamin Fredrick,0,0,0,0,0.0,0.0,0.0
+Benjamin_Arthur,2023_2024,Benjamin Arthur,0,0,0,0,0.0,0.0,0.0
+Yunus_Konak,2023_2024,Yunus Konak,0,0,0,0,0.0,0.0,0.0
+Simon_Adingra,2023_2024,Simon Adingra,2220,6,1,330,477.6,507.8,751.0
+Steven_Alzate,2023_2024,Steven Alzate,0,0,0,0,0.0,0.0,0.0
+Yasin_Ayari,2023_2024,Yasin Ayari,0,0,0,0,0.0,0.0,0.0
+Facundo_Buonanotte,2023_2024,Facundo Buonanotte,1356,3,1,160,254.8,291.3,238.0
+Aaron_Connolly,2023_2024,Aaron Connolly,0,0,0,0,0.0,0.0,0.0
+Mahmoud_Dahoud,2023_2024,Mahmoud Dahoud,449,0,1,68,70.4,127.2,24.0
+Lewis_Dunk,2023_2024,Lewis Dunk,2869,3,1,567,823.0,205.4,389.0
+Julio_Enciso,2023_2024,Julio Enciso,468,0,2,62,81.0,131.7,157.0
+Pervis_Estupiñán,2023_2024,Pervis Estupiñán,1242,2,3,291,350.8,382.6,156.0
+Evan_Ferguson,2023_2024,Evan Ferguson,1356,6,1,218,275.0,106.7,393.0
+Billy_Gilmour,2023_2024,Billy Gilmour,2116,0,3,354,291.4,481.5,104.0
+Pascal_Groß,2023_2024,Pascal Groß,3112,4,11,724,988.6,1674.9,434.0
+João Pedro_Junqueira de Jesus,2023_2024,João Pedro Junqueira de Jesus,2037,9,3,406,622.4,578.8,932.0
+Michał_Karbownik,2023_2024,Michał Karbownik,0,0,0,0,0.0,0.0,0.0
+Kacper_Kozłowski,2023_2024,Kacper Kozłowski,0,0,0,0,0.0,0.0,0.0
+Adam_Lallana,2023_2024,Adam Lallana,839,0,1,95,83.0,248.7,130.0
+Tariq_Lamptey,2023_2024,Tariq Lamptey,908,0,3,155,144.6,173.7,60.0
+Solly_March,2023_2024,Solly March,555,3,1,134,197.4,126.5,139.0
+Tom_McGill,2023_2024,Tom McGill,0,0,0,0,0.0,0.0,0.0
+James_Milner,2023_2024,James Milner,770,0,2,146,152.8,253.5,61.0
+Kaoru_Mitoma,2023_2024,Kaoru Mitoma,1485,3,7,252,327.6,375.1,636.0
+Jakub_Moder,2023_2024,Jakub Moder,608,0,0,89,87.2,82.3,84.0
+Jeremy_Sarmiento Morante,2023_2024,Jeremy Sarmiento Morante,0,0,0,0,0.0,0.0,0.0
+Kjell_Scherpen,2023_2024,Kjell Scherpen,0,0,0,0,0.0,0.0,0.0
+Jason_Steele,2023_2024,Jason Steele,1530,0,0,300,382.2,0.1,0.0
+Deniz_Undav,2023_2024,Deniz Undav,0,0,0,0,0.0,0.0,0.0
+Jan Paul_van Hecke,2023_2024,Jan Paul van Hecke,2368,0,0,454,631.8,176.4,175.0
+Joël_Veltman,2023_2024,Joël Veltman,1579,1,1,294,320.8,97.8,98.0
+Bart_Verbruggen,2023_2024,Bart Verbruggen,1890,0,0,417,541.4,1.0,0.0
+Adam_Webster,2023_2024,Adam Webster,1142,0,0,212,252.2,89.3,54.0
+Danny_Welbeck,2023_2024,Danny Welbeck,1687,5,4,261,326.2,320.9,492.0
+Andi_Zeqiri,2023_2024,Andi Zeqiri,0,0,0,0,0.0,0.0,0.0
+Igor Julio_dos Santos de Paulo,2023_2024,Igor Julio dos Santos de Paulo,1631,0,0,311,297.8,135.5,23.0
+Jack_Hinshelwood,2023_2024,Jack Hinshelwood,866,3,0,155,200.2,118.9,230.0
+Carlos_Baleba,2023_2024,Carlos Baleba,1314,0,0,174,179.8,134.7,72.0
+Anssumane_Fati Vieira,2023_2024,Anssumane Fati Vieira,509,2,1,84,121.4,92.1,292.0
+Mark_O’Mahony,2023_2024,Mark O’Mahony,61,0,0,5,6.0,1.6,6.0
+Benicio_Baker-Boaitey,2023_2024,Benicio Baker-Boaitey,37,0,0,10,4.6,12.6,4.0
+Ben_Jackson,2023_2024,Ben Jackson,0,0,0,0,0.0,0.0,0.0
+Joshua_Duffus,2023_2024,Joshua Duffus,0,0,0,0,0.0,0.0,0.0
+Leigh_Kavanagh,2023_2024,Leigh Kavanagh,0,0,0,0,0.0,0.0,0.0
+Luca_Barrington,2023_2024,Luca Barrington,0,0,0,0,0.0,0.0,0.0
+Cameron_Peupion,2023_2024,Cameron Peupion,0,0,0,0,0.0,0.0,0.0
+Valentín_Barco,2023_2024,Valentín Barco,307,0,0,33,44.8,69.6,39.0
+Samy_Chouchane,2023_2024,Samy Chouchane,0,0,0,0,0.0,0.0,0.0
+Odeluga_Offiah,2023_2024,Odeluga Offiah,126,0,0,21,6.4,5.5,4.0
+Noël_Atom,2023_2024,Noël Atom,0,0,0,0,0.0,0.0,0.0
+Enock_Agyei,2023_2024,Enock Agyei,0,0,0,0,0.0,0.0,0.0
+Ameen_Al-Dakhil,2023_2024,Ameen Al-Dakhil,1055,1,0,127,193.0,42.8,84.0
+Samuel_Bastien,2023_2024,Samuel Bastien,0,0,0,0,0.0,0.0,0.0
+Manuel Benson_Hedilazio,2023_2024,Manuel Benson Hedilazio,110,0,0,22,17.6,26.4,30.0
+Jordan_Beyer,2023_2024,Jordan Beyer,1234,0,1,236,330.8,46.1,35.0
+Josh_Brownhill,2023_2024,Josh Brownhill,2248,4,2,365,499.0,501.5,234.0
+Darko_Churlinov,2023_2024,Darko Churlinov,0,0,0,0,0.0,0.0,0.0
+Jack_Cork,2023_2024,Jack Cork,25,0,0,8,4.2,5.2,2.0
+Dara_Costelloe,2023_2024,Dara Costelloe,0,0,0,0,0.0,0.0,0.0
+Josh_Cullen,2023_2024,Josh Cullen,2055,2,4,375,458.0,426.7,106.0
+CJ_Egan-Riley,2023_2024,CJ Egan-Riley,0,0,0,0,0.0,0.0,0.0
+Hjalmar_Ekdal,2023_2024,Hjalmar Ekdal,436,0,0,77,76.6,15.9,15.0
+Lyle_Foster,2023_2024,Lyle Foster,1898,5,3,229,364.2,263.4,467.0
+Denis_Franchi,2023_2024,Denis Franchi,0,0,0,0,0.0,0.0,0.0
+Jóhann Berg_Gudmundsson,2023_2024,Jóhann Berg Gudmundsson,1185,1,3,193,234.6,515.6,158.0
+Luke_McNally,2023_2024,Luke McNally,0,0,0,0,0.0,0.0,0.0
+Arijanet_Muric,2023_2024,Arijanet Muric,900,0,0,241,513.0,40.3,0.0
+Dara_O'Shea,2023_2024,Dara O'Shea,2892,3,4,478,772.0,189.7,213.0
+Michael_Obafemi,2023_2024,Michael Obafemi,19,0,0,4,0.0,0.6,17.0
+Bailey_Peacock-Farrell,2023_2024,Bailey Peacock-Farrell,0,0,0,0,0.0,0.0,0.0
+Connor_Roberts,2023_2024,Connor Roberts,817,0,1,111,142.8,104.1,12.0
+Jay_Rodriguez,2023_2024,Jay Rodriguez,811,2,1,108,138.8,66.2,232.0
+Charlie_Taylor,2023_2024,Charlie Taylor,2329,1,1,347,395.6,275.7,59.0
+Bobby_Thomas,2023_2024,Bobby Thomas,0,0,0,0,0.0,0.0,0.0
+Scott_Twine,2023_2024,Scott Twine,0,0,0,0,0.0,0.0,0.0
+Lawrence_Vigouroux,2023_2024,Lawrence Vigouroux,0,0,0,0,0.0,0.0,0.0
+Victor_da Silva,2023_2024,Victor da Silva,2311,0,3,259,305.4,200.8,228.0
+Wout_Weghorst,2023_2024,Wout Weghorst,0,0,0,0,0.0,0.0,0.0
+Anass_Zaroury,2023_2024,Anass Zaroury,149,0,0,10,6.8,36.3,19.0
+David Datro_Fofana,2023_2024,David Datro Fofana,876,4,1,133,212.0,111.7,273.0
+Sander_Berge,2023_2024,Sander Berge,3002,1,2,430,533.6,446.3,161.0
+Zeki_Amdouni,2023_2024,Zeki Amdouni,1953,5,1,243,372.8,246.5,509.0
+James_Trafford,2023_2024,James Trafford,2520,0,0,533,903.6,3.3,0.0
+Nathan_Redmond,2023_2024,Nathan Redmond,132,0,0,38,23.8,52.5,18.0
+Luca_Koleosho,2023_2024,Luca Koleosho,972,1,2,80,86.8,147.9,213.0
+Jacob_Bruun Larsen,2023_2024,Jacob Bruun Larsen,1235,6,0,237,335.8,416.5,448.0
+Owen_Dodgson,2023_2024,Owen Dodgson,0,0,0,0,0.0,0.0,0.0
+Wilson_Odobert,2023_2024,Wilson Odobert,2095,3,4,303,331.0,435.4,445.0
+Hannes_Delcroix,2023_2024,Hannes Delcroix,584,0,0,88,110.0,57.8,42.0
+Aaron_Ramsey,2023_2024,Aaron Ramsey,522,0,0,62,51.2,28.0,53.0
+Han-Noah_Massengo,2023_2024,Han-Noah Massengo,14,0,0,11,2.8,0.1,0.0
+Mike_Trésor,2023_2024,Mike Trésor,410,0,0,73,44.4,110.5,24.0
+Lorenz_Assignon,2023_2024,Lorenz Assignon,1235,1,2,140,270.2,176.0,119.0
+Maxime_Esteve,2023_2024,Maxime Esteve,1310,0,0,157,229.2,38.9,29.0
+Moisés_Caicedo Corozo,2023_2024,Moisés Caicedo Corozo,2865,1,3,466,613.6,403.2,68.0
+Robert_Sánchez,2023_2024,Robert Sánchez,1433,0,0,317,450.6,0.1,0.0
+Ethan_Ampadu,2023_2024,Ethan Ampadu,0,0,0,0,0.0,0.0,0.0
+Andrey_Nascimento dos Santos,2023_2024,Andrey Nascimento dos Santos,7,0,0,1,0.0,0.5,3.0
+Kepa_Arrizabalaga,2023_2024,Kepa Arrizabalaga,0,0,0,0,0.0,0.0,0.0
+Pierre-Emerick_Aubameyang,2023_2024,Pierre-Emerick Aubameyang,0,0,0,0,0.0,0.0,0.0
+César_Azpilicueta,2023_2024,César Azpilicueta,0,0,0,0,0.0,0.0,0.0
+Abdul Rahman_Baba,2023_2024,Abdul Rahman Baba,0,0,0,0,0.0,0.0,0.0
+Benoît_Badiashile,2023_2024,Benoît Badiashile,1337,0,1,267,336.4,87.4,51.0
+Marcus_Bettinelli,2023_2024,Marcus Bettinelli,0,0,0,-3,0.0,0.0,0.0
+Trevoh_Chalobah,2023_2024,Trevoh Chalobah,949,1,0,221,250.8,45.4,38.0
+Ben_Chilwell,2023_2024,Ben Chilwell,752,0,2,123,128.4,212.8,139.0
+Carney_Chukwuemeka,2023_2024,Carney Chukwuemeka,222,1,1,53,78.4,68.6,52.0
+Levi_Colwill,2023_2024,Levi Colwill,1794,1,1,355,394.6,113.2,163.0
+Marc_Cucurella Saseta,2023_2024,Marc Cucurella Saseta,1783,0,3,318,384.4,283.9,122.0
+Enzo_Fernández,2023_2024,Enzo Fernández,2208,3,3,369,527.2,567.7,369.0
+Wesley_Fofana,2023_2024,Wesley Fofana,0,0,0,0,0.0,0.0,0.0
+Conor_Gallagher,2023_2024,Conor Gallagher,3129,5,8,618,754.8,821.5,401.0
+Malo_Gusto,2023_2024,Malo Gusto,1746,0,6,409,434.8,494.8,174.0
+Reece_James,2023_2024,Reece James,416,0,2,106,137.4,172.1,61.0
+Romelu_Lukaku Bolingoli,2023_2024,Romelu Lukaku Bolingoli,0,0,0,0,0.0,0.0,0.0
+Noni_Madueke,2023_2024,Noni Madueke,1044,5,3,253,341.6,287.5,401.0
+Mykhailo_Mudryk,2023_2024,Mykhailo Mudryk,1564,5,5,291,347.2,457.5,420.0
+Nicolas_Jackson,2023_2024,Nicolas Jackson,2801,14,6,479,783.8,501.7,1098.0
+Christopher_Nkunku,2023_2024,Christopher Nkunku,437,3,0,96,134.6,74.5,222.0
+Christian_Pulisic,2023_2024,Christian Pulisic,0,0,0,0,0.0,0.0,0.0
+Malang_Sarr,2023_2024,Malang Sarr,0,0,0,0,0.0,0.0,0.0
+Gabriel_Słonina,2023_2024,Gabriel Słonina,0,0,0,0,0.0,0.0,0.0
+Raheem_Sterling,2023_2024,Raheem Sterling,1972,8,8,323,502.8,473.7,747.0
+Thiago_Emiliano da Silva,2023_2024,Thiago Emiliano da Silva,2525,3,1,604,797.0,138.7,165.0
+Hakim_Ziyech,2023_2024,Hakim Ziyech,0,0,0,0,0.0,0.0,0.0
+Cole_Palmer,2023_2024,Cole Palmer,2617,22,13,844,1240.2,1022.5,1016.0
+Ângelo Gabriel_Borges Damaceno,2023_2024,Ângelo Gabriel Borges Damaceno,0,0,0,0,0.0,0.0,0.0
+Ian_Maatsen,2023_2024,Ian Maatsen,200,0,0,24,29.4,44.8,29.0
+Axel_Disasi,2023_2024,Axel Disasi,2579,2,0,468,573.2,105.5,172.0
+Lesley_Ugochukwu,2023_2024,Lesley Ugochukwu,296,0,0,62,60.8,44.4,4.0
+Mason_Burstow,2023_2024,Mason Burstow,8,0,0,6,0.4,0.6,2.0
+Lucas_Bergström,2023_2024,Lucas Bergström,0,0,0,0,0.0,0.0,0.0
+Roméo_Lavia,2023_2024,Roméo Lavia,32,0,0,2,3.6,1.9,0.0
+Bashir_Humphreys,2023_2024,Bashir Humphreys,0,0,0,0,0.0,0.0,0.0
+Deivid Washington_de Souza Eugênio,2023_2024,Deivid Washington de Souza Eugênio,11,0,0,5,0.0,0.1,4.0
+Eddie_Beach,2023_2024,Eddie Beach,0,0,0,0,0.0,0.0,0.0
+Diego Manuel Jadon_da Silva Moreira,2023_2024,Diego Manuel Jadon da Silva Moreira,0,0,0,0,0.0,0.0,0.0
+Đorđe_Petrović,2023_2024,Đorđe Petrović,1986,0,0,414,567.8,0.0,0.0
+Alfie_Gilchrist,2023_2024,Alfie Gilchrist,200,1,0,67,70.6,8.6,33.0
+Ronnie_Stutter,2023_2024,Ronnie Stutter,0,0,0,0,0.0,0.0,0.0
+Alex_Matos,2023_2024,Alex Matos,1,0,0,2,0.0,0.0,0.0
+Josh_Brooking,2023_2024,Josh Brooking,0,0,0,0,0.0,0.0,0.0
+Leo_Castledine,2023_2024,Leo Castledine,0,0,0,0,0.0,0.0,0.0
+Cesare_Casadei,2023_2024,Cesare Casadei,71,0,0,38,19.8,27.4,2.0
+Ishé_Samuels-Smith,2023_2024,Ishé Samuels-Smith,0,0,0,0,0.0,0.0,0.0
+Ollie_Harrison,2023_2024,Ollie Harrison,0,0,0,0,0.0,0.0,0.0
+Jimi_Tauriainen,2023_2024,Jimi Tauriainen,1,0,0,3,0.0,0.0,0.0
+Josh_Acheampong,2023_2024,Josh Acheampong,5,0,0,4,15.0,0.0,0.0
+Teddy_Sharman-Lowe,2023_2024,Teddy Sharman-Lowe,0,0,0,0,0.0,0.0,0.0
+Tyrique_George,2023_2024,Tyrique George,0,0,0,0,0.0,0.0,0.0
+Kiano_Dyer,2023_2024,Kiano Dyer,0,0,0,0,0.0,0.0,0.0
+Ted_Curd,2023_2024,Ted Curd,0,0,0,0,0.0,0.0,0.0
+Zak_Sturge,2023_2024,Zak Sturge,0,0,0,0,0.0,0.0,0.0
+Rob_Holding,2023_2024,Rob Holding,0,0,0,0,0.0,0.0,0.0
+Naouirou_Ahamada,2023_2024,Naouirou Ahamada,332,0,0,52,41.2,25.2,61.0
+Joachim_Andersen,2023_2024,Joachim Andersen,3416,2,3,679,873.6,301.1,253.0
+Jordan_Ayew,2023_2024,Jordan Ayew,2540,4,7,325,517.6,445.2,550.0
+Nathaniel_Clyne,2023_2024,Nathaniel Clyne,1335,0,1,259,179.6,67.8,21.0
+Cheick_Doucouré,2023_2024,Cheick Doucouré,920,0,0,141,165.8,138.5,36.0
+Malcolm_Ebiowei,2023_2024,Malcolm Ebiowei,0,0,0,0,0.0,0.0,0.0
+Odsonne_Edouard,2023_2024,Odsonne Edouard,1545,7,0,246,359.6,256.7,663.0
+Eberechi_Eze,2023_2024,Eberechi Eze,2054,11,5,490,740.4,810.0,735.0
+Vicente_Guaita,2023_2024,Vicente Guaita,0,0,0,0,0.0,0.0,0.0
+Marc_Guéhi,2023_2024,Marc Guéhi,2020,0,1,397,417.8,106.6,35.0
+Will_Hughes,2023_2024,Will Hughes,1886,0,2,252,319.2,338.6,67.0
+Sam_Johnstone,2023_2024,Sam Johnstone,1796,0,0,310,321.4,0.0,0.0
+Jefferson_Lerma Solís,2023_2024,Jefferson Lerma Solís,2399,1,1,338,417.6,366.1,240.0
+Jean-Philippe_Mateta,2023_2024,Jean-Philippe Mateta,2274,16,7,563,775.0,404.0,741.0
+Remi_Matthews,2023_2024,Remi Matthews,3,0,0,3,1.0,0.0,0.0
+Tyrick_Mitchell,2023_2024,Tyrick Mitchell,3204,2,3,590,669.8,393.7,209.0
+Jake_O'Brien,2023_2024,Jake O'Brien,0,0,0,0,0.0,0.0,0.0
+Michael_Olise,2023_2024,Michael Olise,1272,10,6,438,627.6,568.7,556.0
+Luke_Plange,2023_2024,Luke Plange,0,0,0,0,0.0,0.0,0.0
+Chris_Richards,2023_2024,Chris Richards,2091,1,1,370,456.2,87.5,108.0
+Jairo_Riedewald,2023_2024,Jairo Riedewald,228,0,0,35,24.6,9.3,14.0
+Jeffrey_Schlupp,2023_2024,Jeffrey Schlupp,1340,2,2,201,279.8,234.2,229.0
+James_Tomkins,2023_2024,James Tomkins,8,0,0,12,3.0,0.3,0.0
+Joel_Ward,2023_2024,Joel Ward,1978,0,1,304,348.2,79.0,41.0
+Joe_Whitworth,2023_2024,Joe Whitworth,0,0,0,0,0.0,0.0,0.0
+Dean_Henderson,2023_2024,Dean Henderson,1620,0,0,293,434.8,0.0,0.0
+Matheus_França de Oliveira,2023_2024,Matheus França de Oliveira,224,0,2,47,36.4,77.7,53.0
+Jesurun_Rak-Sakyi,2023_2024,Jesurun Rak-Sakyi,132,0,0,21,23.2,28.2,58.0
+John-Kymani_Gordon,2023_2024,John-Kymani Gordon,0,0,0,0,0.0,0.0,0.0
+Ademola_Ola-Adebomi,2023_2024,Ademola Ola-Adebomi,0,0,0,0,0.0,0.0,0.0
+David_Ozoh,2023_2024,David Ozoh,148,0,0,27,25.2,4.0,0.0
+Jadan_Raymond,2023_2024,Jadan Raymond,0,0,0,0,0.0,0.0,0.0
+Tayo_Adaramola,2023_2024,Tayo Adaramola,0,0,0,0,0.0,0.0,0.0
+Daniel_Muñoz,2023_2024,Daniel Muñoz,1440,0,4,270,331.0,265.6,119.0
+Adam_Wharton,2023_2024,Adam Wharton,1296,0,3,222,255.0,287.9,29.0
+Franco_Umeh-Chibueze,2023_2024,Franco Umeh-Chibueze,0,0,0,0,0.0,0.0,0.0
+Kaden_Rodney,2023_2024,Kaden Rodney,0,0,0,0,0.0,0.0,0.0
+Roshaun_Mathurin,2023_2024,Roshaun Mathurin,0,0,0,0,0.0,0.0,0.0
+André_Tavares Gomes,2023_2024,André Tavares Gomes,505,1,0,64,72.8,88.3,81.0
+Jarrad_Branthwaite,2023_2024,Jarrad Branthwaite,3116,3,1,621,789.4,67.2,185.0
+Dominic_Calvert-Lewin,2023_2024,Dominic Calvert-Lewin,2166,7,3,259,403.0,255.6,901.0
+Seamus_Coleman,2023_2024,Seamus Coleman,661,0,0,141,108.6,49.9,6.0
+Dele_Alli,2023_2024,Dele Alli,0,0,0,0,0.0,0.0,0.0
+Abdoulaye_Doucouré,2023_2024,Abdoulaye Doucouré,2632,7,3,335,462.4,456.5,687.0
+James_Garner,2023_2024,James Garner,3001,1,2,421,526.6,663.1,244.0
+Jean-Philippe_Gbamin,2023_2024,Jean-Philippe Gbamin,0,0,0,0,0.0,0.0,0.0
+Ben_Godfrey,2023_2024,Ben Godfrey,1120,0,0,166,221.4,64.9,156.0
+Demarai_Gray,2023_2024,Demarai Gray,0,0,0,0,0.0,0.0,0.0
+Idrissa_Gueye,2023_2024,Idrissa Gueye,1885,4,0,337,406.8,237.1,154.0
+Michael_Keane,2023_2024,Michael Keane,437,1,0,72,108.2,4.6,92.0
+Dwight_McNeil,2023_2024,Dwight McNeil,2891,3,8,515,615.4,1110.8,400.0
+Vitalii_Mykolenko,2023_2024,Vitalii Mykolenko,2469,2,1,452,517.4,239.8,211.0
+Amadou_Onana,2023_2024,Amadou Onana,2085,2,0,304,354.0,282.7,254.0
+Nathan_Patterson,2023_2024,Nathan Patterson,1000,0,2,187,207.2,138.2,26.0
+Jordan_Pickford,2023_2024,Jordan Pickford,3420,0,0,734,969.2,43.4,0.0
+Ellis_Simms,2023_2024,Ellis Simms,0,0,0,0,0.0,0.0,0.0
+James_Tarkowski,2023_2024,James Tarkowski,3420,1,1,649,915.4,269.6,320.0
+João_Neves Virgínia,2023_2024,João Neves Virgínia,0,0,0,0,0.0,0.0,0.0
+Andy_Lonergan,2023_2024,Andy Lonergan,0,0,0,0,0.0,0.0,0.0
+Ashley_Young,2023_2024,Ashley Young,2277,0,1,375,284.8,365.2,87.0
+Arnaut_Danjuma Groeneveld,2023_2024,Arnaut Danjuma Groeneveld,587,1,0,53,73.6,79.3,271.0
+Lewis_Dobbin,2023_2024,Lewis Dobbin,226,1,0,54,68.4,50.5,59.0
+Youssef_Ramalho Chermiti,2023_2024,Youssef Ramalho Chermiti,196,0,0,28,19.2,51.2,84.0
+Thomas_Cannon,2023_2024,Thomas Cannon,1,0,0,3,0.0,0.0,0.0
+Tyler_Onyango,2023_2024,Tyler Onyango,1,0,0,3,0.0,0.0,0.0
+Jack_Harrison,2023_2024,Jack Harrison,2212,3,3,292,397.4,405.7,339.0
+Norberto Bercique_Gomes Betuncal,2023_2024,Norberto Bercique Gomes Betuncal,943,3,0,105,158.8,139.6,425.0
+Mackenzie_Hunt,2023_2024,Mackenzie Hunt,0,0,0,0,0.0,0.0,0.0
+Jenson_Metcalfe,2023_2024,Jenson Metcalfe,0,0,0,0,0.0,0.0,0.0
+Elijah_Campbell,2023_2024,Elijah Campbell,0,0,0,0,0.0,0.0,0.0
+Lewis_Warrington,2023_2024,Lewis Warrington,1,0,0,3,0.0,0.0,0.0
+Billy_Crellin,2023_2024,Billy Crellin,0,0,0,0,0.0,0.0,0.0
+Armando_Broja,2023_2024,Armando Broja,529,1,2,72,75.6,70.3,152.0
+Alex_Iwobi,2023_2024,Alex Iwobi,2331,5,2,425,504.2,718.8,534.0
+Andreas_Hoelgebaum Pereira,2023_2024,Andreas Hoelgebaum Pereira,2611,3,9,459,503.6,1254.3,417.0
+Tom_Cairney,2023_2024,Tom Cairney,1472,1,6,346,335.2,407.2,170.0
+Ivan_Neves Abreu Cavaleiro,2023_2024,Ivan Neves Abreu Cavaleiro,0,0,0,0,0.0,0.0,0.0
+Bobby_De Cordova-Reid,2023_2024,Bobby De Cordova-Reid,1410,6,3,290,330.6,255.3,325.0
+Issa_Diop,2023_2024,Issa Diop,1423,0,0,259,348.8,20.5,37.0
+Tyrese_Francois,2023_2024,Tyrese Francois,0,0,0,0,0.0,0.0,0.0
+Anthony_Knockaert,2023_2024,Anthony Knockaert,0,0,0,0,0.0,0.0,0.0
+Terence_Kongolo,2023_2024,Terence Kongolo,0,0,0,0,0.0,0.0,0.0
+Bernd_Leno,2023_2024,Bernd Leno,3420,0,0,782,1069.8,0.1,0.0
+Saša_Lukić,2023_2024,Saša Lukić,1113,1,0,157,192.4,155.6,115.0
+Kevin_Mbabu,2023_2024,Kevin Mbabu,0,0,0,0,0.0,0.0,0.0
+Aleksandar_Mitrović,2023_2024,Aleksandar Mitrović,32,0,0,6,6.4,0.3,26.0
+Rodrigo_Muniz Carvalho,2023_2024,Rodrigo Muniz Carvalho,1589,9,2,299,409.0,213.1,875.0
+João_Palhinha Gonçalves,2023_2024,João Palhinha Gonçalves,2698,4,1,387,659.2,219.0,365.0
+Tim_Ream,2023_2024,Tim Ream,1503,1,0,267,339.8,18.2,45.0
+Harrison_Reed,2023_2024,Harrison Reed,1317,0,2,205,213.8,212.6,45.0
+Antonee_Robinson,2023_2024,Antonee Robinson,3266,0,6,662,805.8,536.7,241.0
+Marek_Rodák,2023_2024,Marek Rodák,0,0,0,-3,0.0,0.0,0.0
+Kenny_Tete,2023_2024,Kenny Tete,863,1,0,161,195.2,93.4,67.0
+Tosin_Adarabioyo,2023_2024,Tosin Adarabioyo,1616,2,0,327,431.8,39.3,152.0
+Carlos Vinícius_Alves Morais,2023_2024,Carlos Vinícius Alves Morais,306,2,0,77,83.6,61.3,139.0
+Harry_Wilson,2023_2024,Harry Wilson,1603,4,7,307,375.0,357.3,340.0
+Raúl_Jiménez,2023_2024,Raúl Jiménez,1390,7,0,237,335.8,185.9,440.0
+Willian_Borges da Silva,2023_2024,Willian Borges da Silva,2048,4,3,390,416.4,701.3,439.0
+Calvin_Bassey,2023_2024,Calvin Bassey,2299,1,0,442,462.8,34.8,50.0
+Luc_De Fougerolles,2023_2024,Luc De Fougerolles,0,0,0,0,0.0,0.0,0.0
+Jay_Stansfield,2023_2024,Jay Stansfield,0,0,0,0,0.0,0.0,0.0
+Matthew_Dibley-Dias,2023_2024,Matthew Dibley-Dias,0,0,0,0,0.0,0.0,0.0
+Adama_Traoré,2023_2024,Adama Traoré,363,2,3,113,164.2,108.1,140.0
+Luke_Harris,2023_2024,Luke Harris,74,0,0,2,3.2,0.7,17.0
+Timothy_Castagne,2023_2024,Timothy Castagne,2630,1,3,510,494.4,295.0,229.0
+Steven_Benda,2023_2024,Steven Benda,0,0,0,0,0.0,0.0,0.0
+Fodé_Ballo-Touré,2023_2024,Fodé Ballo-Touré,65,0,0,18,13.6,2.2,2.0
+Devan_Tanton,2023_2024,Devan Tanton,0,0,0,0,0.0,0.0,0.0
+Kristian_Sekularac,2023_2024,Kristian Sekularac,0,0,0,0,0.0,0.0,0.0
+Joshua_King,2023_2024,Joshua King,0,0,0,0,0.0,0.0,0.0
+Adrián_San Miguel del Castillo,2023_2024,Adrián San Miguel del Castillo,0,0,0,0,0.0,0.0,0.0
+Trent_Alexander-Arnold,2023_2024,Trent Alexander-Arnold,2153,3,5,590,601.8,1027.5,237.0
+Alisson_Ramses Becker,2023_2024,Alisson Ramses Becker,2520,0,0,575,671.2,10.4,0.0
+Stefan_Bajcetic,2023_2024,Stefan Bajcetic,25,0,0,3,7.8,0.3,0.0
+Darwin_Núñez Ribeiro,2023_2024,Darwin Núñez Ribeiro,2033,11,11,397,660.8,439.1,1223.0
+Diogo_Teixeira da Silva,2023_2024,Diogo Teixeira da Silva,1141,10,7,328,483.8,290.2,639.0
+Harvey_Elliott,2023_2024,Harvey Elliott,1330,3,9,402,417.2,570.0,391.0
+Fabio Henrique_Tavares,2023_2024,Fabio Henrique Tavares,0,0,0,0,0.0,0.0,0.0
+Cody_Gakpo,2023_2024,Cody Gakpo,1633,8,5,409,521.4,348.2,708.0
+Joe_Gomez,2023_2024,Joe Gomez,1772,0,2,390,316.0,338.3,119.0
+Jordan_Henderson,2023_2024,Jordan Henderson,0,0,0,0,0.0,0.0,0.0
+Curtis_Jones,2023_2024,Curtis Jones,1156,1,1,171,174.0,203.2,195.0
+Caoimhin_Kelleher,2023_2024,Caoimhin Kelleher,900,0,0,198,261.2,10.0,0.0
+Ibrahima_Konaté,2023_2024,Ibrahima Konaté,1570,0,0,315,357.4,139.9,87.0
+Luis_Díaz,2023_2024,Luis Díaz,2625,8,7,413,613.0,844.0,1190.0
+Alexis_Mac Allister,2023_2024,Alexis Mac Allister,2600,5,5,512,712.4,726.7,224.0
+Joel_Matip,2023_2024,Joel Matip,779,0,0,145,192.8,33.3,35.0
+Nathaniel_Phillips,2023_2024,Nathaniel Phillips,0,0,0,0,0.0,0.0,0.0
+Andrew_Robertson,2023_2024,Andrew Robertson,1689,3,2,463,552.2,936.1,230.0
+Mohamed_Salah,2023_2024,Mohamed Salah,2531,18,12,621,1033.8,892.2,1531.0
+Dominik_Szoboszlai,2023_2024,Dominik Szoboszlai,2102,3,4,437,423.4,830.0,377.0
+Thiago_Alcántara do Nascimento,2023_2024,Thiago Alcántara do Nascimento,5,0,0,3,0.6,0.4,0.0
+Konstantinos_Tsimikas,2023_2024,Konstantinos Tsimikas,675,0,3,201,158.8,267.5,35.0
+Sepp_van den Berg,2023_2024,Sepp van den Berg,0,0,0,0,0.0,0.0,0.0
+Virgil_van Dijk,2023_2024,Virgil van Dijk,3177,2,2,662,911.2,176.3,449.0
+Jarell_Quansah,2023_2024,Jarell Quansah,1188,2,0,263,331.6,58.8,104.0
+Bobby_Clark,2023_2024,Bobby Clark,86,0,0,7,11.6,5.3,19.0
+Ben_Doak,2023_2024,Ben Doak,13,0,0,3,0.2,0.8,0.0
+James_McConnell,2023_2024,James McConnell,3,0,0,8,1.0,0.4,0.0
+Wataru_Endo,2023_2024,Wataru Endo,1714,1,0,250,281.6,269.5,53.0
+Ryan_Gravenberch,2023_2024,Ryan Gravenberch,1110,1,0,176,187.0,229.4,198.0
+Luke_Chambers,2023_2024,Luke Chambers,0,0,0,0,0.0,0.0,0.0
+Callum_Scanlon,2023_2024,Callum Scanlon,0,0,0,0,0.0,0.0,0.0
+Treymaurice_Nyoni,2023_2024,Treymaurice Nyoni,0,0,0,0,0.0,0.0,0.0
+Marcelo_de Araújo Pitaluga Filho,2023_2024,Marcelo de Araújo Pitaluga Filho,0,0,0,0,0.0,0.0,0.0
+Conor_Bradley,2023_2024,Conor Bradley,752,1,3,211,230.4,215.8,160.0
+Owen_Beck,2023_2024,Owen Beck,7,0,0,2,5.0,0.3,0.0
+Kaide_Gordon,2023_2024,Kaide Gordon,1,0,0,3,0.2,0.3,2.0
+Lewis_Koumas,2023_2024,Lewis Koumas,0,0,0,0,0.0,0.0,0.0
+Fabian_Mrozek,2023_2024,Fabian Mrozek,0,0,0,0,0.0,0.0,0.0
+Jayden_Danns,2023_2024,Jayden Danns,7,0,0,1,0.0,3.7,0.0
+Amara_Nallo,2023_2024,Amara Nallo,0,0,0,0,0.0,0.0,0.0
+Albert_Sambi Lokonga,2023_2024,Albert Sambi Lokonga,1304,1,3,231,289.8,154.9,56.0
+Marvelous_Nakamba,2023_2024,Marvelous Nakamba,1131,0,0,131,146.4,102.8,14.0
+Elijah_Adebayo,2023_2024,Elijah Adebayo,1405,10,1,288,413.6,177.0,527.0
+Mads Juel_Andersen,2023_2024,Mads Juel Andersen,397,1,0,75,126.8,1.8,27.0
+Amari'i_Bell,2023_2024,Amari'i Bell,1720,0,0,263,358.2,119.6,50.0
+Luke_Berry,2023_2024,Luke Berry,309,2,1,94,112.6,29.7,117.0
+Reece_Burke,2023_2024,Reece Burke,1659,0,4,260,406.4,172.4,131.0
+Allan_Campbell,2023_2024,Allan Campbell,0,0,0,0,0.0,0.0,0.0
+Jordan_Clark,2023_2024,Jordan Clark,1297,1,1,156,198.8,187.5,177.0
+Alfie_Doughty,2023_2024,Alfie Doughty,2923,2,10,577,690.4,1126.0,318.0
+Luke_Freeman,2023_2024,Luke Freeman,0,0,0,0,0.0,0.0,0.0
+Matt_Macey,2023_2024,Matt Macey,0,0,0,0,0.0,0.0,0.0
+John_McAtee,2023_2024,John McAtee,0,0,0,0,0.0,0.0,0.0
+Carlos_Mendes Gomes,2023_2024,Carlos Mendes Gomes,0,0,0,0,0.0,0.0,0.0
+Carlton_Morris,2023_2024,Carlton Morris,2859,11,6,451,620.2,305.6,908.0
+Admiral_Muskwe,2023_2024,Admiral Muskwe,0,0,0,0,0.0,0.0,0.0
+Chiedozie_Ogbene,2023_2024,Chiedozie Ogbene,1987,4,4,387,412.6,378.3,486.0
+Fred_Onyedinma,2023_2024,Fred Onyedinma,403,0,0,19,36.2,32.8,71.0
+Gabriel_Osho,2023_2024,Gabriel Osho,1846,2,0,286,448.6,37.9,103.0
+Aribim_Pepple,2023_2024,Aribim Pepple,0,0,0,0,0.0,0.0,0.0
+Dion_Pereira,2023_2024,Dion Pereira,0,0,0,0,0.0,0.0,0.0
+Dan_Potts,2023_2024,Dan Potts,0,0,0,0,0.0,0.0,0.0
+Glen_Rea,2023_2024,Glen Rea,0,0,0,0,0.0,0.0,0.0
+James_Shea,2023_2024,James Shea,14,0,0,8,11.0,0.0,0.0
+Joe_Taylor,2023_2024,Joe Taylor,0,0,0,0,0.0,0.0,0.0
+Elliot_Thorpe,2023_2024,Elliot Thorpe,0,0,0,0,0.0,0.0,0.0
+Jack_Walton,2023_2024,Jack Walton,0,0,0,0,0.0,0.0,0.0
+Louie_Watson,2023_2024,Louie Watson,0,0,0,0,0.0,0.0,0.0
+Cauley_Woodrow,2023_2024,Cauley Woodrow,406,1,1,118,127.0,127.1,103.0
+Teden_Mengi,2023_2024,Teden Mengi,2467,1,0,345,579.6,83.0,95.0
+Ryan_Giles,2023_2024,Ryan Giles,498,0,0,81,83.2,108.7,38.0
+Tom_Lockyer,2023_2024,Tom Lockyer,1169,1,1,162,286.2,39.2,80.0
+Pelly Ruddock_Mpanzu,2023_2024,Pelly Ruddock Mpanzu,1085,0,0,107,108.8,102.3,70.0
+Tahith_Chong,2023_2024,Tahith Chong,1972,4,2,222,303.6,206.3,310.0
+Issa_Kaboré,2023_2024,Issa Kaboré,1727,0,3,236,326.6,253.0,62.0
+Thomas_Kaminski,2023_2024,Thomas Kaminski,3405,0,0,642,1116.6,10.0,0.0
+Ross_Barkley,2023_2024,Ross Barkley,2616,5,5,498,687.4,622.8,379.0
+Jacob_Brown,2023_2024,Jacob Brown,1013,2,1,115,162.6,116.4,249.0
+Aidan_Francis-Clarke,2023_2024,Aidan Francis-Clarke,0,0,0,0,0.0,0.0,0.0
+Tim_Krul,2023_2024,Tim Krul,0,0,0,0,0.0,0.0,0.0
+Joseph_Johnson,2023_2024,Joseph Johnson,75,0,0,5,1.0,0.9,0.0
+Andros_Townsend,2023_2024,Andros Townsend,1197,1,4,208,221.4,293.6,148.0
+Jayden_Luker,2023_2024,Jayden Luker,0,0,0,0,0.0,0.0,0.0
+Zack_Nelson,2023_2024,Zack Nelson,4,0,0,6,2.0,0.1,0.0
+Daiki_Hashioka,2023_2024,Daiki Hashioka,592,0,0,72,101.4,51.9,8.0
+Axel_Piesold,2023_2024,Axel Piesold,0,0,0,0,0.0,0.0,0.0
+Dominic_Dos Santos Martins,2023_2024,Dominic Dos Santos Martins,0,0,0,0,0.0,0.0,0.0
+Christian_Chigozie,2023_2024,Christian Chigozie,0,0,0,0,0.0,0.0,0.0
+Taylan_Harris,2023_2024,Taylan Harris,0,0,0,0,0.0,0.0,0.0
+Manuel_Akanji,2023_2024,Manuel Akanji,2512,2,0,560,536.4,298.7,137.0
+Nathan_Aké,2023_2024,Nathan Aké,2039,2,3,483,447.2,197.7,249.0
+Julián_Álvarez,2023_2024,Julián Álvarez,2644,11,11,662,737.0,1005.2,992.0
+Bernardo_Veiga de Carvalho e Silva,2023_2024,Bernardo Veiga de Carvalho e Silva,2576,6,9,604,747.4,959.5,570.0
+Oscar_Bobb,2023_2024,Oscar Bobb,294,1,2,112,105.4,147.1,107.0
+João_Cancelo,2023_2024,João Cancelo,0,0,0,0,0.0,0.0,0.0
+Scott_Carson,2023_2024,Scott Carson,0,0,0,0,0.0,0.0,0.0
+Shea_Charles,2023_2024,Shea Charles,0,0,0,0,0.0,0.0,0.0
+Kevin_De Bruyne,2023_2024,Kevin De Bruyne,1219,4,10,415,527.6,901.1,406.0
+Rúben_Gato Alves Dias,2023_2024,Rúben Gato Alves Dias,2557,0,0,513,578.4,208.5,225.0
+Ederson_Santana de Moraes,2023_2024,Ederson Santana de Moraes,2785,0,0,569,551.8,10.0,0.0
+Phil_Foden,2023_2024,Phil Foden,2860,19,8,866,1154.8,1157.8,1172.0
+Jack_Grealish,2023_2024,Jack Grealish,998,3,1,199,240.4,384.1,295.0
+Erling_Haaland,2023_2024,Erling Haaland,2553,27,8,792,1094.6,367.2,1581.0
+Mateo_Kovačić,2023_2024,Mateo Kovačić,1539,1,0,316,265.0,365.9,129.0
+Aymeric_Laporte,2023_2024,Aymeric Laporte,11,0,0,4,11.4,0.1,17.0
+Rico_Lewis,2023_2024,Rico Lewis,804,2,0,215,148.0,195.9,114.0
+Riyad_Mahrez,2023_2024,Riyad Mahrez,0,0,0,0,0.0,0.0,0.0
+Stefan_Ortega Moreno,2023_2024,Stefan Ortega Moreno,632,0,0,114,171.2,0.0,0.0
+Máximo_Perrone,2023_2024,Máximo Perrone,0,0,0,0,0.0,0.0,0.0
+Rodrigo_Hernandez,2023_2024,Rodrigo Hernandez,2931,8,10,737,1043.8,894.8,484.0
+Sergio_Gómez,2023_2024,Sergio Gómez,48,0,1,24,22.6,23.0,10.0
+Zack_Steffen,2023_2024,Zack Steffen,0,0,0,0,0.0,0.0,0.0
+John_Stones,2023_2024,John Stones,1061,1,0,239,188.4,128.4,70.0
+Kyle_Walker,2023_2024,Kyle Walker,2766,0,5,633,465.4,534.1,126.0
+Matheus Luiz_Nunes,2023_2024,Matheus Luiz Nunes,831,0,2,118,146.0,221.3,150.0
+Joško_Gvardiol,2023_2024,Joško Gvardiol,2327,4,2,549,544.4,362.2,389.0
+Jérémy_Doku,2023_2024,Jérémy Doku,1585,3,10,391,524.2,640.2,875.0
+Mahamadou_Susoho,2023_2024,Mahamadou Susoho,0,0,0,0,0.0,0.0,0.0
+Micah_Hamilton,2023_2024,Micah Hamilton,0,0,0,0,0.0,0.0,0.0
+Jacob_Wright,2023_2024,Jacob Wright,0,0,0,0,0.0,0.0,0.0
+Mason_Mount,2023_2024,Mason Mount,509,1,0,93,105.8,107.6,64.0
+Alex_Telles,2023_2024,Alex Telles,0,0,0,0,0.0,0.0,0.0
+Amad_Diallo,2023_2024,Amad Diallo,385,1,1,68,117.0,123.8,114.0
+Antony Matheus_dos Santos,2023_2024,Antony Matheus dos Santos,1311,1,1,184,247.8,327.7,347.0
+Bruno_Borges Fernandes,2023_2024,Bruno Borges Fernandes,3118,10,9,729,1101.6,1663.0,748.0
+Brandon_Williams,2023_2024,Brandon Williams,0,0,0,0,0.0,0.0,0.0
+Eric_Bailly,2023_2024,Eric Bailly,0,0,0,0,0.0,0.0,0.0
+Carlos Henrique_Casimiro,2023_2024,Carlos Henrique Casimiro,1981,1,3,323,628.4,247.9,323.0
+Diogo_Dalot Teixeira,2023_2024,Diogo Dalot Teixeira,3174,2,3,662,738.6,590.8,212.0
+Christian_Eriksen,2023_2024,Christian Eriksen,1134,1,2,248,255.4,400.5,93.0
+Álvaro_Fernández Carreras,2023_2024,Álvaro Fernández Carreras,0,0,0,0,0.0,0.0,0.0
+Frederico_Rodrigues de Paula Santos,2023_2024,Frederico Rodrigues de Paula Santos,0,0,0,0,0.0,0.0,0.0
+Alejandro_Garnacho,2023_2024,Alejandro Garnacho,2564,7,7,372,527.2,616.8,1103.0
+Hannibal_Mejbri,2023_2024,Hannibal Mejbri,131,1,0,34,48.2,29.8,13.0
+Tom_Heaton,2023_2024,Tom Heaton,0,0,0,0,0.0,0.0,0.0
+Victor_Lindelöf,2023_2024,Victor Lindelöf,1328,1,1,291,263.8,125.9,105.0
+Harry_Maguire,2023_2024,Harry Maguire,1650,2,4,351,493.4,90.9,192.0
+Kobbie_Mainoo,2023_2024,Kobbie Mainoo,1927,3,1,327,413.4,256.7,134.0
+Tyrell_Malacia,2023_2024,Tyrell Malacia,0,0,0,0,0.0,0.0,0.0
+Anthony_Martial,2023_2024,Anthony Martial,439,1,1,73,67.2,85.0,97.0
+Lisandro_Martínez,2023_2024,Lisandro Martínez,643,0,1,134,144.4,45.7,4.0
+Scott_McTominay,2023_2024,Scott McTominay,1891,7,1,307,539.4,179.5,492.0
+Facundo_Pellistri Rebollo,2023_2024,Facundo Pellistri Rebollo,164,0,1,36,47.0,19.3,66.0
+Raphaël_Varane,2023_2024,Raphaël Varane,1370,1,0,273,356.2,35.3,85.0
+Marcus_Rashford,2023_2024,Marcus Rashford,2264,7,3,330,453.2,358.6,672.0
+Jadon_Sancho,2023_2024,Jadon Sancho,76,0,0,11,9.8,14.8,12.0
+Luke_Shaw,2023_2024,Luke Shaw,960,0,1,195,197.2,199.3,29.0
+Shola_Shoretire,2023_2024,Shola Shoretire,0,0,0,0,0.0,0.0,0.0
+Donny_van de Beek,2023_2024,Donny van de Beek,2,0,0,3,0.0,10.3,6.0
+Aaron_Wan-Bissaka,2023_2024,Aaron Wan-Bissaka,1778,0,2,323,397.8,196.5,60.0
+André_Onana,2023_2024,André Onana,3420,0,0,741,1167.8,33.2,0.0
+Rasmus_Højlund,2023_2024,Rasmus Højlund,2156,10,2,362,480.6,345.8,648.0
+Omari_Forson,2023_2024,Omari Forson,67,0,1,23,24.2,23.6,4.0
+Radek_Vítek,2023_2024,Radek Vítek,0,0,0,0,0.0,0.0,0.0
+Daniel_Gore,2023_2024,Daniel Gore,1,0,0,5,3.0,0.0,0.0
+Altay_Bayindir,2023_2024,Altay Bayindir,0,0,0,0,0.0,0.0,0.0
+Jonny_Evans,2023_2024,Jonny Evans,1389,0,1,293,330.8,81.2,21.0
+Sofyan_Amrabat,2023_2024,Sofyan Amrabat,929,0,0,125,159.0,102.5,6.0
+Joe_Hugill,2023_2024,Joe Hugill,0,0,0,0,0.0,0.0,0.0
+Willy_Kambwala,2023_2024,Willy Kambwala,325,0,0,48,53.8,2.4,0.0
+Rhys_Bennett,2023_2024,Rhys Bennett,0,0,0,0,0.0,0.0,0.0
+Toby_Collyer,2023_2024,Toby Collyer,0,0,0,0,0.0,0.0,0.0
+Habeeb_Ogunneye,2023_2024,Habeeb Ogunneye,0,0,0,0,0.0,0.0,0.0
+Dermot_Mee,2023_2024,Dermot Mee,0,0,0,0,0.0,0.0,0.0
+Harry_Amass,2023_2024,Harry Amass,0,0,0,0,0.0,0.0,0.0
+Ethan_Wheatley,2023_2024,Ethan Wheatley,13,0,0,6,2.0,0.0,0.0
+Louis_Jackson,2023_2024,Louis Jackson,0,0,0,0,0.0,0.0,0.0
+Lewis_Hall,2023_2024,Lewis Hall,773,1,0,171,194.8,69.1,85.0
+Miguel_Almirón Rejala,2023_2024,Miguel Almirón Rejala,1930,3,1,277,299.8,369.7,434.0
+Elliot_Anderson,2023_2024,Elliot Anderson,1018,0,2,144,187.4,223.7,201.0
+Harrison_Ashby,2023_2024,Harrison Ashby,0,0,0,0,0.0,0.0,0.0
+Sven_Botman,2023_2024,Sven Botman,1375,2,2,298,386.8,62.9,104.0
+Bruno_Guimarães Rodriguez Moura,2023_2024,Bruno Guimarães Rodriguez Moura,3264,7,9,691,968.4,948.7,489.0
+Dan_Burn,2023_2024,Dan Burn,2725,2,2,493,656.4,153.8,286.0
+Karl_Darlow,2023_2024,Karl Darlow,0,0,0,0,0.0,0.0,0.0
+Martin_Dubravka,2023_2024,Martin Dubravka,1984,0,0,426,661.0,10.0,0.0
+Ryan_Fraser,2023_2024,Ryan Fraser,0,0,0,0,0.0,0.0,0.0
+Mark_Gillespie,2023_2024,Mark Gillespie,0,0,0,0,0.0,0.0,0.0
+Anthony_Gordon,2023_2024,Anthony Gordon,2896,11,16,594,822.6,843.7,905.0
+Isaac_Hayden,2023_2024,Isaac Hayden,0,0,0,0,0.0,0.0,0.0
+Jeff_Hendrick,2023_2024,Jeff Hendrick,0,0,0,0,0.0,0.0,0.0
+Alexander_Isak,2023_2024,Alexander Isak,2253,21,4,645,877.4,362.5,1054.0
+Joelinton Cássio_Apolinário de Lira,2023_2024,Joelinton Cássio Apolinário de Lira,1276,2,1,209,295.2,314.9,206.0
+Emil_Krafth,2023_2024,Emil Krafth,909,0,0,187,164.2,145.4,28.0
+Garang_Kuol,2023_2024,Garang Kuol,0,0,0,0,0.0,0.0,0.0
+Jamaal_Lascelles,2023_2024,Jamaal Lascelles,1077,1,0,212,233.0,35.4,69.0
+Jamal_Lewis,2023_2024,Jamal Lewis,0,0,0,0,0.0,0.0,0.0
+Sean_Longstaff,2023_2024,Sean Longstaff,2742,6,3,418,550.0,357.1,479.0
+Javier_Manquillo Gaitán,2023_2024,Javier Manquillo Gaitán,0,0,0,0,0.0,0.0,0.0
+Jacob_Murphy,2023_2024,Jacob Murphy,1184,3,8,312,377.8,453.4,270.0
+Nick_Pope,2023_2024,Nick Pope,1345,0,0,279,323.0,0.0,4.0
+Matt_Ritchie,2023_2024,Matt Ritchie,120,1,0,49,70.0,9.1,106.0
+Allan_Saint-Maximin,2023_2024,Allan Saint-Maximin,0,0,0,0,0.0,0.0,0.0
+Fabian_Schär,2023_2024,Fabian Schär,3055,4,3,629,826.6,166.7,278.0
+Matt_Targett,2023_2024,Matt Targett,77,0,0,15,9.2,11.9,0.0
+Sandro_Tonali,2023_2024,Sandro Tonali,437,1,0,86,81.8,105.0,50.0
+Kieran_Trippier,2023_2024,Kieran Trippier,2235,1,10,589,719.0,1028.5,102.0
+Kell_Watts,2023_2024,Kell Watts,0,0,0,0,0.0,0.0,0.0
+Joe_Willock,2023_2024,Joe Willock,415,1,0,60,89.8,92.5,106.0
+Callum_Wilson,2023_2024,Callum Wilson,981,9,1,246,366.2,110.3,563.0
+Loris_Karius,2023_2024,Loris Karius,90,0,0,17,31.8,0.0,0.0
+Paul_Dummett,2023_2024,Paul Dummett,18,0,0,10,5.2,1.1,4.0
+Harvey_Barnes,2023_2024,Harvey Barnes,788,5,3,205,279.2,181.5,334.0
+Tino_Livramento,2023_2024,Tino Livramento,1302,1,0,253,292.0,193.9,96.0
+Alex_Murphy,2023_2024,Alex Murphy,11,0,0,6,2.6,1.0,0.0
+Lewis_Miley,2023_2024,Lewis Miley,1203,1,3,232,237.4,192.8,136.0
+Amadou_Diallo,2023_2024,Amadou Diallo,1,0,0,3,0.0,0.0,0.0
+Ben_Parkinson,2023_2024,Ben Parkinson,24,0,0,2,2.0,0.0,0.0
+Michael_Ndiweni,2023_2024,Michael Ndiweni,1,0,0,3,0.2,0.0,0.0
+Joe_White,2023_2024,Joe White,12,0,0,9,0.8,1.1,0.0
+Travis_Hernes,2023_2024,Travis Hernes,0,0,0,0,0.0,0.0,0.0
+Nuno_Varela Tavares,2023_2024,Nuno Varela Tavares,454,0,0,69,61.8,48.8,28.0
+Matt_Turner,2023_2024,Matt Turner,1530,0,0,278,379.6,0.0,0.0
+Callum_Hudson-Odoi,2023_2024,Callum Hudson-Odoi,1846,8,2,371,489.0,514.2,444.0
+Anthony_Elanga,2023_2024,Anthony Elanga,2424,5,9,386,536.4,441.6,618.0
+Brandon_Aguilera Zamora,2023_2024,Brandon Aguilera Zamora,4,0,0,0,0.0,1.6,0.0
+Harry_Arter,2023_2024,Harry Arter,0,0,0,0,0.0,0.0,0.0
+Serge_Aurier,2023_2024,Serge Aurier,831,0,2,137,187.6,84.8,45.0
+Taiwo_Awoniyi,2023_2024,Taiwo Awoniyi,1036,6,3,247,303.2,134.4,308.0
+Giulian_Biancone,2023_2024,Giulian Biancone,0,0,0,0,0.0,0.0,0.0
+Willy_Boly,2023_2024,Willy Boly,1437,2,1,275,480.0,100.5,200.0
+Josh_Bowler,2023_2024,Josh Bowler,0,0,0,0,0.0,0.0,0.0
+Steve_Cook,2023_2024,Steve Cook,0,0,0,0,0.0,0.0,0.0
+Danilo_dos Santos de Oliveira,2023_2024,Danilo dos Santos de Oliveira,1787,2,2,302,368.0,277.6,137.0
+Emmanuel_Dennis,2023_2024,Emmanuel Dennis,0,0,0,0,0.0,0.0,0.0
+Mohamed_Dräger,2023_2024,Mohamed Dräger,0,0,0,0,0.0,0.0,0.0
+Felipe Augusto_de Almeida Monteiro,2023_2024,Felipe Augusto de Almeida Monteiro,372,0,0,59,61.2,23.2,18.0
+Remo_Freuler,2023_2024,Remo Freuler,0,0,0,0,0.0,0.0,0.0
+Morgan_Gibbs-White,2023_2024,Morgan Gibbs-White,3156,5,12,563,703.2,1155.2,495.0
+Wayne_Hennessey,2023_2024,Wayne Hennessey,0,0,0,0,0.0,0.0,0.0
+Ethan_Horvath,2023_2024,Ethan Horvath,0,0,0,0,0.0,0.0,0.0
+Cheikhou_Kouyaté,2023_2024,Cheikhou Kouyaté,206,0,0,32,36.0,14.3,25.0
+Richie_Laryea,2023_2024,Richie Laryea,0,0,0,0,0.0,0.0,0.0
+Orel_Mangala,2023_2024,Orel Mangala,1562,1,0,186,208.0,108.7,44.0
+Loïc_Mbe Soh,2023_2024,Loïc Mbe Soh,0,0,0,0,0.0,0.0,0.0
+Scott_McKenna,2023_2024,Scott McKenna,416,0,0,64,89.0,32.4,17.0
+Alex_Mighten,2023_2024,Alex Mighten,0,0,0,0,0.0,0.0,0.0
+Moussa_Niakhaté,2023_2024,Moussa Niakhaté,1456,1,0,238,316.6,51.7,55.0
+Lewis_O'Brien,2023_2024,Lewis O'Brien,0,0,0,0,0.0,0.0,0.0
+Braian_Ojeda Rodríguez,2023_2024,Braian Ojeda Rodríguez,0,0,0,0,0.0,0.0,0.0
+Jonathan_Panzo,2023_2024,Jonathan Panzo,0,0,0,0,0.0,0.0,0.0
+Omar_Richards,2023_2024,Omar Richards,0,0,0,0,0.0,0.0,0.0
+Gustavo Henrique_Furtado Scarpa,2023_2024,Gustavo Henrique Furtado Scarpa,0,0,0,0,0.0,0.0,0.0
+Jonjo_Shelvey,2023_2024,Jonjo Shelvey,0,0,0,0,0.0,0.0,0.0
+Sam_Surridge,2023_2024,Sam Surridge,0,0,0,0,0.0,0.0,0.0
+Harry_Toffolo,2023_2024,Harry Toffolo,1452,1,3,263,355.0,268.4,171.0
+Hwang_Ui-jo,2023_2024,Hwang Ui-jo,0,0,0,0,0.0,0.0,0.0
+Neco_Williams,2023_2024,Neco Williams,1630,0,1,224,393.4,195.2,139.0
+Chris_Wood,2023_2024,Chris Wood,1801,14,1,456,598.2,281.1,795.0
+Joe_Worrall,2023_2024,Joe Worrall,438,0,0,74,90.0,22.1,18.0
+Ryan_Yates,2023_2024,Ryan Yates,1979,1,1,235,330.4,133.8,258.0
+Olu_Aina,2023_2024,Olu Aina,1690,1,1,289,312.0,181.7,49.0
+George_Shelvey,2023_2024,George Shelvey,0,0,0,0,0.0,0.0,0.0
+Josh_Powell,2023_2024,Josh Powell,0,0,0,0,0.0,0.0,0.0
+Gonzalo_Montiel,2023_2024,Gonzalo Montiel,796,0,2,152,170.6,118.3,32.0
+Murillo_Santiago Costa dos Santos,2023_2024,Murillo Santiago Costa dos Santos,2790,0,2,451,678.4,115.0,164.0
+Odysseas_Vlachodimos,2023_2024,Odysseas Vlachodimos,450,0,0,79,101.8,10.0,0.0
+Andrew_Omobamidele,2023_2024,Andrew Omobamidele,782,0,0,94,148.6,25.1,16.0
+Nicolás_Domínguez,2023_2024,Nicolás Domínguez,1489,2,2,276,340.4,176.2,187.0
+Ibrahim_Sangaré,2023_2024,Ibrahim Sangaré,1031,0,0,89,168.8,112.9,43.0
+Divock_Origi,2023_2024,Divock Origi,594,0,1,59,50.4,107.8,99.0
+Jamie_McDonnell,2023_2024,Jamie McDonnell,0,0,0,0,0.0,0.0,0.0
+Detlef Esapa_Osong,2023_2024,Detlef Esapa Osong,0,0,0,0,0.0,0.0,0.0
+Joe_Gardner,2023_2024,Joe Gardner,0,0,0,0,0.0,0.0,0.0
+Giovanni_Reyna,2023_2024,Giovanni Reyna,228,0,1,44,55.0,102.7,55.0
+Matz_Sels,2023_2024,Matz Sels,1440,0,0,206,293.2,10.0,0.0
+Rodrigo_Duarte Ribeiro,2023_2024,Rodrigo Duarte Ribeiro,14,0,0,9,1.2,1.3,6.0
+Auston_Trusty,2023_2024,Auston Trusty,2568,0,0,349,517.4,107.3,106.0
+Cameron_Archer,2023_2024,Cameron Archer,1829,4,3,241,266.0,309.3,353.0
+Mason_Holgate,2023_2024,Mason Holgate,711,0,0,69,117.8,22.7,19.0
+James_McAtee,2023_2024,James McAtee,1815,3,4,259,333.8,394.4,333.0
+Anel_Ahmedhodžić,2023_2024,Anel Ahmedhodžić,2649,2,0,325,568.4,96.7,228.0
+Jordan_Amissah,2023_2024,Jordan Amissah,0,0,0,0,0.0,0.0,0.0
+George_Baldock,2023_2024,George Baldock,968,0,2,117,173.6,102.6,21.0
+Chris_Basham,2023_2024,Chris Basham,316,0,0,35,69.2,27.4,14.0
+Jayden_Bogle,2023_2024,Jayden Bogle,2787,3,3,354,514.4,183.5,339.0
+Rhian_Brewster,2023_2024,Rhian Brewster,338,0,0,14,21.0,28.3,85.0
+Ismaila_Coulibaly,2023_2024,Ismaila Coulibaly,0,0,0,0,0.0,0.0,0.0
+Adam_Davies,2023_2024,Adam Davies,0,0,0,0,0.0,0.0,0.0
+John_Egan,2023_2024,John Egan,482,0,0,54,91.2,1.4,38.0
+John_Fleck,2023_2024,John Fleck,89,0,0,13,5.4,26.0,2.0
+Wes_Foderingham,2023_2024,Wes Foderingham,2648,0,0,531,966.0,10.0,0.0
+Daniel_Jebbison,2023_2024,Daniel Jebbison,20,0,0,3,0.0,0.1,4.0
+Max_Lowe,2023_2024,Max Lowe,498,0,1,47,102.2,31.9,18.0
+Oliver_McBurnie,2023_2024,Oliver McBurnie,1279,6,3,225,377.4,195.9,501.0
+Iliman_Ndiaye,2023_2024,Iliman Ndiaye,0,0,0,0,0.0,0.0,0.0
+Rhys_Norrington-Davies,2023_2024,Rhys Norrington-Davies,109,0,0,12,8.2,11.7,2.0
+Oliver_Norwood,2023_2024,Oliver Norwood,1429,1,0,232,311.2,275.3,82.0
+Ben_Osborn,2023_2024,Ben Osborn,1359,0,2,182,191.4,212.2,26.0
+William_Osula,2023_2024,William Osula,778,0,1,27,27.0,24.9,200.0
+Jack_Robinson,2023_2024,Jack Robinson,2883,1,1,375,602.8,162.1,190.0
+Anis_Slimane,2023_2024,Anis Slimane,409,0,0,23,41.6,46.7,72.0
+Yasser_Larouci,2023_2024,Yasser Larouci,527,0,0,63,80.8,27.8,39.0
+Bénie_Traoré,2023_2024,Bénie Traoré,383,0,0,14,25.8,56.7,31.0
+Vini_de Souza Costa,2023_2024,Vini de Souza Costa,2664,1,1,357,558.4,101.8,152.0
+Femi_Seriki,2023_2024,Femi Seriki,0,0,0,0,0.0,0.0,0.0
+Louie_Marsh,2023_2024,Louie Marsh,0,0,0,0,0.0,0.0,0.0
+Andre_Brooks,2023_2024,Andre Brooks,932,0,0,82,88.6,51.9,76.0
+Antwoine_Hackford,2023_2024,Antwoine Hackford,11,0,0,5,0.0,0.3,0.0
+Gustavo_Hamer,2023_2024,Gustavo Hamer,2908,4,7,462,581.2,929.8,294.0
+Tom_Davies,2023_2024,Tom Davies,214,0,0,11,26.4,18.1,48.0
+Luke_Thomas,2023_2024,Luke Thomas,916,0,0,80,127.8,53.9,64.0
+Ryan_Oné,2023_2024,Ryan Oné,7,0,0,3,0.0,0.3,0.0
+Jili_Buyabu,2023_2024,Jili Buyabu,0,0,0,0,0.0,0.0,0.0
+Sydie_Peck,2023_2024,Sydie Peck,9,0,0,3,0.0,0.1,0.0
+Ben_Brereton,2023_2024,Ben Brereton,1105,6,1,173,312.2,124.0,422.0
+Ivo_Grbic,2023_2024,Ivo Grbic,771,0,0,149,257.6,0.0,0.0
+Billy_Blacker,2023_2024,Billy Blacker,0,0,0,0,0.0,0.0,0.0
+Oliver_Arblaster,2023_2024,Oliver Arblaster,942,0,0,131,155.4,140.5,23.0
+Dovydas_Sasnauskas,2023_2024,Dovydas Sasnauskas,0,0,0,0,0.0,0.0,0.0
+Sam_Curtis,2023_2024,Sam Curtis,27,0,0,2,2.2,0.3,0.0
+Owen_Hampson,2023_2024,Owen Hampson,0,0,0,0,0.0,0.0,0.0
+Brennan_Johnson,2023_2024,Brennan Johnson,2317,5,12,397,554.4,624.3,782.0
+Brandon_Austin,2023_2024,Brandon Austin,0,0,0,0,0.0,0.0,0.0
+Rodrigo_Bentancur,2023_2024,Rodrigo Bentancur,997,1,1,153,193.0,174.9,156.0
+Yves_Bissouma,2023_2024,Yves Bissouma,2070,0,0,315,403.0,279.4,140.0
+Bryan_Gil Salvatierra,2023_2024,Bryan Gil Salvatierra,200,0,0,41,28.6,70.1,59.0
+Ben_Davies,2023_2024,Ben Davies,1085,1,2,216,294.8,81.0,124.0
+Eric_Dier,2023_2024,Eric Dier,199,0,0,31,55.8,1.0,4.0
+Emerson_Leite de Souza Junior,2023_2024,Emerson Leite de Souza Junior,1152,1,0,233,316.0,119.5,55.0
+Fraser_Forster,2023_2024,Fraser Forster,0,0,0,0,0.0,0.0,0.0
+Pierre-Emile_Højbjerg,2023_2024,Pierre-Emile Højbjerg,1289,0,0,239,282.2,205.8,108.0
+Harry_Kane,2023_2024,Harry Kane,0,0,0,0,0.0,0.0,0.0
+Dejan_Kulusevski,2023_2024,Dejan Kulusevski,2759,8,3,463,698.8,950.4,953.0
+Hugo_Lloris,2023_2024,Hugo Lloris,0,0,0,0,0.0,0.0,0.0
+Giovani_Lo Celso,2023_2024,Giovani Lo Celso,491,2,2,189,225.8,262.8,110.0
+James_Maddison,2023_2024,James Maddison,2137,4,11,495,630.4,979.5,605.0
+Tanguy_Ndombélé Alvaro,2023_2024,Tanguy Ndombélé Alvaro,0,0,0,0,0.0,0.0,0.0
+Pedro_Porro,2023_2024,Pedro Porro,3090,3,8,720,839.0,877.4,365.0
+Ivan_Perišić,2023_2024,Ivan Perišić,98,0,1,34,41.6,71.2,27.0
+Richarlison_de Andrade,2023_2024,Richarlison de Andrade,1481,11,4,305,560.6,208.4,758.0
+Joe_Rodon,2023_2024,Joe Rodon,0,0,0,0,0.0,0.0,0.0
+Cristian_Romero,2023_2024,Cristian Romero,2790,5,0,591,841.8,161.9,252.0
+Davinson_Sánchez,2023_2024,Davinson Sánchez,76,0,0,9,17.0,5.0,4.0
+Pape Matar_Sarr,2023_2024,Pape Matar Sarr,2063,3,3,397,406.0,373.3,317.0
+Ryan_Sessegnon,2023_2024,Ryan Sessegnon,0,0,0,0,0.0,0.0,0.0
+Oliver_Skipp,2023_2024,Oliver Skipp,691,0,0,105,92.0,126.2,65.0
+Son_Heung-min,2023_2024,Son Heung-min,2934,17,10,707,993.2,921.9,1131.0
+Djed_Spence,2023_2024,Djed Spence,0,0,0,0,0.0,0.0,0.0
+Japhet_Tanganga,2023_2024,Japhet Tanganga,0,0,0,0,0.0,0.0,0.0
+Destiny_Udogie,2023_2024,Destiny Udogie,2391,2,3,402,534.8,357.9,279.0
+Guglielmo_Vicario,2023_2024,Guglielmo Vicario,3420,0,0,730,974.2,0.0,0.0
+Alfie_Whiteman,2023_2024,Alfie Whiteman,0,0,0,0,0.0,0.0,0.0
+Manor_Solomon,2023_2024,Manor Solomon,196,0,2,53,73.4,144.3,61.0
+Micky_van de Ven,2023_2024,Micky van de Ven,2341,3,0,501,561.6,56.7,85.0
+Dane_Scarlett,2023_2024,Dane Scarlett,19,0,0,10,2.0,0.4,6.0
+Alejo_Véliz,2023_2024,Alejo Véliz,45,1,0,40,35.2,0.9,29.0
+Ashley_Phillips,2023_2024,Ashley Phillips,0,0,0,0,0.0,0.0,0.0
+Jamie_Donley,2023_2024,Jamie Donley,3,0,0,3,3.0,0.0,0.0
+Alfie_Dorrington,2023_2024,Alfie Dorrington,0,0,0,0,0.0,0.0,0.0
+Yago_de Santiago Alonso,2023_2024,Yago de Santiago Alonso,0,0,0,0,0.0,0.0,0.0
+Timo_Werner,2023_2024,Timo Werner,808,2,4,173,179.0,239.0,305.0
+Radu_Dragusin,2023_2024,Radu Dragusin,424,0,0,82,95.4,7.4,6.0
+Mikey_Moore,2023_2024,Mikey Moore,3,0,0,4,1.0,0.5,0.0
+Tyrese_Hall,2023_2024,Tyrese Hall,0,0,0,0,0.0,0.0,0.0
+Kalvin_Phillips,2023_2024,Kalvin Phillips,394,0,0,27,35.6,23.3,31.0
+Nayef_Aguerd,2023_2024,Nayef Aguerd,1857,1,0,282,439.4,58.1,145.0
+Michail_Antonio,2023_2024,Michail Antonio,1692,6,2,228,308.6,132.2,395.0
+Alphonse_Areola,2023_2024,Alphonse Areola,2700,0,0,598,1023.2,0.0,0.0
+Saïd_Benrahma,2023_2024,Saïd Benrahma,611,0,1,64,85.4,164.9,196.0
+Jarrod_Bowen,2023_2024,Jarrod Bowen,3020,16,6,519,890.4,463.8,1130.0
+Maxwel_Cornet,2023_2024,Maxwel Cornet,109,1,0,40,44.0,48.4,54.0
+Vladimír_Coufal,2023_2024,Vladimír Coufal,3135,0,7,514,661.6,500.0,92.0
+Conor_Coventry,2023_2024,Conor Coventry,0,0,0,0,0.0,0.0,0.0
+Aaron_Cresswell,2023_2024,Aaron Cresswell,431,0,0,71,58.8,77.2,2.0
+Flynn_Downes,2023_2024,Flynn Downes,0,0,0,0,0.0,0.0,0.0
+Emerson_Palmieri dos Santos,2023_2024,Emerson Palmieri dos Santos,3138,1,4,519,649.0,400.2,168.0
+Lukasz_Fabianski,2023_2024,Lukasz Fabianski,721,0,0,152,245.6,0.0,0.0
+Pablo_Fornals Malla,2023_2024,Pablo Fornals Malla,418,0,0,68,64.2,75.5,79.0
+Danny_Ings,2023_2024,Danny Ings,389,1,2,105,82.4,64.4,125.0
+Ben_Johnson,2023_2024,Ben Johnson,538,0,0,90,84.6,22.5,38.0
+Thilo_Kehrer,2023_2024,Thilo Kehrer,19,0,0,7,8.6,0.7,0.0
+Divin_Mubama,2023_2024,Divin Mubama,75,0,0,14,0.2,2.4,5.0
+Lucas_Tolentino Coelho de Lima,2023_2024,Lucas Tolentino Coelho de Lima,2627,4,6,398,570.6,722.3,343.0
+Gianluca_Scamacca,2023_2024,Gianluca Scamacca,0,0,0,0,0.0,0.0,0.0
+Tomáš_Souček,2023_2024,Tomáš Souček,2867,7,2,456,751.6,262.5,488.0
+Nikola_Vlašić,2023_2024,Nikola Vlašić,0,0,0,0,0.0,0.0,0.0
+Kurt_Zouma,2023_2024,Kurt Zouma,2838,3,0,444,636.8,55.1,227.0
+Angelo_Ogbonna,2023_2024,Angelo Ogbonna,634,0,0,103,131.0,2.2,10.0
+Edson_Álvarez Velázquez,2023_2024,Edson Álvarez Velázquez,2375,1,1,345,545.8,193.1,89.0
+Joseph_Anang,2023_2024,Joseph Anang,0,0,0,0,0.0,0.0,0.0
+James_Ward-Prowse,2023_2024,James Ward-Prowse,3000,7,7,708,831.0,1023.5,324.0
+Konstantinos_Mavropanos,2023_2024,Konstantinos Mavropanos,1500,1,0,229,300.2,41.9,112.0
+Mohammed_Kudus,2023_2024,Mohammed Kudus,2485,8,9,476,667.2,472.9,566.0
+Lewis_Orford,2023_2024,Lewis Orford,0,0,0,0,0.0,0.0,0.0
+Kaelan_Casey,2023_2024,Kaelan Casey,1,0,0,3,2.0,0.0,0.0
+Oliver_Scarles,2023_2024,Oliver Scarles,0,0,0,0,0.0,0.0,0.0
+Callum_Marshall,2023_2024,Callum Marshall,0,0,0,0,0.0,0.0,0.0
+George_Earthy,2023_2024,George Earthy,33,1,0,27,32.8,2.0,33.0
+Tommy_Doyle,2023_2024,Tommy Doyle,1209,0,0,197,198.4,173.7,55.0
+Rayan_Aït-Nouri,2023_2024,Rayan Aït-Nouri,2327,2,3,365,448.4,376.9,253.0
+Daniel_Bentley,2023_2024,Daniel Bentley,382,0,0,73,70.8,0.0,0.0
+Bendegúz_Bolla,2023_2024,Bendegúz Bolla,0,0,0,0,0.0,0.0,0.0
+Hugo_Bueno López,2023_2024,Hugo Bueno López,727,0,0,136,139.4,122.1,30.0
+Francisco Jorge_Tomás Oliveira,2023_2024,Francisco Jorge Tomás Oliveira,0,0,0,0,0.0,0.0,0.0
+Luke_Cundle,2023_2024,Luke Cundle,0,0,0,0,0.0,0.0,0.0
+Craig_Dawson,2023_2024,Craig Dawson,2209,1,1,421,611.8,108.6,222.0
+Fábio_Silva,2023_2024,Fábio Silva,259,0,0,7,25.2,51.6,93.0
+Gonçalo Manuel_Ganchinho Guedes,2023_2024,Gonçalo Manuel Ganchinho Guedes,0,0,0,0,0.0,0.0,0.0
+Joe_Hodge,2023_2024,Joe Hodge,0,0,0,0,0.0,0.0,0.0
+Ki-Jana_Hoever,2023_2024,Ki-Jana Hoever,0,0,0,0,0.0,0.0,0.0
+Hwang_Hee-chan,2023_2024,Hwang Hee-chan,2116,12,3,334,534.2,259.9,614.0
+João Victor_Gomes da Silva,2023_2024,João Victor Gomes da Silva,2646,2,2,359,493.2,372.3,196.0
+Jonathan_Castro Otto,2023_2024,Jonathan Castro Otto,4,0,0,3,5.0,0.0,0.0
+Bruno_Cavaco Jordão,2023_2024,Bruno Cavaco Jordão,0,0,0,0,0.0,0.0,0.0
+Sasa_Kalajdzic,2023_2024,Sasa Kalajdzic,158,2,0,88,94.0,48.7,66.0
+Max_Kilman,2023_2024,Max Kilman,3420,2,0,592,853.6,233.1,212.0
+Tom_King,2023_2024,Tom King,0,0,0,0,0.0,0.0,0.0
+Mario_Lemina,2023_2024,Mario Lemina,2969,4,1,490,621.6,333.6,470.0
+Pedro_Lomba Neto,2023_2024,Pedro Lomba Neto,1516,2,11,310,371.4,599.2,389.0
+Daniel_Castelo Podence,2023_2024,Daniel Castelo Podence,0,0,0,0,0.0,0.0,0.0
+José_Malheiro de Sá,2023_2024,José Malheiro de Sá,3037,0,1,622,1003.4,11.0,0.0
+Pablo_Sarabia,2023_2024,Pablo Sarabia,1737,4,7,358,469.2,795.3,418.0
+Matija_Šarkić,2023_2024,Matija Šarkić,0,0,0,0,0.0,0.0,0.0
+Nélson_Cabral Semedo,2023_2024,Nélson Cabral Semedo,3084,0,2,455,508.8,395.7,165.0
+Toti António_Gomes,2023_2024,Toti António Gomes,2771,1,4,468,550.0,117.7,167.0
+Boubacar_Traoré,2023_2024,Boubacar Traoré,802,0,0,122,114.4,106.5,27.0
+Matheus_Santos Carneiro Da Cunha,2023_2024,Matheus Santos Carneiro Da Cunha,2438,12,7,520,786.0,409.8,872.0
+Matt_Doherty,2023_2024,Matt Doherty,1136,1,0,186,237.8,168.1,122.0
+Santiago_Bueno,2023_2024,Santiago Bueno,819,0,0,124,173.8,27.1,2.0
+Enso_González,2023_2024,Enso González,1,0,0,3,0.2,0.8,0.0
+Nathan_Fraser,2023_2024,Nathan Fraser,183,0,0,17,22.4,29.2,36.0
+Jean-Ricner_Bellegarde,2023_2024,Jean-Ricner Bellegarde,948,2,2,150,189.8,170.1,163.0
+Matthew_Whittingham,2023_2024,Matthew Whittingham,0,0,0,0,0.0,0.0,0.0
+Tawanda_Chirewa,2023_2024,Tawanda Chirewa,138,0,0,21,22.0,24.7,21.0
+Justin_Hubner,2023_2024,Justin Hubner,0,0,0,0,0.0,0.0,0.0
+Owen_Hesketh,2023_2024,Owen Hesketh,0,0,0,0,0.0,0.0,0.0
+Ty_Barnett,2023_2024,Ty Barnett,0,0,0,0,0.0,0.0,0.0
+Harvey_Griffiths,2023_2024,Harvey Griffiths,0,0,0,0,0.0,0.0,0.0
+Yerson_Mosquera,2023_2024,Yerson Mosquera,0,0,0,0,0.0,0.0,0.0
+Noha_Lemina,2023_2024,Noha Lemina,0,0,0,0,0.0,0.0,0.0
+Wesley_Okoduwa,2023_2024,Wesley Okoduwa,0,0,0,0,0.0,0.0,0.0
+Leon_Chiwome,2023_2024,Leon Chiwome,173,0,0,12,7.8,1.2,13.0
+Fletcher_Holman,2023_2024,Fletcher Holman,0,0,0,0,0.0,0.0,0.0
+Temple_Ojinnaka,2023_2024,Temple Ojinnaka,0,0,0,0,0.0,0.0,0.0

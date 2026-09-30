@@ -1,0 +1,667 @@
+source_player_id,season_id,source_player_name,minutes,goals_scored,assists,bps,influence,creativity,threat
+Shkodran_Mustafi,2019_2020,Shkodran Mustafi,1205,0,2,242,277.2,45.5,155.0
+Héctor_Bellerín,2019_2020,Héctor Bellerín,1156,1,0,204,187.8,76.9,103.0
+Sead_Kolasinac,2019_2020,Sead Kolasinac,1694,0,2,331,269.6,182.5,81.0
+Ainsley_Maitland-Niles,2019_2020,Ainsley Maitland-Niles,1382,0,2,244,301.8,182.0,58.0
+Sokratis_Papastathopoulos,2019_2020,Sokratis Papastathopoulos,1696,2,0,305,436.2,36.8,110.0
+Nacho_Monreal,2019_2020,Nacho Monreal,270,0,0,54,47.2,40.8,12.0
+Laurent_Koscielny,2019_2020,Laurent Koscielny,0,0,0,0,0.0,0.0,0.0
+Konstantinos_Mavropanos,2019_2020,Konstantinos Mavropanos,0,0,0,0,0.0,0.0,0.0
+Carl_Jenkinson,2019_2020,Carl Jenkinson,0,0,0,0,0.0,0.0,0.0
+Rob_Holding,2019_2020,Rob Holding,580,0,0,96,133.6,4.8,19.0
+Pierre-Emerick_Aubameyang,2019_2020,Pierre-Emerick Aubameyang,3136,22,5,807,1006.0,479.6,1369.0
+Alexandre_Lacazette,2019_2020,Alexandre Lacazette,1867,10,7,387,536.4,337.7,861.0
+Edward_Nketiah,2019_2020,Edward Nketiah,628,2,0,66,90.4,67.0,210.0
+Bernd_Leno,2019_2020,Bernd Leno,2649,0,0,591,843.2,0.0,0.0
+Mesut_Özil,2019_2020,Mesut Özil,1439,1,3,256,223.6,582.9,190.0
+Henrikh_Mkhitaryan,2019_2020,Henrikh Mkhitaryan,110,0,0,3,5.4,33.9,46.0
+Granit_Xhaka,2019_2020,Granit Xhaka,2586,1,2,408,486.2,298.5,110.0
+Lucas_Torreira,2019_2020,Lucas Torreira,1501,1,1,247,281.8,207.1,207.0
+Mohamed_Elneny,2019_2020,Mohamed Elneny,0,0,0,0,0.0,0.0,0.0
+Matteo_Guendouzi,2019_2020,Matteo Guendouzi,1744,0,2,272,333.6,235.1,146.0
+David_Luiz Moreira Marinho,2019_2020,David Luiz Moreira Marinho,2809,2,1,494,701.6,106.7,211.0
+Emiliano_Martínez,2019_2020,Emiliano Martínez,770,0,0,169,256.8,0.0,0.0
+Calum_Chambers,2019_2020,Calum Chambers,1102,1,1,197,272.0,113.5,203.0
+Daniel_Ceballos Fernández,2019_2020,Daniel Ceballos Fernández,1687,0,2,310,346.4,439.9,130.0
+Cédric_Soares,2019_2020,Cédric Soares,1553,1,1,286,349.0,218.9,118.0
+Nicolas_Pépé,2019_2020,Nicolas Pépé,2004,5,6,353,500.2,639.4,624.0
+Reiss_Nelson,2019_2020,Reiss Nelson,622,1,1,105,110.4,148.3,185.0
+Joseph_Willock,2019_2020,Joseph Willock,838,1,1,150,176.8,165.9,212.0
+Gabriel Teodoro_Martinelli Silva,2019_2020,Gabriel Teodoro Martinelli Silva,656,3,1,129,162.8,36.6,226.0
+Kieran_Tierney,2019_2020,Kieran Tierney,986,1,2,213,201.8,121.1,73.0
+Bukayo_Saka,2019_2020,Bukayo Saka,1746,1,6,259,327.2,322.5,248.0
+Emile_Smith Rowe,2019_2020,Emile Smith Rowe,96,0,0,13,9.8,6.3,0.0
+Tyreece_John-Jules,2019_2020,Tyreece John-Jules,0,0,0,0,0.0,0.0,0.0
+Pablo_Marí,2019_2020,Pablo Marí,113,0,0,31,27.8,1.7,0.0
+Zech_Medley,2019_2020,Zech Medley,0,0,0,0,0.0,0.0,0.0
+Matt_Macey,2019_2020,Matt Macey,0,0,0,0,0.0,0.0,0.0
+Matthew_Smith,2019_2020,Matthew Smith,0,0,0,0,0.0,0.0,0.0
+Ahmed_El Mohamady,2019_2020,Ahmed El Mohamady,1024,1,1,224,254.6,324.1,67.0
+James_Chester,2019_2020,James Chester,0,0,0,0,0.0,0.0,0.0
+Neil_Taylor,2019_2020,Neil Taylor,1088,0,0,163,157.6,79.7,29.0
+Kortney_Hause,2019_2020,Kortney Hause,1544,1,0,204,352.8,33.0,248.0
+Jonathan_Kodjia,2019_2020,Jonathan Kodjia,111,0,0,14,3.4,12.2,24.0
+Ørjan_Nyland,2019_2020,Ørjan Nyland,537,0,0,90,101.2,0.0,0.0
+Conor_Hourihane,2019_2020,Conor Hourihane,1526,3,5,328,384.8,551.8,317.0
+Jack_Grealish,2019_2020,Jack Grealish,3233,8,7,601,826.6,1209.2,837.0
+Anwar_El Ghazi,2019_2020,Anwar El Ghazi,2046,4,5,281,383.2,482.2,655.0
+John_McGinn,2019_2020,John McGinn,2312,3,3,321,458.6,503.3,499.0
+Andre_Green,2019_2020,Andre Green,0,0,0,0,0.0,0.0,0.0
+Birkir_Bjarnason,2019_2020,Birkir Bjarnason,0,0,0,0,0.0,0.0,0.0
+Keinan_Davis,2019_2020,Keinan Davis,534,0,1,43,27.8,71.7,212.0
+Henri_Lansbury,2019_2020,Henri Lansbury,190,0,0,37,13.4,27.2,13.0
+José Ignacio_Peleteiro Romallo,2019_2020,José Ignacio Peleteiro Romallo,329,0,1,48,47.0,56.9,73.0
+Tom_Heaton,2019_2020,Tom Heaton,1794,0,0,346,507.4,0.3,0.0
+Daniel_Drinkwater,2019_2020,Daniel Drinkwater,317,0,0,32,18.6,21.2,8.0
+Matt_Targett,2019_2020,Matt Targett,2291,1,3,433,503.8,432.9,130.0
+Wesley_Moraes,2019_2020,Wesley Moraes,1782,5,1,180,296.2,169.8,632.0
+Jed_Steer,2019_2020,Jed Steer,7,0,0,3,0.0,0.0,0.0
+Tyrone_Mings,2019_2020,Tyrone Mings,2902,2,2,537,758.0,87.3,119.0
+Ezri_Konsa Ngoyo,2019_2020,Ezri Konsa Ngoyo,2038,1,2,335,400.6,151.8,173.0
+Bjorn_Engels,2019_2020,Bjorn Engels,1446,1,0,252,329.6,31.9,81.0
+Frédéric_Guilbert,2019_2020,Frédéric Guilbert,2038,0,2,342,451.2,241.5,77.0
+Mahmoud Ahmed_Ibrahim Hassan,2019_2020,Mahmoud Ahmed Ibrahim Hassan,1936,6,2,270,422.4,303.7,741.0
+Douglas Luiz_Soares de Paulo,2019_2020,Douglas Luiz Soares de Paulo,2604,3,2,411,508.6,293.2,377.0
+Lovre_Kalinic,2019_2020,Lovre Kalinic,0,0,0,0,0.0,0.0,0.0
+Marvelous_Nakamba,2019_2020,Marvelous Nakamba,1826,0,0,273,292.2,162.9,24.0
+Indiana_Vassilev,2019_2020,Indiana Vassilev,47,0,0,8,1.2,1.6,7.0
+José_Reina,2019_2020,José Reina,1080,0,0,203,289.4,10.0,0.0
+Mbwana_Samatta,2019_2020,Mbwana Samatta,940,1,0,74,67.6,131.5,245.0
+Borja_González Tomás,2019_2020,Borja González Tomás,16,0,0,5,0.2,1.7,2.0
+Kaine_Hayden,2019_2020,Kaine Hayden,0,0,0,0,0.0,0.0,0.0
+Steve_Cook,2019_2020,Steve Cook,2427,1,0,362,557.2,51.5,159.0
+Nathan_Aké,2019_2020,Nathan Aké,2503,2,2,499,691.2,92.7,326.0
+Charlie_Daniels,2019_2020,Charlie Daniels,126,0,0,18,22.4,29.6,0.0
+Chris_Mepham,2019_2020,Chris Mepham,911,1,0,165,276.8,20.8,138.0
+Simon_Francis,2019_2020,Simon Francis,964,0,0,161,263.8,64.4,72.0
+Adam_Smith,2019_2020,Adam Smith,2055,0,1,309,309.6,183.0,97.0
+Lloyd_Kelly,2019_2020,Lloyd Kelly,638,0,0,85,73.4,28.4,20.0
+Diego_Rico,2019_2020,Diego Rico,2333,0,5,463,596.6,558.9,96.0
+Jack_Simpson,2019_2020,Jack Simpson,238,0,0,33,33.6,12.7,18.0
+Callum_Wilson,2019_2020,Callum Wilson,2906,8,6,321,397.4,391.1,848.0
+Joshua_King,2019_2020,Joshua King,2010,6,5,313,435.8,412.7,506.0
+Dominic_Solanke,2019_2020,Dominic Solanke,1637,3,2,177,223.2,202.5,569.0
+Sam_Surridge,2019_2020,Sam Surridge,25,0,0,3,3.4,10.6,24.0
+Asmir_Begovic,2019_2020,Asmir Begovic,0,0,0,0,0.0,0.0,0.0
+Artur_Boruc,2019_2020,Artur Boruc,0,0,0,0,0.0,0.0,0.0
+Mark_Travers,2019_2020,Mark Travers,90,0,0,9,15.2,0.0,0.0
+Ryan_Fraser,2019_2020,Ryan Fraser,2061,1,5,305,355.6,627.1,440.0
+David_Brooks,2019_2020,David Brooks,505,1,0,73,82.2,100.8,71.0
+Junior_Stanislas,2019_2020,Junior Stanislas,706,3,1,155,179.0,185.4,241.0
+Jordon_Ibe,2019_2020,Jordon Ibe,48,0,0,10,6.8,5.4,0.0
+Lewis_Cook,2019_2020,Lewis Cook,1340,0,1,183,187.8,183.1,68.0
+Andrew_Surman,2019_2020,Andrew Surman,234,0,0,28,23.6,25.5,8.0
+Dan_Gosling,2019_2020,Dan Gosling,1254,3,1,186,316.4,151.9,259.0
+Jefferson_Lerma,2019_2020,Jefferson Lerma,2702,1,2,376,439.0,189.4,169.0
+Jack_Stacey,2019_2020,Jack Stacey,1547,0,2,241,308.8,147.2,86.0
+Philip_Billing,2019_2020,Philip Billing,2526,1,1,347,545.4,239.8,342.0
+Arnaut_Danjuma Groeneveld,2019_2020,Arnaut Danjuma Groeneveld,625,0,1,60,60.6,82.6,139.0
+Aaron_Ramsdale,2019_2020,Aaron Ramsdale,3330,0,1,680,973.8,24.0,0.0
+Harry_Wilson,2019_2020,Harry Wilson,1637,7,1,295,377.4,242.1,667.0
+Christian_Saydee,2019_2020,Christian Saydee,0,0,0,0,0.0,0.0,0.0
+Gavin_Kilkenny,2019_2020,Gavin Kilkenny,0,0,0,0,0.0,0.0,0.0
+Mihai-Alexandru_Dobre,2019_2020,Mihai-Alexandru Dobre,0,0,0,0,0.0,0.0,0.0
+Shane_Duffy,2019_2020,Shane Duffy,1232,1,0,227,288.0,29.8,100.0
+Martín_Montoya,2019_2020,Martín Montoya,1892,0,1,313,337.4,338.0,177.0
+Bernardo_Fernandes da Silva Junior,2019_2020,Bernardo Fernandes da Silva Junior,675,0,0,121,154.0,72.6,92.0
+Leon_Balogun,2019_2020,Leon Balogun,0,0,0,0,0.0,0.0,0.0
+Gaëtan_Bong,2019_2020,Gaëtan Bong,57,0,0,15,16.0,27.9,6.0
+Lewis_Dunk,2019_2020,Lewis Dunk,3230,3,3,674,825.6,171.8,469.0
+Matthew_Clarke,2019_2020,Matthew Clarke,0,0,0,0,0.0,0.0,0.0
+Glenn_Murray,2019_2020,Glenn Murray,785,1,1,74,74.0,57.1,249.0
+Jürgen_Locadia,2019_2020,Jürgen Locadia,85,0,0,5,3.2,1.3,30.0
+Florin_Andone,2019_2020,Florin Andone,71,1,0,20,45.0,11.3,21.0
+Mathew_Ryan,2019_2020,Mathew Ryan,3420,0,0,754,1000.0,0.0,0.0
+David_Button,2019_2020,David Button,0,0,0,0,0.0,0.0,0.0
+Pascal_Groß,2019_2020,Pascal Groß,1791,2,5,326,388.2,908.5,323.0
+Alireza_Jahanbakhsh,2019_2020,Alireza Jahanbakhsh,305,2,1,90,90.6,62.5,106.0
+José Heriberto_Izquierdo Mena,2019_2020,José Heriberto Izquierdo Mena,0,0,0,0,0.0,0.0,0.0
+Anthony_Knockaert,2019_2020,Anthony Knockaert,0,0,0,0,0.0,0.0,0.0
+Yves_Bissouma,2019_2020,Yves Bissouma,1253,1,0,207,238.8,110.6,101.0
+Davy_Pröpper,2019_2020,Davy Pröpper,2826,1,2,441,522.2,434.1,271.0
+Solomon_March,2019_2020,Solomon March,1139,0,1,129,189.4,239.6,274.0
+Beram_Kayal,2019_2020,Beram Kayal,0,0,0,0,0.0,0.0,0.0
+Dale_Stephens,2019_2020,Dale Stephens,2525,0,1,406,438.6,292.8,90.0
+Leandro_Trossard,2019_2020,Leandro Trossard,2004,5,5,352,411.4,585.4,540.0
+Dan_Burn,2019_2020,Dan Burn,2879,0,0,480,602.8,311.9,128.0
+Adam_Webster,2019_2020,Adam Webster,2668,3,1,514,696.6,153.2,221.0
+Neal_Maupay,2019_2020,Neal Maupay,2763,10,3,361,518.6,369.2,1519.0
+Aaron_Mooy,2019_2020,Aaron Mooy,2079,2,2,337,436.6,614.9,291.0
+Aaron_Connolly,2019_2020,Aaron Connolly,1250,3,3,146,150.6,91.4,530.0
+Tudor_Baluta,2019_2020,Tudor Baluta,0,0,0,0,0.0,0.0,0.0
+Steven_Alzate,2019_2020,Steven Alzate,1181,0,0,183,202.0,214.1,205.0
+Ezequiel_Schelotto,2019_2020,Ezequiel Schelotto,357,0,0,40,38.4,12.7,65.0
+Tariq_Lamptey,2019_2020,Tariq Lamptey,619,0,1,136,91.8,82.1,27.0
+Alexis_Mac Allister,2019_2020,Alexis Mac Allister,348,0,0,35,28.4,73.8,66.0
+Alex_Cochrane,2019_2020,Alex Cochrane,0,0,0,0,0.0,0.0,0.0
+Ben_Mee,2019_2020,Ben Mee,2880,1,2,549,658.8,105.8,362.0
+James_Tarkowski,2019_2020,James Tarkowski,3420,2,3,690,919.8,167.1,410.0
+Matthew_Lowton,2019_2020,Matthew Lowton,1530,0,1,270,294.2,181.7,15.0
+Phil_Bardsley,2019_2020,Phil Bardsley,1890,0,2,358,350.6,164.0,109.0
+Charlie_Taylor,2019_2020,Charlie Taylor,1944,0,1,375,382.6,243.0,19.0
+Kevin_Long,2019_2020,Kevin Long,562,0,0,93,104.8,1.3,24.0
+Ben_Gibson,2019_2020,Ben Gibson,0,0,0,0,0.0,0.0,0.0
+Ashley_Barnes,2019_2020,Ashley Barnes,1350,6,0,161,226.2,85.1,474.0
+Chris_Wood,2019_2020,Chris Wood,2436,14,1,384,552.2,299.6,1070.0
+Matej_Vydra,2019_2020,Matej Vydra,807,2,1,112,144.2,113.3,273.0
+Nick_Pope,2019_2020,Nick Pope,3420,0,0,789,900.0,30.3,2.0
+Joe_Hart,2019_2020,Joe Hart,0,0,0,0,0.0,0.0,0.0
+Johann Berg_Gudmundsson,2019_2020,Johann Berg Gudmundsson,617,1,1,98,118.6,215.4,108.0
+Dwight_McNeil,2019_2020,Dwight McNeil,3339,2,7,529,644.2,931.4,430.0
+Robbie_Brady,2019_2020,Robbie Brady,445,1,2,112,118.6,102.1,128.0
+Steven_Defour,2019_2020,Steven Defour,0,0,0,0,0.0,0.0,0.0
+Jeff_Hendrick,2019_2020,Jeff Hendrick,1930,2,2,197,269.8,213.7,282.0
+Ashley_Westwood,2019_2020,Ashley Westwood,3150,2,7,567,596.8,814.2,135.0
+Jack_Cork,2019_2020,Jack Cork,2614,0,0,301,313.2,198.2,311.0
+Aaron_Lennon,2019_2020,Aaron Lennon,485,0,0,51,45.0,37.8,12.0
+Erik_Pieters,2019_2020,Erik Pieters,1876,0,5,359,355.4,273.8,90.0
+Jay_Rodriguez,2019_2020,Jay Rodriguez,2002,8,2,282,431.4,135.0,827.0
+Bailey_Peacock-Farrell,2019_2020,Bailey Peacock-Farrell,0,0,0,0,0.0,0.0,0.0
+Mace_Goodridge,2019_2020,Mace Goodridge,0,0,0,0,0.0,0.0,0.0
+Anthony_Driscoll-Glennon,2019_2020,Anthony Driscoll-Glennon,0,0,0,0,0.0,0.0,0.0
+Abd-Al-Ali Morakinyo Olaposi_Koiki,2019_2020,Abd-Al-Ali Morakinyo Olaposi Koiki,0,0,0,0,0.0,0.0,0.0
+Josh_Brownhill,2019_2020,Josh Brownhill,805,0,0,111,101.2,58.5,49.0
+Jimmy_Dunne,2019_2020,Jimmy Dunne,0,0,0,0,0.0,0.0,0.0
+Bobby_Thomas,2019_2020,Bobby Thomas,0,0,0,0,0.0,0.0,0.0
+Max_Thompson,2019_2020,Max Thompson,2,0,0,3,0.0,0.0,0.0
+Lukas_Jensen,2019_2020,Lukas Jensen,0,0,0,0,0.0,0.0,0.0
+Josh_Benson,2019_2020,Josh Benson,0,0,0,0,0.0,0.0,0.0
+Joel_Mumbongo,2019_2020,Joel Mumbongo,0,0,0,0,0.0,0.0,0.0
+Marcos_Alonso,2019_2020,Marcos Alonso,1429,4,4,395,411.8,413.4,420.0
+Antonio_Rüdiger,2019_2020,Antonio Rüdiger,1710,2,0,351,389.4,93.3,194.0
+César_Azpilicueta,2019_2020,César Azpilicueta,3229,2,6,700,905.2,708.7,438.0
+Emerson_Palmieri dos Santos,2019_2020,Emerson Palmieri dos Santos,1022,0,0,181,207.8,298.7,225.0
+Andreas_Christensen,2019_2020,Andreas Christensen,1751,0,0,325,353.6,70.9,96.0
+Davide_Zappacosta,2019_2020,Davide Zappacosta,0,0,0,0,0.0,0.0,0.0
+Olivier_Giroud,2019_2020,Olivier Giroud,988,8,1,253,316.2,144.8,598.0
+Kepa_Arrizabalaga,2019_2020,Kepa Arrizabalaga,2970,0,0,507,503.6,0.0,0.0
+Willy_Caballero,2019_2020,Willy Caballero,450,0,0,74,90.2,0.0,0.0
+Willian_Borges Da Silva,2019_2020,Willian Borges Da Silva,2595,9,9,698,834.8,1177.7,930.0
+Pedro_Rodríguez Ledesma,2019_2020,Pedro Rodríguez Ledesma,659,1,2,127,161.4,227.1,349.0
+Ruben_Loftus-Cheek,2019_2020,Ruben Loftus-Cheek,203,0,1,37,30.8,30.2,33.0
+Callum_Hudson-Odoi,2019_2020,Callum Hudson-Odoi,849,1,5,197,235.2,341.4,325.0
+Ross_Barkley,2019_2020,Ross Barkley,1095,1,5,208,266.0,344.3,373.0
+Jorge Luiz_Frello Filho,2019_2020,Jorge Luiz Frello Filho,2376,4,3,535,600.0,422.4,158.0
+N'Golo_Kanté,2019_2020,N'Golo Kanté,1730,3,0,294,422.8,424.5,214.0
+Ethan_Ampadu,2019_2020,Ethan Ampadu,0,0,0,0,0.0,0.0,0.0
+Christian_Pulisic,2019_2020,Christian Pulisic,1717,9,8,379,556.2,426.0,1059.0
+Mateo_Kovacic,2019_2020,Mateo Kovacic,2065,1,3,461,497.0,458.5,186.0
+Kurt_Zouma,2019_2020,Kurt Zouma,2343,0,0,432,518.0,40.1,162.0
+Tammy_Abraham,2019_2020,Tammy Abraham,2206,15,6,461,659.6,283.2,1301.0
+Michy_Batshuayi,2019_2020,Michy Batshuayi,224,1,2,59,61.8,42.9,185.0
+Robert Kenedy_Nunes do Nascimento,2019_2020,Robert Kenedy Nunes do Nascimento,0,0,0,0,0.0,0.0,0.0
+Mason_Mount,2019_2020,Mason Mount,2865,7,6,510,641.2,814.0,974.0
+Reece_James,2019_2020,Reece James,1510,0,2,373,343.6,428.8,143.0
+Fikayo_Tomori,2019_2020,Fikayo Tomori,1291,1,0,271,335.4,68.6,79.0
+Billy_Gilmour,2019_2020,Billy Gilmour,191,0,0,41,31.4,55.3,5.0
+Addji Keaninkin Marc-Israel_Guehi,2019_2020,Addji Keaninkin Marc-Israel Guehi,0,0,0,0,0.0,0.0,0.0
+Faustino_Anjorin,2019_2020,Faustino Anjorin,19,0,0,1,0.0,1.2,9.0
+Armando_Broja,2019_2020,Armando Broja,4,0,0,2,0.0,0.3,0.0
+Lewis_Bate,2019_2020,Lewis Bate,0,0,0,0,0.0,0.0,0.0
+Patrick_van Aanholt,2019_2020,Patrick van Aanholt,2507,3,2,523,531.2,516.0,285.0
+James_Tomkins,2019_2020,James Tomkins,1582,1,1,260,384.0,27.7,121.0
+Mamadou_Sakho,2019_2020,Mamadou Sakho,929,0,0,148,179.2,15.9,6.0
+Joel_Ward,2019_2020,Joel Ward,2380,0,1,392,427.0,117.0,49.0
+Scott_Dann,2019_2020,Scott Dann,1264,0,1,253,250.2,58.3,177.0
+Martin_Kelly,2019_2020,Martin Kelly,1547,0,1,288,305.4,96.5,15.0
+Christian_Benteke,2019_2020,Christian Benteke,1252,2,1,133,231.8,248.3,632.0
+Connor_Wickham,2019_2020,Connor Wickham,90,1,1,48,59.8,34.5,64.0
+Vicente_Guaita,2019_2020,Vicente Guaita,3150,0,0,643,827.2,0.0,0.0
+Wayne_Hennessey,2019_2020,Wayne Hennessey,270,0,0,58,110.4,0.0,0.0
+Wilfried_Zaha,2019_2020,Wilfried Zaha,3279,4,6,337,572.0,588.0,1103.0
+Luka_Milivojevic,2019_2020,Luka Milivojevic,2510,3,1,382,460.0,499.1,190.0
+Andros_Townsend,2019_2020,Andros Townsend,1284,1,1,221,246.4,247.1,122.0
+Max_Meyer,2019_2020,Max Meyer,645,0,0,67,68.0,68.9,103.0
+Jeffrey_Schlupp,2019_2020,Jeffrey Schlupp,1030,3,1,148,240.0,101.9,266.0
+James_McArthur,2019_2020,James McArthur,3091,0,4,420,586.6,486.6,421.0
+Cheikhou_Kouyaté,2019_2020,Cheikhou Kouyaté,2524,1,2,288,394.6,162.3,279.0
+Luke_Dreher,2019_2020,Luke Dreher,0,0,0,0,0.0,0.0,0.0
+James_McCarthy,2019_2020,James McCarthy,1668,0,0,205,268.8,268.3,80.0
+Jordan_Ayew,2019_2020,Jordan Ayew,3148,9,3,443,597.4,445.6,885.0
+Gary_Cahill,2019_2020,Gary Cahill,2167,0,1,395,448.4,40.0,342.0
+Víctor_Camarasa,2019_2020,Víctor Camarasa,5,0,0,3,0.2,0.1,0.0
+Jairo_Riedewald,2019_2020,Jairo Riedewald,761,0,0,116,117.0,47.1,27.0
+Stephen_Henderson,2019_2020,Stephen Henderson,0,0,0,0,0.0,0.0,0.0
+Sam_Woods,2019_2020,Sam Woods,0,0,0,0,0.0,0.0,0.0
+Tyrick_Mitchell,2019_2020,Tyrick Mitchell,193,0,0,23,36.4,58.7,2.0
+Brandon_Pierrick,2019_2020,Brandon Pierrick,13,0,0,7,6.4,21.0,2.0
+James_Daly,2019_2020,James Daly,0,0,0,0,0.0,0.0,0.0
+Nya_Kirby,2019_2020,Nya Kirby,0,0,0,0,0.0,0.0,0.0
+Giovanni_McGregor,2019_2020,Giovanni McGregor,0,0,0,0,0.0,0.0,0.0
+Nikola_Tavares,2019_2020,Nikola Tavares,0,0,0,0,0.0,0.0,0.0
+John-Kymani_Gordon,2019_2020,John-Kymani Gordon,0,0,0,0,0.0,0.0,0.0
+Alex_Iwobi,2019_2020,Alex Iwobi,1591,1,0,227,246.4,383.7,329.0
+Lucas_Digne,2019_2020,Lucas Digne,3031,0,8,646,743.0,1112.0,293.0
+Yerry_Mina,2019_2020,Yerry Mina,2281,2,1,419,535.4,87.2,422.0
+Michael_Keane,2019_2020,Michael Keane,2556,2,0,490,666.4,80.0,204.0
+Seamus_Coleman,2019_2020,Seamus Coleman,1833,0,1,325,321.2,149.0,175.0
+Leighton_Baines,2019_2020,Leighton Baines,400,0,1,89,81.8,123.8,5.0
+Cenk_Tosun,2019_2020,Cenk Tosun,462,2,0,86,89.0,63.4,229.0
+Dominic_Calvert-Lewin,2019_2020,Dominic Calvert-Lewin,2621,13,1,385,562.8,241.4,1272.0
+Jordan_Pickford,2019_2020,Jordan Pickford,3420,0,0,626,755.6,13.0,0.0
+Maarten_Stekelenburg,2019_2020,Maarten Stekelenburg,0,0,0,0,0.0,0.0,0.0
+Richarlison_de Andrade,2019_2020,Richarlison de Andrade,3070,13,5,519,814.6,478.1,1233.0
+Gylfi_Sigurdsson,2019_2020,Gylfi Sigurdsson,2555,2,4,397,454.6,765.1,484.0
+Bernard_Anício Caldeira Duarte,2019_2020,Bernard Anício Caldeira Duarte,1269,3,2,237,315.0,349.1,236.0
+Theo_Walcott,2019_2020,Theo Walcott,1281,2,4,186,225.0,289.1,521.0
+Tom_Davies,2019_2020,Tom Davies,2020,1,1,233,270.4,122.6,262.0
+Ademola_Lookman,2019_2020,Ademola Lookman,0,0,0,0,0.0,0.0,0.0
+Idrissa_Gueye,2019_2020,Idrissa Gueye,0,0,0,0,0.0,0.0,0.0
+Morgan_Schneiderlin,2019_2020,Morgan Schneiderlin,998,0,0,132,143.2,78.5,32.0
+Fabian_Delph,2019_2020,Fabian Delph,1187,0,0,202,183.0,146.7,24.0
+André Filipe_Tavares Gomes,2019_2020,André Filipe Tavares Gomes,1457,0,1,184,156.6,179.4,33.0
+Lewis_Gibson,2019_2020,Lewis Gibson,0,0,0,0,0.0,0.0,0.0
+Mason_Holgate,2019_2020,Mason Holgate,2052,0,4,412,465.4,63.9,152.0
+Jonas_Lössl,2019_2020,Jonas Lössl,0,0,0,0,0.0,0.0,0.0
+Moise_Kean,2019_2020,Moise Kean,830,2,2,138,153.6,136.5,429.0
+Jean-Philippe_Gbamin,2019_2020,Jean-Philippe Gbamin,135,0,0,14,20.0,6.3,0.0
+Djibril_Sidibé,2019_2020,Djibril Sidibé,1818,0,4,386,463.0,341.5,121.0
+Beni_Baningime,2019_2020,Beni Baningime,0,0,0,0,0.0,0.0,0.0
+Anthony_Gordon,2019_2020,Anthony Gordon,436,0,1,63,76.0,98.4,44.0
+Oumar_Niasse,2019_2020,Oumar Niasse,19,0,0,1,7.0,1.8,0.0
+Rhu-endly_Martina,2019_2020,Rhu-endly Martina,0,0,0,0,0.0,0.0,0.0
+João Manuel_Neves Virgínia,2019_2020,João Manuel Neves Virgínia,0,0,0,0,0.0,0.0,0.0
+Jarrad_Branthwaite,2019_2020,Jarrad Branthwaite,299,0,0,69,66.0,2.2,0.0
+Ellis_Simms,2019_2020,Ellis Simms,0,0,0,0,0.0,0.0,0.0
+Ricardo Domingos_Barbosa Pereira,2019_2020,Ricardo Domingos Barbosa Pereira,2520,3,2,568,738.0,446.5,235.0
+Benjamin_Chilwell,2019_2020,Benjamin Chilwell,2374,3,3,501,546.0,545.4,208.0
+Jonny_Evans,2019_2020,Jonny Evans,3384,1,2,707,755.2,131.9,325.0
+Christian_Fuchs,2019_2020,Christian Fuchs,770,0,0,139,144.4,53.5,20.0
+Çaglar_Söyüncü,2019_2020,Çaglar Söyüncü,3036,1,1,681,755.6,79.0,238.0
+Wes_Morgan,2019_2020,Wes Morgan,430,0,0,87,85.8,2.1,58.0
+Jamie_Vardy,2019_2020,Jamie Vardy,3032,23,7,775,1026.0,418.4,1455.0
+Kelechi_Iheanacho,2019_2020,Kelechi Iheanacho,953,5,4,204,288.2,204.2,603.0
+Kasper_Schmeichel,2019_2020,Kasper Schmeichel,3420,0,0,707,863.4,30.0,2.0
+Eldin_Jakupovic,2019_2020,Eldin Jakupovic,0,0,0,0,0.0,0.0,0.0
+Danny_Ward,2019_2020,Danny Ward,0,0,0,0,0.0,0.0,0.0
+James_Maddison,2019_2020,James Maddison,2624,6,5,548,642.4,1246.4,702.0
+Harvey_Barnes,2019_2020,Harvey Barnes,2075,6,10,394,525.0,517.4,893.0
+Rachid_Ghezzal,2019_2020,Rachid Ghezzal,0,0,0,0,0.0,0.0,0.0
+Marc_Albrighton,2019_2020,Marc Albrighton,857,0,3,185,190.6,287.9,102.0
+Demarai_Gray,2019_2020,Demarai Gray,605,2,4,151,205.4,242.3,263.0
+Wilfred_Ndidi,2019_2020,Wilfred Ndidi,2671,2,1,443,611.6,254.4,205.0
+Matty_James,2019_2020,Matty James,5,0,0,3,0.4,0.1,0.0
+Daniel_Amartey,2019_2020,Daniel Amartey,0,0,0,0,0.0,0.0,0.0
+Nampalys_Mendy,2019_2020,Nampalys Mendy,288,0,0,71,57.4,51.8,9.0
+Hamza_Choudhury,2019_2020,Hamza Choudhury,883,1,1,153,177.6,70.0,83.0
+Ayoze_Pérez,2019_2020,Ayoze Pérez,1998,8,5,402,547.4,443.9,779.0
+Ryan_Bennett,2019_2020,Ryan Bennett,932,0,0,176,161.4,41.0,16.0
+James_Justin,2019_2020,James Justin,1010,0,1,196,240.6,195.0,61.0
+Youri_Tielemans,2019_2020,Youri Tielemans,2823,3,6,531,566.6,805.4,502.0
+Andy_King,2019_2020,Andy King,0,0,0,0,0.0,0.0,0.0
+Dennis_Praet,2019_2020,Dennis Praet,1122,1,3,203,196.2,161.6,210.0
+Filip_Benkovic,2019_2020,Filip Benkovic,0,0,0,0,0.0,0.0,0.0
+Luke_Thomas,2019_2020,Luke Thomas,267,0,1,70,78.4,149.8,10.0
+George_Hirst,2019_2020,George Hirst,9,0,0,3,3.2,0.6,25.0
+Darnell_Johnson,2019_2020,Darnell Johnson,0,0,0,0,0.0,0.0,0.0
+Andrew_Robertson,2019_2020,Andrew Robertson,3111,2,12,847,845.8,980.2,389.0
+Trent_Alexander-Arnold,2019_2020,Trent Alexander-Arnold,3173,4,15,904,1026.8,1380.3,420.0
+Virgil_van Dijk,2019_2020,Virgil van Dijk,3420,5,2,804,930.2,152.4,467.0
+Joseph_Gomez,2019_2020,Joseph Gomez,1999,0,0,461,390.6,105.7,12.0
+Joel_Matip,2019_2020,Joel Matip,703,1,0,167,198.2,23.0,39.0
+Dejan_Lovren,2019_2020,Dejan Lovren,776,0,1,147,196.6,28.1,72.0
+Roberto_Firmino,2019_2020,Roberto Firmino,2985,9,9,592,733.6,703.0,1638.0
+Divock_Origi,2019_2020,Divock Origi,699,4,3,230,201.8,128.8,222.0
+Alisson_Ramses Becker,2019_2020,Alisson Ramses Becker,2543,0,1,558,503.0,10.0,0.0
+Simon_Mignolet,2019_2020,Simon Mignolet,0,0,0,0,0.0,0.0,0.0
+Mohamed_Salah,2019_2020,Mohamed Salah,2879,19,10,661,1061.2,834.8,2156.0
+Sadio_Mané,2019_2020,Sadio Mané,2745,18,10,689,1010.2,826.6,1239.0
+Alex_Oxlade-Chamberlain,2019_2020,Alex Oxlade-Chamberlain,1475,4,1,268,300.0,298.2,406.0
+Xherdan_Shaqiri,2019_2020,Xherdan Shaqiri,181,1,0,54,47.8,51.6,37.0
+Adam_Lallana,2019_2020,Adam Lallana,371,1,1,97,107.2,68.8,74.0
+Naby_Keita,2019_2020,Naby Keita,806,2,3,224,281.8,234.7,169.0
+Fabio Henrique_Tavares,2019_2020,Fabio Henrique Tavares,2073,2,3,403,431.6,322.4,85.0
+Jordan_Henderson,2019_2020,Jordan Henderson,2234,4,5,530,582.6,425.9,275.0
+Georginio_Wijnaldum,2019_2020,Georginio Wijnaldum,2933,4,0,503,452.8,344.1,423.0
+James_Milner,2019_2020,James Milner,924,2,2,198,237.2,177.1,100.0
+Rafael_Camacho,2019_2020,Rafael Camacho,0,0,0,0,0.0,0.0,0.0
+Rhian_Brewster,2019_2020,Rhian Brewster,0,0,0,0,0.0,0.0,0.0
+Adrián_San Miguel del Castillo,2019_2020,Adrián San Miguel del Castillo,873,0,0,136,131.4,0.0,0.0
+Andy_Lonergan,2019_2020,Andy Lonergan,0,0,0,0,0.0,0.0,0.0
+Caoimhin_Kelleher,2019_2020,Caoimhin Kelleher,0,0,0,0,0.0,0.0,0.0
+Harvey_Elliott,2019_2020,Harvey Elliott,7,0,0,6,1.8,1.7,0.0
+Curtis_Jones,2019_2020,Curtis Jones,121,1,0,46,49.4,15.6,65.0
+Neco_Williams,2019_2020,Neco Williams,228,0,0,53,49.4,53.3,98.0
+Nathaniel_Phillips,2019_2020,Nathaniel Phillips,0,0,0,0,0.0,0.0,0.0
+Takumi_Minamino,2019_2020,Takumi Minamino,241,0,0,20,17.4,29.9,85.0
+Ki-Jana_Hoever,2019_2020,Ki-Jana Hoever,0,0,0,0,0.0,0.0,0.0
+Aymeric_Laporte,2019_2020,Aymeric Laporte,1096,1,0,298,246.8,62.2,79.0
+Kyle_Walker,2019_2020,Kyle Walker,2392,1,4,573,435.6,394.4,169.0
+Benjamin_Mendy,2019_2020,Benjamin Mendy,1491,0,2,378,243.0,403.2,106.0
+Oleksandr_Zinchenko,2019_2020,Oleksandr Zinchenko,1271,0,0,295,232.0,375.8,102.0
+John_Stones,2019_2020,John Stones,1118,0,0,231,216.4,53.0,66.0
+Nicolás_Otamendi,2019_2020,Nicolás Otamendi,1710,2,1,389,443.6,65.5,319.0
+Danilo Luiz_da Silva,2019_2020,Danilo Luiz da Silva,0,0,0,0,0.0,0.0,0.0
+Sergio_Agüero,2019_2020,Sergio Agüero,1449,16,6,509,641.2,256.4,1188.0
+Gabriel Fernando_de Jesus,2019_2020,Gabriel Fernando de Jesus,2018,14,8,535,757.6,447.7,1620.0
+Ederson_Santana de Moraes,2019_2020,Ederson Santana de Moraes,3071,0,0,645,608.6,16.0,0.0
+Claudio_Bravo,2019_2020,Claudio Bravo,346,0,0,69,57.8,0.0,0.0
+Raheem_Sterling,2019_2020,Raheem Sterling,2651,20,6,642,921.6,751.3,1829.0
+Kevin_De Bruyne,2019_2020,Kevin De Bruyne,2790,13,23,988,1322.2,1990.8,1005.0
+Leroy_Sané,2019_2020,Leroy Sané,11,0,0,2,0.0,1.1,11.0
+Riyad_Mahrez,2019_2020,Riyad Mahrez,1934,11,14,668,814.2,885.8,1094.0
+Bernardo Mota_Veiga de Carvalho e Silva,2019_2020,Bernardo Mota Veiga de Carvalho e Silva,2021,6,7,526,626.2,773.2,927.0
+David_Silva,2019_2020,David Silva,1821,6,12,549,639.6,735.8,937.0
+Phil_Foden,2019_2020,Phil Foden,888,5,2,261,312.2,301.6,466.0
+Fernando_Luiz Rosa,2019_2020,Fernando Luiz Rosa,2394,0,1,401,557.6,146.2,175.0
+Ilkay_Gündogan,2019_2020,Ilkay Gündogan,2012,2,1,382,408.4,592.3,374.0
+José Ángel_Esmorís Tasende,2019_2020,José Ángel Esmorís Tasende,422,0,1,94,92.6,164.0,58.0
+Rodrigo_Hernandez,2019_2020,Rodrigo Hernandez,2480,3,2,516,599.2,532.6,193.0
+João Pedro Cavaco_Cancelo,2019_2020,João Pedro Cavaco Cancelo,1205,0,0,299,265.0,287.6,141.0
+Eric_Garcia,2019_2020,Eric Garcia,790,0,0,189,153.0,42.2,26.0
+Scott_Carson,2019_2020,Scott Carson,0,0,0,0,0.0,0.0,0.0
+Taylor_Harwood-Bellis,2019_2020,Taylor Harwood-Bellis,0,0,0,0,0.0,0.0,0.0
+Cole_Palmer,2019_2020,Cole Palmer,0,0,0,0,0.0,0.0,0.0
+Tommy_Doyle,2019_2020,Tommy Doyle,15,0,0,3,3.8,2.0,7.0
+Aaron_Wan-Bissaka,2019_2020,Aaron Wan-Bissaka,3070,0,4,659,749.2,443.3,133.0
+Harry_Maguire,2019_2020,Harry Maguire,3420,1,0,681,772.0,214.6,371.0
+Chris_Smalling,2019_2020,Chris Smalling,0,0,0,0,0.0,0.0,0.0
+Ashley_Young,2019_2020,Ashley Young,953,0,0,158,155.6,316.6,18.0
+Victor_Lindelöf,2019_2020,Victor Lindelöf,3092,1,0,618,554.0,73.6,79.0
+Luke_Shaw,2019_2020,Luke Shaw,1730,0,0,381,344.2,321.2,187.0
+Marcos_Rojo,2019_2020,Marcos Rojo,121,0,0,9,20.2,1.9,6.0
+Eric_Bailly,2019_2020,Eric Bailly,148,0,0,40,32.0,1.0,0.0
+José Diogo_Dalot Teixeira,2019_2020,José Diogo Dalot Teixeira,65,0,0,10,10.4,4.3,6.0
+Matteo_Darmian,2019_2020,Matteo Darmian,0,0,0,0,0.0,0.0,0.0
+Phil_Jones,2019_2020,Phil Jones,135,0,0,22,21.4,3.0,23.0
+Romelu_Lukaku,2019_2020,Romelu Lukaku,0,0,0,0,0.0,0.0,0.0
+Marcus_Rashford,2019_2020,Marcus Rashford,2645,17,8,665,887.0,563.7,1265.0
+Mason_Greenwood,2019_2020,Mason Greenwood,1303,10,1,430,449.6,222.7,502.0
+David_de Gea,2019_2020,David de Gea,3420,0,0,630,695.0,0.0,0.0
+Sergio_Romero,2019_2020,Sergio Romero,0,0,0,0,0.0,0.0,0.0
+Lee_Grant,2019_2020,Lee Grant,0,0,0,0,0.0,0.0,0.0
+Paul_Pogba,2019_2020,Paul Pogba,1202,1,4,215,295.8,420.0,193.0
+Anthony_Martial,2019_2020,Anthony Martial,2625,17,9,544,855.6,439.3,1297.0
+Alexis_Sánchez,2019_2020,Alexis Sánchez,0,0,0,0,0.0,0.0,0.0
+Jesse_Lingard,2019_2020,Jesse Lingard,923,1,0,99,109.0,278.2,297.0
+Juan_Mata,2019_2020,Juan Mata,747,0,2,139,109.2,293.9,130.0
+Daniel_James,2019_2020,Daniel James,2281,3,6,308,415.2,428.1,622.0
+Frederico_Rodrigues de Paula Santos,2019_2020,Frederico Rodrigues de Paula Santos,2157,0,0,358,430.6,542.7,260.0
+Angel_Gomes,2019_2020,Angel Gomes,19,0,0,7,4.2,24.8,2.0
+Andreas_Pereira,2019_2020,Andreas Pereira,1478,1,3,198,245.6,432.1,343.0
+Nemanja_Matic,2019_2020,Nemanja Matic,1578,0,2,287,357.4,250.3,53.0
+Scott_McTominay,2019_2020,Scott McTominay,1765,3,2,310,415.6,238.4,310.0
+Tahith_Chong,2019_2020,Tahith Chong,34,0,0,6,1.4,1.1,6.0
+James_Garner,2019_2020,James Garner,8,0,0,3,2.2,2.8,0.0
+Axel_Tuanzebe,2019_2020,Axel Tuanzebe,187,0,0,30,17.6,6.2,0.0
+Brandon_Williams,2019_2020,Brandon Williams,1003,1,1,228,200.0,191.2,100.0
+Bruno Miguel_Borges Fernandes,2019_2020,Bruno Miguel Borges Fernandes,1187,8,8,366,551.8,479.3,361.0
+Odion_Ighalo,2019_2020,Odion Ighalo,92,0,0,24,23.0,23.8,135.0
+Timothy_Fosu-Mensah,2019_2020,Timothy Fosu-Mensah,136,0,0,27,12.0,28.6,6.0
+Matt_Ritchie,2019_2020,Matt Ritchie,1312,2,1,293,285.4,482.7,218.0
+Fabian_Schär,2019_2020,Fabian Schär,1669,2,1,297,440.6,58.3,179.0
+DeAndre_Yedlin,2019_2020,DeAndre Yedlin,934,1,0,122,165.6,118.1,43.0
+Federico_Fernández,2019_2020,Federico Fernández,2617,2,3,507,741.0,74.5,223.0
+Paul_Dummett,2019_2020,Paul Dummett,1227,0,0,230,265.2,63.1,50.0
+Javier_Manquillo,2019_2020,Javier Manquillo,1597,0,1,288,232.0,100.8,40.0
+Florian_Lejeune,2019_2020,Florian Lejeune,440,2,0,88,132.0,12.6,81.0
+Jamaal_Lascelles,2019_2020,Jamaal Lascelles,2076,1,0,358,403.0,28.1,125.0
+Ciaran_Clark,2019_2020,Ciaran Clark,1186,2,0,216,331.4,14.9,128.0
+Yoshinori_Muto,2019_2020,Yoshinori Muto,207,0,0,25,12.6,15.4,12.0
+Jose Luis_Mato Sanmartín,2019_2020,Jose Luis Mato Sanmartín,0,0,0,0,0.0,0.0,0.0
+Martin_Dubravka,2019_2020,Martin Dubravka,3420,0,0,719,1019.0,0.0,0.0
+Karl_Darlow,2019_2020,Karl Darlow,0,0,0,0,0.0,0.0,0.0
+Frederick_Woodman,2019_2020,Frederick Woodman,0,0,0,0,0.0,0.0,0.0
+Miguel_Almirón,2019_2020,Miguel Almirón,3020,4,2,356,481.6,450.2,750.0
+Christian_Atsu,2019_2020,Christian Atsu,738,0,3,104,121.4,186.7,55.0
+Sung-yueng_Ki,2019_2020,Sung-yueng Ki,135,0,0,18,17.8,39.8,0.0
+Jonjo_Shelvey,2019_2020,Jonjo Shelvey,2118,6,2,437,559.4,597.4,344.0
+Sean_Longstaff,2019_2020,Sean Longstaff,1370,1,2,181,235.8,217.1,155.0
+Isaac_Hayden,2019_2020,Isaac Hayden,2220,1,4,309,368.6,227.6,189.0
+Danny_Rose,2019_2020,Danny Rose,1753,0,0,290,288.4,230.8,44.0
+Joelinton Cássio_Apolinário de Lira,2019_2020,Joelinton Cássio Apolinário de Lira,2678,2,2,236,330.8,433.4,641.0
+Jack_Colback,2019_2020,Jack Colback,0,0,0,0,0.0,0.0,0.0
+Jacob_Murphy,2019_2020,Jacob Murphy,0,0,0,0,0.0,0.0,0.0
+Jetro_Willems,2019_2020,Jetro Willems,1492,2,2,283,345.4,196.0,198.0
+Rolando_Aarons,2019_2020,Rolando Aarons,0,0,0,0,0.0,0.0,0.0
+Allan_Saint-Maximin,2019_2020,Allan Saint-Maximin,1860,3,5,321,434.0,423.4,542.0
+Emil_Krafth,2019_2020,Emil Krafth,1015,0,1,187,184.4,28.8,39.0
+Andy_Carroll,2019_2020,Andy Carroll,617,0,4,87,136.6,162.0,211.0
+Matthew_Longstaff,2019_2020,Matthew Longstaff,572,2,0,104,102.8,51.6,49.0
+Dwight_Gayle,2019_2020,Dwight Gayle,842,4,2,190,217.0,86.2,348.0
+Robert_Elliot,2019_2020,Robert Elliot,0,0,0,0,0.0,0.0,0.0
+Thomas_Allan,2019_2020,Thomas Allan,0,0,0,0,0.0,0.0,0.0
+Kelland_Watts,2019_2020,Kelland Watts,16,0,0,3,2.0,0.0,0.0
+Liam_Gibson,2019_2020,Liam Gibson,0,0,0,0,0.0,0.0,0.0
+Nabil_Bentaleb,2019_2020,Nabil Bentaleb,747,0,0,113,104.6,101.0,20.0
+Valentino_Lazaro,2019_2020,Valentino Lazaro,472,1,0,81,84.2,88.1,38.0
+Jack_Young,2019_2020,Jack Young,0,0,0,0,0.0,0.0,0.0
+Timm_Klose,2019_2020,Timm Klose,585,0,0,77,121.2,2.6,42.0
+Ben_Godfrey,2019_2020,Ben Godfrey,2644,0,0,447,602.8,57.0,119.0
+Maximillian_Aarons,2019_2020,Maximillian Aarons,3240,0,2,489,566.6,385.2,237.0
+Christoph_Zimmermann,2019_2020,Christoph Zimmermann,1430,0,1,247,366.4,25.5,62.0
+Jamal_Lewis,2019_2020,Jamal Lewis,2301,1,0,384,439.0,262.2,130.0
+Grant_Hanley,2019_2020,Grant Hanley,1261,0,0,214,318.8,3.6,76.0
+Teemu_Pukki,2019_2020,Teemu Pukki,2884,11,3,444,545.0,379.5,1202.0
+Dennis_Srbeny,2019_2020,Dennis Srbeny,41,1,0,50,44.2,3.4,25.0
+Tim_Krul,2019_2020,Tim Krul,3240,0,0,668,1063.0,0.0,0.0
+Michael_McGovern,2019_2020,Michael McGovern,158,0,0,46,65.0,0.0,0.0
+Mario_Vrancic,2019_2020,Mario Vrancic,624,1,0,116,123.0,107.9,123.0
+Emiliano_Buendía,2019_2020,Emiliano Buendía,2458,1,7,464,711.6,1196.7,401.0
+Onel_Hernández,2019_2020,Onel Hernández,1374,1,2,173,227.2,235.5,445.0
+Marco_Stiepermann,2019_2020,Marco Stiepermann,1173,0,0,96,120.2,188.1,277.0
+Kenny_McLean,2019_2020,Kenny McLean,2965,1,1,424,505.8,423.9,274.0
+Todd_Cantwell,2019_2020,Todd Cantwell,2484,6,2,410,516.4,493.1,656.0
+Moritz_Leitner,2019_2020,Moritz Leitner,683,0,0,102,106.8,127.7,53.0
+Alexander_Tettey,2019_2020,Alexander Tettey,2339,1,1,404,358.0,116.5,173.0
+Tom_Trybull,2019_2020,Tom Trybull,1128,0,0,172,198.2,55.4,92.0
+Josip_Drmic,2019_2020,Josip Drmic,636,1,0,67,59.6,67.3,231.0
+Patrick_Roberts,2019_2020,Patrick Roberts,24,0,0,12,4.4,0.6,0.0
+Ralf_Fahrmann,2019_2020,Ralf Fahrmann,21,0,0,6,4.0,0.0,0.0
+Sam_Byram,2019_2020,Sam Byram,1292,0,0,201,273.2,109.2,218.0
+Philip_Heise,2019_2020,Philip Heise,0,0,0,0,0.0,0.0,0.0
+Ibrahim_Amadou,2019_2020,Ibrahim Amadou,756,0,0,122,177.2,18.3,31.0
+Adam_Idah,2019_2020,Adam Idah,219,0,0,25,13.8,18.2,47.0
+Archie_Mair,2019_2020,Archie Mair,0,0,0,0,0.0,0.0,0.0
+Akin_Famewo,2019_2020,Akin Famewo,1,0,0,3,0.0,0.0,0.0
+Ondrej_Duda,2019_2020,Ondrej Duda,723,0,1,131,115.8,261.6,105.0
+Lukas_Rupp,2019_2020,Lukas Rupp,692,0,0,79,70.2,109.1,88.0
+Josh_Martin,2019_2020,Josh Martin,32,0,0,14,6.6,0.8,17.0
+Jordan_Thomas,2019_2020,Jordan Thomas,1,0,0,3,0.0,0.0,0.0
+Daniel_Adshead,2019_2020,Daniel Adshead,0,0,0,0,0.0,0.0,0.0
+Lys_Mousset,2019_2020,Lys Mousset,1223,6,4,248,303.0,163.1,530.0
+Enda_Stevens,2019_2020,Enda Stevens,3345,2,4,639,641.0,554.5,338.0
+Kieron_Freeman,2019_2020,Kieron Freeman,6,0,0,5,0.0,0.3,0.0
+Jack_O'Connell,2019_2020,Jack O'Connell,2915,0,1,552,576.6,262.3,246.0
+George_Baldock,2019_2020,George Baldock,3420,2,4,602,559.8,485.7,241.0
+John_Egan,2019_2020,John Egan,3187,2,1,592,641.4,25.4,587.0
+Richard_Stearman,2019_2020,Richard Stearman,0,0,0,0,0.0,0.0,0.0
+John_Lundstram,2019_2020,John Lundstram,2452,5,4,539,502.8,382.9,449.0
+Billy_Sharp,2019_2020,Billy Sharp,1037,3,2,159,175.4,186.2,348.0
+Jake_Eastwood,2019_2020,Jake Eastwood,0,0,0,0,0.0,0.0,0.0
+Mark_Duffy,2019_2020,Mark Duffy,0,0,0,0,0.0,0.0,0.0
+John_Fleck,2019_2020,John Fleck,2515,5,2,464,527.4,648.8,419.0
+Oliver_Norwood,2019_2020,Oliver Norwood,3089,1,3,563,608.4,808.8,100.0
+David_McGoldrick,2019_2020,David McGoldrick,1810,2,2,201,303.4,268.4,584.0
+Chris_Basham,2019_2020,Chris Basham,3242,0,1,639,707.6,212.1,103.0
+Simon_Moore,2019_2020,Simon Moore,180,0,0,23,28.0,0.0,0.0
+Luke_Freeman,2019_2020,Luke Freeman,360,0,0,38,46.2,77.4,25.0
+Phil_Jagielka,2019_2020,Phil Jagielka,240,0,0,50,75.4,4.8,2.0
+Callum_Robinson,2019_2020,Callum Robinson,669,1,2,73,79.8,72.8,156.0
+Ravel_Morrison,2019_2020,Ravel Morrison,12,0,0,0,0.0,0.6,4.0
+Dean_Henderson,2019_2020,Dean Henderson,3240,0,1,688,718.8,10.0,18.0
+Ben_Osborn,2019_2020,Ben Osborn,590,0,0,84,78.4,108.5,65.0
+Oliver_McBurnie,2019_2020,Oliver McBurnie,2105,6,1,300,424.4,186.9,830.0
+Michael_Verrips,2019_2020,Michael Verrips,0,0,0,0,0.0,0.0,0.0
+Muhamed_Bešić,2019_2020,Muhamed Bešić,243,0,0,40,34.2,21.5,29.0
+Leon_Clarke,2019_2020,Leon Clarke,33,0,0,3,4.0,1.6,6.0
+Jack_Rodwell,2019_2020,Jack Rodwell,15,0,0,3,1.2,0.0,0.0
+Jack_Robinson,2019_2020,Jack Robinson,504,0,0,87,106.8,30.4,2.0
+Sander_Berge,2019_2020,Sander Berge,943,1,1,147,152.4,66.0,82.0
+Richairo_Zivkovic,2019_2020,Richairo Zivkovic,107,0,0,15,9.4,28.6,22.0
+Panagiotis_Retsos,2019_2020,Panagiotis Retsos,0,0,0,0,0.0,0.0,0.0
+Jannik_Vestergaard,2019_2020,Jannik Vestergaard,1496,1,0,286,363.8,81.3,183.0
+Ryan_Bertrand,2019_2020,Ryan Bertrand,2742,1,1,432,436.8,538.5,234.0
+Yan_Valery,2019_2020,Yan Valery,778,0,1,93,112.0,44.2,77.0
+Jan_Bednarek,2019_2020,Jan Bednarek,3057,1,1,539,729.8,45.5,95.0
+Jack_Stephens,2019_2020,Jack Stephens,2451,1,3,432,566.2,101.5,97.0
+Maya_Yoshida,2019_2020,Maya Yoshida,558,0,0,85,96.8,3.7,77.0
+Kayne_Ramsay,2019_2020,Kayne Ramsay,0,0,0,0,0.0,0.0,0.0
+Charlie_Austin,2019_2020,Charlie Austin,0,0,0,0,0.0,0.0,0.0
+Danny_Ings,2019_2020,Danny Ings,2800,22,2,736,1010.0,458.3,1558.0
+Michael_Obafemi,2019_2020,Michael Obafemi,655,3,2,165,170.8,130.7,235.0
+Shane_Long,2019_2020,Shane Long,1386,2,3,159,190.8,264.8,536.0
+Sam_Gallagher,2019_2020,Sam Gallagher,0,0,0,0,0.0,0.0,0.0
+Fraser_Forster,2019_2020,Fraser Forster,0,0,0,0,0.0,0.0,0.0
+Alex_McCarthy,2019_2020,Alex McCarthy,2520,0,0,491,652.0,10.0,0.0
+Angus_Gunn,2019_2020,Angus Gunn,900,0,0,166,219.4,0.0,0.0
+Nathan_Redmond,2019_2020,Nathan Redmond,2763,4,4,412,517.2,539.1,752.0
+James_Ward-Prowse,2019_2020,James Ward-Prowse,3420,5,4,587,864.6,989.9,548.0
+Mohamed_Elyounoussi,2019_2020,Mohamed Elyounoussi,0,0,0,0,0.0,0.0,0.0
+Stuart_Armstrong,2019_2020,Stuart Armstrong,1706,5,4,301,418.2,274.9,431.0
+Mario_Lemina,2019_2020,Mario Lemina,0,0,0,0,0.0,0.0,0.0
+Pierre-Emile_Højbjerg,2019_2020,Pierre-Emile Højbjerg,2750,0,3,412,493.0,469.0,368.0
+Tyreke_Johnson,2019_2020,Tyreke Johnson,0,0,0,0,0.0,0.0,0.0
+Callum_Slattery,2019_2020,Callum Slattery,0,0,0,0,0.0,0.0,0.0
+Oriol_Romeu Vidal,2019_2020,Oriol Romeu Vidal,1855,0,0,301,333.2,272.9,69.0
+Kyle_Walker-Peters,2019_2020,Kyle Walker-Peters,944,0,1,194,168.2,108.6,48.0
+Che_Adams,2019_2020,Che Adams,1095,4,4,242,226.2,184.9,524.0
+Moussa_Djenepo,2019_2020,Moussa Djenepo,920,2,2,151,224.4,153.4,252.0
+Wesley_Hoedt,2019_2020,Wesley Hoedt,0,0,0,0,0.0,0.0,0.0
+Sofiane_Boufal,2019_2020,Sofiane Boufal,753,0,3,99,149.4,203.7,267.0
+Kevin_Danso,2019_2020,Kevin Danso,275,0,1,46,58.4,26.0,6.0
+Daniel_N'Lundulu,2019_2020,Daniel N'Lundulu,0,0,0,0,0.0,0.0,0.0
+Harry_Lewis,2019_2020,Harry Lewis,0,0,0,0,0.0,0.0,0.0
+William_Smallbone,2019_2020,William Smallbone,389,0,2,84,70.2,53.2,43.0
+Nathan_Tella,2019_2020,Nathan Tella,2,0,0,3,3.0,0.0,17.0
+Jake_Vokins,2019_2020,Jake Vokins,90,0,0,10,8.4,16.7,3.0
+Alexandre_Jankewitz,2019_2020,Alexandre Jankewitz,0,0,0,0,0.0,0.0,0.0
+Will_Ferry,2019_2020,Will Ferry,0,0,0,0,0.0,0.0,0.0
+Jacob_Maddox,2019_2020,Jacob Maddox,0,0,0,0,0.0,0.0,0.0
+Ben_Davies,2019_2020,Ben Davies,1430,0,0,223,279.8,172.4,94.0
+Jan_Vertonghen,2019_2020,Jan Vertonghen,1644,1,1,346,398.4,56.1,63.0
+Toby_Alderweireld,2019_2020,Toby Alderweireld,2957,2,2,576,773.6,196.0,182.0
+Davinson_Sánchez,2019_2020,Davinson Sánchez,2431,0,2,443,550.0,31.0,82.0
+Kieran_Trippier,2019_2020,Kieran Trippier,0,0,0,0,0.0,0.0,0.0
+Juan_Foyth,2019_2020,Juan Foyth,66,0,0,9,18.6,12.5,0.0
+Serge_Aurier,2019_2020,Serge Aurier,2699,1,7,623,655.2,508.1,252.0
+Harry_Kane,2019_2020,Harry Kane,2588,18,2,587,843.8,391.0,1071.0
+Vincent_Janssen,2019_2020,Vincent Janssen,0,0,0,0,0.0,0.0,0.0
+Hugo_Lloris,2019_2020,Hugo Lloris,1808,0,0,422,564.6,0.0,0.0
+Paulo_Gazzaniga,2019_2020,Paulo Gazzaniga,1612,0,0,300,449.8,10.0,0.0
+Heung-Min_Son,2019_2020,Heung-Min Son,2478,11,13,544,800.6,606.1,1144.0
+Christian_Eriksen,2019_2020,Christian Eriksen,1090,2,2,205,262.4,348.9,225.0
+Bamidele_Alli,2019_2020,Bamidele Alli,1845,8,6,349,531.2,328.6,627.0
+Lucas_Rodrigues Moura da Silva,2019_2020,Lucas Rodrigues Moura da Silva,2235,4,5,330,494.6,477.1,751.0
+Erik_Lamela,2019_2020,Erik Lamela,1203,2,5,220,226.2,284.2,337.0
+Harry_Winks,2019_2020,Harry Winks,2223,0,0,369,361.8,323.4,74.0
+Victor_Wanyama,2019_2020,Victor Wanyama,24,0,0,5,1.2,0.9,0.0
+Moussa_Sissoko,2019_2020,Moussa Sissoko,2451,2,1,386,346.0,275.7,189.0
+Eric_Dier,2019_2020,Eric Dier,1340,0,2,172,297.2,100.2,56.0
+Luke_Amos,2019_2020,Luke Amos,0,0,0,0,0.0,0.0,0.0
+Oliver_Skipp,2019_2020,Oliver Skipp,74,0,0,23,15.2,1.6,0.0
+Tanguy_Ndombele,2019_2020,Tanguy Ndombele,1002,2,2,220,274.2,194.8,122.0
+Troy_Parrott,2019_2020,Troy Parrott,6,0,0,6,0.2,0.1,0.0
+Giovani_Lo Celso,2019_2020,Giovani Lo Celso,1482,0,3,250,303.2,459.4,176.0
+Ryan_Sessegnon,2019_2020,Ryan Sessegnon,341,0,0,41,45.4,39.9,34.0
+Georges-Kévin_Nkoudou,2019_2020,Georges-Kévin Nkoudou,2,0,0,3,0.0,0.0,18.0
+Alfie_Whiteman,2019_2020,Alfie Whiteman,0,0,0,0,0.0,0.0,0.0
+Michel_Vorm,2019_2020,Michel Vorm,0,0,0,0,0.0,0.0,0.0
+Brandon_Austin,2019_2020,Brandon Austin,0,0,0,0,0.0,0.0,0.0
+Japhet_Tanganga,2019_2020,Japhet Tanganga,525,0,0,100,134.4,17.2,20.0
+Gedson_Carvalho Fernandes,2019_2020,Gedson Carvalho Fernandes,62,0,0,20,17.2,34.3,20.0
+Steven_Bergwijn,2019_2020,Steven Bergwijn,699,3,1,141,174.2,187.3,147.0
+Harvey_White,2019_2020,Harvey White,0,0,0,0,0.0,0.0,0.0
+Dennis_Cirkin,2019_2020,Dennis Cirkin,0,0,0,0,0.0,0.0,0.0
+José_Holebas,2019_2020,José Holebas,1022,0,1,153,171.4,208.4,62.0
+Christian_Kabasele,2019_2020,Christian Kabasele,2250,0,2,382,477.0,55.3,164.0
+Adam_Masina,2019_2020,Adam Masina,1815,1,0,281,351.2,201.3,109.0
+Adrian_Mariappa,2019_2020,Adrian Mariappa,1509,0,0,185,216.6,75.2,32.0
+Francisco_Femenía Far,2019_2020,Francisco Femenía Far,2236,0,1,366,363.2,320.9,58.0
+Craig_Cathcart,2019_2020,Craig Cathcart,2488,0,0,441,458.0,34.8,57.0
+Daryl_Janmaat,2019_2020,Daryl Janmaat,606,0,1,148,116.0,108.4,46.0
+Marc_Navarro,2019_2020,Marc Navarro,0,0,0,0,0.0,0.0,0.0
+Sebastian_Prödl,2019_2020,Sebastian Prödl,56,0,0,3,1.8,0.1,8.0
+Troy_Deeney,2019_2020,Troy Deeney,2224,10,2,403,536.0,378.5,801.0
+Gerard_Deulofeu,2019_2020,Gerard Deulofeu,2097,4,5,330,458.4,602.3,896.0
+Andre_Gray,2019_2020,Andre Gray,741,2,1,117,106.2,129.5,287.0
+Isaac_Success Ajayi,2019_2020,Isaac Success Ajayi,65,0,0,8,6.2,13.6,17.0
+Ben_Foster,2019_2020,Ben Foster,3420,0,0,686,904.6,10.1,17.0
+Pontus_Dahlberg,2019_2020,Pontus Dahlberg,0,0,0,0,0.0,0.0,0.0
+Abdoulaye_Doucouré,2019_2020,Abdoulaye Doucouré,3156,4,4,459,529.6,539.0,667.0
+Roberto_Pereyra,2019_2020,Roberto Pereyra,1641,3,0,194,237.8,293.4,350.0
+Will_Hughes,2019_2020,Will Hughes,2249,1,1,265,352.2,413.1,270.0
+Tom_Cleverley,2019_2020,Tom Cleverley,964,1,0,153,174.8,219.2,221.0
+Ken_Sema,2019_2020,Ken Sema,0,0,0,0,0.0,0.0,0.0
+Etienne_Capoue,2019_2020,Etienne Capoue,2627,0,4,394,482.8,313.6,102.0
+Nathaniel_Chalobah,2019_2020,Nathaniel Chalobah,919,0,1,142,162.2,130.3,55.0
+Domingos_Quina,2019_2020,Domingos Quina,18,0,0,10,7.4,0.8,7.0
+Craig_Dawson,2019_2020,Craig Dawson,2359,2,0,353,550.6,67.5,403.0
+Danny_Welbeck,2019_2020,Danny Welbeck,813,2,1,93,128.2,51.5,350.0
+Heurelho da Silva_Gomes,2019_2020,Heurelho da Silva Gomes,0,0,0,0,0.0,0.0,0.0
+Ismaïla_Sarr,2019_2020,Ismaïla Sarr,2023,5,7,300,392.0,391.9,637.0
+Dimitri_Foulquier,2019_2020,Dimitri Foulquier,57,0,0,12,8.0,1.0,0.0
+Ayotomiwa_Dele-Bashiru,2019_2020,Ayotomiwa Dele-Bashiru,0,0,0,0,0.0,0.0,0.0
+João Pedro_Junqueira de Jesus,2019_2020,João Pedro Junqueira de Jesus,22,0,0,8,4.2,6.4,8.0
+Ignacio_Pussetto,2019_2020,Ignacio Pussetto,67,0,0,20,29.4,5.0,2.0
+Adalberto_Peñaranda,2019_2020,Adalberto Peñaranda,0,0,0,0,0.0,0.0,0.0
+Aaron_Cresswell,2019_2020,Aaron Cresswell,2727,3,0,444,535.4,441.0,180.0
+Angelo_Ogbonna,2019_2020,Angelo Ogbonna,2786,2,0,453,579.0,37.8,168.0
+Arthur_Masuaku,2019_2020,Arthur Masuaku,930,0,1,166,240.8,128.6,53.0
+Pablo_Zabaleta,2019_2020,Pablo Zabaleta,588,0,0,90,110.4,50.5,12.0
+Ryan_Fredericks,2019_2020,Ryan Fredericks,2235,0,3,423,491.2,333.7,76.0
+Issa_Diop,2019_2020,Issa Diop,2765,3,1,424,610.0,64.3,210.0
+Fabián_Balbuena,2019_2020,Fabián Balbuena,1176,1,0,210,268.0,18.5,149.0
+Winston_Reid,2019_2020,Winston Reid,0,0,0,0,0.0,0.0,0.0
+Ben_Johnson,2019_2020,Ben Johnson,270,0,0,32,48.0,25.2,1.0
+Marko_Arnautovic,2019_2020,Marko Arnautovic,0,0,0,0,0.0,0.0,0.0
+Javier_Hernández Balcázar,2019_2020,Javier Hernández Balcázar,106,1,0,27,35.6,2.2,39.0
+Alexandre Nascimento_Costa Silva,2019_2020,Alexandre Nascimento Costa Silva,0,0,0,0,0.0,0.0,0.0
+Lukasz_Fabianski,2019_2020,Lukasz Fabianski,2117,0,0,414,531.2,0.0,0.0
+Michail_Antonio,2019_2020,Michail Antonio,1767,10,4,284,552.8,377.4,1094.0
+Felipe Anderson_Pereira Gomes,2019_2020,Felipe Anderson Pereira Gomes,1493,1,4,299,377.2,414.7,355.0
+Manuel_Lanzini,2019_2020,Manuel Lanzini,1370,0,3,234,219.0,464.8,281.0
+Andriy_Yarmolenko,2019_2020,Andriy Yarmolenko,981,5,1,231,284.4,265.7,329.0
+Robert_Snodgrass,2019_2020,Robert Snodgrass,1504,5,5,312,422.2,552.1,320.0
+Jack_Wilshere,2019_2020,Jack Wilshere,209,0,0,14,6.4,7.0,4.0
+Declan_Rice,2019_2020,Declan Rice,3420,1,5,616,715.8,350.8,259.0
+Mark_Noble,2019_2020,Mark Noble,2675,4,4,504,542.2,602.2,164.0
+Carlos_Sánchez,2019_2020,Carlos Sánchez,112,0,0,20,8.4,3.7,0.0
+Grady_Diangana,2019_2020,Grady Diangana,0,0,0,0,0.0,0.0,0.0
+Pablo_Fornals,2019_2020,Pablo Fornals,2167,2,6,346,350.4,359.7,381.0
+Pedro_Obiang,2019_2020,Pedro Obiang,0,0,0,0,0.0,0.0,0.0
+Roberto_Jimenez Gago,2019_2020,Roberto Jimenez Gago,686,0,0,134,239.0,0.0,0.0
+Sébastien_Haller,2019_2020,Sébastien Haller,2259,7,3,327,450.4,354.5,1012.0
+Albian_Ajeti,2019_2020,Albian Ajeti,132,0,0,16,5.2,22.9,47.0
+David_Martin,2019_2020,David Martin,435,0,0,86,112.0,0.0,0.0
+Nathan_Holland,2019_2020,Nathan Holland,31,0,0,10,12.6,3.8,9.0
+Joseph_Anang,2019_2020,Joseph Anang,0,0,0,0,0.0,0.0,0.0
+Jeremy_Ngakia,2019_2020,Jeremy Ngakia,440,0,0,48,78.0,10.7,9.0
+Gonçalo Bento_Soares Cardoso,2019_2020,Gonçalo Bento Soares Cardoso,0,0,0,0,0.0,0.0,0.0
+Bernardo_Costa Da Rosa,2019_2020,Bernardo Costa Da Rosa,0,0,0,0,0.0,0.0,0.0
+Darren_Randolph,2019_2020,Darren Randolph,180,0,0,27,49.6,0.0,0.0
+Tomas_Soucek,2019_2020,Tomas Soucek,1039,3,0,155,254.2,73.1,293.0
+Jarrod_Bowen,2019_2020,Jarrod Bowen,916,1,4,173,221.4,235.0,342.0
+Alfie_Lewis,2019_2020,Alfie Lewis,0,0,0,0,0.0,0.0,0.0
+Conor_Coventry,2019_2020,Conor Coventry,0,0,0,0,0.0,0.0,0.0
+Matt_Doherty,2019_2020,Matt Doherty,2836,4,8,590,576.2,340.5,681.0
+Jonathan_Castro Otto,2019_2020,Jonathan Castro Otto,2885,2,3,537,543.6,379.2,299.0
+Conor_Coady,2019_2020,Conor Coady,3420,0,0,648,556.4,68.8,0.0
+Willy_Boly,2019_2020,Willy Boly,1980,0,1,470,477.0,85.8,119.0
+Rúben Gonçalo_Silva Nascimento Vinagre,2019_2020,Rúben Gonçalo Silva Nascimento Vinagre,644,0,0,134,130.4,96.2,56.0
+Romain_Saïss,2019_2020,Romain Saïss,2703,2,2,525,621.2,160.7,298.0
+Max_Kilman,2019_2020,Max Kilman,184,0,0,24,35.2,1.2,0.0
+Raúl_Jiménez,2019_2020,Raúl Jiménez,3241,17,7,685,911.6,668.2,1680.0
+Diogo_Jota,2019_2020,Diogo Jota,2278,7,3,348,457.8,453.3,1139.0
+Rui Pedro_dos Santos Patrício,2019_2020,Rui Pedro dos Santos Patrício,3420,0,0,680,741.0,0.0,0.0
+John_Ruddy,2019_2020,John Ruddy,0,0,0,0,0.0,0.0,0.0
+Will_Norris,2019_2020,Will Norris,0,0,0,0,0.0,0.0,0.0
+Rúben Diogo_da Silva Neves,2019_2020,Rúben Diogo da Silva Neves,3053,2,2,498,538.6,445.4,307.0
+João Filipe Iria_Santos Moutinho,2019_2020,João Filipe Iria Santos Moutinho,3105,1,7,617,712.0,1200.1,122.0
+Morgan_Gibbs-White,2019_2020,Morgan Gibbs-White,125,0,1,39,6.6,44.1,12.0
+Adama_Traoré,2019_2020,Adama Traoré,2599,4,9,522,727.2,786.4,583.0
+Hélder_Costa,2019_2020,Hélder Costa,0,0,0,0,0.0,0.0,0.0
+Ivan_Cavaleiro,2019_2020,Ivan Cavaleiro,0,0,0,0,0.0,0.0,0.0
+Leander_Dendoncker,2019_2020,Leander Dendoncker,2790,4,0,426,529.2,160.6,282.0
+Jesús_Vallejo Lázaro,2019_2020,Jesús Vallejo Lázaro,162,0,0,22,35.6,7.0,0.0
+Patrick_Cutrone,2019_2020,Patrick Cutrone,292,2,0,69,85.2,35.6,155.0
+Pedro_Lomba Neto,2019_2020,Pedro Lomba Neto,920,3,3,194,227.8,232.0,260.0
+Bernard_Ashley-Seal,2019_2020,Bernard Ashley-Seal,0,0,0,0,0.0,0.0,0.0
+Taylor_Perry,2019_2020,Taylor Perry,0,0,0,0,0.0,0.0,0.0
+Owen_Otasowie,2019_2020,Owen Otasowie,0,0,0,0,0.0,0.0,0.0
+Luke_Cundle,2019_2020,Luke Cundle,0,0,0,0,0.0,0.0,0.0
+Oskar_Buur,2019_2020,Oskar Buur,0,0,0,0,0.0,0.0,0.0
+Ryan_Giles,2019_2020,Ryan Giles,0,0,0,0,0.0,0.0,0.0
+Bruno André_Cavaco Jordao,2019_2020,Bruno André Cavaco Jordao,6,0,0,4,2.6,10.4,0.0
+Daniel_Castelo Podence,2019_2020,Daniel Castelo Podence,285,1,1,74,62.4,73.3,148.0
+Leonardo_Campana,2019_2020,Leonardo Campana,0,0,0,0,0.0,0.0,0.0
