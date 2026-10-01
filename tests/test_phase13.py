@@ -40,15 +40,15 @@ def test_similarity_is_bounded(sim_engine):
     assert -1.0 <= score <= 1.0
 
 def test_position_compatibility(sim_engine):
-    # Mock positions for test
+    # Mock positions for test — compare_players reads from self.df
     p1_idx = sim_engine.df.index[0]
     p2_idx = sim_engine.df.index[1]
     
-    orig_pos1 = sim_engine.imputed_df.at[p1_idx, "position"]
-    orig_pos2 = sim_engine.imputed_df.at[p2_idx, "position"]
+    orig_pos1 = sim_engine.df.at[p1_idx, "position"]
+    orig_pos2 = sim_engine.df.at[p2_idx, "position"]
     
-    sim_engine.imputed_df.at[p1_idx, "position"] = "FWD"
-    sim_engine.imputed_df.at[p2_idx, "position"] = "DEF"
+    sim_engine.df.at[p1_idx, "position"] = "FWD"
+    sim_engine.df.at[p2_idx, "position"] = "DEF"
     
     score = sim_engine.compare_players(
         sim_engine.df.iloc[0]["master_player_id"], sim_engine.df.iloc[0]["season_id"],
@@ -56,19 +56,30 @@ def test_position_compatibility(sim_engine):
     )
     
     # Restore
-    sim_engine.imputed_df.at[p1_idx, "position"] = orig_pos1
-    sim_engine.imputed_df.at[p2_idx, "position"] = orig_pos2
+    sim_engine.df.at[p1_idx, "position"] = orig_pos1
+    sim_engine.df.at[p2_idx, "position"] = orig_pos2
     
     assert score == 0.0
 
 def test_top_k_sorting(sim_engine):
-    p = sim_engine.df.iloc[0]
+    # Pick a player with sufficient feature coverage (>= 40%)
+    adequate = sim_engine.df[sim_engine._row_coverage >= 0.4]
+    if adequate.empty:
+        pytest.skip("No player with adequate coverage for top-k test.")
+    p = adequate.iloc[0]
     res = sim_engine.find_similar_players(p["master_player_id"], p["season_id"], top_k=3)
     scores = [r["Similarity Score"] for r in res]
     assert sorted(scores, reverse=True) == scores
 
 def test_hypothetical_profile(sim_engine):
-    prof = {"position": "UNKNOWN", "age_at_transfer": 22, "t1_goals_per90": 0.5}
+    # Provide enough features (>= 40% = 3/7) and a valid position from the dataset
+    pos = sim_engine.df["position"].iloc[0]  # use actual position from data
+    prof = {
+        "position": pos,
+        "age_at_transfer": 22,
+        "t1_goals_per90": 0.5,
+        "t1_minutes": 1800,
+    }
     res = sim_engine.compare_profile_to_dataset(prof, top_k=2)
     assert len(res) == 2
     assert "Hypothetical Profile" in res[0]["Queried Player"]
@@ -97,9 +108,12 @@ def test_scenario_modifies_prediction(whatif_sim):
 
 def test_ood_warning(whatif_sim):
     p = whatif_sim.df.iloc[0]
-    res = whatif_sim.simulate(p["master_player_id"], p["season_id"], {"t1_goals_per90": 99.0})
+    # Use a value within hard bounds [0, 5.0] but outside historical range
+    extreme = 4.9
+    res = whatif_sim.simulate(p["master_player_id"], p["season_id"], {"t1_goals_per90": extreme})
+    assert res["ood"] is True
+    assert "t1_goals_per90" in res["ood_features"]
     assert len(res["OOD Warnings"]) > 0
-    assert "99" in res["OOD Warnings"][0]
 
 def test_in_distribution_no_warning(whatif_sim):
     p = whatif_sim.df.iloc[0]

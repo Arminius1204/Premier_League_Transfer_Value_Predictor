@@ -25,12 +25,12 @@ def test_fee_normalization_logic():
             assert t["fee_numeric"] == "", "Undisclosed fee was erroneously converted to 0"
         elif t["fee_status"] == "FREE":
             assert t["fee_numeric"] == "0.0" or t["fee_numeric"] == "0", "Free transfer must be explicitly 0 or handled"
-            assert t["target_eligible"] == "FALSE", "Free transfer should not be target eligible by default"
+            assert t["target_eligible"].upper() == "FALSE", "Free transfer should not be target eligible by default"
         elif t["fee_status"] == "LOAN":
             assert t["fee_numeric"] == "0.0" or t["fee_numeric"] == "0", "Loan must be explicitly 0 or handled"
-            assert t["target_eligible"] == "FALSE", "Loan should not be target eligible"
+            assert t["target_eligible"].upper() == "FALSE", "Loan should not be target eligible"
         
-        if t["target_eligible"] == "TRUE":
+        if t["target_eligible"].upper() == "TRUE":
             assert float(t["fee_numeric"]) > 0, "Target eligible transfers must have positive fee"
 
 def test_transfer_linkage_temporal_validity():

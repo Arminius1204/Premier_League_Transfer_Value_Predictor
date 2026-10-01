@@ -17,9 +17,23 @@ def _sanitize_unknown(value) -> str | None:
     if isinstance(value, float) and pd.isna(value):
         return None
     s = str(value).strip()
-    if s in ("UNKNOWN", "Unknown", "unknown", "nan", "NaN", "None", ""):
+    if s in ("UNKNOWN", "Unknown", "unknown", "nan", "NaN", "None", "", "()"):
         return None
     return s
+
+def _resolve_canonical_position(raw_pos: str | None) -> str | None:
+    if not raw_pos:
+        return None
+    raw = raw_pos.lower()
+    if any(x in raw for x in ["gk", "goalkeeper"]):
+        return "Goalkeeper"
+    if any(x in raw for x in ["def", "defender", "cb", "rb", "lb", "rwb", "lwb", "back"]):
+        return "Defender"
+    if any(x in raw for x in ["mid", "midfielder", "cm", "cdm", "cam", "rm", "lm", "dm", "am"]):
+        return "Midfielder"
+    if any(x in raw for x in ["fwd", "forward", "st", "rw", "lw", "cf", "winger", "striker"]):
+        return "Forward"
+    return None
 
 
 @router.get("", response_model=PlayerSearchResponse)
@@ -55,22 +69,30 @@ async def search_players(
         # Use enriched canonical name, fall back to raw name
         canonical_name = enr.get("canonical_name") or row.get("canonical_name", "")
         
-        # Position: prefer enriched, fall back to raw (sanitize UNKNOWN)
         raw_position = _sanitize_unknown(row.get("position"))
         enriched_position = _sanitize_unknown(enr.get("position"))
-        position_val = enriched_position or raw_position
         
-        # Club: resolve from club mapping
+        # Position mapping
+        position_val = _resolve_canonical_position(enriched_position) or _resolve_canonical_position(raw_position)
+        
+        # Club: resolve from club mapping. (Note: transfers typically hold the club)
         club_id = _sanitize_unknown(row.get("master_club_id"))
         club_name = service.resolve_club_name(club_id) if club_id else None
         
+        display_name = enr.get("canonical_name") or canonical_name
+        
         items.append(PlayerSearchItem(
             player_id=player_id,
-            player_name=canonical_name,
+            player_name=display_name,
+            master_player_id=player_id,
+            canonical_name=canonical_name,
+            display_name=display_name,
             position=position_val,
-            
             nationality=enr.get("nationality") if enr.get("nationality") else None,
-            club=club_name
+            club=club_name,
+            club_id=club_id,
+            season=season,
+            metadata_source="historical" if not enr else "enriched"
         ))
         
     return {
@@ -94,13 +116,13 @@ async def get_player_detail(
     enr = enrichment.get_enrichment(player_id) or {}
     
     # Override with enriched canonical name
-    if enr.get("canonical_name"):
-        detail["player_name"] = enr["canonical_name"]
+    display_name = enr.get("canonical_name") or detail["player_name"]
+    canonical_name = detail["player_name"]
     
     # Sanitize position
     raw_position = _sanitize_unknown(detail.get("position"))
     enriched_position = _sanitize_unknown(enr.get("position"))
-    detail["position"] = enriched_position or raw_position
+    detail["position"] = _resolve_canonical_position(enriched_position) or _resolve_canonical_position(raw_position)
     
     # Resolve club names
     resolved_clubs = []
@@ -108,9 +130,22 @@ async def get_player_detail(
         club_name = service.resolve_club_name(club_id)
         if club_name:
             resolved_clubs.append(club_name)
+        elif club_id and club_id != "UNKNOWN":
+            resolved_clubs.append(club_id) # if it was already resolved
+            
     detail["clubs"] = resolved_clubs if resolved_clubs else detail.get("clubs", [])
     # Remove UNKNOWN clubs
     detail["clubs"] = [c for c in detail["clubs"] if c and c != "UNKNOWN"]
+    
+    # Fill in the new schema fields
+    detail["player_id"] = player_id
+    detail["player_name"] = display_name
+    detail["master_player_id"] = player_id
+    detail["canonical_name"] = canonical_name
+    detail["display_name"] = display_name
+    detail["metadata_source"] = "historical"
+    if detail["clubs"]:
+        detail["club"] = detail["clubs"][0]
     
     # Add enrichment fields
 
@@ -215,7 +250,7 @@ async def get_player_similar(
             else:
                 position = raw_pos
             enriched_pos = _sanitize_unknown(enr.get("position"))
-            position = enriched_pos or _sanitize_unknown(position)
+            position = _resolve_canonical_position(enriched_pos) or _resolve_canonical_position(_sanitize_unknown(position))
             
             mapped_results.append({
                 "player_id": sim_player_id,
@@ -223,9 +258,11 @@ async def get_player_similar(
                 "season": r.get("Comparable Season", "Unknown"),
                 "similarity_score": r.get("Similarity Score", 0.0),
                 "position": position,
-                "feature_coverage": float(r.get("Feature Coverage", "100%").replace("%", "")) / 100.0,
+                "feature_coverage": r.get("Confidence", 0.0),
+                "shared_features": r.get("Shared Features", []),
+                "data_quality": r.get("Data Quality", "unknown"),
+                "confidence": r.get("Confidence", 0.0),
                 "historical_transfer_fee": r.get("Historical Transfer Fee (Context Only)") if pd.notnull(r.get("Historical Transfer Fee (Context Only)")) else None,
-
             })
             
         return {
@@ -233,4 +270,5 @@ async def get_player_similar(
             "results": mapped_results
         }
     except ValueError as e:
-        raise HTTPException(status_code=404, detail=str(e))
+        raise HTTPException(status_code=422, detail=str(e))
+

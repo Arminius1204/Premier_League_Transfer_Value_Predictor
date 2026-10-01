@@ -1,0 +1,6 @@
+backend/app/services/nemotron_service.py
+.venv
+__pycache__/
+tests/
+
+.pytest_cache

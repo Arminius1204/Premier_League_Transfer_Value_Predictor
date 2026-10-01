@@ -19,3 +19,7 @@ class SimulationResponse(BaseModel):
     percentage_change: float
     changed_features: Dict[str, float]
     warnings: List[str]
+    ood: bool = False
+    ood_features: List[str] = []
+    interpretation: str = "sensitivity_analysis_not_causal"
+

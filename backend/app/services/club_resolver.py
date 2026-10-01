@@ -30,3 +30,23 @@ class ClubResolver:
         if not club_id or club_id == 'UNKNOWN':
             return None
         return self.club_map.get(club_id)
+        
+    def get_season_club(self, player_id: str, season_id: str) -> Optional[str]:
+        """Resolve club for a player in a specific season using player_season_clubs.csv."""
+        # For a full implementation, we'd load the file into memory.
+        # Since this is a lightweight resolution service, we'll try to find it.
+        mapping_path = self.clubs_csv_path.parent / 'player_season_clubs.csv'
+        if not mapping_path.exists():
+            return None
+            
+        try:
+            # Note: in a production app this would be cached in a dict
+            df = pd.read_csv(mapping_path)
+            mask = (df['master_player_id'] == player_id) & (df['season_id'] == season_id)
+            if mask.any():
+                club_id = df[mask].iloc[0]['master_club_id']
+                return self.resolve_club(club_id)
+        except Exception as e:
+            logger.error(f"Failed to lookup season club: {e}")
+            
+        return None

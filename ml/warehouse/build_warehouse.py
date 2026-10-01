@@ -289,8 +289,7 @@ def build_player_seasons():
 
     seasons = []
     
-    for season in ["2018_2019", "2019_2020", "2020_2021", "2021_2022", "2022_2023", "2023_2024"]:
-        fpl_file = PARSED_DIR / "fpl_historical" / f"fpl_historical_parsed_{season}.csv"
+    for fpl_file in (PARSED_DIR / "fpl_historical").rglob("*.csv"):
         if not fpl_file.exists(): continue
         
         with open(fpl_file, 'r', encoding='utf-8') as f:

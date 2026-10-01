@@ -63,15 +63,15 @@ export default function PlayersPage() {
           <div className="p-12 text-center text-zinc-500">No players matched your search.</div>
         ) : (
           <div className="divide-y divide-zinc-800">
-            {data?.items.map((player) => (
+            {data?.items.map((player, index) => (
               <Link
-                key={player.player_id}
+                key={player.player_id ?? `player-${player.canonical_name ?? player.player_name}-${index}`}
                 href={`/players/${player.player_id}`}
                 className="flex items-center justify-between p-4 hover:bg-zinc-800/50 transition-colors"
               >
                 <div className="flex items-center gap-4">
                   <div>
-                    <h3 className="font-medium text-zinc-100">{player.player_name}</h3>
+                    <h3 className="font-medium text-zinc-100">{player.display_name ?? player.player_name}</h3>
                     <p className="text-xs text-zinc-400">
                       {(player.position === 'UNKNOWN' || !player.position) ? '-' : player.position}
                       {player.club ? ` • ${player.club}` : ''}

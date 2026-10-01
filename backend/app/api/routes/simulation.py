@@ -30,10 +30,13 @@ async def simulate_what_if(req: SimulationRequest, service: ModelService = Depen
             "absolute_change": res["Absolute Change"],
             "percentage_change": res["Percentage Change"],
             "changed_features": req.changes,
-            "warnings": res["OOD Warnings"]
+            "warnings": res["OOD Warnings"],
+            "ood": res["ood"],
+            "ood_features": res["ood_features"],
+            "interpretation": res["interpretation"]
         }
     except ValueError as e:
-        raise HTTPException(status_code=404, detail=str(e))
+        raise HTTPException(status_code=422, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail="Simulation failed")
 

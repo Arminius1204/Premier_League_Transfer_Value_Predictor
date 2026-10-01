@@ -17,10 +17,18 @@ export interface TransferRecord {
 export interface PlayerSearchItem {
   player_id: string;
   player_name: string;
+  master_player_id?: string;
+  canonical_name?: string;
+  display_name?: string;
   position: string;
   
   nationality?: string | null;
   club?: string | null;
+  club_id?: string | null;
+  season?: string | null;
+  transfer_context?: string | null;
+  metadata_source?: string | null;
+  metadata_confidence?: number | null;
 }
 
 export interface PlayerSearchResponse extends Pagination {
@@ -30,13 +38,19 @@ export interface PlayerSearchResponse extends Pagination {
 export interface PlayerDetail {
   player_id: string;
   player_name: string;
+  master_player_id?: string;
+  canonical_name?: string;
+  display_name?: string;
   position: string;
   seasons: string[];
   clubs: string[];
+  club?: string | null;
+  club_id?: string | null;
   transfer_history: TransferRecord[];
   nationality?: string | null;
   date_of_birth?: string | null;
-  
+  metadata_source?: string | null;
+  metadata_confidence?: number | null;
 }
 
 export interface ValuationResponse {

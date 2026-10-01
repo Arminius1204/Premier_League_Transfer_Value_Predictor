@@ -33,6 +33,9 @@ class PlayerResolver:
         # In a real scenario, Transfermarkt would be the base because it has Date of Birth.
         # FPL doesn't have DOB, so we create a master record with what we have.
         
+        # Deduplication tracker for Pass 1
+        fpl_seen = {}
+        
         for source_name, filepath in parsed_data_sources:
             if not Path(filepath).exists() or source_name != "fpl":
                 continue
@@ -44,22 +47,30 @@ class PlayerResolver:
                     src_name = row.get("source_player_name")
                     src_club = row.get("source_club_name")
                     
-                    master_id = f"plr_{str(uuid.uuid4())[:8]}"
                     norm_name = self._normalize(src_name)
                     
-                    # Create Master Record
-                    self.master_players[master_id] = {
-                        "master_player_id": master_id,
-                        "canonical_name": norm_name,
-                        "date_of_birth": "", # FPL lacks DOB
-                        "canonical_position": "", 
-                        "nationality": "",
-                        "height": "",
-                        "preferred_foot": "",
-                        "created_at": datetime.utcnow().isoformat() + "Z"
-                    }
+                    # Deduplicate by source_player_id or normalized name
+                    dedup_key = src_id if src_id else norm_name
                     
-                    # Add Identity Map (EXACT_SOURCE_ID since it created the master)
+                    if dedup_key in fpl_seen:
+                        master_id = fpl_seen[dedup_key]
+                    else:
+                        master_id = f"plr_{str(uuid.uuid4())[:8]}"
+                        fpl_seen[dedup_key] = master_id
+                        
+                        # Create Master Record only once
+                        self.master_players[master_id] = {
+                            "master_player_id": master_id,
+                            "canonical_name": norm_name,
+                            "date_of_birth": "", # FPL lacks DOB
+                            "canonical_position": "", 
+                            "nationality": "",
+                            "height": "",
+                            "preferred_foot": "",
+                            "created_at": datetime.utcnow().isoformat() + "Z"
+                        }
+                    
+                    # Add Identity Map for this specific season occurrence
                     self.player_identity_map.append({
                         "master_player_id": master_id,
                         "source": source_name,
@@ -82,6 +93,7 @@ class PlayerResolver:
                 continue
                 
             if source_name == "transfermarkt":
+                print(f"Processing transfermarkt file: {filepath}")
                 with open(filepath, 'r', encoding='utf-8') as f:
                     reader = csv.DictReader(f)
                     for row in reader:
