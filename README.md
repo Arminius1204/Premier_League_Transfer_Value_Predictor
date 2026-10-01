@@ -1,4 +1,5 @@
-# ⚽ Premier League Transfer Intelligence & Player Valuation Engine
+# ⚽ Premier League Transfer Intelligence 
+& Player Valuation Engine
 
 ### Machine Learning • Football Analytics • Explainable AI • Transfer Intelligence • FastAPI • Next.js
 
