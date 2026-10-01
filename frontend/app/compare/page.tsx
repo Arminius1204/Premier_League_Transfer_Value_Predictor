@@ -78,9 +78,11 @@ export default function ComparePage() {
                   onClick={() => handleAddPlayer(p.player_id)}
                   className="w-full text-left px-4 py-3 hover:bg-zinc-800 transition-colors border-b border-zinc-800 last:border-0 text-sm flex justify-between items-center"
                 >
-                  <div>
-                    <span className="font-medium text-zinc-200">{p.player_name}</span>
-                    <span className="text-zinc-500 ml-2">({p.position})</span>
+                  <div className="flex items-center gap-3">
+                    <div>
+                      <span className="font-medium text-zinc-200">{p.player_name}</span>
+                      <span className="text-zinc-500 ml-2">({p.position})</span>
+                    </div>
                   </div>
                   <Plus size={16} className="text-zinc-500" />
                 </button>

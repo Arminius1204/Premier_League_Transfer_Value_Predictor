@@ -18,6 +18,9 @@ export interface PlayerSearchItem {
   player_id: string;
   player_name: string;
   position: string;
+  
+  nationality?: string | null;
+  club?: string | null;
 }
 
 export interface PlayerSearchResponse extends Pagination {
@@ -31,6 +34,9 @@ export interface PlayerDetail {
   seasons: string[];
   clubs: string[];
   transfer_history: TransferRecord[];
+  nationality?: string | null;
+  date_of_birth?: string | null;
+  
 }
 
 export interface ValuationResponse {
@@ -66,6 +72,7 @@ export interface SimilarPlayer {
   position: string;
   feature_coverage: number;
   historical_transfer_fee?: number | null;
+  
 }
 
 export interface SimilarityResponse {

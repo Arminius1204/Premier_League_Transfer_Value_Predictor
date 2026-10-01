@@ -9,13 +9,22 @@ class TransferRecord(BaseModel):
     buyer_club: Optional[str] = None
     seller_club: Optional[str] = None
 
+class PlayerSearchItem(BaseModel):
+    player_id: str
+    player_name: str
+    position: Optional[str] = None
+    nationality: Optional[str] = None
+    club: Optional[str] = None
+
 class PlayerDetail(BaseModel):
     player_id: str
     player_name: str
-    position: str
+    position: Optional[str] = None
     seasons: List[str]
     clubs: List[str]
     transfer_history: List[TransferRecord]
+    nationality: Optional[str] = None
+    date_of_birth: Optional[str] = None
 
 class PlayerSearchResponse(Pagination):
-    items: List[Dict]
+    items: List[PlayerSearchItem]

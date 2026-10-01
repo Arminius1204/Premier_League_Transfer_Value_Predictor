@@ -5,7 +5,8 @@ import Link from "next/link";
 import { searchPlayers } from "@/lib/api/players";
 import { PlayerSearchResponse, PlayerSearchItem } from "@/lib/api/types";
 import { Search, ChevronLeft, ChevronRight, User } from "lucide-react";
-import { useDebounce } from "@/lib/hooks/useDebounce"; // need to create this
+import { useDebounce } from "@/lib/hooks/useDebounce";
+
 
 export default function PlayersPage() {
   const [query, setQuery] = useState("");
@@ -52,7 +53,6 @@ export default function PlayersPage() {
           <option value="Midfielder">Midfielder</option>
           <option value="Defender">Defender</option>
           <option value="Goalkeeper">Goalkeeper</option>
-          <option value="UNKNOWN">Unknown</option>
         </select>
       </div>
 
@@ -70,12 +70,12 @@ export default function PlayersPage() {
                 className="flex items-center justify-between p-4 hover:bg-zinc-800/50 transition-colors"
               >
                 <div className="flex items-center gap-4">
-                  <div className="h-10 w-10 rounded-full bg-zinc-800 flex items-center justify-center text-zinc-400">
-                    <User size={20} />
-                  </div>
                   <div>
                     <h3 className="font-medium text-zinc-100">{player.player_name}</h3>
-                    <p className="text-xs text-zinc-400">{player.position}</p>
+                    <p className="text-xs text-zinc-400">
+                      {(player.position === 'UNKNOWN' || !player.position) ? '-' : player.position}
+                      {player.club ? ` • ${player.club}` : ''}
+                    </p>
                   </div>
                 </div>
                 <div className="text-sm font-medium text-emerald-400">

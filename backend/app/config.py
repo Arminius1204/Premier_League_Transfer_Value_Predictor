@@ -14,6 +14,9 @@ class Settings(BaseSettings):
     api_port: int = 8000
     log_level: str = "INFO"
     
+    api_football_key: str = ""
+    enrichment_path: Path = base_dir / "data" / "player_enrichment"
+    
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
 
 @lru_cache()

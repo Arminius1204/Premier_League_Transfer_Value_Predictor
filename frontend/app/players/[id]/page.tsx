@@ -65,13 +65,29 @@ export default function PlayerProfilePage() {
 
       {/* HEADER */}
       <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b border-zinc-800 pb-8">
-        <div>
-          <h1 className="text-4xl font-bold text-zinc-100 mb-2">{detail.player_name}</h1>
-          <div className="flex flex-wrap gap-3 items-center text-sm text-zinc-400">
-            <span className="px-2.5 py-1 rounded-full bg-zinc-900 border border-zinc-800">{detail.position}</span>
-            <span>{detail.clubs[detail.clubs.length - 1] || "Unknown Club"}</span>
-            <span className="w-1 h-1 rounded-full bg-zinc-700" />
-            <span>{detail.seasons[detail.seasons.length - 1]}</span>
+        <div className="flex items-center gap-6">
+          <div>
+            <h1 className="text-4xl font-bold text-zinc-100 mb-2">{detail.player_name}</h1>
+            <div className="flex flex-wrap gap-3 items-center text-sm text-zinc-400">
+              <span className="px-2.5 py-1 rounded-full bg-zinc-900 border border-zinc-800">
+                {(detail.position === 'UNKNOWN' || !detail.position) ? '-' : detail.position}
+              </span>
+              <span>{detail.clubs.length > 0 ? detail.clubs[detail.clubs.length - 1] : "Club information unavailable"}</span>
+              <span className="w-1 h-1 rounded-full bg-zinc-700" />
+              <span>{detail.seasons[detail.seasons.length - 1]}</span>
+              {detail.nationality && (
+                <>
+                  <span className="w-1 h-1 rounded-full bg-zinc-700" />
+                  <span>{detail.nationality}</span>
+                </>
+              )}
+              {detail.date_of_birth && (
+                <>
+                  <span className="w-1 h-1 rounded-full bg-zinc-700" />
+                  <span>{new Date(detail.date_of_birth).toLocaleDateString("en-US", { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+                </>
+              )}
+            </div>
           </div>
         </div>
       </div>
