@@ -1,0 +1,803 @@
+club,season_id,pts,gd
+Wolfsburg,2018_2019,55,12
+Werder Bremen,2018_2019,53,9
+Hannover,2018_2019,21,-40
+Bayern Munich,2018_2019,78,56
+Stuttgart,2018_2019,28,-38
+RB Leipzig,2018_2019,66,34
+Hertha BSC,2018_2019,43,-8
+M'Gladbach,2018_2019,55,13
+Fortuna Dusseldorf,2018_2019,44,-16
+Mainz 05,2018_2019,43,-11
+Augsburg,2018_2019,32,-20
+Dortmund,2018_2019,76,37
+Freiburg,2018_2019,36,-15
+Leverkusen,2018_2019,58,17
+Schalke 04,2018_2019,33,-18
+Hoffenheim,2018_2019,51,18
+Ein Frankfurt,2018_2019,54,12
+Nurnberg,2018_2019,19,-42
+Wolfsburg,2019_2020,49,2
+Werder Bremen,2019_2020,31,-27
+Union Berlin,2019_2020,41,-17
+Köln,2019_2020,36,-18
+Bayern Munich,2019_2020,82,68
+Paderborn,2019_2020,20,-37
+RB Leipzig,2019_2020,66,44
+Hertha BSC,2019_2020,41,-11
+M'Gladbach,2019_2020,65,26
+Fortuna Dusseldorf,2019_2020,30,-31
+Mainz 05,2019_2020,37,-21
+Augsburg,2019_2020,36,-18
+Dortmund,2019_2020,69,43
+Freiburg,2019_2020,48,1
+Leverkusen,2019_2020,63,17
+Schalke 04,2019_2020,39,-20
+Hoffenheim,2019_2020,52,0
+Ein Frankfurt,2019_2020,45,-1
+Wolfsburg,2020_2021,61,24
+Union Berlin,2020_2021,50,7
+Werder Bremen,2020_2021,31,-21
+Köln,2020_2021,33,-26
+Bayern Munich,2020_2021,78,55
+Stuttgart,2020_2021,45,1
+RB Leipzig,2020_2021,65,28
+Hertha BSC,2020_2021,35,-11
+M'Gladbach,2020_2021,49,8
+Mainz 05,2020_2021,39,-17
+Augsburg,2020_2021,36,-18
+Dortmund,2020_2021,64,29
+Leverkusen,2020_2021,52,14
+Schalke 04,2020_2021,16,-61
+Freiburg,2020_2021,45,0
+Hoffenheim,2020_2021,43,-2
+Ein Frankfurt,2020_2021,60,16
+Arminia,2020_2021,35,-26
+Wolfsburg,2021_2022,42,-11
+Union Berlin,2021_2022,57,6
+Köln,2021_2022,52,3
+Bayern Munich,2021_2022,77,60
+Stuttgart,2021_2022,33,-18
+RB Leipzig,2021_2022,58,35
+Hertha BSC,2021_2022,33,-34
+M'Gladbach,2021_2022,45,-7
+Greuther Furth,2021_2022,18,-54
+Mainz 05,2021_2022,46,5
+Augsburg,2021_2022,38,-17
+Dortmund,2021_2022,69,33
+Freiburg,2021_2022,55,12
+Leverkusen,2021_2022,64,33
+Hoffenheim,2021_2022,46,-2
+Ein Frankfurt,2021_2022,42,-4
+Arminia,2021_2022,28,-26
+Bochum,2021_2022,42,-14
+Wolfsburg,2022_2023,49,9
+Union Berlin,2022_2023,62,13
+Werder Bremen,2022_2023,36,-13
+Köln,2022_2023,42,-5
+Bayern Munich,2022_2023,71,54
+Stuttgart,2022_2023,33,-12
+RB Leipzig,2022_2023,66,23
+Hertha BSC,2022_2023,29,-27
+M'Gladbach,2022_2023,43,-3
+Mainz 05,2022_2023,46,-1
+Augsburg,2022_2023,34,-21
+Dortmund,2022_2023,71,39
+Freiburg,2022_2023,59,7
+Leverkusen,2022_2023,50,8
+Schalke 04,2022_2023,31,-36
+Hoffenheim,2022_2023,36,-9
+Ein Frankfurt,2022_2023,50,6
+Bochum,2022_2023,35,-32
+Wolfsburg,2023_2024,37,-15
+Heidenheim,2023_2024,42,-5
+Werder Bremen,2023_2024,42,-6
+Union Berlin,2023_2024,33,-25
+Köln,2023_2024,27,-32
+Bayern Munich,2023_2024,72,49
+Stuttgart,2023_2024,73,39
+RB Leipzig,2023_2024,65,38
+M'Gladbach,2023_2024,34,-11
+Mainz 05,2023_2024,35,-12
+Darmstadt,2023_2024,17,-56
+Augsburg,2023_2024,39,-10
+Dortmund,2023_2024,63,25
+Leverkusen,2023_2024,90,65
+Freiburg,2023_2024,42,-13
+Hoffenheim,2023_2024,46,0
+Ein Frankfurt,2023_2024,47,1
+Bochum,2023_2024,33,-32
+Wolfsburg,2024_2025,43,2
+St Pauli,2024_2025,32,-13
+Heidenheim,2024_2025,29,-27
+Union Berlin,2024_2025,40,-16
+Werder Bremen,2024_2025,51,-3
+Bayern Munich,2024_2025,82,67
+Holstein Kiel,2024_2025,25,-31
+Stuttgart,2024_2025,50,11
+RB Leipzig,2024_2025,51,5
+M'Gladbach,2024_2025,45,-2
+Mainz 05,2024_2025,52,12
+Augsburg,2024_2025,43,-16
+Dortmund,2024_2025,57,20
+Freiburg,2024_2025,55,-4
+Leverkusen,2024_2025,69,29
+Hoffenheim,2024_2025,32,-22
+Ein Frankfurt,2024_2025,60,22
+Bochum,2024_2025,25,-34
+Huddersfield,2018_2019,16,-54
+Cardiff,2018_2019,34,-35
+Wolverhampton,2018_2019,57,1
+Tottenham,2018_2019,71,28
+Chelsea,2018_2019,72,24
+Manchester City,2018_2019,98,72
+Newcastle Utd,2018_2019,45,-6
+Bournemouth,2018_2019,45,-14
+Watford,2018_2019,50,-7
+Leicester,2018_2019,52,3
+West Ham,2018_2019,52,-3
+Brighton,2018_2019,36,-25
+Fulham,2018_2019,26,-47
+Liverpool,2018_2019,97,67
+Southampton,2018_2019,39,-20
+Crystal Palace,2018_2019,49,-2
+Arsenal,2018_2019,70,22
+Everton,2018_2019,54,8
+Burnley,2018_2019,40,-23
+Manchester Utd,2018_2019,66,11
+Tottenham,2019_2020,59,14
+Wolverhampton,2019_2020,59,11
+Chelsea,2019_2020,66,15
+Manchester City,2019_2020,81,67
+Newcastle Utd,2019_2020,44,-20
+Bournemouth,2019_2020,34,-25
+Watford,2019_2020,34,-28
+Aston Villa,2019_2020,35,-26
+Norwich,2019_2020,21,-49
+Leicester,2019_2020,62,26
+West Ham,2019_2020,39,-13
+Brighton,2019_2020,41,-15
+Liverpool,2019_2020,99,52
+Sheffield United,2019_2020,54,0
+Crystal Palace,2019_2020,43,-19
+Southampton,2019_2020,52,-9
+Arsenal,2019_2020,56,8
+Everton,2019_2020,49,-12
+Burnley,2019_2020,54,-7
+Manchester Utd,2019_2020,66,30
+Huddersfield,2020_2018,16,-54
+Cardiff,2020_2018,34,-35
+Wolverhampton,2020_2018,57,1
+Tottenham,2020_2018,71,28
+Chelsea,2020_2018,72,24
+Manchester City,2020_2018,98,72
+Newcastle Utd,2020_2018,45,-6
+Bournemouth,2020_2018,45,-14
+Watford,2020_2018,50,-7
+Leicester,2020_2018,52,3
+West Ham,2020_2018,52,-3
+Brighton,2020_2018,36,-25
+Fulham,2020_2018,26,-47
+Liverpool,2020_2018,97,67
+Southampton,2020_2018,39,-20
+Crystal Palace,2020_2018,49,-2
+Arsenal,2020_2018,70,22
+Everton,2020_2018,54,8
+Burnley,2020_2018,40,-23
+Manchester Utd,2020_2018,66,11
+Tottenham,2020_2019,59,14
+Wolverhampton,2020_2019,59,11
+Chelsea,2020_2019,66,15
+Manchester City,2020_2019,81,67
+Newcastle Utd,2020_2019,44,-20
+Bournemouth,2020_2019,34,-25
+Watford,2020_2019,34,-28
+Aston Villa,2020_2019,35,-26
+Norwich,2020_2019,21,-49
+Leicester,2020_2019,62,26
+West Ham,2020_2019,39,-13
+Brighton,2020_2019,41,-15
+Liverpool,2020_2019,99,52
+Sheffield United,2020_2019,54,0
+Crystal Palace,2020_2019,43,-19
+Southampton,2020_2019,52,-9
+Arsenal,2020_2019,56,8
+Everton,2020_2019,49,-12
+Burnley,2020_2019,54,-7
+Manchester Utd,2020_2019,66,30
+Tottenham,2020_2020,62,23
+Wolverhampton,2020_2020,45,-16
+Leeds,2020_2020,59,8
+Chelsea,2020_2020,67,22
+Manchester City,2020_2020,86,51
+Newcastle Utd,2020_2020,45,-16
+Aston Villa,2020_2020,55,9
+Leicester,2020_2020,66,18
+West Ham,2020_2020,65,15
+Brighton,2020_2020,41,-6
+Fulham,2020_2020,28,-26
+Liverpool,2020_2020,69,26
+West Brom,2020_2020,26,-41
+Sheffield United,2020_2020,23,-43
+Crystal Palace,2020_2020,44,-25
+Southampton,2020_2020,43,-21
+Arsenal,2020_2020,61,16
+Everton,2020_2020,59,-1
+Burnley,2020_2020,39,-22
+Manchester Utd,2020_2020,74,29
+Tottenham,2020_2021,62,23
+Wolverhampton,2020_2021,45,-16
+Leeds,2020_2021,59,8
+Chelsea,2020_2021,67,22
+Manchester City,2020_2021,86,51
+Newcastle Utd,2020_2021,45,-16
+Aston Villa,2020_2021,55,9
+Leicester,2020_2021,66,18
+West Ham,2020_2021,65,15
+Brighton,2020_2021,41,-6
+Fulham,2020_2021,28,-26
+Liverpool,2020_2021,69,26
+West Brom,2020_2021,26,-41
+Sheffield United,2020_2021,23,-43
+Crystal Palace,2020_2021,44,-25
+Southampton,2020_2021,43,-21
+Arsenal,2020_2021,61,16
+Everton,2020_2021,59,-1
+Burnley,2020_2021,39,-22
+Manchester Utd,2020_2021,74,29
+Tottenham,2020_2021,71,29
+Wolverhampton,2020_2021,51,-5
+Leeds,2020_2021,38,-37
+Manchester City,2020_2021,93,73
+Chelsea,2020_2021,74,43
+Newcastle Utd,2020_2021,49,-18
+Watford,2020_2021,23,-43
+Aston Villa,2020_2021,45,-2
+Brentford,2020_2021,46,-8
+Norwich,2020_2021,22,-61
+Leicester,2020_2021,52,3
+West Ham,2020_2021,56,9
+Brighton,2020_2021,51,-2
+Liverpool,2020_2021,92,68
+Crystal Palace,2020_2021,48,4
+Southampton,2020_2021,40,-24
+Arsenal,2020_2021,69,13
+Everton,2020_2021,39,-23
+Burnley,2020_2021,35,-19
+Manchester Utd,2020_2021,58,0
+Tottenham,2020_2022,60,7
+Wolverhampton,2020_2022,41,-27
+Leeds,2020_2022,31,-30
+Chelsea,2020_2022,44,-9
+Manchester City,2020_2022,89,61
+Newcastle Utd,2020_2022,71,35
+Bournemouth,2020_2022,39,-34
+Aston Villa,2020_2022,61,5
+Brentford,2020_2022,59,12
+Leicester,2020_2022,34,-17
+West Ham,2020_2022,40,-13
+Brighton,2020_2022,62,19
+Fulham,2020_2022,52,2
+Liverpool,2020_2022,67,28
+Nott'ham Forest,2020_2022,38,-30
+Crystal Palace,2020_2022,45,-9
+Southampton,2020_2022,25,-37
+Arsenal,2020_2022,84,45
+Everton,2020_2022,36,-23
+Manchester Utd,2020_2022,75,15
+Wolverhampton,2020_2023,46,-15
+Tottenham,2020_2023,66,13
+Chelsea,2020_2023,63,14
+Manchester City,2020_2023,91,62
+Newcastle Utd,2020_2023,60,23
+Bournemouth,2020_2023,48,-13
+Aston Villa,2020_2023,68,15
+Brentford,2020_2023,39,-9
+West Ham,2020_2023,52,-14
+Brighton,2020_2023,48,-7
+Fulham,2020_2023,47,-6
+Liverpool,2020_2023,82,45
+Nott'ham Forest,2020_2023,36,-18
+Luton Town,2020_2023,26,-33
+Sheffield United,2020_2023,16,-69
+Crystal Palace,2020_2023,49,-1
+Arsenal,2020_2023,89,62
+Everton,2020_2023,48,-11
+Burnley,2020_2023,24,-37
+Manchester Utd,2020_2023,60,-1
+Tottenham,2021_2022,71,29
+Wolverhampton,2021_2022,51,-5
+Leeds,2021_2022,38,-37
+Manchester City,2021_2022,93,73
+Chelsea,2021_2022,74,43
+Newcastle Utd,2021_2022,49,-18
+Watford,2021_2022,23,-43
+Aston Villa,2021_2022,45,-2
+Brentford,2021_2022,46,-8
+Norwich,2021_2022,22,-61
+Leicester,2021_2022,52,3
+West Ham,2021_2022,56,9
+Brighton,2021_2022,51,-2
+Liverpool,2021_2022,92,68
+Crystal Palace,2021_2022,48,4
+Southampton,2021_2022,40,-24
+Arsenal,2021_2022,69,13
+Everton,2021_2022,39,-23
+Burnley,2021_2022,35,-19
+Manchester Utd,2021_2022,58,0
+Tottenham,2022_2023,60,7
+Wolverhampton,2022_2023,41,-27
+Leeds,2022_2023,31,-30
+Chelsea,2022_2023,44,-9
+Manchester City,2022_2023,89,61
+Newcastle Utd,2022_2023,71,35
+Bournemouth,2022_2023,39,-34
+Aston Villa,2022_2023,61,5
+Brentford,2022_2023,59,12
+Leicester,2022_2023,34,-17
+West Ham,2022_2023,40,-13
+Brighton,2022_2023,62,19
+Fulham,2022_2023,52,2
+Liverpool,2022_2023,67,28
+Nott'ham Forest,2022_2023,38,-30
+Crystal Palace,2022_2023,45,-9
+Southampton,2022_2023,25,-37
+Arsenal,2022_2023,84,45
+Everton,2022_2023,36,-23
+Manchester Utd,2022_2023,75,15
+Wolverhampton,2023_2024,46,-15
+Tottenham,2023_2024,66,13
+Chelsea,2023_2024,63,14
+Manchester City,2023_2024,91,62
+Newcastle Utd,2023_2024,60,23
+Bournemouth,2023_2024,48,-13
+Aston Villa,2023_2024,68,15
+Brentford,2023_2024,39,-9
+West Ham,2023_2024,52,-14
+Brighton,2023_2024,48,-7
+Fulham,2023_2024,47,-6
+Liverpool,2023_2024,82,45
+Nott'ham Forest,2023_2024,36,-18
+Luton Town,2023_2024,26,-33
+Sheffield United,2023_2024,16,-69
+Crystal Palace,2023_2024,49,-1
+Arsenal,2023_2024,89,62
+Everton,2023_2024,48,-11
+Burnley,2023_2024,24,-37
+Manchester Utd,2023_2024,60,-1
+Tottenham,2024_2025,38,-1
+Wolverhampton,2024_2025,42,-15
+Chelsea,2024_2025,69,21
+Manchester City,2024_2025,71,28
+Newcastle Utd,2024_2025,66,21
+Bournemouth,2024_2025,56,12
+Aston Villa,2024_2025,66,7
+Ipswich,2024_2025,22,-46
+Brentford,2024_2025,56,9
+Leicester,2024_2025,25,-47
+West Ham,2024_2025,43,-16
+Brighton,2024_2025,61,7
+Fulham,2024_2025,54,0
+Liverpool,2024_2025,84,45
+Nott'ham Forest,2024_2025,65,12
+Crystal Palace,2024_2025,53,0
+Southampton,2024_2025,12,-60
+Arsenal,2024_2025,74,35
+Everton,2024_2025,48,-2
+Manchester Utd,2024_2025,42,-10
+Bordeaux,2018_2019,41,-8
+Dijon,2018_2019,34,-29
+Nimes,2018_2019,53,-1
+Amiens,2018_2019,38,-21
+Rennes,2018_2019,52,3
+Caen,2018_2019,33,-25
+Reims,2018_2019,55,-3
+Monaco,2018_2019,36,-19
+St Etienne,2018_2019,66,18
+Angers,2018_2019,46,-5
+Marseille,2018_2019,61,8
+Nantes,2018_2019,48,0
+Lyon,2018_2019,72,23
+Guingamp,2018_2019,27,-40
+Nice,2018_2019,56,-5
+Paris SG,2018_2019,91,70
+Montpellier,2018_2019,59,11
+Toulouse,2018_2019,38,-22
+Lille,2018_2019,75,35
+Strasbourg,2018_2019,49,10
+Bordeaux,2019_2020,37,6
+Dijon,2019_2020,30,-10
+Nimes,2019_2020,27,-15
+Brest,2019_2020,34,-3
+Amiens,2019_2020,23,-19
+Rennes,2019_2020,50,14
+Reims,2019_2020,41,5
+Monaco,2019_2020,40,0
+St Etienne,2019_2020,30,-16
+Angers,2019_2020,39,-5
+Marseille,2019_2020,56,12
+Nantes,2019_2020,37,-3
+Lyon,2019_2020,40,15
+Nice,2019_2020,41,3
+Paris SG,2019_2020,68,51
+Montpellier,2019_2020,40,1
+Toulouse,2019_2020,13,-36
+Metz,2019_2020,34,-8
+Lille,2019_2020,49,8
+Strasbourg,2019_2020,38,0
+Bordeaux,2020_2021,45,-14
+Dijon,2020_2021,21,-48
+Lorient,2020_2021,42,-18
+Nimes,2020_2021,35,-31
+Brest,2020_2021,41,-16
+Rennes,2020_2021,58,12
+Reims,2020_2021,42,-8
+Monaco,2020_2021,78,34
+St Etienne,2020_2021,46,-12
+Angers,2020_2021,44,-18
+Lens,2020_2021,57,1
+Marseille,2020_2021,60,7
+Nantes,2020_2021,40,-8
+Lyon,2020_2021,76,38
+Nice,2020_2021,52,-3
+Paris SG,2020_2021,82,58
+Montpellier,2020_2021,54,-2
+Metz,2020_2021,47,-4
+Lille,2020_2021,83,41
+Strasbourg,2020_2021,42,-9
+Clermont,2021_2022,36,-31
+Bordeaux,2021_2022,31,-39
+Lorient,2021_2022,36,-28
+Brest,2021_2022,48,-8
+Rennes,2021_2022,66,42
+Troyes,2021_2022,38,-16
+Reims,2021_2022,46,-1
+Monaco,2021_2022,69,25
+St Etienne,2021_2022,32,-35
+Angers,2021_2022,41,-11
+Lens,2021_2022,62,14
+Marseille,2021_2022,71,25
+Nantes,2021_2022,55,7
+Lyon,2021_2022,62,15
+Nice,2021_2022,67,16
+Paris SG,2021_2022,86,54
+Montpellier,2021_2022,43,-12
+Metz,2021_2022,31,-34
+Lille,2021_2022,55,0
+Strasbourg,2021_2022,63,17
+Clermont,2022_2023,59,-4
+Lorient,2022_2023,55,-1
+Brest,2022_2023,44,-10
+Troyes,2022_2023,24,-36
+Rennes,2022_2023,68,30
+Reims,2022_2023,51,0
+Auxerre,2022_2023,35,-28
+Monaco,2022_2023,65,12
+Angers,2022_2023,18,-48
+Lens,2022_2023,84,39
+Marseille,2022_2023,73,27
+Nantes,2022_2023,36,-18
+Lyon,2022_2023,62,18
+Nice,2022_2023,58,11
+Paris SG,2022_2023,85,49
+Montpellier,2022_2023,50,3
+Toulouse,2022_2023,48,-6
+Lille,2022_2023,67,21
+Ajaccio,2022_2023,26,-51
+Strasbourg,2022_2023,40,-8
+Lens,2023_2024,51,8
+Clermont,2023_2024,25,-34
+Marseille,2023_2024,50,11
+Nantes,2023_2024,33,-25
+Lyon,2023_2024,53,-6
+Lorient,2023_2024,29,-23
+Brest,2023_2024,61,19
+Le Havre,2023_2024,32,-11
+Rennes,2023_2024,46,7
+Nice,2023_2024,55,11
+Reims,2023_2024,47,-5
+Paris SG,2023_2024,76,48
+Montpellier,2023_2024,42,-5
+Toulouse,2023_2024,43,-4
+Metz,2023_2024,29,-23
+Monaco,2023_2024,67,26
+Lille,2023_2024,59,18
+Strasbourg,2023_2024,39,-12
+Angers,2024_2025,36,-21
+Lens,2024_2025,52,3
+Marseille,2024_2025,65,27
+Nantes,2024_2025,36,-13
+Lyon,2024_2025,57,19
+Brest,2024_2025,50,-7
+Le Havre,2024_2025,34,-31
+Rennes,2024_2025,41,1
+Nice,2024_2025,60,25
+Reims,2024_2025,33,-14
+Paris SG,2024_2025,84,57
+Auxerre,2024_2025,42,-3
+Montpellier,2024_2025,16,-56
+Toulouse,2024_2025,42,1
+Monaco,2024_2025,61,22
+St Etienne,2024_2025,30,-38
+Lille,2024_2025,60,16
+Strasbourg,2024_2025,57,12
+Lazio,2018_2019,59,10
+Torino,2018_2019,63,15
+Parma,2018_2019,41,-20
+Atalanta,2018_2019,69,31
+Inter,2018_2019,69,24
+Genoa,2018_2019,38,-18
+Milan,2018_2019,68,19
+Chievo,2018_2019,20,-50
+Spal,2018_2019,42,-12
+Roma,2018_2019,66,18
+Juventus,2018_2019,90,40
+Bologna,2018_2019,44,-8
+Sampdoria,2018_2019,53,9
+Sassuolo,2018_2019,43,-7
+Napoli,2018_2019,79,38
+Cagliari,2018_2019,41,-18
+Frosinone,2018_2019,25,-40
+Empoli,2018_2019,38,-19
+Udinese,2018_2019,43,-14
+Fiorentina,2018_2019,41,2
+Lazio,2019_2020,78,37
+Torino,2019_2020,40,-22
+Brescia,2019_2020,25,-44
+Lecce,2019_2020,35,-33
+Parma,2019_2020,49,-1
+Verona,2019_2020,49,-4
+Inter,2019_2020,82,45
+Atalanta,2019_2020,78,50
+Genoa,2019_2020,39,-26
+Milan,2019_2020,66,17
+Spal,2019_2020,20,-50
+Roma,2019_2020,70,26
+Juventus,2019_2020,83,33
+Bologna,2019_2020,47,-13
+Sampdoria,2019_2020,42,-17
+Cagliari,2019_2020,45,-4
+Sassuolo,2019_2020,51,6
+Udinese,2019_2020,45,-14
+Napoli,2019_2020,62,11
+Fiorentina,2019_2020,49,3
+Crotone,2020_2021,23,-47
+Lazio,2020_2021,68,6
+Torino,2020_2021,37,-19
+Spezia,2020_2021,39,-20
+Parma,2020_2021,20,-44
+Verona,2020_2021,43,-5
+Inter,2020_2021,91,54
+Atalanta,2020_2021,78,43
+Genoa,2020_2021,42,-11
+Milan,2020_2021,79,33
+Benevento,2020_2021,33,-35
+Roma,2020_2021,63,13
+Juventus,2020_2021,78,39
+Bologna,2020_2021,41,-14
+Sampdoria,2020_2021,52,-2
+Sassuolo,2020_2021,62,8
+Cagliari,2020_2021,37,-16
+Napoli,2020_2021,77,45
+Udinese,2020_2021,40,-16
+Fiorentina,2020_2021,40,-12
+Lazio,2021_2022,64,19
+Torino,2021_2022,50,5
+Spezia,2021_2022,36,-30
+Verona,2021_2022,53,6
+Inter,2021_2022,84,52
+Atalanta,2021_2022,59,17
+Genoa,2021_2022,28,-33
+Milan,2021_2022,86,38
+Roma,2021_2022,63,16
+Juventus,2021_2022,70,20
+Bologna,2021_2022,46,-11
+Venezia,2021_2022,27,-35
+Sampdoria,2021_2022,36,-17
+Salernitana,2021_2022,31,-45
+Cagliari,2021_2022,30,-34
+Napoli,2021_2022,79,43
+Udinese,2021_2022,47,3
+Sassuolo,2021_2022,50,-2
+Empoli,2021_2022,41,-20
+Fiorentina,2021_2022,62,8
+Lazio,2022_2023,74,30
+Torino,2022_2023,53,1
+Spezia,2022_2023,31,-31
+Lecce,2022_2023,36,-13
+Verona,2022_2023,31,-28
+Inter,2022_2023,72,29
+Atalanta,2022_2023,64,18
+Milan,2022_2023,70,21
+Cremonese,2022_2023,27,-33
+Roma,2022_2023,63,12
+Juventus,2022_2023,72,23
+Bologna,2022_2023,54,4
+Sampdoria,2022_2023,19,-47
+Monza,2022_2023,52,-4
+Salernitana,2022_2023,42,-14
+Sassuolo,2022_2023,45,-14
+Napoli,2022_2023,90,49
+Udinese,2022_2023,46,-1
+Empoli,2022_2023,43,-12
+Fiorentina,2022_2023,56,10
+Lazio,2023_2024,61,10
+Torino,2023_2024,53,0
+Lecce,2023_2024,38,-22
+Verona,2023_2024,38,-13
+Inter,2023_2024,94,67
+Atalanta,2023_2024,69,30
+Genoa,2023_2024,49,0
+Milan,2023_2024,75,27
+Roma,2023_2024,63,19
+Juventus,2023_2024,71,23
+Bologna,2023_2024,68,22
+Monza,2023_2024,45,-12
+Salernitana,2023_2024,17,-49
+Sassuolo,2023_2024,30,-32
+Frosinone,2023_2024,35,-25
+Udinese,2023_2024,37,-16
+Napoli,2023_2024,53,7
+Empoli,2023_2024,36,-25
+Cagliari,2023_2024,36,-26
+Fiorentina,2023_2024,60,15
+Lazio,2024_2025,65,12
+Torino,2024_2025,44,-6
+Lecce,2024_2025,34,-31
+Parma,2024_2025,36,-14
+Verona,2024_2025,37,-32
+Inter,2024_2025,81,44
+Atalanta,2024_2025,74,41
+Genoa,2024_2025,43,-12
+Milan,2024_2025,63,18
+Roma,2024_2025,69,21
+Juventus,2024_2025,70,23
+Bologna,2024_2025,62,10
+Venezia,2024_2025,29,-24
+Monza,2024_2025,18,-41
+Como,2024_2025,49,-3
+Cagliari,2024_2025,36,-16
+Napoli,2024_2025,82,32
+Udinese,2024_2025,44,-15
+Empoli,2024_2025,31,-26
+Fiorentina,2024_2025,65,19
+Celta,2018_2019,41,-9
+Villarreal,2018_2019,44,-3
+Alaves,2018_2019,50,-11
+Athletic Club,2018_2019,53,-4
+Real Betis,2018_2019,50,-8
+Atlético Madrid,2018_2019,76,26
+Barcelona,2018_2019,87,54
+Valencia,2018_2019,61,16
+Espanol,2018_2019,53,-2
+Getafe,2018_2019,59,13
+Eibar,2018_2019,47,-4
+Levante,2018_2019,44,-7
+Girona,2018_2019,37,-16
+Real Sociedad,2018_2019,50,-1
+Vallecano,2018_2019,32,-29
+Valladolid,2018_2019,41,-19
+Real Madrid,2018_2019,68,17
+Sevilla,2018_2019,59,15
+Leganes,2018_2019,45,-6
+Huesca,2018_2019,33,-22
+Celta,2019_2020,37,-12
+Villarreal,2019_2020,60,14
+Alaves,2019_2020,39,-25
+Athletic Club,2019_2020,51,3
+Real Betis,2019_2020,41,-12
+Atlético Madrid,2019_2020,70,24
+Granada,2019_2020,56,7
+Barcelona,2019_2020,82,48
+Valencia,2019_2020,53,-7
+Espanol,2019_2020,25,-31
+Getafe,2019_2020,54,6
+Eibar,2019_2020,42,-17
+Levante,2019_2020,49,-6
+Mallorca,2019_2020,33,-25
+Real Sociedad,2019_2020,56,8
+Valladolid,2019_2020,42,-11
+Real Madrid,2019_2020,87,45
+Sevilla,2019_2020,70,20
+Leganes,2019_2020,36,-21
+Osasuna,2019_2020,52,-8
+Celta,2020_2021,53,-2
+Villarreal,2020_2021,58,16
+Athletic Club,2020_2021,46,4
+Alaves,2020_2021,38,-21
+Real Betis,2020_2021,61,0
+Atlético Madrid,2020_2021,86,42
+Granada,2020_2021,46,-18
+Barcelona,2020_2021,79,47
+Valencia,2020_2021,43,-3
+Elche,2020_2021,36,-21
+Cadiz,2020_2021,44,-22
+Getafe,2020_2021,38,-15
+Eibar,2020_2021,30,-23
+Levante,2020_2021,41,-11
+Real Sociedad,2020_2021,62,21
+Valladolid,2020_2021,31,-23
+Real Madrid,2020_2021,84,39
+Sevilla,2020_2021,77,20
+Huesca,2020_2021,34,-19
+Osasuna,2020_2021,44,-11
+Celta,2021_2022,46,0
+Villarreal,2021_2022,59,26
+Athletic Club,2021_2022,55,7
+Alaves,2021_2022,31,-34
+Real Betis,2021_2022,65,22
+Atlético Madrid,2021_2022,71,22
+Barcelona,2021_2022,73,30
+Granada,2021_2022,38,-17
+Valencia,2021_2022,48,-5
+Elche,2021_2022,42,-12
+Espanol,2021_2022,42,-13
+Cadiz,2021_2022,39,-16
+Getafe,2021_2022,39,-8
+Levante,2021_2022,35,-25
+Mallorca,2021_2022,39,-27
+Real Sociedad,2021_2022,62,3
+Vallecano,2021_2022,42,-11
+Real Madrid,2021_2022,86,49
+Sevilla,2021_2022,70,23
+Osasuna,2021_2022,47,-14
+Celta,2022_2023,43,-10
+Villarreal,2022_2023,64,19
+Athletic Club,2022_2023,51,4
+Real Betis,2022_2023,60,5
+Atlético Madrid,2022_2023,77,37
+Barcelona,2022_2023,88,50
+Valencia,2022_2023,42,-3
+Elche,2022_2023,25,-37
+Espanol,2022_2023,37,-17
+Cadiz,2022_2023,42,-23
+Getafe,2022_2023,42,-11
+Almeria,2022_2023,41,-16
+Mallorca,2022_2023,50,-6
+Real Sociedad,2022_2023,71,16
+Girona,2022_2023,49,3
+Vallecano,2022_2023,49,-8
+Valladolid,2022_2023,40,-30
+Real Madrid,2022_2023,78,39
+Sevilla,2022_2023,49,-7
+Osasuna,2022_2023,53,-5
+Celta,2023_2024,41,-11
+Villarreal,2023_2024,53,0
+Alaves,2023_2024,46,-10
+Athletic Club,2023_2024,68,24
+Real Betis,2023_2024,57,3
+Atlético Madrid,2023_2024,76,27
+Barcelona,2023_2024,85,35
+Granada,2023_2024,21,-41
+Valencia,2023_2024,49,-5
+Getafe,2023_2024,43,-12
+Cadiz,2023_2024,33,-29
+Almeria,2023_2024,21,-32
+Mallorca,2023_2024,40,-11
+Las Palmas,2023_2024,40,-14
+Girona,2023_2024,81,39
+Real Sociedad,2023_2024,60,12
+Vallecano,2023_2024,38,-19
+Real Madrid,2023_2024,95,61
+Sevilla,2023_2024,41,-6
+Osasuna,2023_2024,45,-11
+Celta,2024_2025,55,2
+Villarreal,2024_2025,70,20
+Alaves,2024_2025,42,-10
+Athletic Club,2024_2025,70,25
+Real Betis,2024_2025,60,7
+Atlético Madrid,2024_2025,76,38
+Barcelona,2024_2025,88,63
+Valencia,2024_2025,46,-10
+Espanol,2024_2025,42,-11
+Getafe,2024_2025,42,-5
+Mallorca,2024_2025,48,-9
+Las Palmas,2024_2025,32,-21
+Real Sociedad,2024_2025,46,-11
+Girona,2024_2025,41,-16
+Vallecano,2024_2025,52,-4
+Valladolid,2024_2025,16,-64
+Real Madrid,2024_2025,84,40
+Sevilla,2024_2025,41,-13
+Leganes,2024_2025,40,-17
+Osasuna,2024_2025,52,-4
